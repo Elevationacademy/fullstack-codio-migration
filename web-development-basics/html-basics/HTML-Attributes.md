@@ -48,7 +48,7 @@ As we said some elements require specific attributes. Below is an `img` elemen
 
 Notice that this element doesn't need a closing `/img` tag - some elements are cool like this!
 If we place the above in our index.html file, then the following picture will render on the page:
-![](.guides/img/4.jpg)
+![](./img/4.jpg)
 ***
 An `a` tag is used for an anchor element. It is commonly used to create a link to another webpage. To do so you use an `href` attribute as follows:
 
