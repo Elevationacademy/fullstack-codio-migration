@@ -1,11 +1,11 @@
 # Spot Check
 
+## Exercise 1 
 
 Use the HTML below to complete the following exercises. Try not to check the solution until you've tried to solve it. Use either your text editor or [codepen](http://codepen.io/pen/) to solve these.
     
-      
-    
-<sup> Note, if you do use codepen, only grab the HTML **within** the `body` tag - codepen sets everything else up for you.
+  
+<sup> Note, if you do use codepen, only grab the HTML **within** the `body` tag - codepen sets everything else up for you.</sup>
     
 
 ```html
@@ -41,7 +41,7 @@ Use the HTML below to complete the following exercises. Try not to check the sol
       
     
 Give the body element a background color of #ddd.
-    
+        
 <details><summary>  
 Click here to reveal the answer.  
 </summary>
@@ -52,13 +52,10 @@ body {
 }
 ```
 </details>
-    
+
 ## Exercise 2
-    
-    
+
 Give the nav element a background color of rgb(51, 51, 51).
-    
-      
     
 <details><summary>  
 Click here to reveal the answer.  
@@ -73,13 +70,9 @@ nav {
 
 ## Exercise 3
     
-
-   
 Give the "hero-image" element a width of 100%.
-    
-      
-    
- <details><summary>  
+
+<details><summary>  
 Click here to reveal the answer.  
 </summary>
 
@@ -89,7 +82,7 @@ Click here to reveal the answer.
 }
 ```
 </details>
-    
+
  ## Exercise 4
 
     
