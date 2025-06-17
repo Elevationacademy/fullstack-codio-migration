@@ -1,0 +1,63 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2837435601",
+  "source": {
+   "name": "1.",
+   "showName": true,
+   "instructions": "what is going to be printed if we run ```quiz.code()``` ?\n```js\nconst quiz = {\n    code: function() {console.log(this.answers.c + ' is not the answer')},\n    answers: {\n        a: `answers`,\n        b: 'this is not the answer',\n        c: `this`,\n        d: `21`,\n        e: `both a and c`,\n        f: 'both a and d'\n    }\n}\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "3e55feb8-e6cc-ad91-50ea-24f7afef60b0",
+     "correct": false,
+     "answer": "answers"
+    },
+    {
+     "_id": "11b12ae2-5b18-2658-6e98-3e1000d6f9bd",
+     "correct": true,
+     "answer": "this is not the answer"
+    },
+    {
+     "_id": "aba3b6cd-be68-e9be-b53c-538135a9bc93",
+     "correct": false,
+     "answer": "this"
+    },
+    {
+     "_id": "4da5ebd1-3b3a-8f92-4bb5-a48fb0f1f9da",
+     "correct": false,
+     "answer": "21"
+    },
+    {
+     "_id": "e2a9b151-52a4-3ac3-fa86-8b1b39cd0984",
+     "correct": false,
+     "answer": "both a and c"
+    },
+    {
+     "_id": "aa9d01e5-b15b-623a-b58b-bacaa4e03fce",
+     "correct": false,
+     "answer": "both a and d"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]
