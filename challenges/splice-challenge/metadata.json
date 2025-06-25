@@ -1,0 +1,42 @@
+{
+ "sections": [
+  {
+   "id": "d8203742-eb19-8c02-4c2e-25a57b515ccc",
+   "title": "The Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-Challenge-d820.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a0b799ce-da7d-ee5f-15e2-1e36d02130f3",
+   "title": "Submit Your Answer",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Submit-Your-Answer-a0b7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

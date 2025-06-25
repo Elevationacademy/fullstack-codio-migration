@@ -1,0 +1,3 @@
+- Splice Challenge
+  - [The Challenge](./The-Challenge.md "The Challenge")
+  - [Submit Your Answer](./Submit-Your-Answer.md)

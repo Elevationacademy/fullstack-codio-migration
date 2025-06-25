@@ -1,0 +1,32 @@
+[
+ {
+  "type": "free-text",
+  "taskId": "free-text-4047800085",
+  "source": {
+   "name": "Iterator",
+   "showName": true,
+   "instructions": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "points": 20,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "index.js"
+    ],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

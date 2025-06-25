@@ -1,0 +1,32 @@
+[
+ {
+  "type": "free-text",
+  "taskId": "free-text-2941571925",
+  "source": {
+   "name": "Splice Challenge",
+   "showName": true,
+   "instructions": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "points": 20,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "splice.js"
+    ],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]
