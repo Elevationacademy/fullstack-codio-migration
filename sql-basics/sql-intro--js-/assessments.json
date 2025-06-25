@@ -1,0 +1,272 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1588036051",
+  "source": {
+   "name": "1",
+   "showName": false,
+   "instructions": "SQL is a DB language that is kind of like...",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "f705e424-03c9-c105-3f1d-08dc6da3833e",
+     "correct": false,
+     "answer": "JSON"
+    },
+    {
+     "_id": "bb8a1e1e-57ed-9919-9ea5-4d311c16d9a5",
+     "correct": true,
+     "answer": "Excel"
+    },
+    {
+     "_id": "43110c16-57a6-d300-e3a5-e187f1996e21",
+     "correct": false,
+     "answer": "YAML"
+    },
+    {
+     "_id": "b2f0949c-19a1-2236-09ac-29b5d8628d2a",
+     "correct": false,
+     "answer": "None of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2724816581",
+  "source": {
+   "name": "2",
+   "showName": false,
+   "instructions": "The basic CRUD operations for SQL are",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "f0ff12a7-ba3d-4c12-af59-b824e27059ff",
+     "correct": true,
+     "answer": "INSERT, SELECT, UPDATE, DELETE"
+    },
+    {
+     "_id": "a4bf810c-bf89-cda7-15cb-10d15ad3410e",
+     "correct": false,
+     "answer": "INSERT, SEARCH, UPDATE, DELETE"
+    },
+    {
+     "_id": "3d5540cb-c904-718c-0190-10af682002b1",
+     "correct": false,
+     "answer": "INSERT, SELECT, UPPEND, DELETE"
+    },
+    {
+     "_id": "47e1c4b9-7e42-c934-8402-faa841ec1608",
+     "correct": false,
+     "answer": "INSERT, SELECT, UPDATE, DEMOLISH"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1343449462",
+  "source": {
+   "name": "3",
+   "showName": false,
+   "instructions": "What's up with this query?\n\n```\nSELECT * FROM furniture WHERE price > 200;\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "07e2aee8-b82c-a29e-963e-daee81e9d6a8",
+     "correct": false,
+     "answer": "It won't work"
+    },
+    {
+     "_id": "564adb16-396d-275d-3fde-e87a8e71f7d1",
+     "correct": true,
+     "answer": "It's fine"
+    },
+    {
+     "_id": "deccc0d6-2328-c872-7094-78c1ffcccfab",
+     "correct": false,
+     "answer": "It must use aliases"
+    },
+    {
+     "_id": "b3987947-681a-e101-397c-b8c497fd77e5",
+     "correct": false,
+     "answer": "A & C"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4186760717",
+  "source": {
+   "name": "4",
+   "showName": false,
+   "instructions": "Assuming we create our table like so (see below), is the following query ok?\n\n```\nCREATE TABLE Dog(                \nid INT NOT NULL AUTO_INCREMENT PRIMARY KEY,                \nname VARCHAR(50),                \ncolor VARCHAR(50)            \n)\n\nINSERT INTO Dog VALUES(\"Snoopy\", \"White\");\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "e575f953-8379-aaab-6a61-fdd5e5f44c53",
+     "correct": false,
+     "answer": "Yes"
+    },
+    {
+     "_id": "29b6fe40-b0e3-3e09-5ba5-7239027c7af5",
+     "correct": false,
+     "answer": "No, you need to insert an `id`"
+    },
+    {
+     "_id": "c567c010-86ca-2d7d-6739-aa80e3df425d",
+     "correct": false,
+     "answer": "No, you need a placeholder for the `id`"
+    },
+    {
+     "_id": "51dd582b-fd6f-88fe-aa5a-b8096e911097",
+     "correct": false,
+     "answer": "No, you need to specify the column names"
+    },
+    {
+     "_id": "9b7c31c6-9679-d4aa-e68f-53cc80dd99cf",
+     "correct": true,
+     "answer": "B or D"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-450935460",
+  "source": {
+   "name": "5",
+   "showName": false,
+   "instructions": "A Primary Key (PK) is",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "f95dab0f-6f2a-4733-04c9-44e793327f12",
+     "correct": false,
+     "answer": "Always optional"
+    },
+    {
+     "_id": "2229f321-fa0a-4fff-b355-a17e2bc64562",
+     "correct": false,
+     "answer": "Always required"
+    },
+    {
+     "_id": "973bac67-5f1e-4efd-71f9-c68a1727d7ea",
+     "correct": false,
+     "answer": "Sometimes required"
+    },
+    {
+     "_id": "aa31ebd2-08a1-68ac-b2c0-bd38f8fc68db",
+     "correct": false,
+     "answer": "Highly recommended"
+    },
+    {
+     "_id": "4d39ed56-9092-9c43-5bd1-3a786483910d",
+     "correct": false,
+     "answer": "None of the above"
+    },
+    {
+     "_id": "4aa5f110-35ce-0c49-3619-ae9cfe436da8",
+     "correct": true,
+     "answer": "Highly recommended and sometimes required"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

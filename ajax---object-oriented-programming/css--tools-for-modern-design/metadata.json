@@ -1,0 +1,82 @@
+{
+ "sections": [
+  {
+   "id": "03d3db28-6567-6813-e9ba-c1e697fa7f8f",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-03d3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4495682e-bcac-c4e4-1433-dd3251c402b7",
+   "title": "Icons",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Icons-4495.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "bdaf981d-4197-abb2-87cb-ee1d25f687fc",
+   "title": "Colors",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Colors-bdaf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "cf7606dc-a29a-81da-567f-1ad8d53437a8",
+   "title": "Fonts",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Fonts-cf76.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3403d256-6069-248d-f26f-7e6cee907e64",
+   "title": "Design Tips",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Design-Tips-3403.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

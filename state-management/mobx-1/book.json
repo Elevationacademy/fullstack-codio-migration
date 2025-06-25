@@ -1,0 +1,89 @@
+{
+ "name": "Mobx I",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "15d728e8-9bc8-5b7e-b20c-75a295cfec5a",
+   "pageId": "15d728e8-9bc8-5b7e-b20c-75a295cfec5a",
+   "type": "page"
+  },
+  {
+   "id": "ccd8dc48-7faa-9a2f-9065-4877e40d9319",
+   "title": "Installation",
+   "pageId": "a8c57dbb-0488-63ab-889e-25eed5b4a4d0",
+   "type": "page"
+  },
+  {
+   "title": "Decorators",
+   "id": "4c7212a9-b498-c2ae-f30c-0956d4bc7f3f",
+   "pageId": "4c7212a9-b498-c2ae-f30c-0956d4bc7f3f",
+   "type": "page"
+  },
+  {
+   "id": "7a1f698f-2be0-3b3f-49d9-c18dad867f7f",
+   "title": "Intro to MobX",
+   "pageId": "bd4f1291-0215-0af0-14b3-8453c1e67cf8",
+   "type": "page"
+  },
+  {
+   "id": "ebe7ef96-1fa7-ce71-a69d-fdc4416f46bb",
+   "title": "State Managers & Data Flow",
+   "pageId": "baf1f341-9214-f5f9-1580-128041131c30",
+   "type": "page"
+  },
+  {
+   "id": "d7b6ab6f-336d-b54d-a326-b24bba7b1d04",
+   "title": "Creating a Store & Observables",
+   "pageId": "fa71d5c7-bbdf-c094-ebec-6ecb8795b8f2",
+   "type": "page"
+  },
+  {
+   "id": "1926c9e8-5711-742e-7b43-0aca0e7692f6",
+   "title": "Spot Check 1",
+   "pageId": "6a860d7c-08fe-4794-fce7-b309cdadd0ac",
+   "type": "page"
+  },
+  {
+   "id": "25e574ff-00bd-08db-1d11-452cc56d53bd",
+   "title": "Observer",
+   "pageId": "27370528-045d-0135-3bd4-742679e13a4e",
+   "type": "page"
+  },
+  {
+   "id": "a3a09c82-0469-5567-801f-94877facce39",
+   "title": "Adding a Store to Your App",
+   "pageId": "c06ba226-0b0f-ffec-5526-f4bfb0227c9b",
+   "type": "page"
+  },
+  {
+   "id": "1ba83d73-82e9-3921-91ef-ba084c0bb847",
+   "title": "Spot Check 2",
+   "pageId": "4821275c-cbb8-1243-29f6-d0fa06847498",
+   "type": "page"
+  },
+  {
+   "id": "bac7917f-9dda-7501-568c-5b4180a40073",
+   "title": "Spot Check 3",
+   "pageId": "8057abb9-45c7-47c6-8241-c5ad6be8ef34",
+   "type": "page"
+  },
+  {
+   "id": "fffe3e4c-60ed-9910-0acc-b585f8b98971",
+   "title": "Actions",
+   "pageId": "640e9e72-d69f-231a-4c06-54dae0bdd555",
+   "type": "page"
+  },
+  {
+   "id": "06f1862f-c360-79dc-3fee-34d20c62369a",
+   "title": "Summary",
+   "pageId": "da3a8714-9a7f-1e51-a420-8d0b5c80d774",
+   "type": "page"
+  },
+  {
+   "id": "c1217b6a-f129-0f33-2f2f-9fdacea8dbb9",
+   "title": "Exercises",
+   "pageId": "5b9dbceb-6e75-fef2-c954-d17bda113ce8",
+   "type": "page"
+  }
+ ]
+}

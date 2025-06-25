@@ -1,0 +1,178 @@
+{
+ "sections": [
+  {
+   "id": "2dbc7fd6-51c3-9813-b6d0-390af40372e7",
+   "title": "Overview",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Overview-2dbc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "571e62cf-fd95-a77b-f7e6-5056a1b37f70",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-571e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4b77da9d-1e27-da02-9cbc-003d1f6ecfff",
+   "title": "Spot Check 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-1-4b77.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b58a7cd7-6381-f904-d770-7b24398f6bd1",
+   "title": "Building A Matrix",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Building-A-Matrix-b58a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5cf46a74-2839-fc5c-b9e1-f102e0be72ad",
+   "title": "Accessing Matrix Items",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Accessing-Matrix-Items-5cf4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "007af61e-5775-11d1-8335-cc04d330238b",
+   "title": "Spot Checks 2, 3 & 4",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Checks-2--3---4-007a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "88bcda63-c94e-05a0-4968-c534599ae912",
+   "title": "Coordinates",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Coordinates-88bc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "fdde467e-e3e0-b8f3-bd1a-56b84d1dc893",
+   "title": "Spot Check 5",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-5-fdde.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "880ecf7a-91b7-697e-dddf-e0223c5c3bfd",
+   "title": "Modifying Values",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Modifying-Values-880e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d33a2758-012d-0890-99ca-aa066029c8d8",
+   "title": "Spot Check 6",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-6-d33a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "255d79fa-1903-003a-cb9f-b72b51377e4f",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-255d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "19fe0317-9d93-ee0c-b2da-ebe4a78c9877",
+   "title": "Extensions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Extensions-19fe.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b5d866f8-3a52-12fb-a82d-b9f9f31086d7",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-b5d8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

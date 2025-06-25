@@ -1,0 +1,47 @@
+{
+ "name": "Pomodoro Project (Optional)",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "9cab8152-75b0-1ebc-c4bd-705dcb0709ad",
+   "pageId": "9cab8152-75b0-1ebc-c4bd-705dcb0709ad",
+   "type": "page"
+  },
+  {
+   "title": "Pomodoro",
+   "id": "97d8f56f-ea1f-7f3e-7542-55de08ab2404",
+   "pageId": "97d8f56f-ea1f-7f3e-7542-55de08ab2404",
+   "type": "page"
+  },
+  {
+   "id": "f0b683c6-0106-4028-1449-5f31359aef97",
+   "title": "Setup",
+   "pageId": "9a52f5c6-11c6-6421-9979-291e181e80ed",
+   "type": "page"
+  },
+  {
+   "id": "ae342ee3-062e-aaf2-d183-a7d74dedd82b",
+   "title": "Components",
+   "pageId": "8372bad0-9375-3514-b5b7-55465d10f41c",
+   "type": "page"
+  },
+  {
+   "id": "7a25b759-b6f3-8105-c4ce-188707b12608",
+   "title": "To Do",
+   "pageId": "ce605eb4-19ed-9759-a0ea-1ea5be8126c6",
+   "type": "page"
+  },
+  {
+   "id": "1d3a1b2b-8c5f-2aab-23d0-774384e2a5a5",
+   "title": "Styling",
+   "pageId": "3f7c5560-334f-eff9-94bd-eef74a8fee8c",
+   "type": "page"
+  },
+  {
+   "id": "0da3c01b-367f-21d0-c450-c55bb1256955",
+   "title": "Extension",
+   "pageId": "5d1989f7-31ab-aeac-e454-c872f645aef8",
+   "type": "page"
+  }
+ ]
+}

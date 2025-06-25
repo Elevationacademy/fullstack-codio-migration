@@ -1,0 +1,17 @@
+{
+ "name": "jQuery - Solutions",
+ "children": [
+  {
+   "title": "Solutions",
+   "id": "c3b0cccd-93d4-5441-94a8-325f26aeaf05",
+   "pageId": "c3b0cccd-93d4-5441-94a8-325f26aeaf05",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "d59e9b92-f450-9ee3-2c48-8f8aa9fe43f7",
+   "pageId": "d59e9b92-f450-9ee3-2c48-8f8aa9fe43f7",
+   "type": "page"
+  }
+ ]
+}

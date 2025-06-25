@@ -1,0 +1,404 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-421381333",
+  "source": {
+   "name": "Singleton 1",
+   "showName": true,
+   "instructions": "Singleton is best used for...",
+   "multipleResponse": true,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "3321532f-46f4-7a62-76dd-7dfdc427e557",
+     "correct": true,
+     "answer": "Forcing a class to be single-instance."
+    },
+    {
+     "_id": "27fd336e-9973-1d64-7c8b-de0075fe6fbf",
+     "correct": false,
+     "answer": "Creating static objects."
+    },
+    {
+     "_id": "b5e5ecbf-a8a0-08cf-cbcc-3e33ecfdefd3",
+     "correct": true,
+     "answer": "Having an instance be globally accessible."
+    },
+    {
+     "_id": "03e9d484-b768-3e30-7686-3b9d7e595e97",
+     "correct": false,
+     "answer": "Having a thread-safe resource."
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2428388989",
+  "source": {
+   "name": "Singleton 2",
+   "showName": true,
+   "instructions": "True or False - a singleton class is harder to test.",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "c13333f0-0d33-86d0-51ca-e5fabf95182f",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "75cb1cee-0e37-2c5d-95dd-942a499c8ea6",
+     "correct": false,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3630859216",
+  "source": {
+   "name": "Singleton 3",
+   "showName": true,
+   "instructions": "Why do we have to implement a private constructor for a singleton class?",
+   "multipleResponse": true,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "600b0c90-706f-3360-f5b0-565fe251515c",
+     "correct": true,
+     "answer": "To make sure only one instance is created."
+    },
+    {
+     "_id": "d077e4a7-37ae-91cc-ef4f-bc6959dfeeab",
+     "correct": true,
+     "answer": "To avoid having a default public constructor."
+    },
+    {
+     "_id": "6ed085a5-e8fb-8ac3-84af-2de3e12dcce7",
+     "correct": false,
+     "answer": "To make our instance globally accessible."
+    },
+    {
+     "_id": "454749aa-9fc0-cd4a-8a91-10d777382327",
+     "correct": false,
+     "answer": "To avoid creating a static constructor."
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2223694590",
+  "source": {
+   "name": "Builder 1",
+   "showName": true,
+   "instructions": "What should be the access level of the constructor?\n```\nxxxxx ThisClass(Builder builder)\n```",
+   "multipleResponse": false,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "c01af716-bc9f-94d5-8ba1-8e164917d6dc",
+     "correct": false,
+     "answer": "Public"
+    },
+    {
+     "_id": "f4077001-25f6-6cba-6192-8906d88b0949",
+     "correct": true,
+     "answer": "Private"
+    },
+    {
+     "_id": "509cb67e-d46e-b38e-c52d-108b2ad591a6",
+     "correct": false,
+     "answer": "Package private"
+    },
+    {
+     "_id": "db1ba455-0919-41f8-6e44-b7a2d066765c",
+     "correct": false,
+     "answer": "Protected"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-255488453",
+  "source": {
+   "name": "Builder 2",
+   "showName": true,
+   "instructions": "Which parameters does the builder constructor take?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "f1a5a93a-a82a-c51a-0aac-c5756676ec67",
+     "correct": false,
+     "answer": "All the class parameters."
+    },
+    {
+     "_id": "f3003d7e-9153-f456-dbad-f5312eaed307",
+     "correct": true,
+     "answer": "Required parameters only."
+    },
+    {
+     "_id": "e95cb83e-4a80-0efc-34bf-befc8b1d8c6b",
+     "correct": false,
+     "answer": "Same as the class constructor."
+    },
+    {
+     "_id": "5a3e0e67-2b6c-068c-161d-29099cec39f7",
+     "correct": false,
+     "answer": "None."
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3385413432",
+  "source": {
+   "name": "Builder 3",
+   "showName": true,
+   "instructions": "A builder is..",
+   "multipleResponse": true,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "dc5e1d7b-f7a6-0ec8-6839-f2dd671ced09",
+     "correct": true,
+     "answer": "A internal class."
+    },
+    {
+     "_id": "5c02c332-a492-acf0-55f6-e0c0328e3e39",
+     "correct": true,
+     "answer": "A design pattern."
+    },
+    {
+     "_id": "ff19654c-548f-afa3-1da9-2542686eac8d",
+     "correct": false,
+     "answer": "A java library."
+    },
+    {
+     "_id": "8462e186-16a3-b6e2-3f05-46e14f46e8c4",
+     "correct": true,
+     "answer": "A static class."
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1431028563",
+  "source": {
+   "name": "Factory 1",
+   "showName": true,
+   "instructions": "True or False - The factory method pattern can be implemented using both an interface and an abstract class.",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "76898550-73d6-b7f8-32da-63f05b32ec65",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "74854d0b-7692-a867-17ad-67d020046ea7",
+     "correct": false,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2958696429",
+  "source": {
+   "name": "Factory 2",
+   "showName": true,
+   "instructions": "True or False - The factory pattern supports interface based programming.",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "c8026c19-ae81-97e7-96b6-c5d9a9d6e800",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "7655d92c-30a7-b828-b0d9-0d8d1eef7388",
+     "correct": false,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

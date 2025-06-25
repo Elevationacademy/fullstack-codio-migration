@@ -1,0 +1,29 @@
+{
+ "sections": [
+  {
+   "id": "08ea539d-b032-9274-44c3-dad368258c3d",
+   "title": "Links",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Links-08ea.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

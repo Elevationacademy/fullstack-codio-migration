@@ -1,0 +1,9 @@
+- Creational Patterns
+  - [Intro](./Intro.md "Intro")
+  - [Singleton](./Singleton.md "Singleton")
+  - [Spot Check](./Spot-Check.md "Spot Check")
+  - [Builder](./Builder.md "Builder")
+  - [Factory Method](./Factory-Method.md "Factory Method")
+  - [Comprehension Check](./Comprehension-Check.md "Comprehension Check")
+  - [Exercise](./Exercise.md "Exercise")
+  - [Exercise 2](./Exercise-2.md "Exercise 2")

@@ -1,0 +1,206 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1826949065",
+  "source": {
+   "name": "1.",
+   "showName": true,
+   "instructions": "OOP is a natural extension of...",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "bb583a19-ada6-0061-181a-a772b61c8a08",
+     "correct": false,
+     "answer": "Closures"
+    },
+    {
+     "_id": "03ecb157-4e27-16d1-542f-3983b43e9cdb",
+     "correct": false,
+     "answer": "Callback functions"
+    },
+    {
+     "_id": "36c02360-367b-838f-91a8-079d04b37448",
+     "correct": true,
+     "answer": "Modules"
+    },
+    {
+     "_id": "de527da7-66b5-ec5d-9420-66e45cf83cd0",
+     "correct": false,
+     "answer": "JSON"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2369575490",
+  "source": {
+   "name": "2.",
+   "showName": true,
+   "instructions": "Does a class constructor ever get invoked?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "26b3d4e4-0cef-f43e-1b2f-fb367731518a",
+     "correct": true,
+     "answer": "Yes, the `new` keyword precedes its invocation"
+    },
+    {
+     "_id": "2e67ee2f-992b-7b88-e89e-6833a1870413",
+     "correct": false,
+     "answer": "Yes, as soon as we access a property of a class' instance"
+    },
+    {
+     "_id": "5e9cc774-383a-15b3-71e3-072ebf6dfcba",
+     "correct": false,
+     "answer": "No, the values automatically get attached to the instance"
+    },
+    {
+     "_id": "35d51fe9-867c-994a-596f-5fd6168c537a",
+     "correct": false,
+     "answer": "Only when we use `super`"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3324669649",
+  "source": {
+   "name": "3.",
+   "showName": true,
+   "instructions": "What is an instance?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "882b312f-8a7d-fa78-454a-0cfce6f8a525",
+     "correct": true,
+     "answer": "A concrete manifestation of a class"
+    },
+    {
+     "_id": "2951c953-cee3-6e53-cd40-e236b3c50e69",
+     "correct": false,
+     "answer": "A plain JS object"
+    },
+    {
+     "_id": "08540b8e-51ed-3fd8-581f-8e0bbc129083",
+     "correct": false,
+     "answer": "A module"
+    },
+    {
+     "_id": "da8cc18f-adbe-c04c-c4b2-1f2241f7ee2c",
+     "correct": false,
+     "answer": "All of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4168634919",
+  "source": {
+   "name": "4.",
+   "showName": true,
+   "instructions": "What does the following code do?\n\n```js\nclass Trip{\n    constructor(destination, date){\n        this.dest = destination\n        this.date = date\n        this.plan = []\n    }\n}\n\nlet t = Trip(\"Guadalupe\", new Date())\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "5a06a103-b2e0-0cb4-c704-fea7bf435353",
+     "correct": false,
+     "answer": "Nothing"
+    },
+    {
+     "_id": "73358082-30a3-406e-2473-a13807eb6caa",
+     "correct": true,
+     "answer": "Throws an error"
+    },
+    {
+     "_id": "73136f9a-5e57-aa4f-1325-a4285a4b63b8",
+     "correct": false,
+     "answer": "Creates an instance of Trip, and stores it in `t`"
+    },
+    {
+     "_id": "0b5fe019-4b63-7a98-a088-81f7678f9567",
+     "correct": false,
+     "answer": "c, but the value of `this.plan` will be `undefined` because we don't pass it in the constructor"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

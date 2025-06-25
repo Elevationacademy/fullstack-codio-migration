@@ -1,0 +1,81 @@
+{
+ "sections": [
+  {
+   "id": "cfdbca13-dc0f-d92e-2a7c-d3829bc21570",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-cfdb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0b88440f-22de-e9d8-b2d5-d17007864461",
+   "title": "Storing an authentication token in a cookie",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Storing-an-authentication-token-in-a-cookie-0b88.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "331b97d2-f039-85c3-d722-09491afcc57d",
+   "title": "Authentication",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Authentication-331b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b4216ace-0f81-1ff0-2050-412979b6c472",
+   "title": "Exercise",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercise-b421.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d70ef876-96e4-e380-1b4a-d66918c5c366",
+   "title": "Comprehension check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-check-d70e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

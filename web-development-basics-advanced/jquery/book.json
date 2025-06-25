@@ -1,0 +1,167 @@
+{
+ "name": "jQuery",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "e64ec842-b663-f474-a83e-8f2e8d99a411",
+   "pageId": "e64ec842-b663-f474-a83e-8f2e8d99a411",
+   "type": "page"
+  },
+  {
+   "title": "Setup",
+   "id": "c40bdd1e-d3dd-e15c-4e5f-1b38e62a3af7",
+   "pageId": "c40bdd1e-d3dd-e15c-4e5f-1b38e62a3af7",
+   "type": "page"
+  },
+  {
+   "id": "e3fc60f0-e04c-373e-3fb7-8b630e132579",
+   "title": "Selecting Elements",
+   "pageId": "9ed4a467-a213-7856-ac83-f38749201bf0",
+   "type": "page"
+  },
+  {
+   "id": "38818a46-37d7-5e63-5df7-2d696bac5cc7",
+   "title": "Spot Check 1",
+   "pageId": "c8daa136-7614-f84e-128e-5cb8c901793c",
+   "type": "page"
+  },
+  {
+   "id": "72da011e-e4ae-d1aa-aa76-3c143325bb8d",
+   "title": "What is $?",
+   "pageId": "b6ca3be0-696d-2bb2-baa2-ecbc4bacbe01",
+   "type": "page"
+  },
+  {
+   "id": "e71b2db1-8285-dd8f-41aa-3e4472419728",
+   "title": "Methods",
+   "pageId": "0893ac84-13a3-4980-f494-bffd3a07e65c",
+   "type": "page"
+  },
+  {
+   "id": "660096f9-5bb6-cc29-01cc-1d746f2d0a29",
+   "title": "Spot Check 2",
+   "pageId": "25d92157-54d6-7ccd-7edd-0d43d200956f",
+   "type": "page"
+  },
+  {
+   "id": "0bac8463-4841-550f-6d3c-56f5eb622b80",
+   "title": "Spot Check 3",
+   "pageId": "381ebf07-6692-b8ac-1ab0-caa55351499a",
+   "type": "page"
+  },
+  {
+   "id": "0e76a48c-cf85-f9a9-c954-1aecfa842625",
+   "title": "Getting User Input - val()",
+   "pageId": "4fb34777-1a03-f0d2-4297-a25e9633a1e3",
+   "type": "page"
+  },
+  {
+   "id": "6914a1b8-0dc4-2e14-e71a-8b8de325d17b",
+   "title": "Spot Check 4",
+   "pageId": "966be820-6438-9f34-12ba-6196806e788e",
+   "type": "page"
+  },
+  {
+   "id": "fdd174cf-579d-3a5d-f2d9-b8225c34e4ed",
+   "title": "Getting Data Attributes - data()",
+   "pageId": "76e45418-83f2-3d6f-cbc3-f663724d1817",
+   "type": "page"
+  },
+  {
+   "id": "7873c47e-1f5a-3a16-81fa-3488dbab26f0",
+   "title": "Spot Check 5",
+   "pageId": "cbbb84bb-dd49-a3c3-a3d4-7d8635cb340d",
+   "type": "page"
+  },
+  {
+   "id": "db84e0f6-a174-ac90-b5e7-76efb849e06b",
+   "title": "Events",
+   "pageId": "5c92136b-85e6-0da1-4863-08f235e02183",
+   "type": "page"
+  },
+  {
+   "id": "a1ea99e8-33a8-a9cf-4f3f-0985969faad7",
+   "title": "Spot Check 6",
+   "pageId": "fef7e227-ec5e-6971-62da-c04a83558755",
+   "type": "page"
+  },
+  {
+   "id": "5359c75a-f0b0-0dba-39d9-60d9725c7d52",
+   "title": "Spot Check 7",
+   "pageId": "be6275ea-6de9-abf5-05cb-f02f7a2ca1d8",
+   "type": "page"
+  },
+  {
+   "id": "778f12a0-c3cc-8671-516a-abe0f4df43fa",
+   "title": "this",
+   "pageId": "c19bd9f7-0c71-9065-f22b-b4713aba9755",
+   "type": "page"
+  },
+  {
+   "id": "b6bf7c37-efd0-4537-a017-342005b23f37",
+   "title": "Spot Check 8",
+   "pageId": "c56970a4-9f4e-83a9-6def-98b3613b21ac",
+   "type": "page"
+  },
+  {
+   "id": "6ae8cb7f-2d41-a4b7-3d77-9bcab0e889d8",
+   "title": "Creating & Adding/Removing",
+   "pageId": "1f9488ba-a551-1686-714e-bd18d26d4faa",
+   "type": "page"
+  },
+  {
+   "id": "667359b8-6596-58fa-be0e-cea81fe6e7ad",
+   "title": "Spot Check 9",
+   "pageId": "0c631f72-985d-5023-603b-a86e7e31c704",
+   "type": "page"
+  },
+  {
+   "id": "ff7c8541-1a08-e569-c9b1-4d04c8283daa",
+   "title": "Spot Check 10",
+   "pageId": "6a720689-9fb7-9559-799b-f1fe7294ee65",
+   "type": "page"
+  },
+  {
+   "id": "37c3725a-9362-a695-e013-782ae8dec79a",
+   "title": "Removing",
+   "pageId": "86a3cb32-aa12-289d-ecde-7ee2ab6612a8",
+   "type": "page"
+  },
+  {
+   "id": "ffa22a79-2166-3298-b665-237ec272c752",
+   "title": "Spot Check 11",
+   "pageId": "a7e0cca3-fa5d-f326-260e-ed345e118c70",
+   "type": "page"
+  },
+  {
+   "id": "cd838dd6-395d-e04e-f7f6-42b0fb7b1da0",
+   "title": "Spot Check 12",
+   "pageId": "ef6b95b0-b42a-3d8d-0e9e-582410f0fe5d",
+   "type": "page"
+  },
+  {
+   "id": "ef09fff4-83a6-14f7-5a96-727c604a0945",
+   "title": "Dynamic Event Listeners",
+   "pageId": "e21d42bb-3888-cbe1-b659-0726450820a9",
+   "type": "page"
+  },
+  {
+   "id": "061429a6-1584-1187-8089-1eedfe1199b1",
+   "title": "Spot Check 13",
+   "pageId": "95465297-7e3a-7600-9085-ac5e02864757",
+   "type": "page"
+  },
+  {
+   "id": "1be7cfb3-e170-2713-0625-c5dc289b5510",
+   "title": "Exercises",
+   "pageId": "4697db05-49e1-3559-1c3c-2148c4202e11",
+   "type": "page"
+  },
+  {
+   "id": "baaab3ba-3565-4644-8f5b-3037381000dc",
+   "title": "Comprehension Check",
+   "pageId": "77604866-2883-16ed-5fbd-bef3a1879469",
+   "type": "page"
+  }
+ ]
+}

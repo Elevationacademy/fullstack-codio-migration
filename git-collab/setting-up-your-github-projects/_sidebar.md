@@ -1,0 +1,6 @@
+- Setting Up Your Github Projects
+  - [Intro](./Intro.md "Intro")
+  - [Project Details](./Project-Details.md "Project Details")
+  - [README File](./README-File.md "README File")
+  - [Profile](./Profile.md "Profile")
+  - [Now You](./Now-You.md "Now You")

@@ -1,0 +1,118 @@
+{
+ "sections": [
+  {
+   "id": "2b75ecd3-1feb-d7cc-d91a-ff19ad33825b",
+   "title": "Variables Overview",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Variables-Overview-2b75.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "aa8841c2-6fd4-e8fa-8467-bc091008ec37",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-aa88.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "60af27c1-ed0c-b8d3-13af-662c1c61f142",
+   "title": "Spot Check 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-1-60af.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "fd320030-ce56-ecb6-411a-c2da0832e9e8",
+   "title": "Animations Overview",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Animations-Overview-fd32.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4a49ca56-fa72-01ca-3f41-028b12d05df4",
+   "title": "Animations",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Animations-4a49.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ce579096-048a-9bcc-aa00-eb2b707b7d04",
+   "title": "Spot Check 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-2-ce57.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9ca46526-4e99-1e94-f889-6114731ebfa1",
+   "title": "Animations II",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Animations-II-9ca4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7ed95f08-b7cc-4298-cc48-ebc72ca3063a",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-7ed9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

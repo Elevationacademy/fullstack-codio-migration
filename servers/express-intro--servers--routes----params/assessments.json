@@ -1,0 +1,155 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-827481680",
+  "source": {
+   "name": "1.",
+   "showName": false,
+   "instructions": "How can we access the `email` parameter in the following code?\n\n```\napp.get('/user/:email', function(req, res) {\n  ...\n})\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "d45f6126-8c1e-1b4f-7220-549a91324ebe",
+     "correct": false,
+     "answer": "req.email"
+    },
+    {
+     "_id": "34235a54-9f75-6a98-63db-272199593df2",
+     "correct": true,
+     "answer": "req.params.email"
+    },
+    {
+     "_id": "b3d6d428-009a-a53a-f7d1-797acc073388",
+     "correct": false,
+     "answer": "req.parameter.email"
+    },
+    {
+     "_id": "4e4b7e3c-06ca-4fc6-1080-b390eab0d6d6",
+     "correct": false,
+     "answer": "user.email"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1650712818",
+  "source": {
+   "name": "2.",
+   "showName": false,
+   "instructions": "What does the following line of code do?\n```\napp.use(express.static(path.join(__dirname, 'dist')))\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "e2603ad7-908a-1993-a849-59d99f785a71",
+     "correct": true,
+     "answer": "It serves our 'dist' folder"
+    },
+    {
+     "_id": "689764b9-4caf-aaa0-e527-60d10fe86719",
+     "correct": false,
+     "answer": "It hosts our dist folder"
+    },
+    {
+     "_id": "4f964e48-7b66-86f1-654f-b318df056eed",
+     "correct": false,
+     "answer": "It only combines our current directory name with the string \"dist\""
+    },
+    {
+     "_id": "9912f2ba-3d83-d8fe-cb40-b3e305d4d990",
+     "correct": false,
+     "answer": "Creates a new port for our server"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3465743900",
+  "source": {
+   "name": "3.",
+   "showName": false,
+   "instructions": "What is Express?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "4e9322fe-c0ab-7aff-6cf7-4328b193685c",
+     "correct": true,
+     "answer": "An NPM package that allows us to create servers"
+    },
+    {
+     "_id": "eeb437f9-1df6-3d36-dc6f-ff20dc5c203e",
+     "correct": false,
+     "answer": "An NPM package that allows multiple clients to communicate directly"
+    },
+    {
+     "_id": "506b178d-8b59-6ea3-7cc3-646a3363d514",
+     "correct": false,
+     "answer": "It is the global server that localhost connects to"
+    },
+    {
+     "_id": "099dd025-1e5a-072f-9f4d-462efab2fddd",
+     "correct": false,
+     "answer": "It is just another name for localhost"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

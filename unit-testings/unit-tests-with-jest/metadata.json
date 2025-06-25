@@ -1,0 +1,118 @@
+{
+ "sections": [
+  {
+   "id": "3ff938be-bf09-ea3d-944a-c0b4400bad2e",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-3ff9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c36ca1ad-0730-8531-9b7b-6ea6c9d8d4bc",
+   "title": "Unit Testing & Jest Setup",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Unit-Testing---Jest-Setup-c36c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a0af2d50-dc5f-1c0a-eb4a-84c309f6439c",
+   "title": "Basic Test",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Basic-Test-a0af.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e2fc5381-5add-a590-b761-7c71c2534387",
+   "title": "Matchers",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Matchers-e2fc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "90802fbd-6a42-9d86-a322-5eb407dab2af",
+   "title": "Testing with Classes",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Testing-with-Classes-9080.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4e9b4670-3be9-4dc5-6859-d27b29333c63",
+   "title": "Test Driven Development (TDD)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Test-Driven-Development--TDD--4e9b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "91e2fa92-57ec-1ad0-ec09-b8a050faec69",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-91e2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "71a2a3d7-8f0f-61b2-71d2-ef8bd03b4523",
+   "title": "expect(done) .toBeTruthy( )",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/expect-done---toBeTruthy----71a2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

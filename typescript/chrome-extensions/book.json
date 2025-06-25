@@ -1,0 +1,35 @@
+{
+ "name": "Chrome Extensions",
+ "children": [
+  {
+   "title": "What is a Google Chrome Extension? ",
+   "id": "294324ae-bfb8-8e34-c446-f578dfc4398e",
+   "pageId": "294324ae-bfb8-8e34-c446-f578dfc4398e",
+   "type": "page"
+  },
+  {
+   "title": "Examples of the type of functionality that a Google Chrome extension can add to Chrome ",
+   "id": "b89f1d06-2902-d7b3-4e21-188922f25f2d",
+   "pageId": "b89f1d06-2902-d7b3-4e21-188922f25f2d",
+   "type": "page"
+  },
+  {
+   "id": "72cb6036-2094-5270-76e2-a7d0dc199c75",
+   "title": "How to install and use new Extensions",
+   "pageId": "38bdc468-18cb-d9f0-8690-8cec684471ba",
+   "type": "page"
+  },
+  {
+   "id": "e7812453-b11e-d48e-f624-fa152829045a",
+   "title": "How to Create an Extension",
+   "pageId": "833cdc22-ad3a-e868-081d-16b8a9e9ecc6",
+   "type": "page"
+  },
+  {
+   "id": "fc19bf19-4cdb-6835-587d-1a50169446c6",
+   "title": "Home Work",
+   "pageId": "64f1ff88-4f04-2f81-beef-8a6eb1b0ffbf",
+   "type": "page"
+  }
+ ]
+}

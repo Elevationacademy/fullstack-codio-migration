@@ -1,0 +1,5 @@
+- Mysql Setup
+  - [Intro](./Intro.md "Intro")
+  - [Download, Install, and Run MySQL](./Download--Install--and-Run-MySQL.md "Download, Install, and Run MySQL")
+  - [VS Code Setup](./VS-Code-Setup.md "VS Code Setup")
+  - [First Table Validation](./First-Table-Validation.md "First Table Validation")

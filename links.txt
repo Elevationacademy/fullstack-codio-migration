@@ -1,0 +1,1087 @@
+# admin/readme.tar.zst
+http://localhost:3000/#/admin/readme/Page-1.md
+http://localhost:3000/#/admin/readme/Page-2.md
+
+# ajax---object-oriented-programming/css--tools-for-modern-design.tar.zst
+http://localhost:3000/#/ajax---object-oriented-programming/css--tools-for-modern-design/Intro.md
+http://localhost:3000/#/ajax---object-oriented-programming/css--tools-for-modern-design/Icons.md
+http://localhost:3000/#/ajax---object-oriented-programming/css--tools-for-modern-design/Colors.md
+http://localhost:3000/#/ajax---object-oriented-programming/css--tools-for-modern-design/Fonts.md
+http://localhost:3000/#/ajax---object-oriented-programming/css--tools-for-modern-design/Design-Tips.md
+
+# ajax---object-oriented-programming/css--tools-for-responsive-design.tar.zst
+http://localhost:3000/#/ajax---object-oriented-programming/css--tools-for-responsive-design/Intro.md
+http://localhost:3000/#/ajax---object-oriented-programming/css--tools-for-responsive-design/Max-Min-Width-Height.md
+http://localhost:3000/#/ajax---object-oriented-programming/css--tools-for-responsive-design/Flexible-Units.md
+http://localhost:3000/#/ajax---object-oriented-programming/css--tools-for-responsive-design/Media-Queries.md
+http://localhost:3000/#/ajax---object-oriented-programming/css--tools-for-responsive-design/Spot-Check.md
+http://localhost:3000/#/ajax---object-oriented-programming/css--tools-for-responsive-design/Emulation-Devices-on-Chrome.md
+http://localhost:3000/#/ajax---object-oriented-programming/css--tools-for-responsive-design/Comprehension-Check.md
+
+# ajax---object-oriented-programming/es6-array-methods.tar.zst
+http://localhost:3000/#/ajax---object-oriented-programming/es6-array-methods/Array-Methods-Video.md
+http://localhost:3000/#/ajax---object-oriented-programming/es6-array-methods/Intro.md
+http://localhost:3000/#/ajax---object-oriented-programming/es6-array-methods/-filter--.md
+http://localhost:3000/#/ajax---object-oriented-programming/es6-array-methods/-forEach--.md
+http://localhost:3000/#/ajax---object-oriented-programming/es6-array-methods/-map--.md
+http://localhost:3000/#/ajax---object-oriented-programming/es6-array-methods/-find--.md
+http://localhost:3000/#/ajax---object-oriented-programming/es6-array-methods/-some------every--.md
+http://localhost:3000/#/ajax---object-oriented-programming/es6-array-methods/Chaining-Methods.md
+http://localhost:3000/#/ajax---object-oriented-programming/es6-array-methods/lesson-map-l----i-done-.md
+http://localhost:3000/#/ajax---object-oriented-programming/es6-array-methods/Exercises.md
+http://localhost:3000/#/ajax---object-oriented-programming/es6-array-methods/Comprehension-Check.md
+
+# ajax---object-oriented-programming/handlebars.tar.zst
+http://localhost:3000/#/ajax---object-oriented-programming/handlebars/Handlebars-Video.md
+http://localhost:3000/#/ajax---object-oriented-programming/handlebars/Intro.md
+http://localhost:3000/#/ajax---object-oriented-programming/handlebars/What-s-a-Template.md
+http://localhost:3000/#/ajax---object-oriented-programming/handlebars/Handlebars-Methods-Video.md
+http://localhost:3000/#/ajax---object-oriented-programming/handlebars/Logic.md
+http://localhost:3000/#/ajax---object-oriented-programming/handlebars/Multiple-Templates.md
+http://localhost:3000/#/ajax---object-oriented-programming/handlebars/Apartment-Seller-Mini-Project.md
+http://localhost:3000/#/ajax---object-oriented-programming/handlebars/Comprehension-Check.md
+
+# ajax---object-oriented-programming/intro-to-json.tar.zst
+http://localhost:3000/#/ajax---object-oriented-programming/intro-to-json/JSON-Video.md
+http://localhost:3000/#/ajax---object-oriented-programming/intro-to-json/Intro.md
+http://localhost:3000/#/ajax---object-oriented-programming/intro-to-json/What-is-JSON-.md
+http://localhost:3000/#/ajax---object-oriented-programming/intro-to-json/Rules---Order.md
+http://localhost:3000/#/ajax---object-oriented-programming/intro-to-json/Classic-Example.md
+http://localhost:3000/#/ajax---object-oriented-programming/intro-to-json/Exercises.md
+http://localhost:3000/#/ajax---object-oriented-programming/intro-to-json/Comprehension-Check.md
+
+# ajax---object-oriented-programming/local-storage.tar.zst
+http://localhost:3000/#/ajax---object-oriented-programming/local-storage/Local-Storage-Video.md
+http://localhost:3000/#/ajax---object-oriented-programming/local-storage/Intro.md
+http://localhost:3000/#/ajax---object-oriented-programming/local-storage/Key-Value-Store.md
+http://localhost:3000/#/ajax---object-oriented-programming/local-storage/Getting-Items.md
+http://localhost:3000/#/ajax---object-oriented-programming/local-storage/Removing.md
+http://localhost:3000/#/ajax---object-oriented-programming/local-storage/Storing-Complex-Data.md
+http://localhost:3000/#/ajax---object-oriented-programming/local-storage/Spot-Check-1.md
+http://localhost:3000/#/ajax---object-oriented-programming/local-storage/Prudence---Practice.md
+http://localhost:3000/#/ajax---object-oriented-programming/local-storage/Exercises.md
+http://localhost:3000/#/ajax---object-oriented-programming/local-storage/Comprehension-Check.md
+
+# ajax---object-oriented-programming/my-people---handlebars---api-project--optional-.tar.zst
+http://localhost:3000/#/ajax---object-oriented-programming/my-people---handlebars---api-project--optional-/Intro.md
+http://localhost:3000/#/ajax---object-oriented-programming/my-people---handlebars---api-project--optional-/Instructions.md
+http://localhost:3000/#/ajax---object-oriented-programming/my-people---handlebars---api-project--optional-/Extra-Challenge.md
+
+# ajax---object-oriented-programming/object-oriented-programming-intro--oop-.tar.zst
+http://localhost:3000/#/ajax---object-oriented-programming/object-oriented-programming-intro--oop-/OOP-Intro-Video.md
+http://localhost:3000/#/ajax---object-oriented-programming/object-oriented-programming-intro--oop-/Intro.md
+http://localhost:3000/#/ajax---object-oriented-programming/object-oriented-programming-intro--oop-/Classes---Instantiation.md
+http://localhost:3000/#/ajax---object-oriented-programming/object-oriented-programming-intro--oop-/Spot-Check-1.md
+http://localhost:3000/#/ajax---object-oriented-programming/object-oriented-programming-intro--oop-/Spot-Check-2.md
+http://localhost:3000/#/ajax---object-oriented-programming/object-oriented-programming-intro--oop-/Methods.md
+http://localhost:3000/#/ajax---object-oriented-programming/object-oriented-programming-intro--oop-/Spot-Check-3.md
+http://localhost:3000/#/ajax---object-oriented-programming/object-oriented-programming-intro--oop-/Spot-Check-4.md
+http://localhost:3000/#/ajax---object-oriented-programming/object-oriented-programming-intro--oop-/Pause.md
+http://localhost:3000/#/ajax---object-oriented-programming/object-oriented-programming-intro--oop-/Prototype---Static-Methods.md
+http://localhost:3000/#/ajax---object-oriented-programming/object-oriented-programming-intro--oop-/Spot-Check-5.md
+http://localhost:3000/#/ajax---object-oriented-programming/object-oriented-programming-intro--oop-/GETTER---SETTER--NOT-MANDATORY-.md
+http://localhost:3000/#/ajax---object-oriented-programming/object-oriented-programming-intro--oop-/Spot-Check-6.md
+http://localhost:3000/#/ajax---object-oriented-programming/object-oriented-programming-intro--oop-/UML.md
+http://localhost:3000/#/ajax---object-oriented-programming/object-oriented-programming-intro--oop-/OOP.md
+http://localhost:3000/#/ajax---object-oriented-programming/object-oriented-programming-intro--oop-/Exercise.md
+http://localhost:3000/#/ajax---object-oriented-programming/object-oriented-programming-intro--oop-/Comprehension-Check.md
+
+# ajax---object-oriented-programming/oop-singleton---dependency-injection.tar.zst
+http://localhost:3000/#/ajax---object-oriented-programming/oop-singleton---dependency-injection/Singleton---Dependency-Injection-Video.md
+http://localhost:3000/#/ajax---object-oriented-programming/oop-singleton---dependency-injection/Intro.md
+http://localhost:3000/#/ajax---object-oriented-programming/oop-singleton---dependency-injection/Dependency-Injection.md
+http://localhost:3000/#/ajax---object-oriented-programming/oop-singleton---dependency-injection/Spot-Check-1.md
+http://localhost:3000/#/ajax---object-oriented-programming/oop-singleton---dependency-injection/Final-Notes.md
+
+# algorithms---data-structures/algorithms---level-1.tar.zst
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-1/Intro.md
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-1/Practice.md
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-1/Exercises.md
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-1/Extensions.md
+
+# algorithms---data-structures/algorithms---level-2.tar.zst
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-2/Intro.md
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-2/Count-Vowels.md
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-2/Median-Char.md
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-2/Second-Biggest.md
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-2/Followed-Numbers.md
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-2/Duplicate-an-Array.md
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-2/Reverse-Only-Numbers.md
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-2/Challenge---DeepClone.md
+
+# algorithms---data-structures/algorithms---level-3.tar.zst
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-3/Word-Score.md
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-3/What-would-be-Consoled-.md
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-3/Unique-Characters.md
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-3/Chars-to-Length.md
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-3/Camelcase.md
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-3/Implement-Add.md
+http://localhost:3000/#/algorithms---data-structures/algorithms---level-3/Challenge----Longest-Substring.md
+
+# algorithms---data-structures/autocomplete-trie-project--optional-.tar.zst
+http://localhost:3000/#/algorithms---data-structures/autocomplete-trie-project--optional-/Intro.md
+http://localhost:3000/#/algorithms---data-structures/autocomplete-trie-project--optional-/Tries--Prefix-Trees.md
+http://localhost:3000/#/algorithms---data-structures/autocomplete-trie-project--optional-/Project-Requirements.md
+http://localhost:3000/#/algorithms---data-structures/autocomplete-trie-project--optional-/Hints.md
+http://localhost:3000/#/algorithms---data-structures/autocomplete-trie-project--optional-/Extension--UI.md
+
+# algorithms---data-structures/big-o---time-complexity--js-.tar.zst
+http://localhost:3000/#/algorithms---data-structures/big-o---time-complexity--js-/Complexity-Overview.md
+http://localhost:3000/#/algorithms---data-structures/big-o---time-complexity--js-/Intro.md
+http://localhost:3000/#/algorithms---data-structures/big-o---time-complexity--js-/Constants.md
+http://localhost:3000/#/algorithms---data-structures/big-o---time-complexity--js-/Worst-Case.md
+http://localhost:3000/#/algorithms---data-structures/big-o---time-complexity--js-/Adding-Complexities.md
+http://localhost:3000/#/algorithms---data-structures/big-o---time-complexity--js-/Multiplying-Complexities-Overview.md
+http://localhost:3000/#/algorithms---data-structures/big-o---time-complexity--js-/Multiplying-Complexities.md
+http://localhost:3000/#/algorithms---data-structures/big-o---time-complexity--js-/Spot-Check.md
+http://localhost:3000/#/algorithms---data-structures/big-o---time-complexity--js-/Binary-Search.md
+http://localhost:3000/#/algorithms---data-structures/big-o---time-complexity--js-/O--log-n------Binary-Search.md
+http://localhost:3000/#/algorithms---data-structures/big-o---time-complexity--js-/Time-Complexity-II.md
+http://localhost:3000/#/algorithms---data-structures/big-o---time-complexity--js-/Time-Complexity-III.md
+http://localhost:3000/#/algorithms---data-structures/big-o---time-complexity--js-/Recap.md
+http://localhost:3000/#/algorithms---data-structures/big-o---time-complexity--js-/Exercises.md
+http://localhost:3000/#/algorithms---data-structures/big-o---time-complexity--js-/Comprehension-Check.md
+
+# algorithms---data-structures/data-structures.tar.zst
+http://localhost:3000/#/algorithms---data-structures/data-structures/Intro.md
+http://localhost:3000/#/algorithms---data-structures/data-structures/Data-Structures.md
+http://localhost:3000/#/algorithms---data-structures/data-structures/Arrays--Objects--Custom-Data-Structures.md
+http://localhost:3000/#/algorithms---data-structures/data-structures/Exercise.md
+http://localhost:3000/#/algorithms---data-structures/data-structures/Extension.md
+http://localhost:3000/#/algorithms---data-structures/data-structures/Comprehension-Check.md
+
+# algorithms---data-structures/full-stack-interview-questions.tar.zst
+http://localhost:3000/#/algorithms---data-structures/full-stack-interview-questions/Intro.md
+http://localhost:3000/#/algorithms---data-structures/full-stack-interview-questions/General-Knowledge-Questions.md
+http://localhost:3000/#/algorithms---data-structures/full-stack-interview-questions/General-Knowledge--Examples----HTML-CSS.md
+http://localhost:3000/#/algorithms---data-structures/full-stack-interview-questions/General-Knowledge--Examples----JavaScript.md
+http://localhost:3000/#/algorithms---data-structures/full-stack-interview-questions/General-Knowledge--Examples----Servers.md
+http://localhost:3000/#/algorithms---data-structures/full-stack-interview-questions/General-Knowledge--Examples----Databases.md
+http://localhost:3000/#/algorithms---data-structures/full-stack-interview-questions/General-Knowledge--Examples----React.md
+http://localhost:3000/#/algorithms---data-structures/full-stack-interview-questions/General-Knowledge--Examples----MobX.md
+http://localhost:3000/#/algorithms---data-structures/full-stack-interview-questions/Problem-Solving-Questions.md
+http://localhost:3000/#/algorithms---data-structures/full-stack-interview-questions/Problem-Solving-Questions--Examples-.md
+http://localhost:3000/#/algorithms---data-structures/full-stack-interview-questions/Miscellaneous-Questions--Examples-.md
+http://localhost:3000/#/algorithms---data-structures/full-stack-interview-questions/Resources.md
+
+# algorithms---data-structures/fullstack-15.tar.zst
+http://localhost:3000/#/algorithms---data-structures/fullstack-15/Intro.md
+http://localhost:3000/#/algorithms---data-structures/fullstack-15/Requirements.md
+http://localhost:3000/#/algorithms---data-structures/fullstack-15/Rules.md
+http://localhost:3000/#/algorithms---data-structures/fullstack-15/Why--Why-.md
+
+# algorithms---data-structures/gold-rush--matrix-mini-project.tar.zst
+http://localhost:3000/#/algorithms---data-structures/gold-rush--matrix-mini-project/Intro---Setup.md
+http://localhost:3000/#/algorithms---data-structures/gold-rush--matrix-mini-project/Gold-Rush.md
+http://localhost:3000/#/algorithms---data-structures/gold-rush--matrix-mini-project/Extensions.md
+
+# algorithms---data-structures/matrices.tar.zst
+http://localhost:3000/#/algorithms---data-structures/matrices/Overview.md
+http://localhost:3000/#/algorithms---data-structures/matrices/Intro.md
+http://localhost:3000/#/algorithms---data-structures/matrices/Spot-Check-1.md
+http://localhost:3000/#/algorithms---data-structures/matrices/Building-A-Matrix.md
+http://localhost:3000/#/algorithms---data-structures/matrices/Accessing-Matrix-Items.md
+http://localhost:3000/#/algorithms---data-structures/matrices/Spot-Checks-2--3---4.md
+http://localhost:3000/#/algorithms---data-structures/matrices/Coordinates.md
+http://localhost:3000/#/algorithms---data-structures/matrices/Spot-Check-5.md
+http://localhost:3000/#/algorithms---data-structures/matrices/Modifying-Values.md
+http://localhost:3000/#/algorithms---data-structures/matrices/Spot-Check-6.md
+http://localhost:3000/#/algorithms---data-structures/matrices/Exercises.md
+http://localhost:3000/#/algorithms---data-structures/matrices/Extensions.md
+http://localhost:3000/#/algorithms---data-structures/matrices/Comprehension-Check.md
+
+# algorithms---data-structures/recursion.tar.zst
+http://localhost:3000/#/algorithms---data-structures/recursion/Overview.md
+http://localhost:3000/#/algorithms---data-structures/recursion/Intro.md
+http://localhost:3000/#/algorithms---data-structures/recursion/Recursion.md
+http://localhost:3000/#/algorithms---data-structures/recursion/Exercises.md
+http://localhost:3000/#/algorithms---data-structures/recursion/Extension.md
+
+# algorithms---data-structures/trees-and-binary-search-trees.tar.zst
+http://localhost:3000/#/algorithms---data-structures/trees-and-binary-search-trees/Intro.md
+http://localhost:3000/#/algorithms---data-structures/trees-and-binary-search-trees/What-Are-Trees.md
+http://localhost:3000/#/algorithms---data-structures/trees-and-binary-search-trees/Parts-Of-A-Tree.md
+http://localhost:3000/#/algorithms---data-structures/trees-and-binary-search-trees/Create-A-Tree.md
+http://localhost:3000/#/algorithms---data-structures/trees-and-binary-search-trees/Spot-Check-1.md
+http://localhost:3000/#/algorithms---data-structures/trees-and-binary-search-trees/Binary-Search-Tree.md
+http://localhost:3000/#/algorithms---data-structures/trees-and-binary-search-trees/Inserting-A-Node.md
+http://localhost:3000/#/algorithms---data-structures/trees-and-binary-search-trees/Spot-Check-2.md
+http://localhost:3000/#/algorithms---data-structures/trees-and-binary-search-trees/Binary-Search-Tree-Complexity.md
+http://localhost:3000/#/algorithms---data-structures/trees-and-binary-search-trees/Keeping-Balance.md
+http://localhost:3000/#/algorithms---data-structures/trees-and-binary-search-trees/Exercises.md
+http://localhost:3000/#/algorithms---data-structures/trees-and-binary-search-trees/Extension.md
+http://localhost:3000/#/algorithms---data-structures/trees-and-binary-search-trees/Comprehension-Check.md
+
+# archive/github-code-review-setup.tar.zst
+http://localhost:3000/#/archive/github-code-review-setup/Instructions.md
+
+# asynchronous-codes/async-await.tar.zst
+http://localhost:3000/#/asynchronous-codes/async-await/Overview---Video.md
+http://localhost:3000/#/asynchronous-codes/async-await/Intro.md
+http://localhost:3000/#/asynchronous-codes/async-await/So-Far.md
+http://localhost:3000/#/asynchronous-codes/async-await/Async-Await.md
+http://localhost:3000/#/asynchronous-codes/async-await/Spot-Check-1.md
+http://localhost:3000/#/asynchronous-codes/async-await/Common-Pitfalls.md
+http://localhost:3000/#/asynchronous-codes/async-await/End.md
+http://localhost:3000/#/asynchronous-codes/async-await/Comprehension-Check.md
+
+# challenges/iterator-challenge.tar.zst
+http://localhost:3000/#/challenges/iterator-challenge/The-Challenge.md
+http://localhost:3000/#/challenges/iterator-challenge/Submit-Your-Answer.md
+
+# challenges/iterator-solution.tar.zst
+http://localhost:3000/#/challenges/iterator-solution/Solutions.md
+
+# challenges/splice-challenge.tar.zst
+http://localhost:3000/#/challenges/splice-challenge/The-Challenge.md
+http://localhost:3000/#/challenges/splice-challenge/Submit-Your-Answer.md
+
+# css-extra/css-3--variables---animations.tar.zst
+http://localhost:3000/#/css-extra/css-3--variables---animations/Variables-Overview.md
+http://localhost:3000/#/css-extra/css-3--variables---animations/Intro.md
+http://localhost:3000/#/css-extra/css-3--variables---animations/Spot-Check-1.md
+http://localhost:3000/#/css-extra/css-3--variables---animations/Animations-Overview.md
+http://localhost:3000/#/css-extra/css-3--variables---animations/Animations.md
+http://localhost:3000/#/css-extra/css-3--variables---animations/Spot-Check-2.md
+http://localhost:3000/#/css-extra/css-3--variables---animations/Animations-II.md
+http://localhost:3000/#/css-extra/css-3--variables---animations/Exercises.md
+
+# css-extra/css-less.tar.zst
+http://localhost:3000/#/css-extra/css-less/Intro.md
+http://localhost:3000/#/css-extra/css-less/Nesting.md
+http://localhost:3000/#/css-extra/css-less/Spot-check-1.md
+http://localhost:3000/#/css-extra/css-less/Extend.md
+http://localhost:3000/#/css-extra/css-less/Mixins.md
+http://localhost:3000/#/css-extra/css-less/Exercises.md
+
+# css-extra/materialize-css.tar.zst
+http://localhost:3000/#/css-extra/materialize-css/Materialize-Overview.md
+http://localhost:3000/#/css-extra/materialize-css/Intro.md
+http://localhost:3000/#/css-extra/materialize-css/Setup.md
+http://localhost:3000/#/css-extra/materialize-css/-Grid-.md
+http://localhost:3000/#/css-extra/materialize-css/S-vs-M-vs-L.md
+http://localhost:3000/#/css-extra/materialize-css/Button.md
+http://localhost:3000/#/css-extra/materialize-css/Spot-Check-1.md
+
+# design/behavioral-patterns.tar.zst
+http://localhost:3000/#/design/behavioral-patterns/Intro.md
+http://localhost:3000/#/design/behavioral-patterns/Command.md
+http://localhost:3000/#/design/behavioral-patterns/Spot-Check.md
+http://localhost:3000/#/design/behavioral-patterns/Visitor.md
+http://localhost:3000/#/design/behavioral-patterns/Spot-Check.md
+http://localhost:3000/#/design/behavioral-patterns/Comprehension-Check.md
+http://localhost:3000/#/design/behavioral-patterns/Exercise.md
+
+# design/creational-patterns.tar.zst
+http://localhost:3000/#/design/creational-patterns/Intro.md
+http://localhost:3000/#/design/creational-patterns/Singleton.md
+http://localhost:3000/#/design/creational-patterns/Spot-Check.md
+http://localhost:3000/#/design/creational-patterns/Builder.md
+http://localhost:3000/#/design/creational-patterns/Factory-Method.md
+http://localhost:3000/#/design/creational-patterns/Comprehension-Check.md
+http://localhost:3000/#/design/creational-patterns/Exercise.md
+http://localhost:3000/#/design/creational-patterns/Exercise-2.md
+
+# design/solid-principles.tar.zst
+http://localhost:3000/#/design/solid-principles/Intro.md
+http://localhost:3000/#/design/solid-principles/SOLID-Principles.md
+http://localhost:3000/#/design/solid-principles/Single-Responsibility.md
+http://localhost:3000/#/design/solid-principles/Open-Closed.md
+http://localhost:3000/#/design/solid-principles/Liskov-Substitution.md
+http://localhost:3000/#/design/solid-principles/Interface-Segregation.md
+http://localhost:3000/#/design/solid-principles/Dependency-Inversion.md
+http://localhost:3000/#/design/solid-principles/Comprehension-Check.md
+http://localhost:3000/#/design/solid-principles/Zoo-Project.md
+
+# environment-setup/git.tar.zst
+http://localhost:3000/#/environment-setup/git/Pre-Install.md
+http://localhost:3000/#/environment-setup/git/Intro---Version-Control.md
+http://localhost:3000/#/environment-setup/git/Installing-Git.md
+http://localhost:3000/#/environment-setup/git/Changing-Editor.md
+http://localhost:3000/#/environment-setup/git/Setup.md
+
+# environment-setup/github-setup.tar.zst
+http://localhost:3000/#/environment-setup/github-setup/Intro---Version-Control.md
+http://localhost:3000/#/environment-setup/github-setup/Sign-up.md
+http://localhost:3000/#/environment-setup/github-setup/Add-SSH-key--optional-.md
+
+# environment-setup/node.tar.zst
+http://localhost:3000/#/environment-setup/node/Intro.md
+http://localhost:3000/#/environment-setup/node/Installing-Node.md
+
+# environment-setup/postman.tar.zst
+http://localhost:3000/#/environment-setup/postman/Install-Postman.md
+
+# environment-setup/visual-code.tar.zst
+http://localhost:3000/#/environment-setup/visual-code/Installing.md
+
+# environment-setup/zoom.tar.zst
+http://localhost:3000/#/environment-setup/zoom/Installing.md
+http://localhost:3000/#/environment-setup/zoom/Zoom-Visibility.md
+
+# extended-content/calc-in-css.tar.zst
+http://localhost:3000/#/extended-content/calc-in-css/Calc.md
+http://localhost:3000/#/extended-content/calc-in-css/Ex-1.md
+http://localhost:3000/#/extended-content/calc-in-css/Ex-2.md
+
+# extended-content/chrome-extensions.tar.zst
+http://localhost:3000/#/extended-content/chrome-extensions/What-is-a-Google-Chrome-Extension--.md
+http://localhost:3000/#/extended-content/chrome-extensions/Examples-of-the-type-of-functionality-that-a-Google-Chrome-extension-can-add-to-Chrome-.md
+http://localhost:3000/#/extended-content/chrome-extensions/How-to-install-and-use-new-Extensions.md
+http://localhost:3000/#/extended-content/chrome-extensions/How-to-Create-an-Extension.md
+http://localhost:3000/#/extended-content/chrome-extensions/Home-Work.md
+
+# extended-content/destructuring--spread---nullish-coalescing.tar.zst
+http://localhost:3000/#/extended-content/destructuring--spread---nullish-coalescing/Destructuring---Spread-and-Nullish-coalescing.md
+http://localhost:3000/#/extended-content/destructuring--spread---nullish-coalescing/Destructuring-Exercises.md
+http://localhost:3000/#/extended-content/destructuring--spread---nullish-coalescing/Spread-Exercises.md
+http://localhost:3000/#/extended-content/destructuring--spread---nullish-coalescing/Null-Coalescing-Exercises.md
+
+# extended-content/docker.tar.zst
+http://localhost:3000/#/extended-content/docker/Link.md
+
+# extended-content/elastic-search.tar.zst
+http://localhost:3000/#/extended-content/elastic-search/Links.md
+
+# extended-content/flexbox.tar.zst
+http://localhost:3000/#/extended-content/flexbox/Reading-Materials.md
+http://localhost:3000/#/extended-content/flexbox/Ex-1.md
+http://localhost:3000/#/extended-content/flexbox/Ex-2.md
+
+# extended-content/http-status-code.tar.zst
+http://localhost:3000/#/extended-content/http-status-code/Presentation.md
+
+# extended-content/redis.tar.zst
+http://localhost:3000/#/extended-content/redis/Link.md
+
+# extended-content/regex.tar.zst
+http://localhost:3000/#/extended-content/regex/Reading-Materials.md
+http://localhost:3000/#/extended-content/regex/Exercise-1.md
+http://localhost:3000/#/extended-content/regex/Exercise-2.md
+http://localhost:3000/#/extended-content/regex/Exercise-3.md
+http://localhost:3000/#/extended-content/regex/Exercise-4.md
+
+# extended-content/rgba.tar.zst
+http://localhost:3000/#/extended-content/rgba/RGBA.md
+http://localhost:3000/#/extended-content/rgba/Exercise.md
+
+# extended-content/sessions.tar.zst
+http://localhost:3000/#/extended-content/sessions/General.md
+http://localhost:3000/#/extended-content/sessions/Page-2.md
+
+# git-collab/git-branches.tar.zst
+http://localhost:3000/#/git-collab/git-branches/Local-Branches---Overview.md
+http://localhost:3000/#/git-collab/git-branches/Intro.md
+http://localhost:3000/#/git-collab/git-branches/What-are-Branches-.md
+http://localhost:3000/#/git-collab/git-branches/Why-do-we-need-Branches-.md
+http://localhost:3000/#/git-collab/git-branches/Proper-Branching-Methodology.md
+http://localhost:3000/#/git-collab/git-branches/Branching-Commands.md
+http://localhost:3000/#/git-collab/git-branches/Remote-Branches---Overview.md
+http://localhost:3000/#/git-collab/git-branches/Remote-Branches.md
+http://localhost:3000/#/git-collab/git-branches/Merging.md
+http://localhost:3000/#/git-collab/git-branches/Recap.md
+http://localhost:3000/#/git-collab/git-branches/Extra-Resources.md
+http://localhost:3000/#/git-collab/git-branches/Practice.md
+
+# git-collab/git-collaboration.tar.zst
+http://localhost:3000/#/git-collab/git-collaboration/Collaboration-Overview.md
+http://localhost:3000/#/git-collab/git-collaboration/Intro.md
+http://localhost:3000/#/git-collab/git-collaboration/Collaboration.md
+http://localhost:3000/#/git-collab/git-collaboration/Branching-Out.md
+http://localhost:3000/#/git-collab/git-collaboration/Merging-and-Pull-Requests.md
+http://localhost:3000/#/git-collab/git-collaboration/Practice.md
+http://localhost:3000/#/git-collab/git-collaboration/Fetching.md
+http://localhost:3000/#/git-collab/git-collaboration/Pulling.md
+http://localhost:3000/#/git-collab/git-collaboration/Back-to-Master.md
+http://localhost:3000/#/git-collab/git-collaboration/Switch-Sides---Merge-Conflicts.md
+http://localhost:3000/#/git-collab/git-collaboration/Recap.md
+
+# git-collab/setting-up-your-github-projects.tar.zst
+http://localhost:3000/#/git-collab/setting-up-your-github-projects/Intro.md
+http://localhost:3000/#/git-collab/setting-up-your-github-projects/Project-Details.md
+http://localhost:3000/#/git-collab/setting-up-your-github-projects/README-File.md
+http://localhost:3000/#/git-collab/setting-up-your-github-projects/Profile.md
+http://localhost:3000/#/git-collab/setting-up-your-github-projects/Now-You.md
+
+# intro/file-setup-basics.tar.zst
+http://localhost:3000/#/intro/file-setup-basics/Intro.md
+http://localhost:3000/#/intro/file-setup-basics/Step-1--Folder-Structure.md
+http://localhost:3000/#/intro/file-setup-basics/Step-2--Command-Line-Navigation.md
+http://localhost:3000/#/intro/file-setup-basics/Step-3--Creating-a-New-Project.md
+http://localhost:3000/#/intro/file-setup-basics/Step-4--HTML-Setup.md
+http://localhost:3000/#/intro/file-setup-basics/Step-5--CSS-Setup.md
+http://localhost:3000/#/intro/file-setup-basics/Done-.md
+
+# intro/zoom-onboarding.tar.zst
+http://localhost:3000/#/intro/zoom-onboarding/Zoooooom.md
+http://localhost:3000/#/intro/zoom-onboarding/The-Onboarding.md
+
+# mongodb/intro-to-databases.tar.zst
+http://localhost:3000/#/mongodb/intro-to-databases/Intro.md
+http://localhost:3000/#/mongodb/intro-to-databases/Terminology.md
+http://localhost:3000/#/mongodb/intro-to-databases/Database-Concept---Architecture.md
+http://localhost:3000/#/mongodb/intro-to-databases/Comprehension-Check.md
+
+# mongodb/mongo-db-intro.tar.zst
+http://localhost:3000/#/mongodb/mongo-db-intro/Mongo-Terminology.md
+http://localhost:3000/#/mongodb/mongo-db-intro/Intro.md
+http://localhost:3000/#/mongodb/mongo-db-intro/Terminology.md
+http://localhost:3000/#/mongodb/mongo-db-intro/CRUD--Video.md
+http://localhost:3000/#/mongodb/mongo-db-intro/CRUD---Create.md
+http://localhost:3000/#/mongodb/mongo-db-intro/Spot-Check-1.md
+http://localhost:3000/#/mongodb/mongo-db-intro/CRUD---Retrieve.md
+http://localhost:3000/#/mongodb/mongo-db-intro/Spot-Check-2.md
+http://localhost:3000/#/mongodb/mongo-db-intro/CRUD---Update.md
+http://localhost:3000/#/mongodb/mongo-db-intro/CRUD---Delete.md
+http://localhost:3000/#/mongodb/mongo-db-intro/More-Commands---Video.md
+http://localhost:3000/#/mongodb/mongo-db-intro/Array-Commands-I.md
+http://localhost:3000/#/mongodb/mongo-db-intro/Spot-Check-3.md
+http://localhost:3000/#/mongodb/mongo-db-intro/Array-Commands-II.md
+http://localhost:3000/#/mongodb/mongo-db-intro/Filtering.md
+http://localhost:3000/#/mongodb/mongo-db-intro/More-Operations.md
+http://localhost:3000/#/mongodb/mongo-db-intro/Aggregators--Optional-.md
+http://localhost:3000/#/mongodb/mongo-db-intro/Spot-Check-4--Optional-.md
+http://localhost:3000/#/mongodb/mongo-db-intro/DB-LESSON-DONE--.md
+http://localhost:3000/#/mongodb/mongo-db-intro/Exercises-Setup.md
+http://localhost:3000/#/mongodb/mongo-db-intro/Exercises.md
+http://localhost:3000/#/mongodb/mongo-db-intro/Comprehension-Check.md
+
+# mongodb/mongoose---querying-practice.tar.zst
+http://localhost:3000/#/mongodb/mongoose---querying-practice/Intro.md
+http://localhost:3000/#/mongodb/mongoose---querying-practice/Setup.md
+http://localhost:3000/#/mongodb/mongoose---querying-practice/Query-Time.md
+http://localhost:3000/#/mongodb/mongoose---querying-practice/Comprehension-Check.md
+
+# mongodb/mongoose-expenses-project.tar.zst
+http://localhost:3000/#/mongodb/mongoose-expenses-project/Intro.md
+http://localhost:3000/#/mongodb/mongoose-expenses-project/Project-Setup.md
+http://localhost:3000/#/mongodb/mongoose-expenses-project/Getting-Expenses.md
+http://localhost:3000/#/mongodb/mongoose-expenses-project/Add-New-Expenses.md
+http://localhost:3000/#/mongodb/mongoose-expenses-project/Update-Expenses.md
+http://localhost:3000/#/mongodb/mongoose-expenses-project/Expenses-By-Group.md
+http://localhost:3000/#/mongodb/mongoose-expenses-project/Get-All-Expenses-For-A-Date-Range.md
+http://localhost:3000/#/mongodb/mongoose-expenses-project/Extension---UI.md
+http://localhost:3000/#/mongodb/mongoose-expenses-project/Done.md
+
+# mongodb/mongoose-population.tar.zst
+http://localhost:3000/#/mongodb/mongoose-population/Overview---Video.md
+http://localhost:3000/#/mongodb/mongoose-population/Intro.md
+http://localhost:3000/#/mongodb/mongoose-population/The-Problem.md
+http://localhost:3000/#/mongodb/mongoose-population/Reference-IDs.md
+http://localhost:3000/#/mongodb/mongoose-population/Saving-Refs.md
+http://localhost:3000/#/mongodb/mongoose-population/Spot-Check-1.md
+http://localhost:3000/#/mongodb/mongoose-population/Population.md
+http://localhost:3000/#/mongodb/mongoose-population/Nested-Population.md
+http://localhost:3000/#/mongodb/mongoose-population/Multiple-Population.md
+http://localhost:3000/#/mongodb/mongoose-population/Populating-a-Single-Document.md
+http://localhost:3000/#/mongodb/mongoose-population/Done.md
+http://localhost:3000/#/mongodb/mongoose-population/Exercise.md
+http://localhost:3000/#/mongodb/mongoose-population/Comprehension-Check.md
+
+# python/decorators.tar.zst
+http://localhost:3000/#/python/decorators/Intro.md
+http://localhost:3000/#/python/decorators/Simple-Decorator.md
+http://localhost:3000/#/python/decorators/Decorators.md
+http://localhost:3000/#/python/decorators/Exercises.md
+
+# r-ds/r-d-sim-1--todo-list.tar.zst
+http://localhost:3000/#/r-ds/r-d-sim-1--todo-list/Intro.md
+
+# r-ds/r-d-sim-2--python.tar.zst
+http://localhost:3000/#/r-ds/r-d-sim-2--python/Intro.md
+
+# r-ds/typescript-r-d.tar.zst
+http://localhost:3000/#/r-ds/typescript-r-d/Intro.md
+http://localhost:3000/#/r-ds/typescript-r-d/To-Do.md
+
+# react-advanced/deploying-react-to-heroku.tar.zst
+http://localhost:3000/#/react-advanced/deploying-react-to-heroku/Intro.md
+http://localhost:3000/#/react-advanced/deploying-react-to-heroku/Clear-DB.md
+http://localhost:3000/#/react-advanced/deploying-react-to-heroku/Steps.md
+http://localhost:3000/#/react-advanced/deploying-react-to-heroku/Troubleshooting---Done.md
+
+# react-basics/catchphrase---socket-project--optional-.tar.zst
+http://localhost:3000/#/react-basics/catchphrase---socket-project--optional-/Intro.md
+http://localhost:3000/#/react-basics/catchphrase---socket-project--optional-/Socket-IO.md
+http://localhost:3000/#/react-basics/catchphrase---socket-project--optional-/Game-Structure.md
+
+# react-basics/pomodoro-project--optional-.tar.zst
+http://localhost:3000/#/react-basics/pomodoro-project--optional-/Intro.md
+http://localhost:3000/#/react-basics/pomodoro-project--optional-/Pomodoro.md
+http://localhost:3000/#/react-basics/pomodoro-project--optional-/Setup.md
+http://localhost:3000/#/react-basics/pomodoro-project--optional-/Components.md
+http://localhost:3000/#/react-basics/pomodoro-project--optional-/To-Do.md
+http://localhost:3000/#/react-basics/pomodoro-project--optional-/Styling.md
+http://localhost:3000/#/react-basics/pomodoro-project--optional-/Extension.md
+
+# react-basics/webpack-ec.tar.zst
+http://localhost:3000/#/react-basics/webpack-ec/Intro.md
+http://localhost:3000/#/react-basics/webpack-ec/To-DO.md
+
+# resources/clean-code.tar.zst
+http://localhost:3000/#/resources/clean-code/Presentation.md
+
+# servers/express-intro--servers--routes----params.tar.zst
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Setup---Basics-Video.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Intro.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Routes---Params-Video.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Nodemon.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Routes.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Spot-Check-1.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Params.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Spot-Check-2.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Params-II.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Spot-Check-3.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Serving-Files-Video.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Serving-Files.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Requests---Routes.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Working-Example-Video.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Spot-Check-4.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Request---Routes-II.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Recap.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/DONE.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Exercises.md
+http://localhost:3000/#/servers/express-intro--servers--routes----params/Comprehension-Check.md
+
+# servers/node.tar.zst
+http://localhost:3000/#/servers/node/Node-JS-Intro-Video.md
+http://localhost:3000/#/servers/node/Intro.md
+http://localhost:3000/#/servers/node/Clients-vs--Servers.md
+http://localhost:3000/#/servers/node/Installing-Node---finally.md
+http://localhost:3000/#/servers/node/Running-Files-with-Node.md
+http://localhost:3000/#/servers/node/VS-Code---Debugging.md
+http://localhost:3000/#/servers/node/Node-JS-Modules-Video.md
+http://localhost:3000/#/servers/node/Node-JS-Modules.md
+http://localhost:3000/#/servers/node/Spot-Check-1.md
+http://localhost:3000/#/servers/node/Global-Scope-and-Node.md
+http://localhost:3000/#/servers/node/Exercises.md
+http://localhost:3000/#/servers/node/Comprehension-Check.md
+
+# solutions/ajax---intro-to-apis---solutions.tar.zst
+http://localhost:3000/#/solutions/ajax---intro-to-apis---solutions/Solutions.md
+
+# solutions/algorithms--js----solutions.tar.zst
+http://localhost:3000/#/solutions/algorithms--js----solutions/Solutions.md
+
+# solutions/big-o---time-complexity--js----solutions.tar.zst
+http://localhost:3000/#/solutions/big-o---time-complexity--js----solutions/Solutions.md
+
+# solutions/callbacks---arrow-functions---solutions.tar.zst
+http://localhost:3000/#/solutions/callbacks---arrow-functions---solutions/Solutions.md
+
+# solutions/closures---modules---solutions.tar.zst
+http://localhost:3000/#/solutions/closures---modules---solutions/Solutions.md
+
+# solutions/css-3--variables---animations---solutions.tar.zst
+http://localhost:3000/#/solutions/css-3--variables---animations---solutions/Solutions.md
+
+# solutions/css-basics---solutions.tar.zst
+http://localhost:3000/#/solutions/css-basics---solutions/Solutions.md
+
+# solutions/css-grid---solutions.tar.zst
+http://localhost:3000/#/solutions/css-grid---solutions/Solutions.md
+
+# solutions/data-flow---solutions.tar.zst
+http://localhost:3000/#/solutions/data-flow---solutions/Solutions.md
+
+# solutions/data-structures---solutions.tar.zst
+http://localhost:3000/#/solutions/data-structures---solutions/Solutions.md
+
+# solutions/dom-intro---solutions.tar.zst
+http://localhost:3000/#/solutions/dom-intro---solutions/Solutions.md
+
+# solutions/dom-traversal-with-jquery---solutions.tar.zst
+http://localhost:3000/#/solutions/dom-traversal-with-jquery---solutions/Solutions.md
+
+# solutions/es6-array-methods---solutions.tar.zst
+http://localhost:3000/#/solutions/es6-array-methods---solutions/Solutions.md
+
+# solutions/express--crud--router----middleware---solutions.tar.zst
+http://localhost:3000/#/solutions/express--crud--router----middleware---solutions/Solutions.md
+
+# solutions/express-intro--servers--routes----params---solutions.tar.zst
+http://localhost:3000/#/solutions/express-intro--servers--routes----params---solutions/Solutions.md
+
+# solutions/functions---solutions.tar.zst
+http://localhost:3000/#/solutions/functions---solutions/Solutions.md
+
+# solutions/html-basics---solutions.tar.zst
+http://localhost:3000/#/solutions/html-basics---solutions/Solutions.md
+
+# solutions/intro-to-json---solutions.tar.zst
+http://localhost:3000/#/solutions/intro-to-json---solutions/Solutions.md
+
+# solutions/jquery---solutions.tar.zst
+http://localhost:3000/#/solutions/jquery---solutions/Solutions.md
+
+# solutions/js-this---solutions.tar.zst
+http://localhost:3000/#/solutions/js-this---solutions/Solutions.md
+
+# solutions/local-storage---solutions.tar.zst
+http://localhost:3000/#/solutions/local-storage---solutions/Solutions.md
+
+# solutions/matrices---solutions.tar.zst
+http://localhost:3000/#/solutions/matrices---solutions/Solutions.md
+
+# solutions/mobx-1---solutions.tar.zst
+http://localhost:3000/#/solutions/mobx-1---solutions/Solutions.md
+
+# solutions/mobx-2---solutions.tar.zst
+http://localhost:3000/#/solutions/mobx-2---solutions/Solutions.md
+
+# solutions/mongo-db-intro---solutions.tar.zst
+http://localhost:3000/#/solutions/mongo-db-intro---solutions/Solutions.md
+
+# solutions/mongoose-intro---solutions.tar.zst
+http://localhost:3000/#/solutions/mongoose-intro---solutions/Solutions.md
+
+# solutions/mongoose-population---solutions.tar.zst
+http://localhost:3000/#/solutions/mongoose-population---solutions/Solutions.md
+
+# solutions/node---solutions.tar.zst
+http://localhost:3000/#/solutions/node---solutions/Solutions.md
+
+# solutions/npm---node-package-manager---solutions.tar.zst
+http://localhost:3000/#/solutions/npm---node-package-manager---solutions/Solutions.md
+
+# solutions/object-oriented-programming-intro--oop----solutions.tar.zst
+http://localhost:3000/#/solutions/object-oriented-programming-intro--oop----solutions/Solution.md
+
+# solutions/oop-inheritance---solutions.tar.zst
+http://localhost:3000/#/solutions/oop-inheritance---solutions/Solution.md
+
+# solutions/promises---solutions.tar.zst
+http://localhost:3000/#/solutions/promises---solutions/Solutions.md
+
+# solutions/react-components---solutions.tar.zst
+http://localhost:3000/#/solutions/react-components---solutions/Solutions.md
+
+# solutions/react-events---set-state---solutions.tar.zst
+http://localhost:3000/#/solutions/react-events---set-state---solutions/Solutions.md
+
+# solutions/react-hooks---solutions.tar.zst
+http://localhost:3000/#/solutions/react-hooks---solutions/Solutions.md
+
+# solutions/react-input---solutions.tar.zst
+http://localhost:3000/#/solutions/react-input---solutions/Solutions.md
+
+# solutions/react-intro---solutions.tar.zst
+http://localhost:3000/#/solutions/react-intro---solutions/Solutions.md
+
+# solutions/react-props--state---data-flow---solutions.tar.zst
+http://localhost:3000/#/solutions/react-props--state---data-flow---solutions/Solutions.md
+
+# solutions/react-routes---solutions.tar.zst
+http://localhost:3000/#/solutions/react-routes---solutions/Solutions.md
+
+# solutions/recursion---solutions.tar.zst
+http://localhost:3000/#/solutions/recursion---solutions/Solutions.md
+
+# solutions/scope---solutions.tar.zst
+http://localhost:3000/#/solutions/scope---solutions/Solutions.md
+
+# solutions/scraping-r-d---solutions.tar.zst
+http://localhost:3000/#/solutions/scraping-r-d---solutions/Solution.md
+
+# solutions/sql-in-node--sequelize---solutions.tar.zst
+http://localhost:3000/#/solutions/sql-in-node--sequelize---solutions/Solutions.md
+
+# solutions/sql-intro--js----solutions.tar.zst
+http://localhost:3000/#/solutions/sql-intro--js----solutions/Solutions.md
+
+# solutions/sql-join---solutions.tar.zst
+http://localhost:3000/#/solutions/sql-join---solutions/Solutions.md
+
+# solutions/stacks---queues---solutions.tar.zst
+http://localhost:3000/#/solutions/stacks---queues---solutions/Solutions.md
+
+# solutions/trees-and-binary-search-trees---solutions.tar.zst
+http://localhost:3000/#/solutions/trees-and-binary-search-trees---solutions/Solutions.md
+
+# solutions/typescript-r-d---solutions.tar.zst
+http://localhost:3000/#/solutions/typescript-r-d---solutions/Solution.md
+
+# solutions/webpack-r-d---solutions.tar.zst
+http://localhost:3000/#/solutions/webpack-r-d---solutions/Solution.md
+
+# sql-basics/mysql-setup.tar.zst
+http://localhost:3000/#/sql-basics/mysql-setup/Intro.md
+http://localhost:3000/#/sql-basics/mysql-setup/Download--Install--and-Run-MySQL.md
+http://localhost:3000/#/sql-basics/mysql-setup/VS-Code-Setup.md
+http://localhost:3000/#/sql-basics/mysql-setup/First-Table-Validation.md
+
+# sql-basics/sql-in-node--sequelize.tar.zst
+http://localhost:3000/#/sql-basics/sql-in-node--sequelize/Intro---Setup.md
+http://localhost:3000/#/sql-basics/sql-in-node--sequelize/Query.md
+http://localhost:3000/#/sql-basics/sql-in-node--sequelize/Inserting.md
+http://localhost:3000/#/sql-basics/sql-in-node--sequelize/Async-Insert.md
+http://localhost:3000/#/sql-basics/sql-in-node--sequelize/Split-Lines.md
+http://localhost:3000/#/sql-basics/sql-in-node--sequelize/Exercise---Data-Migration.md
+
+# sql-basics/sql-intro--js-.tar.zst
+http://localhost:3000/#/sql-basics/sql-intro--js-/SQL-Intro-Lecture.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Intro.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Tables.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Storing-Data.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Spot-Check-1.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Querying-Data.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Spot-Check-2.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Filtering.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Spot-Check-3.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Notes-and-SQL-Features.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Spot-Check-4.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Basic-Sorting.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Spot-Check-5.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Updating--Deleting.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Spot-Check-6.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Spot-Check-7.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Primary-Keys.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Exercises.md
+http://localhost:3000/#/sql-basics/sql-intro--js-/Comprehension-Check.md
+
+# sql-basics/sql-join.tar.zst
+http://localhost:3000/#/sql-basics/sql-join/SQL-Join-Lecture---1-to-Many.md
+http://localhost:3000/#/sql-basics/sql-join/Intro.md
+http://localhost:3000/#/sql-basics/sql-join/Foreign-Keys.md
+http://localhost:3000/#/sql-basics/sql-join/Joining.md
+http://localhost:3000/#/sql-basics/sql-join/Alias.md
+http://localhost:3000/#/sql-basics/sql-join/Relationship-Types.md
+http://localhost:3000/#/sql-basics/sql-join/SQL-Join-Lecture---Many-to-Many.md
+http://localhost:3000/#/sql-basics/sql-join/Many-to-Many.md
+http://localhost:3000/#/sql-basics/sql-join/Other-Joins--Optional-.md
+http://localhost:3000/#/sql-basics/sql-join/Spot-Check-1.md
+http://localhost:3000/#/sql-basics/sql-join/Spot-Check-2.md
+http://localhost:3000/#/sql-basics/sql-join/Spot-Check-3.md
+http://localhost:3000/#/sql-basics/sql-join/Spot-Check-4.md
+http://localhost:3000/#/sql-basics/sql-join/Spot-Check-5.md
+http://localhost:3000/#/sql-basics/sql-join/Exercises.md
+http://localhost:3000/#/sql-basics/sql-join/Comprehension-Check.md
+
+# state-management/mobx-1.tar.zst
+http://localhost:3000/#/state-management/mobx-1/Intro.md
+http://localhost:3000/#/state-management/mobx-1/Installation.md
+http://localhost:3000/#/state-management/mobx-1/Decorators.md
+http://localhost:3000/#/state-management/mobx-1/Intro-to-MobX.md
+http://localhost:3000/#/state-management/mobx-1/State-Managers---Data-Flow.md
+http://localhost:3000/#/state-management/mobx-1/Creating-a-Store---Observables.md
+http://localhost:3000/#/state-management/mobx-1/Spot-Check-1.md
+http://localhost:3000/#/state-management/mobx-1/Observer.md
+http://localhost:3000/#/state-management/mobx-1/Adding-a-Store-to-Your-App.md
+http://localhost:3000/#/state-management/mobx-1/Spot-Check-2.md
+http://localhost:3000/#/state-management/mobx-1/Spot-Check-3.md
+http://localhost:3000/#/state-management/mobx-1/Actions.md
+http://localhost:3000/#/state-management/mobx-1/Summary.md
+http://localhost:3000/#/state-management/mobx-1/Exercises.md
+
+# state-management/mobx-2.tar.zst
+http://localhost:3000/#/state-management/mobx-2/Intro.md
+http://localhost:3000/#/state-management/mobx-2/Reservations-Repo.md
+http://localhost:3000/#/state-management/mobx-2/Computed.md
+http://localhost:3000/#/state-management/mobx-2/Computed-Values.md
+http://localhost:3000/#/state-management/mobx-2/Provider-and-Inject.md
+http://localhost:3000/#/state-management/mobx-2/Provider-and-Inject.md
+http://localhost:3000/#/state-management/mobx-2/Working-with-Multiple-Stores.md
+http://localhost:3000/#/state-management/mobx-2/Using-Multiple-Stores.md
+http://localhost:3000/#/state-management/mobx-2/No-Mo-re-bX-.md
+http://localhost:3000/#/state-management/mobx-2/Exercises.md
+http://localhost:3000/#/state-management/mobx-2/Comprehension-Check.md
+
+# state-management/scraping.tar.zst
+http://localhost:3000/#/state-management/scraping/Intro.md
+http://localhost:3000/#/state-management/scraping/To-Do.md
+
+# typescript/chrome-extensions.tar.zst
+http://localhost:3000/#/typescript/chrome-extensions/What-is-a-Google-Chrome-Extension--.md
+http://localhost:3000/#/typescript/chrome-extensions/Examples-of-the-type-of-functionality-that-a-Google-Chrome-extension-can-add-to-Chrome-.md
+http://localhost:3000/#/typescript/chrome-extensions/How-to-install-and-use-new-Extensions.md
+http://localhost:3000/#/typescript/chrome-extensions/How-to-Create-an-Extension.md
+http://localhost:3000/#/typescript/chrome-extensions/Home-Work.md
+
+# typescript/dom-and-casting.tar.zst
+http://localhost:3000/#/typescript/dom-and-casting/Intro.md
+http://localhost:3000/#/typescript/dom-and-casting/Interacting-with-DOM-elements-using-TypeScript.md
+http://localhost:3000/#/typescript/dom-and-casting/Handling-DOM-events-using-TypeScript.md
+http://localhost:3000/#/typescript/dom-and-casting/Exercises.md
+http://localhost:3000/#/typescript/dom-and-casting/Comprehension-Check.md
+
+# typescript/generics.tar.zst
+http://localhost:3000/#/typescript/generics/Intro.md
+http://localhost:3000/#/typescript/generics/Why-do-we-need-Generics-.md
+http://localhost:3000/#/typescript/generics/Using-Generics-with-functions.md
+http://localhost:3000/#/typescript/generics/Using-Generics-with-classes.md
+http://localhost:3000/#/typescript/generics/Exercises.md
+http://localhost:3000/#/typescript/generics/Comprehension-Check.md
+
+# typescript/random-user-page-api-project.tar.zst
+http://localhost:3000/#/typescript/random-user-page-api-project/Intro.md
+http://localhost:3000/#/typescript/random-user-page-api-project/API-s.md
+http://localhost:3000/#/typescript/random-user-page-api-project/Instructions.md
+http://localhost:3000/#/typescript/random-user-page-api-project/Working-with-New-APIs.md
+http://localhost:3000/#/typescript/random-user-page-api-project/Extensions.md
+
+# typescript/setting-up-a-typescript-environment.tar.zst
+http://localhost:3000/#/typescript/setting-up-a-typescript-environment/Intro.md
+http://localhost:3000/#/typescript/setting-up-a-typescript-environment/Installing-TypeScript.md
+http://localhost:3000/#/typescript/setting-up-a-typescript-environment/How-to-compile-TypeScript-files-.md
+http://localhost:3000/#/typescript/setting-up-a-typescript-environment/How-to-configure-TypeScript-.md
+http://localhost:3000/#/typescript/setting-up-a-typescript-environment/Comprehension-Check.md
+
+# typescript/strict-mode.tar.zst
+http://localhost:3000/#/typescript/strict-mode/Intro.md
+http://localhost:3000/#/typescript/strict-mode/JavaScript-s--use-strict--directive.md
+http://localhost:3000/#/typescript/strict-mode/Differences-between--use-strict--and-TypeScript.md
+http://localhost:3000/#/typescript/strict-mode/Exercises.md
+http://localhost:3000/#/typescript/strict-mode/Comprehension-Check.md
+
+# typescript/types.tar.zst
+http://localhost:3000/#/typescript/types/Intro.md
+http://localhost:3000/#/typescript/types/Types-in-TypeScript.md
+http://localhost:3000/#/typescript/types/Type-Assignment--Inferred-and-Explicit-.md
+http://localhost:3000/#/typescript/types/Spotcheck--1.md
+http://localhost:3000/#/typescript/types/Arrays.md
+http://localhost:3000/#/typescript/types/Objects.md
+http://localhost:3000/#/typescript/types/Spotcheck--2.md
+http://localhost:3000/#/typescript/types/Functions.md
+http://localhost:3000/#/typescript/types/Classes.md
+http://localhost:3000/#/typescript/types/Exercises.md
+http://localhost:3000/#/typescript/types/Comprehension-Check.md
+
+# typescript/union-types.tar.zst
+http://localhost:3000/#/typescript/union-types/Intro.md
+http://localhost:3000/#/typescript/union-types/Union-Types.md
+http://localhost:3000/#/typescript/union-types/Type-Aliases.md
+http://localhost:3000/#/typescript/union-types/Spotcheck.md
+http://localhost:3000/#/typescript/union-types/Literal-Types-and-Enums.md
+http://localhost:3000/#/typescript/union-types/Exercises.md
+http://localhost:3000/#/typescript/union-types/Comprehension-Check.md
+
+# typescript/what-is-typescript-.tar.zst
+http://localhost:3000/#/typescript/what-is-typescript-/Intro.md
+http://localhost:3000/#/typescript/what-is-typescript-/Differences-between-JavaScript-and-TypeScript.md
+http://localhost:3000/#/typescript/what-is-typescript-/Benefits-of-using-TypeScript.md
+http://localhost:3000/#/typescript/what-is-typescript-/Comprehension-Check.md
+
+# unit-testings/unit-tests-with-jest.tar.zst
+http://localhost:3000/#/unit-testings/unit-tests-with-jest/Intro.md
+http://localhost:3000/#/unit-testings/unit-tests-with-jest/Unit-Testing---Jest-Setup.md
+http://localhost:3000/#/unit-testings/unit-tests-with-jest/Basic-Test.md
+http://localhost:3000/#/unit-testings/unit-tests-with-jest/Matchers.md
+http://localhost:3000/#/unit-testings/unit-tests-with-jest/Testing-with-Classes.md
+http://localhost:3000/#/unit-testings/unit-tests-with-jest/Test-Driven-Development--TDD-.md
+http://localhost:3000/#/unit-testings/unit-tests-with-jest/Exercises.md
+http://localhost:3000/#/unit-testings/unit-tests-with-jest/expect-done---toBeTruthy---.md
+
+# web-development--basics/box-model.tar.zst
+http://localhost:3000/#/web-development--basics/box-model/The-Box-Model.md
+http://localhost:3000/#/web-development--basics/box-model/Comprehension-Check.md
+
+# web-development--basics/code-standards.tar.zst
+http://localhost:3000/#/web-development--basics/code-standards/Intro.md
+http://localhost:3000/#/web-development--basics/code-standards/Conventions.md
+http://localhost:3000/#/web-development--basics/code-standards/Indentation-and-Line-Breaks.md
+http://localhost:3000/#/web-development--basics/code-standards/Blocks-and-Curly-Braces.md
+http://localhost:3000/#/web-development--basics/code-standards/Spacing.md
+http://localhost:3000/#/web-development--basics/code-standards/Meaningful-Naming.md
+http://localhost:3000/#/web-development--basics/code-standards/Comments.md
+
+# web-development--basics/css-positioning-exercises.tar.zst
+http://localhost:3000/#/web-development--basics/css-positioning-exercises/Present.md
+http://localhost:3000/#/web-development--basics/css-positioning-exercises/Graph.md
+http://localhost:3000/#/web-development--basics/css-positioning-exercises/Magnet.md
+http://localhost:3000/#/web-development--basics/css-positioning-exercises/Chocolate.md
+
+# web-development--basics/css-positioning.tar.zst
+http://localhost:3000/#/web-development--basics/css-positioning/Intro.md
+http://localhost:3000/#/web-development--basics/css-positioning/Margin---Padding.md
+http://localhost:3000/#/web-development--basics/css-positioning/Position.md
+http://localhost:3000/#/web-development--basics/css-positioning/-Lesson-position-done-.md
+http://localhost:3000/#/web-development--basics/css-positioning/Comprehension-Check.md
+
+# web-development--basics/functions-mini-lesson---optional-.tar.zst
+http://localhost:3000/#/web-development--basics/functions-mini-lesson---optional-/More-Functions.md
+http://localhost:3000/#/web-development--basics/functions-mini-lesson---optional-/Functions-Galore.md
+http://localhost:3000/#/web-development--basics/functions-mini-lesson---optional-/Exercises.md
+
+# web-development--basics/functions.tar.zst
+http://localhost:3000/#/web-development--basics/functions/Intro.md
+http://localhost:3000/#/web-development--basics/functions/Parameters---Arguments.md
+http://localhost:3000/#/web-development--basics/functions/Return.md
+http://localhost:3000/#/web-development--basics/functions/Function-Expression-vs--Function-Declaration--Methods.md
+http://localhost:3000/#/web-development--basics/functions/Spot-Check.md
+http://localhost:3000/#/web-development--basics/functions/Exercises.md
+http://localhost:3000/#/web-development--basics/functions/Comprehension-Check.md
+
+# web-development--basics/html-basics.tar.zst
+http://localhost:3000/#/web-development--basics/html-basics/Intro.md
+http://localhost:3000/#/web-development--basics/html-basics/HTML-Nodes-and-Elements.md
+http://localhost:3000/#/web-development--basics/html-basics/Structure.md
+http://localhost:3000/#/web-development--basics/html-basics/HTML-Attributes.md
+http://localhost:3000/#/web-development--basics/html-basics/Common-HTML-Tags.md
+http://localhost:3000/#/web-development--basics/html-basics/Now-You-.md
+
+# web-development--basics/javascript-basics.tar.zst
+http://localhost:3000/#/web-development--basics/javascript-basics/Intro.md
+http://localhost:3000/#/web-development--basics/javascript-basics/Setup.md
+http://localhost:3000/#/web-development--basics/javascript-basics/Variables.md
+http://localhost:3000/#/web-development--basics/javascript-basics/Identifiers.md
+http://localhost:3000/#/web-development--basics/javascript-basics/Operators.md
+http://localhost:3000/#/web-development--basics/javascript-basics/Logical-Statements-Usage.md
+http://localhost:3000/#/web-development--basics/javascript-basics/Exercises.md
+http://localhost:3000/#/web-development--basics/javascript-basics/Conditional-Statements.md
+http://localhost:3000/#/web-development--basics/javascript-basics/Exercises.md
+http://localhost:3000/#/web-development--basics/javascript-basics/Arrays.md
+http://localhost:3000/#/web-development--basics/javascript-basics/Exercises.md
+http://localhost:3000/#/web-development--basics/javascript-basics/Objects.md
+http://localhost:3000/#/web-development--basics/javascript-basics/Exercises.md
+http://localhost:3000/#/web-development--basics/javascript-basics/Loops.md
+http://localhost:3000/#/web-development--basics/javascript-basics/Exercises.md
+http://localhost:3000/#/web-development--basics/javascript-basics/Comprehension-Check.md
+http://localhost:3000/#/web-development--basics/javascript-basics/Done.md
+
+# web-development--basics/js-this.tar.zst
+http://localhost:3000/#/web-development--basics/js-this/Intro.md
+http://localhost:3000/#/web-development--basics/js-this/A-Definition.md
+http://localhost:3000/#/web-development--basics/js-this/Spot-Check.md
+http://localhost:3000/#/web-development--basics/js-this/Exercises.md
+http://localhost:3000/#/web-development--basics/js-this/Comprehension-Check.md
+
+# web-development--basics/scope.tar.zst
+http://localhost:3000/#/web-development--basics/scope/Intro.md
+http://localhost:3000/#/web-development--basics/scope/Global-vs-Local-Scope.md
+http://localhost:3000/#/web-development--basics/scope/Var--Let-and-Const.md
+http://localhost:3000/#/web-development--basics/scope/Loops.md
+http://localhost:3000/#/web-development--basics/scope/Exercises.md
+
+# web-development-basics-advanced/catch-a-the--optional-.tar.zst
+http://localhost:3000/#/web-development-basics-advanced/catch-a-the--optional-/Intro.md
+http://localhost:3000/#/web-development-basics-advanced/catch-a-the--optional-/Catch-the---.md
+http://localhost:3000/#/web-development-basics-advanced/catch-a-the--optional-/Game.md
+
+# web-development-basics-advanced/data-flow.tar.zst
+http://localhost:3000/#/web-development-basics-advanced/data-flow/Intro.md
+http://localhost:3000/#/web-development-basics-advanced/data-flow/Rules-of-Data-Flow.md
+http://localhost:3000/#/web-development-basics-advanced/data-flow/Exercises.md
+http://localhost:3000/#/web-development-basics-advanced/data-flow/Comprehension-Check.md
+
+# web-development-basics-advanced/dom-intro.tar.zst
+http://localhost:3000/#/web-development-basics-advanced/dom-intro/Intro.md
+http://localhost:3000/#/web-development-basics-advanced/dom-intro/Document.md
+http://localhost:3000/#/web-development-basics-advanced/dom-intro/Targeting-Elements.md
+http://localhost:3000/#/web-development-basics-advanced/dom-intro/Spot-Check-1.md
+http://localhost:3000/#/web-development-basics-advanced/dom-intro/Accessing---Modifying-HTML.md
+http://localhost:3000/#/web-development-basics-advanced/dom-intro/Spot-Check-2.md
+http://localhost:3000/#/web-development-basics-advanced/dom-intro/Accessing---Modifying-HTML-II.md
+http://localhost:3000/#/web-development-basics-advanced/dom-intro/Spot-Check-3.md
+http://localhost:3000/#/web-development-basics-advanced/dom-intro/Creating---Adding-Elements.md
+http://localhost:3000/#/web-development-basics-advanced/dom-intro/Spot-Check-4.md
+http://localhost:3000/#/web-development-basics-advanced/dom-intro/Events.md
+http://localhost:3000/#/web-development-basics-advanced/dom-intro/Spot-Check-5.md
+http://localhost:3000/#/web-development-basics-advanced/dom-intro/Spot-Check-6.md
+http://localhost:3000/#/web-development-basics-advanced/dom-intro/Events-II.md
+http://localhost:3000/#/web-development-basics-advanced/dom-intro/Exercises.md
+http://localhost:3000/#/web-development-basics-advanced/dom-intro/Comprehension-Check.md
+
+# web-development-basics-advanced/dom-traversal-with-jquery.tar.zst
+http://localhost:3000/#/web-development-basics-advanced/dom-traversal-with-jquery/Intro.md
+http://localhost:3000/#/web-development-basics-advanced/dom-traversal-with-jquery/Dom-Traversal.md
+http://localhost:3000/#/web-development-basics-advanced/dom-traversal-with-jquery/Spot-Check-1.md
+http://localhost:3000/#/web-development-basics-advanced/dom-traversal-with-jquery/Spot-Check-2.md
+http://localhost:3000/#/web-development-basics-advanced/dom-traversal-with-jquery/Exercises.md
+http://localhost:3000/#/web-development-basics-advanced/dom-traversal-with-jquery/Comprehension-Check.md
+
+# web-development-basics-advanced/e-commerce-dom-project--optional-.tar.zst
+http://localhost:3000/#/web-development-basics-advanced/e-commerce-dom-project--optional-/Description.md
+http://localhost:3000/#/web-development-basics-advanced/e-commerce-dom-project--optional-/To-Do.md
+http://localhost:3000/#/web-development-basics-advanced/e-commerce-dom-project--optional-/Adding-Features.md
+http://localhost:3000/#/web-development-basics-advanced/e-commerce-dom-project--optional-/Styling.md
+http://localhost:3000/#/web-development-basics-advanced/e-commerce-dom-project--optional-/Extension.md
+
+# web-development-basics-advanced/jquery.tar.zst
+http://localhost:3000/#/web-development-basics-advanced/jquery/Intro.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Setup.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Selecting-Elements.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Spot-Check-1.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/What-is---.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Methods.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Spot-Check-2.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Spot-Check-3.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Getting-User-Input---val--.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Spot-Check-4.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Getting-Data-Attributes---data--.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Spot-Check-5.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Events.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Spot-Check-6.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Spot-Check-7.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/this.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Spot-Check-8.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Creating---Adding-Removing.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Spot-Check-9.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Spot-Check-10.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Removing.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Spot-Check-11.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Spot-Check-12.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Dynamic-Event-Listeners.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Spot-Check-13.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Exercises.md
+http://localhost:3000/#/web-development-basics-advanced/jquery/Comprehension-Check.md
+
+# web-development-basics-advanced/tweeter-controller.tar.zst
+http://localhost:3000/#/web-development-basics-advanced/tweeter-controller/Intro.md
+http://localhost:3000/#/web-development-basics-advanced/tweeter-controller/Controller.md
+http://localhost:3000/#/web-development-basics-advanced/tweeter-controller/Tweeeeet.md
+
+# web-development-basics-advanced/tweeter-logic-module.tar.zst
+http://localhost:3000/#/web-development-basics-advanced/tweeter-logic-module/Intro.md
+http://localhost:3000/#/web-development-basics-advanced/tweeter-logic-module/Tweeter.md
+
+# web-development-basics-advanced/tweeter-render-module.tar.zst
+http://localhost:3000/#/web-development-basics-advanced/tweeter-render-module/Intro.md
+http://localhost:3000/#/web-development-basics-advanced/tweeter-render-module/Rendering.md
+
+# web-security---osi-model--python-backend-/-stay-logged-in--method.tar.zst
+http://localhost:3000/#/web-security---osi-model--python-backend-/-stay-logged-in--method/Intro.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/-stay-logged-in--method/Storing-an-authentication-token-in-a-cookie.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/-stay-logged-in--method/Authentication.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/-stay-logged-in--method/Exercise.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/-stay-logged-in--method/Comprehension-check.md
+
+# web-security---osi-model--python-backend-/authorization-token.tar.zst
+http://localhost:3000/#/web-security---osi-model--python-backend-/authorization-token/Intro.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/authorization-token/Authorization-token-in-FastAPI.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/authorization-token/Simple-app-using-token-authorization.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/authorization-token/Exercise.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/authorization-token/Comprehension-check.md
+
+# web-security---osi-model--python-backend-/https-under-sslslashtls.tar.zst
+http://localhost:3000/#/web-security---osi-model--python-backend-/https-under-sslslashtls/Overview.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/https-under-sslslashtls/The-TLS-Handshake.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/https-under-sslslashtls/Digital-Certificates.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/https-under-sslslashtls/Tutorials.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/https-under-sslslashtls/Comprehension-Check.md
+
+# web-security---osi-model--python-backend-/jwt-is-the-new-token.tar.zst
+http://localhost:3000/#/web-security---osi-model--python-backend-/jwt-is-the-new-token/Intro.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/jwt-is-the-new-token/The-JWT-structure.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/jwt-is-the-new-token/FastAPI-app-with-JWT--step-by-step-.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/jwt-is-the-new-token/FastAPI-app-with-JWT--full-code-.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/jwt-is-the-new-token/Exercise.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/jwt-is-the-new-token/Comprehension-check.md
+
+# web-security---osi-model--python-backend-/password-hashing.tar.zst
+http://localhost:3000/#/web-security---osi-model--python-backend-/password-hashing/Intro.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/password-hashing/Hashing-passwords.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/password-hashing/Exercise.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/password-hashing/Comprehension-check.md
+
+# web-security---osi-model--python-backend-/the-dns-protocol.tar.zst
+http://localhost:3000/#/web-security---osi-model--python-backend-/the-dns-protocol/Overview.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/the-dns-protocol/How-DNS-works-.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/the-dns-protocol/DNS-Record-Types.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/the-dns-protocol/Exercises.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/the-dns-protocol/Comprehension-Check.md
+
+# web-security---osi-model--python-backend-/the-osi-model.tar.zst
+http://localhost:3000/#/web-security---osi-model--python-backend-/the-osi-model/The-OSI-Model.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/the-osi-model/Transport-Layer-Protocols--TCP-and-UDP.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/the-osi-model/IP-address--Subnet-and-Firewall-.md
+http://localhost:3000/#/web-security---osi-model--python-backend-/the-osi-model/-Comprehension-Check.md

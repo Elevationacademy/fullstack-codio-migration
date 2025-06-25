@@ -1,0 +1,5 @@
+- What Is Typescript 
+  - [Intro](./Intro.md "Intro")
+  - [Differences between JavaScript and TypeScript](./Differences-between-JavaScript-and-TypeScript.md "Differences between JavaScript and TypeScript")
+  - [Benefits of using TypeScript](./Benefits-of-using-TypeScript.md "Benefits of using TypeScript")
+  - [Comprehension Check](./Comprehension-Check.md "Comprehension Check")

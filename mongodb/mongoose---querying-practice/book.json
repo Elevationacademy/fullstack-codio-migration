@@ -1,0 +1,29 @@
+{
+ "name": "Mongoose & Querying Practice",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "7810b940-94b3-651d-de58-8263ec05c779",
+   "pageId": "7810b940-94b3-651d-de58-8263ec05c779",
+   "type": "page"
+  },
+  {
+   "title": "Setup",
+   "id": "476bda87-d9af-b876-e5b2-76c8cba4bf48",
+   "pageId": "476bda87-d9af-b876-e5b2-76c8cba4bf48",
+   "type": "page"
+  },
+  {
+   "id": "657a2090-1c53-f8f8-685d-5ab554ee242f",
+   "title": "Query Time",
+   "pageId": "bdc6c3e7-d23d-cb7a-707c-5c0676948d3c",
+   "type": "page"
+  },
+  {
+   "id": "7906ad53-bdc5-70ab-44fc-c9e2d342222c",
+   "title": "Comprehension Check",
+   "pageId": "3392504a-83c4-7ccf-642e-5363da5e188e",
+   "type": "page"
+  }
+ ]
+}

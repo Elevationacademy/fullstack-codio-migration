@@ -1,0 +1,125 @@
+{
+ "name": "Express Intro: Servers, Routes, & Params",
+ "children": [
+  {
+   "title": "Setup & Basics Video",
+   "id": "4c78ca27-c046-f1ba-a22a-b4dbbe990447",
+   "pageId": "4c78ca27-c046-f1ba-a22a-b4dbbe990447",
+   "type": "page"
+  },
+  {
+   "title": "Intro",
+   "id": "aaae06d7-3ebf-afad-83d5-afbf52e487f4",
+   "pageId": "aaae06d7-3ebf-afad-83d5-afbf52e487f4",
+   "type": "page"
+  },
+  {
+   "id": "60f839b8-971b-1019-ed91-5313664826d9",
+   "title": "Routes & Params Video",
+   "pageId": "8f0908ec-35ac-a4cb-001a-adee803d0343",
+   "type": "page"
+  },
+  {
+   "id": "86ae9e06-f3d3-71e1-4c4a-c4b2871e3b9d",
+   "title": "Nodemon",
+   "pageId": "20f751d9-93c6-c48d-d7c3-8196215d8b27",
+   "type": "page"
+  },
+  {
+   "id": "2153ac70-0194-9bb8-5502-23768580497d",
+   "title": "Routes",
+   "pageId": "a747d388-20a4-7168-b4a3-9e374aaddbb1",
+   "type": "page"
+  },
+  {
+   "id": "3b30a814-2792-0387-b559-8df04ba22cc8",
+   "title": "Spot Check 1",
+   "pageId": "2f00d4ac-e6e3-ce48-d8f2-d68453706c02",
+   "type": "page"
+  },
+  {
+   "id": "a497b9a8-0f70-90b3-d62d-7a62b4652f93",
+   "title": "Params",
+   "pageId": "5170a0c4-439b-29b2-64ea-543d3f90dfd3",
+   "type": "page"
+  },
+  {
+   "id": "ed8e7391-f39c-7376-cb22-f6a6cdb46972",
+   "title": "Spot Check 2",
+   "pageId": "606f4482-bedc-fc45-fd85-23ad01b4b885",
+   "type": "page"
+  },
+  {
+   "id": "1c41db32-7edf-d74d-14ab-5396a06b8a19",
+   "title": "Params II",
+   "pageId": "b7562c85-bb8c-54fb-1c1e-75c1edf90165",
+   "type": "page"
+  },
+  {
+   "id": "2901dc51-e757-5319-005f-ce86598c9f84",
+   "title": "Spot Check 3",
+   "pageId": "b1333d39-f4e7-d344-054f-a5ff3d77f014",
+   "type": "page"
+  },
+  {
+   "id": "ad1fdc90-6e19-0681-9987-228e79f4bea6",
+   "title": "Serving Files Video",
+   "pageId": "6b20c1a4-7d7f-1a4d-3a25-46c52737b7d2",
+   "type": "page"
+  },
+  {
+   "id": "00072d10-4089-4b24-69dd-308fb52bd7d2",
+   "title": "Serving Files",
+   "pageId": "7b002637-22de-5a1b-6ef4-ff0e2293a74c",
+   "type": "page"
+  },
+  {
+   "id": "30f72331-1420-cd33-6fd8-d5962a2fbf07",
+   "title": "Requests & Routes",
+   "pageId": "18ce1d59-06e8-609a-0dd7-d546081a1ed4",
+   "type": "page"
+  },
+  {
+   "id": "76f768f5-a96e-5273-f86c-54c10f97e2a6",
+   "title": "Working Example Video",
+   "pageId": "5bd5e66a-07dd-18d9-976c-db84043167c3",
+   "type": "page"
+  },
+  {
+   "id": "3bed8120-cf71-07e3-c095-e19dbc733cbb",
+   "title": "Spot Check 4",
+   "pageId": "c0b8ba75-a52d-aa8f-11b9-992b0e45fcf0",
+   "type": "page"
+  },
+  {
+   "id": "e94bbfe4-f64f-8a52-7310-7fd8f6307bfa",
+   "title": "Request & Routes II",
+   "pageId": "14362f58-ef1f-9871-5e72-70e1a5922446",
+   "type": "page"
+  },
+  {
+   "id": "7d2da4ae-3897-dda4-9a11-19006989d5b4",
+   "title": "Recap",
+   "pageId": "2d691e0d-00b9-3e83-7748-15f43bea4555",
+   "type": "page"
+  },
+  {
+   "id": "6b9835d4-e491-7b1a-1e1e-a923cf528d22",
+   "title": "DONE",
+   "pageId": "dd8be49c-13d8-6958-e4af-30c2f940a28d",
+   "type": "page"
+  },
+  {
+   "id": "807f62c5-8a6b-fe08-ee01-9b0315491eb7",
+   "title": "Exercises",
+   "pageId": "ce50b12b-80c5-7d5f-a7a5-cd1daca7b60c",
+   "type": "page"
+  },
+  {
+   "id": "ef753819-ad34-e867-3b2d-0c6eae1cb9d6",
+   "title": "Comprehension Check",
+   "pageId": "d3e92e7c-6971-f855-9486-028658836c2c",
+   "type": "page"
+  }
+ ]
+}

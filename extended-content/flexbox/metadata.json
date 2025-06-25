@@ -1,0 +1,55 @@
+{
+ "sections": [
+  {
+   "id": "d76b7221-4262-c45c-2940-f8b45fe0503a",
+   "title": "Reading Materials",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Reading-Materials-d76b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7f5283d8-8451-de0d-1413-9a5fcda40cca",
+   "title": "Ex 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ex-1-7f52.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3d3d9f28-bd44-f658-67f1-92e6c2af8fa5",
+   "title": "Ex 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ex-2-3d3d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

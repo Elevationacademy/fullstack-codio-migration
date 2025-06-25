@@ -1,0 +1,53 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-545645179",
+  "source": {
+   "name": "1.",
+   "showName": false,
+   "instructions": "Where is Local Storage stored, and what's the deal with stringify/parse?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "42b9052d-76d2-a5f8-3fba-07fc3fff79d0",
+     "correct": false,
+     "answer": "Cache. We use stringify/parse to insert data as a string then extract it normally"
+    },
+    {
+     "_id": "f6139966-63c3-c500-86cd-67d53fbf14be",
+     "correct": false,
+     "answer": "Cache. We use stringify/parse to insert our data in a consistent way"
+    },
+    {
+     "_id": "c4b386b6-b3cc-3f48-e135-b19d0a97acea",
+     "correct": true,
+     "answer": "Browser. We use stringify/parse to insert data as a string then extract it normally"
+    },
+    {
+     "_id": "edcb6b93-2420-a323-4331-bf043c101688",
+     "correct": false,
+     "answer": "Browser. We use stringify/parse to insert our data in a consistent way"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

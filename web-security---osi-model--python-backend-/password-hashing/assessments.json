@@ -1,0 +1,257 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3849677955",
+  "source": {
+   "name": "Example Question",
+   "showName": true,
+   "instructions": "What is this platform?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "3589de84-00a0-eed0-bdca-d3e4aa3e33ed",
+     "correct": false,
+     "answer": "Kernel"
+    },
+    {
+     "_id": "ed9f328b-dfe5-5586-ec39-722231b7aee0",
+     "correct": true,
+     "answer": "Codio"
+    },
+    {
+     "_id": "1e4715ae-3e5b-49b9-97a7-5a1507c6e634",
+     "correct": false,
+     "answer": "Moodle"
+    },
+    {
+     "_id": "9f4a6bfb-21f5-2487-6c6b-fc527b3a800b",
+     "correct": false,
+     "answer": "Google Code"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1402592630",
+  "source": {
+   "name": "Password hashing",
+   "showName": true,
+   "instructions": "What is password hashing?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "1fb6ddda-2e88-18ee-db02-182e021c77dc",
+     "correct": false,
+     "answer": "A concept that makes password hacking difficult"
+    },
+    {
+     "_id": "cb86d2ac-50c8-651e-0d99-d632c106ede7",
+     "correct": false,
+     "answer": "A way to encode strings into gibberish for security purposes"
+    },
+    {
+     "_id": "3ee12d95-9b71-0907-0dce-f18ca3caea5e",
+     "correct": false,
+     "answer": "A validation technique to ensure passwords are secure enough"
+    },
+    {
+     "_id": "3a2e6d5e-5c7f-c834-16f7-7fc462c019ad",
+     "correct": false,
+     "answer": "All of the above"
+    },
+    {
+     "_id": "e59ff32a-e3c0-6697-175c-ac16f887d111",
+     "correct": true,
+     "answer": "A and B"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3068547303",
+  "source": {
+   "name": "BCrypt",
+   "showName": true,
+   "instructions": "BCrypt is a *fast* hashing algorithm",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "85821985-a4e5-78d0-8765-fbde7e1b6e0b",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "6e07227e-cea9-81c6-2654-d63caa583d30",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3654456896",
+  "source": {
+   "name": "Basic Authentication format",
+   "showName": true,
+   "instructions": "What is the format of the *Basic Authentication* response header?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "c54ec659-d9d0-6183-845b-f5ef1303beed",
+     "correct": true,
+     "answer": "\"WWW-Authenticate\": \"Basic\""
+    },
+    {
+     "_id": "66a45f71-3904-a6c4-cfaf-ee69c3877445",
+     "correct": false,
+     "answer": "\"WWW-Authentication\": \"Basic\""
+    },
+    {
+     "_id": "e7fd33d1-139c-18c0-1d91-2ed3f43d859f",
+     "correct": false,
+     "answer": "\"WWW-Authorize\": \"Basic\""
+    },
+    {
+     "_id": "4398dbf3-0e67-456a-dd1a-0051fcc58220",
+     "correct": false,
+     "answer": "\"WWW-Basic\": \"True\""
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3850128582",
+  "source": {
+   "name": "One-way encoding?",
+   "showName": true,
+   "instructions": "Hashing is not reversible, it’s a one-way encoding mechanism",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "7ddd8b7c-c8e6-b163-d24e-e0c8c67c2576",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "7cd5883e-a8ca-bc69-688c-84468f4817a8",
+     "correct": false,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

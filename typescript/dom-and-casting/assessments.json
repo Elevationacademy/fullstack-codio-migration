@@ -1,0 +1,198 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3849677955",
+  "source": {
+   "name": "TypeScript Base Interface",
+   "showName": true,
+   "instructions": "When handling DOM events in TypeScript, what is the name of the base interface that requires casting to be used properly?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "3589de84-00a0-eed0-bdca-d3e4aa3e33ed",
+     "correct": false,
+     "answer": "EventElement"
+    },
+    {
+     "_id": "ed9f328b-dfe5-5586-ec39-722231b7aee0",
+     "correct": false,
+     "answer": "DOMElement"
+    },
+    {
+     "_id": "1e4715ae-3e5b-49b9-97a7-5a1507c6e634",
+     "correct": false,
+     "answer": "HTMLElement"
+    },
+    {
+     "_id": "9f4a6bfb-21f5-2487-6c6b-fc527b3a800b",
+     "correct": true,
+     "answer": "EventTarget"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1066167225",
+  "source": {
+   "name": "TypeScript Casting #1",
+   "showName": true,
+   "instructions": "How do you cast an object to another Class in TypeScript?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "49a19ee1-ca23-4960-ab65-f4afa3256640",
+     "correct": false,
+     "answer": "const element = (HTMLInputElement)document.querySelector('.foo');"
+    },
+    {
+     "_id": "f58476ad-e0fc-b0c0-4d6d-88c86f98267f",
+     "correct": false,
+     "answer": "const element = document.querySelector('.foo')<HTMLInputElement>;"
+    },
+    {
+     "_id": "553a9417-69bb-5692-69cf-c94a04c07ff9",
+     "correct": false,
+     "answer": "const element: HTMLInputElement = document.querySelector('.foo');"
+    },
+    {
+     "_id": "00002117-21fb-eac1-e9d9-9354bfaf152d",
+     "correct": true,
+     "answer": "const element = document.querySelector('.foo') as HTMLInputElement;"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2406756475",
+  "source": {
+   "name": "TypeScript Casting #2",
+   "showName": true,
+   "instructions": "We don’t always have to cast DOM objects to specific classes to be able to use them in TypeScript",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "9512524f-b705-8cfb-1650-84488d092dd6",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "e105835a-d21f-13dc-f237-6c988e8f63da",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "TypeScript Generics can infer the type by the arguments sent to a function",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-236565070",
+  "source": {
+   "name": "Using Generics",
+   "showName": true,
+   "instructions": "You can only use Generics with functions, but not with classes",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "561ae875-7f83-ef4e-7ad9-cd4482596da2",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "8ffa01e0-9b2b-d84f-92f6-46fd9245c3a7",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

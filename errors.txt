@@ -1,0 +1,70 @@
+ERROR: web-security---osi-model--python-backend-/cookies.tar.zst
+Traceback (most recent call last):
+  File "c:\Users\User\OneDrive\Desktop\fullstack-codio-migration\migration.py", line 20, in extract_tar_zst
+    tar.extractall(path=extract_to)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\tarfile.py", line 2265, in extractall
+    self._extract_one(tarinfo, path, set_attrs=not tarinfo.isdir(),
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\tarfile.py", line 2328, in _extract_one
+    self._extract_member(tarinfo, os.path.join(path, tarinfo.name),
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\tarfile.py", line 2411, in _extract_member
+    self.makefile(tarinfo, targetpath)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\tarfile.py", line 2455, in makefile
+    source.seek(tarinfo.offset_data)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\tarfile.py", line 521, in seek
+    raise StreamError("seeking backwards is not allowed")
+tarfile.StreamError: seeking backwards is not allowed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\User\OneDrive\Desktop\fullstack-codio-migration\migration.py", line 22, in extract_tar_zst
+    compressed.seek(0)
+ValueError: seek of closed file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\User\OneDrive\Desktop\fullstack-codio-migration\migration.py", line 167, in main
+    chapter_name, chapter_title, links = process_chapter(module_name, chapter_file)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\User\OneDrive\Desktop\fullstack-codio-migration\migration.py", line 92, in process_chapter
+    extract_tar_zst(chapter_tar_path, tmp_extract_path)
+  File "c:\Users\User\OneDrive\Desktop\fullstack-codio-migration\migration.py", line 27, in extract_tar_zst
+    raise RuntimeError(f"Failed to extract {tar_zst_path}: {e}")
+RuntimeError: Failed to extract C:\Users\User\Downloads\FS-course-unzipped\web-security---osi-model--python-backend-\cookies.tar.zst: seek of closed file
+
+ERROR: web-security---osi-model--python-backend-/http-protocol.tar.zst
+Traceback (most recent call last):
+  File "c:\Users\User\OneDrive\Desktop\fullstack-codio-migration\migration.py", line 20, in extract_tar_zst
+    tar.extractall(path=extract_to)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\tarfile.py", line 2265, in extractall
+    self._extract_one(tarinfo, path, set_attrs=not tarinfo.isdir(),
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\tarfile.py", line 2328, in _extract_one
+    self._extract_member(tarinfo, os.path.join(path, tarinfo.name),
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\tarfile.py", line 2411, in _extract_member
+    self.makefile(tarinfo, targetpath)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\tarfile.py", line 2455, in makefile
+    source.seek(tarinfo.offset_data)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\tarfile.py", line 521, in seek
+    raise StreamError("seeking backwards is not allowed")
+tarfile.StreamError: seeking backwards is not allowed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\User\OneDrive\Desktop\fullstack-codio-migration\migration.py", line 22, in extract_tar_zst
+    compressed.seek(0)
+ValueError: seek of closed file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\User\OneDrive\Desktop\fullstack-codio-migration\migration.py", line 167, in main
+    chapter_name, chapter_title, links = process_chapter(module_name, chapter_file)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\User\OneDrive\Desktop\fullstack-codio-migration\migration.py", line 92, in process_chapter
+    extract_tar_zst(chapter_tar_path, tmp_extract_path)
+  File "c:\Users\User\OneDrive\Desktop\fullstack-codio-migration\migration.py", line 27, in extract_tar_zst
+    raise RuntimeError(f"Failed to extract {tar_zst_path}: {e}")
+RuntimeError: Failed to extract C:\Users\User\Downloads\FS-course-unzipped\web-security---osi-model--python-backend-\http-protocol.tar.zst: seek of closed file
+

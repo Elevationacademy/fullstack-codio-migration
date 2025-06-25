@@ -1,0 +1,70 @@
+{
+ "sections": [
+  {
+   "id": "95c7ef14-28e1-9e9d-a4c1-fac5e6a444db",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-95c7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d440dce9-713f-bdbf-6c04-130304f18c01",
+   "title": "Download, Install, and Run MySQL",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Download--Install--and-Run-MySQL-d440.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "8eea4fc6-b592-fc41-71bb-83192451a901",
+   "title": "VS Code Setup",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/VS-Code-Setup-8eea.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "1f38214a-d53c-a488-d026-604651c8916e",
+   "title": "First Table Validation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/First-Table-Validation-1f38.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

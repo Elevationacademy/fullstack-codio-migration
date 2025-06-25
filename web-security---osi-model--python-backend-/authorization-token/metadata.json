@@ -1,0 +1,81 @@
+{
+ "sections": [
+  {
+   "id": "cfdbca13-dc0f-d92e-2a7c-d3829bc21570",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-cfdb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0b88440f-22de-e9d8-b2d5-d17007864461",
+   "title": "Authorization token in FastAPI",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Authorization-token-in-FastAPI-0b88.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "331b97d2-f039-85c3-d722-09491afcc57d",
+   "title": "Simple app using token authorization",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Simple-app-using-token-authorization-331b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "8d9cb8dc-42c2-5164-39e9-f999367f227e",
+   "title": "Exercise",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercise-8d9c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "82444b1f-412f-8597-fbab-53a076da97e2",
+   "title": "Comprehension check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-check-8244.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

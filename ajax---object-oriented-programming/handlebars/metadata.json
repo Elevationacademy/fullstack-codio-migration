@@ -1,0 +1,118 @@
+{
+ "sections": [
+  {
+   "id": "d0d3827e-b643-bee8-509a-1a600baad806",
+   "title": "Handlebars Video",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Handlebars-Video-d0d3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e20ea731-8b63-c15a-3942-f17e2be7f37c",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-e20e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "dde5a5c1-aa35-4ef5-38f3-5b826ecd3a2f",
+   "title": "What's a Template",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-s-a-Template-dde5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b7b04f1b-a230-8267-22fc-4d2e9cbcf39c",
+   "title": "Handlebars Methods Video",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Handlebars-Methods-Video-b7b0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5fa8bb98-2035-daa5-cb66-81de3d71f45f",
+   "title": "Logic",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Logic-5fa8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "368804ed-0699-767d-4f77-a9f54c5af059",
+   "title": "Multiple Templates",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Multiple-Templates-3688.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c322abdb-662c-5c85-b6d2-b4a1f61f738e",
+   "title": "Apartment Seller Mini Project",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Apartment-Seller-Mini-Project-c322.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "8801281c-56f4-5efc-1822-4393155c0d43",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-8801.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

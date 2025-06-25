@@ -1,0 +1,53 @@
+{
+ "name": "CSS 3: Variables & Animations",
+ "children": [
+  {
+   "title": "Variables Overview",
+   "id": "2b75ecd3-1feb-d7cc-d91a-ff19ad33825b",
+   "pageId": "2b75ecd3-1feb-d7cc-d91a-ff19ad33825b",
+   "type": "page"
+  },
+  {
+   "title": "Intro",
+   "id": "aa8841c2-6fd4-e8fa-8467-bc091008ec37",
+   "pageId": "aa8841c2-6fd4-e8fa-8467-bc091008ec37",
+   "type": "page"
+  },
+  {
+   "id": "b70e7a85-fd70-c6be-2fd9-d996091ff62f",
+   "title": "Spot Check 1",
+   "pageId": "60af27c1-ed0c-b8d3-13af-662c1c61f142",
+   "type": "page"
+  },
+  {
+   "id": "ce158e7b-dd77-3bc5-e9f9-de3f58f1aca7",
+   "title": "Animations Overview",
+   "pageId": "fd320030-ce56-ecb6-411a-c2da0832e9e8",
+   "type": "page"
+  },
+  {
+   "id": "4e3a9305-3f32-48b8-370b-56cb53facc98",
+   "title": "Animations",
+   "pageId": "4a49ca56-fa72-01ca-3f41-028b12d05df4",
+   "type": "page"
+  },
+  {
+   "id": "5cdb4ea8-b490-198a-101d-16b85b659e80",
+   "title": "Spot Check 2",
+   "pageId": "ce579096-048a-9bcc-aa00-eb2b707b7d04",
+   "type": "page"
+  },
+  {
+   "id": "8d7a3041-729d-7d68-76d6-cd92434c62c6",
+   "title": "Animations II",
+   "pageId": "9ca46526-4e99-1e94-f889-6114731ebfa1",
+   "type": "page"
+  },
+  {
+   "id": "1fb1d31a-14fa-8afc-65a8-61ac05b66a50",
+   "title": "Exercises",
+   "pageId": "7ed95f08-b7cc-4298-cc48-ebc72ca3063a",
+   "type": "page"
+  }
+ ]
+}

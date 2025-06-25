@@ -1,0 +1,58 @@
+{
+ "sections": [
+  {
+   "id": "39e88ed8-18ba-3435-5173-c36b1e3bc69c",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-39e8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "620df94b-b3d0-4f16-7e32-470003891372",
+   "title": "Socket IO",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Socket-IO-620d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e63146b0-20d8-09d4-bc2b-66636fb3068b",
+   "title": "Game Structure",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Game-Structure-e631.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

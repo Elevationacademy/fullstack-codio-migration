@@ -1,0 +1,55 @@
+{
+ "sections": [
+  {
+   "id": "d5955d35-d76e-4608-25d5-79da6ecacc37",
+   "title": "Intro & Version Control",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro---Version-Control-d595.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4b26b8fd-78e7-b4ab-e811-f7432ac783c2",
+   "title": "Sign up",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Sign-up-4b26.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "1bc494d4-07ee-53ec-1b0c-b1fae3032d00",
+   "title": "Add SSH key (optional)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Add-SSH-key--optional--1bc4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

@@ -1,0 +1,53 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-817414874",
+  "source": {
+   "name": "Comprehension Check",
+   "showName": false,
+   "instructions": "What does `@media(max-width: 768px)` mean?",
+   "multipleResponse": false,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "493d9f14-7072-9330-a826-d6756825eb35",
+     "correct": false,
+     "answer": "The max-width of the page is 768px"
+    },
+    {
+     "_id": "01bd414b-3952-b36d-4ced-56055dcde86a",
+     "correct": false,
+     "answer": "At 768px or more, we will apply different CSS"
+    },
+    {
+     "_id": "13401000-5651-f1cb-4e15-ffa152caabde",
+     "correct": true,
+     "answer": "At 768px or fewer, we will apply different CSS"
+    },
+    {
+     "_id": "ea6d85a4-587d-32fa-9b08-60a18075554b",
+     "correct": false,
+     "answer": "At exactly 768px, we will apply different CSS"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

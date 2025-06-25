@@ -1,0 +1,8 @@
+{
+  "from": "Bob",
+  "to": "Alice",
+  "amount": 10.5,
+  "creditNum": "1234 5678 9999 0000",
+  "expiration": "0626",
+  "CVV": "123"
+}

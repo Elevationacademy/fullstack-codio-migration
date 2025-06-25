@@ -1,0 +1,17 @@
+{
+ "name": "Mongo DB Intro - Solutions",
+ "children": [
+  {
+   "title": "Solutions",
+   "id": "55a3b3ef-7aad-c3d3-9da4-fe3531418af2",
+   "pageId": "55a3b3ef-7aad-c3d3-9da4-fe3531418af2",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "4d23d558-2bb4-901e-9132-dc64d23c6b3a",
+   "pageId": "4d23d558-2bb4-901e-9132-dc64d23c6b3a",
+   "type": "page"
+  }
+ ]
+}

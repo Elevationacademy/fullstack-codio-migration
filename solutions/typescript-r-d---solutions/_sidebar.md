@@ -1,0 +1,2 @@
+- Typescript R D   Solutions
+  - [Solution](./Solution.md "Solution")

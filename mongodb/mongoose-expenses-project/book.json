@@ -1,0 +1,59 @@
+{
+ "name": "Mongoose Expenses Project",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "3ca8d086-81a9-8bf7-5c86-784ff1a43dc0",
+   "pageId": "3ca8d086-81a9-8bf7-5c86-784ff1a43dc0",
+   "type": "page"
+  },
+  {
+   "title": "Project Setup",
+   "id": "d155bcd2-a1e2-4d9f-0897-d74e83ad8deb",
+   "pageId": "d155bcd2-a1e2-4d9f-0897-d74e83ad8deb",
+   "type": "page"
+  },
+  {
+   "id": "4d401475-8330-96a1-5b43-5eb44c810656",
+   "title": "Getting Expenses",
+   "pageId": "a5113677-b63a-39ce-e8f3-966db2016d39",
+   "type": "page"
+  },
+  {
+   "id": "1a3edab3-c03a-8d7a-1387-07337bf43468",
+   "title": "Add New Expenses",
+   "pageId": "a06a2423-3e6c-5d61-037e-a7b35c0d5f30",
+   "type": "page"
+  },
+  {
+   "id": "ca10383b-7680-0f7a-4a53-36846d034442",
+   "title": "Update Expenses",
+   "pageId": "f67c46fc-1d40-f4e8-bb39-5c4fda0c7757",
+   "type": "page"
+  },
+  {
+   "id": "ab696ce3-d1e7-1374-d074-57513e3d40c8",
+   "title": "Expenses By Group",
+   "pageId": "862a5c61-5c47-137c-13f9-f7811096ff63",
+   "type": "page"
+  },
+  {
+   "id": "8484bfea-b55d-02ce-1597-a0628d77ee86",
+   "title": "Get All Expenses For A Date Range",
+   "pageId": "69878fd6-5dca-263b-4943-da6937eaddd0",
+   "type": "page"
+  },
+  {
+   "id": "2936c845-e647-d9da-83bc-47dd523ef6e4",
+   "title": "Extension - UI",
+   "pageId": "f0f8d979-bf8a-afe3-2321-a36a8ab01754",
+   "type": "page"
+  },
+  {
+   "id": "4e5c02d7-e52e-7264-46c3-c2203b9ab82e",
+   "title": "Done",
+   "pageId": "caf6f800-6cab-e075-ae6e-a9a2149a1728",
+   "type": "page"
+  }
+ ]
+}

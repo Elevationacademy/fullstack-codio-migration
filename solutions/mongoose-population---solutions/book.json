@@ -1,0 +1,17 @@
+{
+ "name": "Mongoose Population - Solutions",
+ "children": [
+  {
+   "title": "Solutions",
+   "id": "bd3795f9-2601-7cb3-43a7-17c95e751e05",
+   "pageId": "bd3795f9-2601-7cb3-43a7-17c95e751e05",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "20500f61-9a82-1f38-91b7-b1812897af06",
+   "pageId": "20500f61-9a82-1f38-91b7-b1812897af06",
+   "type": "page"
+  }
+ ]
+}

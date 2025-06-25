@@ -1,0 +1,178 @@
+{
+ "sections": [
+  {
+   "id": "779dd8de-3b8c-0f7e-fdcd-c803a75619b8",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-779d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "83f31c6f-ad74-ea40-b3b6-fd9f124b0b22",
+   "title": "What Are Trees",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-Are-Trees-83f3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b0780882-18b5-957d-98f7-32f72ee97a71",
+   "title": "Parts Of A Tree",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Parts-Of-A-Tree-b078.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "90066188-0072-6522-2124-e5abe9996418",
+   "title": "Create A Tree",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Create-A-Tree-9006.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5fef4762-48d9-db34-488c-117af3b86ce6",
+   "title": "Spot Check 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-1-5fef.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a5a49a73-edaf-9fe5-cd00-28ebb908fbcf",
+   "title": "Binary Search Tree",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Binary-Search-Tree-a5a4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f8d57fd2-c68e-0639-991d-c3f738c97907",
+   "title": "Inserting A Node",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Inserting-A-Node-f8d5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "1afbe3e3-ab4b-c1b3-efb3-f046790f4d80",
+   "title": "Spot Check 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-2-1afb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "8925132c-8bc6-0c53-ba26-456dad434d7b",
+   "title": "Binary Search Tree Complexity",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Binary-Search-Tree-Complexity-8925.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "01705097-d25d-f78b-49d9-5aea9a7c4eb8",
+   "title": "Keeping Balance",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Keeping-Balance-0170.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "84688e18-c38d-3158-a152-337b2a35bc76",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-8468.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e4990c8d-9025-888b-bf7b-87b48f281858",
+   "title": "Extension",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Extension-e499.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "36987524-e1eb-7e2e-3e7a-922e59b3011e",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-3698.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

@@ -1,0 +1,106 @@
+{
+ "sections": [
+  {
+   "id": "e0cc24ac-e890-95fe-9950-9b96d5a2afcd",
+   "title": "JSON Video",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/JSON-Video-e0cc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0c813e15-435e-5e0d-fb4b-525e91bb0a7e",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-0c81.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3cefb56a-230a-d70c-671b-67e07aa5ac68",
+   "title": "What is JSON?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-is-JSON--3cef.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "69e13899-7b1b-a693-1223-b5427da9d827",
+   "title": "Rules & Order",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Rules---Order-69e1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3a50a6eb-b6c9-cdda-b2bd-ed4c43d1a8b6",
+   "title": "Classic Example",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Classic-Example-3a50.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d8944330-a202-89e6-5a26-0b473fa9d564",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-d894.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "cf31cc6d-788d-1aa1-f463-46c211081378",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-cf31.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

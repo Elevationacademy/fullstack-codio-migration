@@ -1,0 +1,1 @@
+These are a few of the advanced features of MobX, but like most libraries there is even more to uncover. With the tools you have now, you should be able to build scale-able, efficient React-MobX apps. Awesome!

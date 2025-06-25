@@ -1,0 +1,53 @@
+{
+ "name": "Handlebars",
+ "children": [
+  {
+   "title": "Handlebars Video",
+   "id": "d0d3827e-b643-bee8-509a-1a600baad806",
+   "pageId": "d0d3827e-b643-bee8-509a-1a600baad806",
+   "type": "page"
+  },
+  {
+   "title": "Intro",
+   "id": "e20ea731-8b63-c15a-3942-f17e2be7f37c",
+   "pageId": "e20ea731-8b63-c15a-3942-f17e2be7f37c",
+   "type": "page"
+  },
+  {
+   "id": "143d8403-db09-8c19-d570-5487feb1820f",
+   "title": "What's a Template",
+   "pageId": "dde5a5c1-aa35-4ef5-38f3-5b826ecd3a2f",
+   "type": "page"
+  },
+  {
+   "id": "8c8e1a54-190a-4887-e435-614bf53bffcd",
+   "title": "Handlebars Methods Video",
+   "pageId": "b7b04f1b-a230-8267-22fc-4d2e9cbcf39c",
+   "type": "page"
+  },
+  {
+   "id": "6d9da400-04e1-e236-6717-f50a45ab18c7",
+   "title": "Logic",
+   "pageId": "5fa8bb98-2035-daa5-cb66-81de3d71f45f",
+   "type": "page"
+  },
+  {
+   "id": "9ec64aec-f611-2f13-99b6-35f460873b3c",
+   "title": "Multiple Templates",
+   "pageId": "368804ed-0699-767d-4f77-a9f54c5af059",
+   "type": "page"
+  },
+  {
+   "id": "7b73ac3d-3b21-7040-6f7a-8233cca626da",
+   "title": "Apartment Seller Mini Project",
+   "pageId": "c322abdb-662c-5c85-b6d2-b4a1f61f738e",
+   "type": "page"
+  },
+  {
+   "id": "ff00ce9d-1395-cf45-8092-f6adc9db3861",
+   "title": "Comprehension Check",
+   "pageId": "8801281c-56f4-5efc-1822-4393155c0d43",
+   "type": "page"
+  }
+ ]
+}

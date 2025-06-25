@@ -1,0 +1,7 @@
+Strict-mode in TypeScript is different than ‘use strict’ in JavaScript. In general terms, if you set `”strict”: true` in TypeScript, then it will place `”use strict”;` at the top of your JavaScript code.
+
+However, using TypeScript, you have the power to control more granular strict options. The common attributes are explained below (these configurations appear in the ‘tsconfig.json’ file):
+- **noImplicitAny.** If this attribute is set to true, then function parameters without a type will throw an exception, as TypeScript will use them as ‘any’ type which basically means the compiler will ignore type-checking this attribute
+- **noImplicitThis.** If this attribute is set to true, the when ‘this’ is used within a function, it must be type-defined. You can use two methods to resolve this, either by defining the first property in the function to read `x(this: {type})` or by using an arrow function
+- **strictNullChecks.** If this attribute is set to true, when you set a type for a variable, TypeScript will require you to always have some value set to it, if you’d like to add an ability to hold a ‘null’ value at some point, you will need to define a variable to a specific type OR a ‘null’ value, e.g. 
+`let first_name: string | null = "John"`

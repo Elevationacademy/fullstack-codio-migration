@@ -1,0 +1,29 @@
+{
+ "name": "Decorators",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "fd0c5ecd-8a0e-06aa-7338-f77f2ede09d0",
+   "type": "page",
+   "pageId": "fd0c5ecd-8a0e-06aa-7338-f77f2ede09d0"
+  },
+  {
+   "title": "Simple Decorator",
+   "id": "16e524b6-079c-1c68-4f4e-0ec6cce2437c",
+   "type": "page",
+   "pageId": "356ba472-587d-0f84-4fdd-41069ca21b24"
+  },
+  {
+   "title": "Decorators",
+   "id": "fc064250-fb3f-68b4-abb4-07f52d261408",
+   "type": "page",
+   "pageId": "fc064250-fb3f-68b4-abb4-07f52d261408"
+  },
+  {
+   "title": "Exercises",
+   "id": "273d3963-9a6a-7b09-7a3c-4c1905ca1e7d",
+   "type": "page",
+   "pageId": "6d82789b-cd83-3905-8082-0665c60bc7db"
+  }
+ ]
+}

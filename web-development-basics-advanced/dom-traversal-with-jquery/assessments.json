@@ -1,0 +1,134 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2625854858",
+  "source": {
+   "name": "1.",
+   "showName": true,
+   "instructions": "Given the following code, which of the following will alert the correct value?\n```\n<div class=\"container\">\n    <input class=\"username\" type=\"text\" />\n    <button class=\"btn\">Submit</button>\n﻿</div>\n<div class=\"container\">\n    <input class=\"username\" type=\"text\" />\n    <button class=\"btn\">Submit</button>\n</div>\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "4ad8306a-aa7c-014c-6590-2b026c232a07",
+     "correct": true,
+     "answer": "```$( \".btn\" ) .on ( \"click\" , function () { alert ( $ ( this ) .closest ( \".container\" ) .find ( \".username\" ) .val () )})```"
+    },
+    {
+     "_id": "df99a600-c28d-b7ee-9a75-86a311649083",
+     "correct": false,
+     "answer": "```$( \".btn\" ) .on ( \"click\" , () => { alert ( $ ( this ) .closest ( \".container\" ) .find ( \".username\" ) .val () )})```"
+    },
+    {
+     "_id": "9ec6e69b-a904-92f3-124a-3fd0c6431195",
+     "correct": false,
+     "answer": "Either a or b"
+    },
+    {
+     "_id": "39fc2263-5611-2dd0-ca73-1b0c601af937",
+     "correct": false,
+     "answer": "None of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4048606506",
+  "source": {
+   "name": "2.",
+   "showName": true,
+   "instructions": "What will happen here?\n```\n//HTML\n<div id=\"main\">\n    <p class=\"nalo\"></p>\n    <h1 id=\"corq\">Pop</h1>\n</div> \n\n//JS\nlet x = \"flap\"\nlet y = {a: \"shlop\", x: \"dub\"}\nconst all = [x, y]\n\nx = all[1].x\n$(\"#corq\").siblings(\".nalo\").append(\"<div>\" + x + \" - Ryk</div>\")\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "1b7df1b4-43fc-4556-4a63-3482ad1ba8a8",
+     "correct": false,
+     "answer": "Throws an error"
+    },
+    {
+     "_id": "ccd24698-6ccf-6797-5ccc-a5a2c8410120",
+     "correct": false,
+     "answer": "Nothing"
+    },
+    {
+     "_id": "b045bbcb-3ced-6e4a-f9d0-74fd25820829",
+     "correct": false,
+     "answer": "The `p` changes to ```<p class='nalo'>dub - Ryk</p>```"
+    },
+    {
+     "_id": "dfc86dc2-2abd-6cb7-ae69-07e9aec6cde4",
+     "correct": false,
+     "answer": "The `p` changes to ```<p class='nalo'>flap - Ryk</p>```"
+    },
+    {
+     "_id": "a65c7785-1e63-6697-40fc-82b263d079fe",
+     "correct": false,
+     "answer": "The `p` changes to ```<p class='nalo'>undefined - Ryk</p>```"
+    },
+    {
+     "_id": "4f7f8597-fd4a-845f-2b60-4495f66c497a",
+     "correct": false,
+     "answer": "The `p` changes to ```<p class='nalo'>[objectObject] - Ryk</p>```"
+    },
+    {
+     "_id": "5d0c071d-6c5d-c423-6b11-f69a213104c6",
+     "correct": true,
+     "answer": "The `p` changes to ```<p class='nalo'><div>dub - Ryk</div></p>```"
+    },
+    {
+     "_id": "c74c546a-cfb5-dc6e-7c1d-6c9f243b62f4",
+     "correct": false,
+     "answer": "The `p` changes to ```<p class='nalo'><div>flap - Ryk</div></p>```"
+    },
+    {
+     "_id": "f9ea374e-9860-433f-3b32-35f2dc5ec692",
+     "correct": false,
+     "answer": "The `p` changes to ```<p class='nalo'><div>undefined - Ryk</div></p>```"
+    },
+    {
+     "_id": "52415f23-e0b5-d15e-c75d-df742f084ee4",
+     "correct": false,
+     "answer": "The `p` changes to ```<p class='nalo'><div>[objectObject] - Ryk</div></p>```"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

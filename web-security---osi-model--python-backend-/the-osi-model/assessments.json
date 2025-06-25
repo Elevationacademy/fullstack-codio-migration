@@ -1,0 +1,466 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-554853316",
+  "source": {
+   "name": "Firewall rule I",
+   "showName": true,
+   "instructions": "Given the subnet represented by 10.0.0.0/16. Which of the following firewall rules allow traffic between any two hosts in this subnet? \n\n| action | source addr  | destination addr | protocol  |  port  | \n|---------|----------|----------|----------|----------|\n",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "13621245-3903-08cd-349b-8563649088b6",
+     "correct": false,
+     "answer": "allow 10.0.0.0/0   10.0.0.0/24 *  *"
+    },
+    {
+     "_id": "e94e1fc5-5700-8086-b2c5-026e575a083e",
+     "correct": true,
+     "answer": "allow 10.0.0.0/16   10.0.0.0/16 *  *"
+    },
+    {
+     "_id": "0656d91d-e1f3-a69f-d356-c7d172eec326",
+     "correct": false,
+     "answer": "allow 10.0.0.0/16   10.0.0.0/16 TCP  *"
+    },
+    {
+     "_id": "7d22bb6f-6f75-5076-d8d1-9f9f57f91022",
+     "correct": false,
+     "answer": "allow 10.0.0.0/0   10.0.0.0/0 *  *"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-473333285",
+  "source": {
+   "name": "Client and Server",
+   "showName": false,
+   "instructions": "For a communication session between a pair of programs, which program is the client and which is the server?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "2a1a588b-5960-4f03-4408-83a0c7b74fa0",
+     "correct": true,
+     "answer": "The program that initializes the TCP connection is the client"
+    },
+    {
+     "_id": "57fbbc20-e45b-54cb-dd65-5f27b9cf622d",
+     "correct": false,
+     "answer": "The program that initializes the TCP connection is the server"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-632637308",
+  "source": {
+   "name": "Number of hosts in a subnet",
+   "showName": true,
+   "instructions": "How many different hosts can be connected to the subnet denoted by 10.0.1.0/24?\n\nHint: use the [following tool](https://cidr.xyz/).",
+   "multipleResponse": false,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "4e25aa09-0712-da16-6539-77035256158e",
+     "correct": true,
+     "answer": "256"
+    },
+    {
+     "_id": "04061ad2-951b-e412-b903-46a93730f9ed",
+     "correct": false,
+     "answer": "24"
+    },
+    {
+     "_id": "cab90262-c27f-8d3d-2c20-158706dc0c33",
+     "correct": false,
+     "answer": "1024"
+    },
+    {
+     "_id": "7623fd20-e771-a676-d409-248aba8dfda2",
+     "correct": false,
+     "answer": "255"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3640941897",
+  "source": {
+   "name": "UDP services",
+   "showName": true,
+   "instructions": "Which of the following services are guaranteed by UDP?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "c1d5c67b-d022-bdaf-5e9f-471aa0753a53",
+     "correct": false,
+     "answer": "Control packet order flow"
+    },
+    {
+     "_id": "61ec8bab-89ab-fa38-2431-29c150f044ca",
+     "correct": false,
+     "answer": "Detect corrupted packets"
+    },
+    {
+     "_id": "b4590989-5d3f-7ca0-4893-ce302002e158",
+     "correct": false,
+     "answer": "Make sure all packets have been transferred"
+    },
+    {
+     "_id": "e0e65f33-8fb2-a33a-9c68-660ddbab4e49",
+     "correct": true,
+     "answer": "None of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-817288017",
+  "source": {
+   "name": "Whatsup voice calls",
+   "showName": true,
+   "instructions": "WhatsUp voice call feature has two major components:\n\n1. Call manager - responsible to initialize the call to the destined participant, to ring, and to start the conversation session once the two sides are on-line. \n1. Call streamer - responsible to transmit the recorded voice buffer between participants.\n\nChoose *the most suitable* underlying protocol for each component: ",
+   "multipleResponse": false,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "bb536f42-5ae1-bf37-0a80-eb5658859863",
+     "correct": true,
+     "answer": "The call manager relying on TCP while the streamer on UDP"
+    },
+    {
+     "_id": "71671ca7-4b49-4cb7-59d6-0877fe6f4b3b",
+     "correct": false,
+     "answer": "The call manager relying on UDP while the streamer on TCP"
+    },
+    {
+     "_id": "a9b4a113-0b38-b003-28b5-ab97477b38e2",
+     "correct": false,
+     "answer": "Both components relying on TCP"
+    },
+    {
+     "_id": "3b3852a9-31bb-7905-5cde-cad32c2c242e",
+     "correct": false,
+     "answer": "Both components relying on UDP"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2199460019",
+  "source": {
+   "name": "Firewall rule II",
+   "showName": true,
+   "instructions": "![alt text](.guides/img/subnet.png)\n\nChoose a firewall rule which allows SSH traffic over port 22 from any host in the subnet defined by 10.1.3.0/24 to the host 10.1.2.1 (only to this single host). \n\n| action | source addr  | destination addr | protocol  |  port  | \n|---------|----------|----------|----------|----------|",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "e1f9061a-9f81-46c4-7fc3-17560acd157f",
+     "correct": false,
+     "answer": "Allow 10.1.3.0/24 10.1.2.1/24 * 22"
+    },
+    {
+     "_id": "627dd163-77cb-cf9b-ceaa-46e28648ece9",
+     "correct": true,
+     "answer": "Allow 10.1.3.0/24 10.1.2.1/32 SSH 22"
+    },
+    {
+     "_id": "704ccfde-43e9-cf5a-1178-2010921b8601",
+     "correct": false,
+     "answer": "Allow 10.1.3.0/24 10.1.2.0/24 SSH 22"
+    },
+    {
+     "_id": "3bff2e3d-44da-3791-8ae6-ea30e51c4104",
+     "correct": false,
+     "answer": "Allow 10.1.3.0 10.1.2.1 SSH 22"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1898487067",
+  "source": {
+   "name": "CIDR I",
+   "showName": true,
+   "instructions": "Which of the following subnet in most specifically describes the following list of hosts IP:\n\n1. 172.31.8.17\n1. 172.31.37.152\n1. 172.31.33.152\n1. 172.31.42.73\n1. 172.31.8.46",
+   "multipleResponse": false,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "f0d67e2a-d14b-fd57-c34e-33fd244bdcf5",
+     "correct": true,
+     "answer": "172.31.0.0/16"
+    },
+    {
+     "_id": "57646526-947d-490e-c2aa-e4a2eb3a89d5",
+     "correct": false,
+     "answer": "172.31.0.0/24"
+    },
+    {
+     "_id": "6b1b855d-7498-ec37-1644-cad0f148caa2",
+     "correct": false,
+     "answer": "172.31.8.0/24"
+    },
+    {
+     "_id": "5f9ea6ea-e73e-02a7-3cfe-cdd62b4d360c",
+     "correct": false,
+     "answer": "172.0.0.0/16"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-826150773",
+  "source": {
+   "name": "q8",
+   "showName": true,
+   "instructions": "Suppose you wanted to do a transaction from a remote client to a server as\nfast as possible. Would you use UDP or TCP?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "4c5f748a-72e6-04f5-6001-59f9787c67fb",
+     "correct": true,
+     "answer": "a"
+    },
+    {
+     "_id": "473053a3-eaf8-4a13-15ee-901b9b78ca00",
+     "correct": false,
+     "answer": "a"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2665356685",
+  "source": {
+   "name": "The OSI Layers",
+   "showName": true,
+   "instructions": "",
+   "showValues": false,
+   "text": "In the <<<link>>> layer, bits are passing from one node to another, for example using wires. The <<<transport>>> layer handles the delivery of segments from the application layer, in a reliable or unreliable way. Then comes the <<<network>>> layer which responsible to move packets from the source host to the destination host.\nLastly, the <<<application>>> layer handles messages from a variety of network applications such as Outlook mail.",
+   "distractors": "",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Fill in the Blanks"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": "",
+   "tokens": {
+    "blank": [
+     "link",
+     "transport",
+     "network",
+     "application"
+    ],
+    "text": [
+     "In the ",
+     0,
+     " layer, bits are passing from one node to another, for example using wires. The ",
+     0,
+     " layer handles the delivery of segments from the application layer, in a reliable or unreliable way. Then comes the ",
+     0,
+     " layer which responsible to move packets from the source host to the destination host.\nLastly, the ",
+     0,
+     " layer handles messages from a variety of network applications such as Outlook mail."
+    ],
+    "regexPositions": []
+   }
+  }
+ }
+]

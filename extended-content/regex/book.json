@@ -1,0 +1,35 @@
+{
+ "name": "RegExr",
+ "children": [
+  {
+   "title": "Reading Materials",
+   "id": "7e19d5d3-b3e0-f8ee-444b-4635aa126c28",
+   "type": "page",
+   "pageId": "b60bb951-2e00-2e4c-be0e-c6ee13fd77de"
+  },
+  {
+   "title": "Exercise 1",
+   "id": "59377cb5-ec7b-8504-0011-a80293abe4f3",
+   "type": "page",
+   "pageId": "59377cb5-ec7b-8504-0011-a80293abe4f3"
+  },
+  {
+   "title": "Exercise 2",
+   "id": "69bc8826-6be5-d40a-153d-a49ca8e9ea94",
+   "type": "page",
+   "pageId": "69bc8826-6be5-d40a-153d-a49ca8e9ea94"
+  },
+  {
+   "title": "Exercise 3",
+   "id": "681f609d-6ad5-fe5a-cf11-341af4fabd6c",
+   "type": "page",
+   "pageId": "afa01e4f-3830-9097-1610-eef3cd733277"
+  },
+  {
+   "id": "6ab09241-29e4-d19d-3703-f42d5610d8de",
+   "title": "Exercise 4",
+   "pageId": "fe6bcbe3-422c-ca7b-9f88-32c491633a78",
+   "type": "page"
+  }
+ ]
+}

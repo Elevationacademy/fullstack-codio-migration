@@ -1,0 +1,77 @@
+{
+ "name": "Git Branches",
+ "children": [
+  {
+   "title": "Local Branches - Overview",
+   "id": "7b079fe9-9d79-730b-5a32-14ded4d3a0a3",
+   "type": "page",
+   "pageId": "2bdc166f-9401-430d-fc80-d380a26eb3a1"
+  },
+  {
+   "id": "96231abb-26e0-1056-2300-2901ba1d4c97",
+   "title": "Intro",
+   "pageId": "1170cd66-fb71-b72b-39c9-d84389215776",
+   "type": "page"
+  },
+  {
+   "id": "11019ca8-57c5-f86f-4d64-4b36576b38b8",
+   "title": "What are Branches?",
+   "pageId": "d5813a9a-782b-4664-c833-b39b3e83c151",
+   "type": "page"
+  },
+  {
+   "id": "b8865ea4-5dce-dafc-d7b7-e7379bd31b5f",
+   "title": "Why do we need Branches?",
+   "pageId": "f38ad6e1-7e6d-854a-ca3b-2e03d87aa146",
+   "type": "page"
+  },
+  {
+   "title": "Proper Branching Methodology",
+   "id": "7049bd20-f9bf-87b7-06dd-bee6b8bf2be1",
+   "type": "page",
+   "pageId": "7049bd20-f9bf-87b7-06dd-bee6b8bf2be1"
+  },
+  {
+   "title": "Branching Commands",
+   "id": "615a7346-a885-7cf2-ad8a-3778768b0bfa",
+   "type": "page",
+   "pageId": "615a7346-a885-7cf2-ad8a-3778768b0bfa"
+  },
+  {
+   "title": "Remote Branches - Overview",
+   "id": "9d40effc-757c-d713-39ea-062f8590a041",
+   "type": "page",
+   "pageId": "5ef37f5d-d6d8-04f5-360b-0b3e5b593ded"
+  },
+  {
+   "title": "Remote Branches",
+   "id": "6a8d85bc-e9ec-92dd-6e9e-060cee28374a",
+   "type": "page",
+   "pageId": "5b69a01e-1232-cb30-5fa5-84c441fb2fa6"
+  },
+  {
+   "title": "Merging",
+   "id": "f1520949-6b07-39cc-b52e-46c74d5b6a23",
+   "type": "page",
+   "pageId": "9799c465-46c7-13bb-a1f6-897e7a17d8b1"
+  },
+  {
+   "title": "Recap",
+   "id": "6ec1e83d-7308-6535-7c6c-85ba38582875",
+   "type": "page",
+   "pageId": "79108b81-c476-5e8e-4910-a20c8f2f8dc3"
+  },
+  {
+   "title": "Extra Resources",
+   "id": "e35bdfe2-ba1f-14a6-15b3-a80cad1d126d",
+   "type": "page",
+   "pageId": "18a5a633-a721-566c-ae3e-3a4f5b906e36"
+  },
+  {
+   "id": "431f83e9-8c5e-abeb-4a39-b0b1ea65ab4b",
+   "title": "Practice",
+   "pageId": "cb2acc09-41bb-28bd-d650-2b472bf115a2",
+   "type": "page"
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+-  Stay Logged In  Method
+  - [Intro](./Intro.md "Intro")
+  - [Storing an authentication token in a cookie](./Storing-an-authentication-token-in-a-cookie.md "Storing an authentication token in a cookie")
+  - [Authentication](./Authentication.md "Authentication")
+  - [Exercise](./Exercise.md "Exercise")
+  - [Comprehension check](./Comprehension-check.md "Comprehension check")

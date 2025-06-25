@@ -1,0 +1,7 @@
+- Generics
+  - [Intro](./Intro.md "Intro")
+  - [Why do we need Generics?](./Why-do-we-need-Generics-.md "Why do we need Generics?")
+  - [Using Generics with functions](./Using-Generics-with-functions.md "Using Generics with functions")
+  - [Using Generics with classes](./Using-Generics-with-classes.md "Using Generics with classes")
+  - [Exercises](./Exercises.md "Exercises")
+  - [Comprehension Check](./Comprehension-Check.md "Comprehension Check")

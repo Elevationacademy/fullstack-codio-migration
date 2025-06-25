@@ -1,0 +1,206 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2487188897",
+  "source": {
+   "name": "1",
+   "showName": false,
+   "instructions": "The way we store arrays in SQL is by...",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "0ee80979-572d-c521-1700-ca16bff13341",
+     "correct": false,
+     "answer": "Storing a JSON.stringify'ed version of the array"
+    },
+    {
+     "_id": "d642d271-11e1-1bec-e884-7ac475d5033f",
+     "correct": false,
+     "answer": "Storing multiple rows dynamically for each item in the array"
+    },
+    {
+     "_id": "058f4f55-043f-46ca-5bb2-cac0d8f31f70",
+     "correct": false,
+     "answer": "Using a join table"
+    },
+    {
+     "_id": "da49bcd9-7065-b5a3-27bd-8279e4847ef4",
+     "correct": true,
+     "answer": "Using a separate table and a Foreign Key (FK)"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-426495362",
+  "source": {
+   "name": "2",
+   "showName": false,
+   "instructions": "An employer and all her office documents is an example of a...",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "7ed3fb69-f20e-540b-30d0-3e7943edcdf7",
+     "correct": false,
+     "answer": "1:1 relationship"
+    },
+    {
+     "_id": "96afab00-e9a8-210c-8918-b33dadea3768",
+     "correct": true,
+     "answer": "1:M relationship"
+    },
+    {
+     "_id": "d0241853-22cb-3274-131b-7f4ffa574a4f",
+     "correct": false,
+     "answer": "M:M relationship"
+    },
+    {
+     "_id": "533a609f-90ee-abee-0dc2-4468b8aac6e1",
+     "correct": false,
+     "answer": "None of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2365712245",
+  "source": {
+   "name": "3",
+   "showName": false,
+   "instructions": "In an M:N relationship, the join table should have...",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "cc83184c-0e38-0a8a-62cb-136448a3291b",
+     "correct": false,
+     "answer": "The important columns of both tables"
+    },
+    {
+     "_id": "7ebbafbf-e25d-dfb3-28d7-be22b3af58e7",
+     "correct": true,
+     "answer": "As few columns as necessary to make sense, including the ID columns"
+    },
+    {
+     "_id": "585dd604-f73d-673f-8a38-99054a384b7f",
+     "correct": false,
+     "answer": "Only the ID columns"
+    },
+    {
+     "_id": "e932b377-848b-9d1f-aaf3-d8f3b800fd40",
+     "correct": false,
+     "answer": "None of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3021998424",
+  "source": {
+   "name": "4",
+   "showName": false,
+   "instructions": "The concept of \"Data Integrity\"...",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "15e0e1b6-63f4-50a5-3144-3b5a24e1c054",
+     "correct": false,
+     "answer": "Is similar to the DRY principle"
+    },
+    {
+     "_id": "8679447c-1d51-52c7-65dc-6c598d92c21f",
+     "correct": false,
+     "answer": "Means that we don't want to repeat data throughout separate tables"
+    },
+    {
+     "_id": "e8284447-11ee-60e7-fce5-84756c0a3a28",
+     "correct": true,
+     "answer": "Both A & B"
+    },
+    {
+     "_id": "91717e18-7227-241c-53e8-b640e358e791",
+     "correct": false,
+     "answer": "None of the Above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

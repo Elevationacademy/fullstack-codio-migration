@@ -1,0 +1,65 @@
+{
+ "name": "Local Storage",
+ "children": [
+  {
+   "title": "Local Storage Video",
+   "id": "92ed49bd-5cd6-0800-69c6-faad2a4b8fa1",
+   "pageId": "92ed49bd-5cd6-0800-69c6-faad2a4b8fa1",
+   "type": "page"
+  },
+  {
+   "title": "Intro",
+   "id": "9274569e-3ab1-7d94-3249-32793b891a66",
+   "pageId": "9274569e-3ab1-7d94-3249-32793b891a66",
+   "type": "page"
+  },
+  {
+   "id": "f5101a34-8963-a5c7-a62f-d69feb652e10",
+   "title": "Key-Value Store",
+   "pageId": "ff8d4eaa-adb3-ea18-3ae1-25a8633b1113",
+   "type": "page"
+  },
+  {
+   "id": "9b104a8f-34fb-bf50-4d3a-9680883c5066",
+   "title": "Getting Items",
+   "pageId": "f45e17f4-f12d-8528-30e9-7d902243786f",
+   "type": "page"
+  },
+  {
+   "id": "36d73f3d-4258-8f3e-ab2f-01c054993707",
+   "title": "Removing",
+   "pageId": "5b281828-6f10-3221-9c16-0627f236754f",
+   "type": "page"
+  },
+  {
+   "id": "5c30a55c-42a1-9f04-15b0-70774225a74a",
+   "title": "Storing Complex Data",
+   "pageId": "837f8463-2991-5852-4d49-d607b7849b21",
+   "type": "page"
+  },
+  {
+   "id": "a036cc4c-0678-a746-f964-e17aaee8595a",
+   "title": "Spot Check 1",
+   "pageId": "a494d948-a4a0-2067-19b9-a6bc70ae97ea",
+   "type": "page"
+  },
+  {
+   "id": "d7366fb2-c5ed-1afd-d7e4-24abb4b14e67",
+   "title": "Prudence & Practice",
+   "pageId": "8649b7a2-15ee-164a-b8da-3fe91f8d8272",
+   "type": "page"
+  },
+  {
+   "id": "2934d534-dc3c-03b6-41aa-3fce736f1874",
+   "title": "Exercises",
+   "pageId": "94bd5b38-43d7-111c-7d35-1adaa4eacaf7",
+   "type": "page"
+  },
+  {
+   "id": "5835b5a1-68cb-e8b7-66a3-04b8fd4ff76c",
+   "title": "Comprehension Check",
+   "pageId": "e833b8f7-b407-6609-b1df-894992c84b87",
+   "type": "page"
+  }
+ ]
+}

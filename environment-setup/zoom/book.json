@@ -1,0 +1,17 @@
+{
+ "name": "Zoom",
+ "children": [
+  {
+   "title": "Installing",
+   "id": "64930a8a-36cc-9c74-254c-d935d75795f8",
+   "pageId": "64930a8a-36cc-9c74-254c-d935d75795f8",
+   "type": "page"
+  },
+  {
+   "title": "Zoom Visibility",
+   "id": "549e9687-ac8e-467c-6937-9e6058e65559",
+   "pageId": "549e9687-ac8e-467c-6937-9e6058e65559",
+   "type": "page"
+  }
+ ]
+}

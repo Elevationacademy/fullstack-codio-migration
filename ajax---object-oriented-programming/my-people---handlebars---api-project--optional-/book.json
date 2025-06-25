@@ -1,0 +1,23 @@
+{
+ "name": "My People - Handlebars & API Project (Optional)",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "35a509bb-7d85-6b18-e11f-692db82ff929",
+   "pageId": "35a509bb-7d85-6b18-e11f-692db82ff929",
+   "type": "page"
+  },
+  {
+   "title": "Instructions",
+   "id": "e5051d7d-e9b3-004c-39e9-1c8f22ebc6d8",
+   "pageId": "e5051d7d-e9b3-004c-39e9-1c8f22ebc6d8",
+   "type": "page"
+  },
+  {
+   "id": "d8c09742-80ba-0361-c739-87c60882bbec",
+   "title": "Extra Challenge",
+   "pageId": "9f99a8b7-4d30-b7dc-675c-c61e3fada67a",
+   "type": "page"
+  }
+ ]
+}

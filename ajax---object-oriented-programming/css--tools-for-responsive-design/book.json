@@ -1,0 +1,47 @@
+{
+ "name": "CSS: Tools for Responsive Design",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "137725f9-fa59-783b-6bd0-4f20f4f2782c",
+   "pageId": "137725f9-fa59-783b-6bd0-4f20f4f2782c",
+   "type": "page"
+  },
+  {
+   "title": "Max/Min Width/Height",
+   "id": "f0fe7927-276a-379b-6a45-cbaa2d3a05b6",
+   "pageId": "f0fe7927-276a-379b-6a45-cbaa2d3a05b6",
+   "type": "page"
+  },
+  {
+   "id": "068bfd5c-51d3-0e0d-8cd4-d47e6a622125",
+   "title": "Flexible Units",
+   "pageId": "6b3d1852-2199-264a-89e9-a9383f79abe5",
+   "type": "page"
+  },
+  {
+   "id": "4884fc3c-ca59-2d59-f80e-0cc0851339bb",
+   "title": "Media Queries",
+   "pageId": "50f8d660-ace1-fda1-085c-e490c2f83b4c",
+   "type": "page"
+  },
+  {
+   "id": "bfe6c0ff-8819-ca54-a0ba-661c4f7a0ba6",
+   "title": "Spot Check",
+   "pageId": "1824fcd9-3784-bd73-0b81-c66f0472aa78",
+   "type": "page"
+  },
+  {
+   "id": "386ef13d-3054-ca68-f374-add3c67df52a",
+   "title": "Emulation Devices on Chrome",
+   "pageId": "e441960b-ae38-065f-81f3-bb19490c2c4b",
+   "type": "page"
+  },
+  {
+   "id": "8edd56f3-9fd0-2702-7054-2de556036012",
+   "title": "Comprehension Check",
+   "pageId": "a065d074-5955-234f-bcac-d601963525e3",
+   "type": "page"
+  }
+ ]
+}

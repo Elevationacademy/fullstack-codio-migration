@@ -1,0 +1,106 @@
+{
+ "sections": [
+  {
+   "id": "9cab8152-75b0-1ebc-c4bd-705dcb0709ad",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-9cab.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "97d8f56f-ea1f-7f3e-7542-55de08ab2404",
+   "title": "Pomodoro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Pomodoro-97d8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9a52f5c6-11c6-6421-9979-291e181e80ed",
+   "title": "Setup",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Setup-9a52.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "8372bad0-9375-3514-b5b7-55465d10f41c",
+   "title": "Components",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Components-8372.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ce605eb4-19ed-9759-a0ea-1ea5be8126c6",
+   "title": "To Do",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/To-Do-ce60.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3f7c5560-334f-eff9-94bd-eef74a8fee8c",
+   "title": "Styling",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Styling-3f7c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5d1989f7-31ab-aeac-e454-c872f645aef8",
+   "title": "Extension",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Extension-5d19.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

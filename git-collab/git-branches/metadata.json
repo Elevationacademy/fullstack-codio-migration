@@ -1,0 +1,166 @@
+{
+ "sections": [
+  {
+   "id": "2bdc166f-9401-430d-fc80-d380a26eb3a1",
+   "title": "Local Branches - Overview",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Local-Branches---Overview-2bdc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "1170cd66-fb71-b72b-39c9-d84389215776",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-1170.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d5813a9a-782b-4664-c833-b39b3e83c151",
+   "title": "What are Branches?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-are-Branches--d581.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f38ad6e1-7e6d-854a-ca3b-2e03d87aa146",
+   "title": "Why do we need Branches?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Why-do-we-need-Branches--f38a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7049bd20-f9bf-87b7-06dd-bee6b8bf2be1",
+   "title": "Proper Branching Methodology",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Proper-Branching-Methodology-7049.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "615a7346-a885-7cf2-ad8a-3778768b0bfa",
+   "title": "Branching Commands",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Branching-Commands-615a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5ef37f5d-d6d8-04f5-360b-0b3e5b593ded",
+   "title": "Remote Branches - Overview",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Remote-Branches---Overview-5ef3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5b69a01e-1232-cb30-5fa5-84c441fb2fa6",
+   "title": "Remote Branches",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Remote-Branches-5b69.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9799c465-46c7-13bb-a1f6-897e7a17d8b1",
+   "title": "Merging",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Merging-9799.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "79108b81-c476-5e8e-4910-a20c8f2f8dc3",
+   "title": "Recap",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recap-7910.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "18a5a633-a721-566c-ae3e-3a4f5b906e36",
+   "title": "Extra Resources",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Extra-Resources-18a5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "cb2acc09-41bb-28bd-d650-2b472bf115a2",
+   "title": "Practice",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Practice-cb2a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

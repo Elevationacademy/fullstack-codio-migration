@@ -1,0 +1,77 @@
+{
+ "name": "ES6 Array Methods",
+ "children": [
+  {
+   "title": "Array Methods Video",
+   "id": "20c498d2-51e9-dbf2-3198-9f0db874cc85",
+   "type": "page",
+   "pageId": "20c498d2-51e9-dbf2-3198-9f0db874cc85"
+  },
+  {
+   "title": "Intro",
+   "id": "b081246d-7801-b5e7-a709-a5c5efe25fb3",
+   "type": "page",
+   "pageId": "b081246d-7801-b5e7-a709-a5c5efe25fb3"
+  },
+  {
+   "title": ".filter()",
+   "id": "016ad8e8-df84-6ec0-ba80-fbc1ada1c78e",
+   "type": "page",
+   "pageId": "b3a5047f-1574-99c4-3ad0-d7771372179f"
+  },
+  {
+   "title": ".forEach()",
+   "id": "fc97e650-feca-37b5-cbcb-7e9862b7fb3c",
+   "type": "page",
+   "pageId": "cbe88d24-7fea-13c6-91da-25f1a96a526b"
+  },
+  {
+   "title": ".map()",
+   "id": "c5cb8149-f973-a446-45b9-f78b5a473f08",
+   "type": "page",
+   "pageId": "e6a5c4ec-fa24-021d-549b-fc9668ed1cd2"
+  },
+  {
+   "id": "9c992747-8d34-6c2f-a24b-f44c1b4b8fb5",
+   "title": "Array Methods Video",
+   "pageId": "302f0ae9-e645-e265-a111-b51ae7ad8846",
+   "type": "page"
+  },
+  {
+   "id": "b0c260d4-842e-b2b1-0c18-f8860f0994da",
+   "title": ".find()",
+   "pageId": "cf22a121-28ba-1361-ad9f-9818a7a024f6",
+   "type": "page"
+  },
+  {
+   "id": "0ea5a682-7005-a701-cdb0-5fe1015860d8",
+   "title": ".some() & .every()",
+   "pageId": "796632d1-a03b-6511-7062-1702669c96df",
+   "type": "page"
+  },
+  {
+   "id": "11fd052a-fed5-5059-dfdb-7c5a6893be2a",
+   "title": "Chaining Methods",
+   "pageId": "a0695c84-ad24-fe22-4b71-d5ed5278172d",
+   "type": "page"
+  },
+  {
+   "id": "318c0c19-7122-6bf6-dc40-649ec83e01d4",
+   "title": "lesson.map(l => i.done)",
+   "pageId": "46478630-95d7-6606-04d8-a47e9904050f",
+   "type": "page"
+  },
+  {
+   "id": "656881be-452c-5138-bbec-419738f831e1",
+   "title": "Exercises",
+   "pageId": "824576ad-ea70-b65b-6c21-be4b474f6a27",
+   "type": "page"
+  },
+  {
+   "id": "44e197be-3287-232a-4eea-d19aaa1ab471",
+   "title": "Comprehension Check",
+   "pageId": "824bc7f1-591f-deda-722c-e0296a9ab988",
+   "type": "page"
+  }
+ ]
+}

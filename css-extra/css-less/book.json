@@ -1,0 +1,41 @@
+{
+ "name": "CSS Less",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "b93d359e-d621-d8ea-9480-1f7568859d70",
+   "pageId": "b93d359e-d621-d8ea-9480-1f7568859d70",
+   "type": "page"
+  },
+  {
+   "title": "Nesting",
+   "id": "5f5fdf8f-12f7-8f07-5280-401e0d24b3c9",
+   "pageId": "5f5fdf8f-12f7-8f07-5280-401e0d24b3c9",
+   "type": "page"
+  },
+  {
+   "id": "87bbd661-7878-fb62-ce44-a9a42511b049",
+   "title": "Spot check 1",
+   "pageId": "64629ad0-53d6-93db-1301-01cc7dbcecce",
+   "type": "page"
+  },
+  {
+   "id": "4748fe4d-fc07-a9d3-01d2-563f4716af8e",
+   "title": "Extend",
+   "pageId": "aa1551c8-459e-0bd2-e19c-daba0a533fdf",
+   "type": "page"
+  },
+  {
+   "id": "ca7a68c9-6088-ec68-65ca-095176c2b559",
+   "title": "Mixins",
+   "pageId": "bc0d3435-5625-671e-20aa-bc99833caba5",
+   "type": "page"
+  },
+  {
+   "id": "d9a60379-932e-2110-cbdd-d1bd4fa7e538",
+   "title": "Exercises",
+   "pageId": "80a72f15-d9cf-2679-7a5c-9acd937ad613",
+   "type": "page"
+  }
+ ]
+}

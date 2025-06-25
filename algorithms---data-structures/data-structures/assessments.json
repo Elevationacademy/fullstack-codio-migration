@@ -1,0 +1,53 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3517879099",
+  "source": {
+   "name": "1",
+   "showName": false,
+   "instructions": "When deciding on which data structure to use, what should we consider?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "977ce79d-00bf-8d28-c700-8d1d6db50439",
+     "correct": false,
+     "answer": "The total time complexities of the insert, find, update, and remove operations"
+    },
+    {
+     "_id": "2e44c71b-e165-8f6f-356b-9eb54e4f42c7",
+     "correct": false,
+     "answer": "The worst time complexity out of the insert, find, update, and remove operations"
+    },
+    {
+     "_id": "a96d5d6b-98d6-fd7a-a546-be7a060cf519",
+     "correct": false,
+     "answer": "The best time complexity out of the insert, find, update, and remove operations"
+    },
+    {
+     "_id": "d849a6b1-1df3-b564-73f8-ff08029c1367",
+     "correct": true,
+     "answer": "The business requirements of our system"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

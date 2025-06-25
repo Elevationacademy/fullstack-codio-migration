@@ -1,0 +1,55 @@
+{
+ "sections": [
+  {
+   "id": "35b2b978-de2b-9c9b-4aa8-5ba0f5cd6412",
+   "title": "Calc",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Calc-35b2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "00ed5da8-e1ab-db58-0f55-4029ecfdff52",
+   "title": "Ex 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ex-1-00ed.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "009a93f7-8b20-87c6-555d-19ef29a34cc3",
+   "title": "Ex 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ex-2-009a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

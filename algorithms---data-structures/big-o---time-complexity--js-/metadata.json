@@ -1,0 +1,202 @@
+{
+ "sections": [
+  {
+   "id": "dfdc19bd-2fad-dee1-bf1d-f801e343d90c",
+   "title": "Complexity Overview",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Complexity-Overview-dfdc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ab3deb3f-2e7f-a6b0-7392-dd6f6affe364",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-ab3d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c0411cbb-61ef-1f0c-b49d-dd2d97643be0",
+   "title": "Constants",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Constants-c041.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c647ba9b-df6c-0037-18ba-3db4070d99fd",
+   "title": "Worst Case",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Worst-Case-c647.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2e7be12d-c052-7cc3-4b70-bcdb9eda9948",
+   "title": "Adding Complexities",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Adding-Complexities-2e7b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "287c2934-2009-a155-6ae6-1c86b57415f6",
+   "title": "Multiplying Complexities Overview",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Multiplying-Complexities-Overview-287c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a7d0e048-d1bc-5cd9-3d20-2850d42477d9",
+   "title": "Multiplying Complexities",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Multiplying-Complexities-a7d0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "485979d7-cafa-e64e-c0ae-d89e2ce984a7",
+   "title": "Spot Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-4859.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "93be4b07-0f2e-70fa-975e-ea9a3174ed6d",
+   "title": "Binary Search",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Binary-Search-93be.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "cbd3bf6c-9cc1-c0cd-7c97-8d97fd0e922a",
+   "title": "O( log(n) ) & Binary Search",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/O--log-n------Binary-Search-cbd3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "950bef5c-9834-c514-bc8c-024ecfcad9ae",
+   "title": "Time Complexity II",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Time-Complexity-II-950b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2a91f0b4-59f4-8d01-e290-2b5b509c2a66",
+   "title": "Time Complexity III",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Time-Complexity-III-2a91.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9ff5a15c-e69b-7bd5-1f90-08c00b1ea3ea",
+   "title": "Recap",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recap-9ff5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "84f0e2a2-cddf-41f5-6455-ed9944adc536",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-84f0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0714e986-73a8-7306-34db-800600af73be",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-0714.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

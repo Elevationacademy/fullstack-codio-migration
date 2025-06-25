@@ -1,0 +1,166 @@
+{
+ "sections": [
+  {
+   "id": "ee3267a2-2905-7309-7691-411bbcafee6f",
+   "title": "Node JS Intro Video",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Node-JS-Intro-Video-ee32.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "8a4c324d-2321-c643-b1a8-038fb7516d24",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-8a4c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a685f2a8-7efa-92f2-4c83-23d60540c250",
+   "title": "Clients vs. Servers",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Clients-vs--Servers-a685.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2634fddd-5d89-742b-d919-bb2d0f056dba",
+   "title": "Installing Node - finally",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Installing-Node---finally-2634.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "aa132df3-5499-c1ef-ba9c-1c3a5c4cd587",
+   "title": "Running Files with Node",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Running-Files-with-Node-aa13.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "18c26cf3-85d0-4788-e320-6ab7d955d023",
+   "title": "VS Code & Debugging",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/VS-Code---Debugging-18c2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d6af4dd0-4b8b-e8e2-c0f2-73bb6ad1b3a8",
+   "title": "Node JS Modules Video",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Node-JS-Modules-Video-d6af.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2e9a7b46-ae06-13a0-9d3f-d4d24bf0ba8a",
+   "title": "Node JS Modules",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Node-JS-Modules-2e9a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9e8f9a8c-56fc-a28b-af55-7e81e9549df6",
+   "title": "Spot Check 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-1-9e8f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e9a996d2-9d49-d2f7-d949-28301d98c91a",
+   "title": "Global Scope and Node",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Global-Scope-and-Node-e9a9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ccfeb8fe-8e73-530c-e8f3-34ceccbdafa2",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-ccfe.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "554ea965-1182-64b1-a2a1-5178386d7c2c",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-554e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

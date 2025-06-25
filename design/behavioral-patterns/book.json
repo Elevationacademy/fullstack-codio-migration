@@ -1,0 +1,47 @@
+{
+ "name": "Behavioral Patterns",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "369bebc2-017a-3647-df7e-02c81f869fbe",
+   "pageId": "369bebc2-017a-3647-df7e-02c81f869fbe",
+   "type": "page"
+  },
+  {
+   "title": "Command",
+   "id": "18c7796d-ba20-986c-0e1a-0d7e3683ff87",
+   "pageId": "18c7796d-ba20-986c-0e1a-0d7e3683ff87",
+   "type": "page"
+  },
+  {
+   "id": "97f674a9-6a98-c3e1-cf11-6f6ca3e6a7a1",
+   "title": "Spot Check",
+   "pageId": "619e0244-2a2b-cbd4-025b-cafbd38f25ea",
+   "type": "page"
+  },
+  {
+   "id": "21d9ff10-6015-bc5d-0c47-9b67cbb92d93",
+   "title": "Visitor",
+   "pageId": "267583a5-84c1-0b12-383d-5b0ad9513fbe",
+   "type": "page"
+  },
+  {
+   "id": "b64b476a-826a-f549-b3b7-3f99203acf19",
+   "title": "Spot Check",
+   "pageId": "3416e4a3-84c5-bb26-2ee0-43bc1111acd1",
+   "type": "page"
+  },
+  {
+   "id": "e482f4dc-c28d-4abb-a290-1b35e65dafd6",
+   "title": "Comprehension Check",
+   "pageId": "02ae31a0-a3cf-2c76-7944-f9b97d33f11f",
+   "type": "page"
+  },
+  {
+   "id": "948d5d3a-0943-ee14-aaab-df7830453761",
+   "title": "Exercise",
+   "pageId": "d57ed1d2-c170-3665-9f06-5b433459ab13",
+   "type": "page"
+  }
+ ]
+}

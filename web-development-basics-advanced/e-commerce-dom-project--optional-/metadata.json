@@ -1,0 +1,82 @@
+{
+ "sections": [
+  {
+   "id": "9b6880e3-cdc9-5883-c207-bb62a06a4d12",
+   "title": "Description",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Description-9b68.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "8cfd5ea7-7a2f-69fb-7daf-b09d9bdc490d",
+   "title": "To Do",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/To-Do-8cfd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "1ed23f86-5854-8983-712a-fdadfaadc6b6",
+   "title": "Adding Features",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Adding-Features-1ed2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2b3827fc-d53b-286e-ebbc-8de2d8183fd1",
+   "title": "Styling",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Styling-2b38.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "94546375-d2bc-08a6-6836-88f9cbcb6413",
+   "title": "Extension",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Extension-9454.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

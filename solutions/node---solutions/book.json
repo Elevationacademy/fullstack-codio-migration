@@ -1,0 +1,17 @@
+{
+ "name": "Node - Solutions",
+ "children": [
+  {
+   "title": "Solutions",
+   "id": "b7501e61-3bee-57bb-fd19-03b3030f06af",
+   "pageId": "b7501e61-3bee-57bb-fd19-03b3030f06af",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "de83ee19-1284-dcb2-361e-267e4d295c01",
+   "pageId": "de83ee19-1284-dcb2-361e-267e4d295c01",
+   "type": "page"
+  }
+ ]
+}

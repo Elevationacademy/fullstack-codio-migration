@@ -1,0 +1,83 @@
+{
+ "name": "Matrices",
+ "children": [
+  {
+   "title": "Overview",
+   "id": "2dbc7fd6-51c3-9813-b6d0-390af40372e7",
+   "pageId": "2dbc7fd6-51c3-9813-b6d0-390af40372e7",
+   "type": "page"
+  },
+  {
+   "title": "Intro",
+   "id": "571e62cf-fd95-a77b-f7e6-5056a1b37f70",
+   "pageId": "571e62cf-fd95-a77b-f7e6-5056a1b37f70",
+   "type": "page"
+  },
+  {
+   "id": "248dbd77-e45d-e8ce-10ea-8e12c9aac80c",
+   "title": "Spot Check 1",
+   "pageId": "4b77da9d-1e27-da02-9cbc-003d1f6ecfff",
+   "type": "page"
+  },
+  {
+   "id": "04482810-a646-b673-852a-dab98da70d70",
+   "title": "Building A Matrix",
+   "pageId": "b58a7cd7-6381-f904-d770-7b24398f6bd1",
+   "type": "page"
+  },
+  {
+   "id": "f79830e4-c2b2-fdbb-e40e-d6ebab41aab9",
+   "title": "Accessing Matrix Items",
+   "pageId": "5cf46a74-2839-fc5c-b9e1-f102e0be72ad",
+   "type": "page"
+  },
+  {
+   "id": "649bef32-ac70-fefa-14e9-2c76c605570f",
+   "title": "Spot Checks 2, 3 & 4",
+   "pageId": "007af61e-5775-11d1-8335-cc04d330238b",
+   "type": "page"
+  },
+  {
+   "id": "2d6668d0-51c4-2deb-03df-bd93b2ece569",
+   "title": "Coordinates",
+   "pageId": "88bcda63-c94e-05a0-4968-c534599ae912",
+   "type": "page"
+  },
+  {
+   "id": "a6f3fd1c-aa4a-05b5-c9b0-bda2cf035ffb",
+   "title": "Spot Check 5",
+   "pageId": "fdde467e-e3e0-b8f3-bd1a-56b84d1dc893",
+   "type": "page"
+  },
+  {
+   "id": "4bfdc504-b08f-3e1d-0883-0a6c8a10ef3c",
+   "title": "Modifying Values",
+   "pageId": "880ecf7a-91b7-697e-dddf-e0223c5c3bfd",
+   "type": "page"
+  },
+  {
+   "id": "7b5ba5e2-a393-bea2-5ef4-3ba3b331bbc8",
+   "title": "Spot Check 6",
+   "pageId": "d33a2758-012d-0890-99ca-aa066029c8d8",
+   "type": "page"
+  },
+  {
+   "id": "cae926ab-707d-b69d-ae24-8ca985d351b6",
+   "title": "Exercises",
+   "pageId": "255d79fa-1903-003a-cb9f-b72b51377e4f",
+   "type": "page"
+  },
+  {
+   "id": "9d083493-c869-3454-ae51-05bbfa5c868b",
+   "title": "Extensions",
+   "pageId": "19fe0317-9d93-ee0c-b2da-ebe4a78c9877",
+   "type": "page"
+  },
+  {
+   "id": "dd9e53a7-21de-2c98-302e-df7b8c3a7059",
+   "title": "Comprehension Check",
+   "pageId": "b5d866f8-3a52-12fb-a82d-b9f9f31086d7",
+   "type": "page"
+  }
+ ]
+}

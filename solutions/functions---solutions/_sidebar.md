@@ -1,0 +1,2 @@
+- Functions   Solutions
+  - [Solutions](./Solutions.md "Solutions")

@@ -1,0 +1,29 @@
+{
+ "name": "Deploying React to Heroku",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "84b775a0-cf16-c5a6-0628-c71134bcff3a",
+   "pageId": "84b775a0-cf16-c5a6-0628-c71134bcff3a",
+   "type": "page"
+  },
+  {
+   "title": "Clear DB",
+   "id": "2e96611f-065a-ff1a-e198-dccea85df72b",
+   "pageId": "2e96611f-065a-ff1a-e198-dccea85df72b",
+   "type": "page"
+  },
+  {
+   "id": "ff7e0187-835e-fc76-a6a9-85065902fd8b",
+   "title": "Steps",
+   "pageId": "a01dfcad-0b9d-0b34-aa9a-8800eed03a4f",
+   "type": "page"
+  },
+  {
+   "id": "945260f8-8bce-0177-bcd8-6ed997fa6545",
+   "title": "Troubleshooting & Done",
+   "pageId": "a05894b1-9c59-f233-a5ce-31ced90418f9",
+   "type": "page"
+  }
+ ]
+}

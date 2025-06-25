@@ -1,0 +1,8 @@
+- Algorithms   Level 3
+  - [Word Score](./Word-Score.md "Word Score")
+  - [What would be Consoled?](./What-would-be-Consoled-.md "What would be Consoled?")
+  - [Unique Characters](./Unique-Characters.md "Unique Characters")
+  - [Chars to Length](./Chars-to-Length.md "Chars to Length")
+  - [Camelcase](./Camelcase.md "Camelcase")
+  - [Implement Add](./Implement-Add.md "Implement Add")
+  - [Challenge:   Longest Substring](./Challenge----Longest-Substring.md "Challenge:   Longest Substring")

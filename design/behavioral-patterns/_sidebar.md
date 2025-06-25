@@ -1,0 +1,7 @@
+- Behavioral Patterns
+  - [Intro](./Intro.md "Intro")
+  - [Command](./Command.md "Command")
+  - [Spot Check](./Spot-Check.md "Spot Check")
+  - [Visitor](./Visitor.md "Visitor")
+  - [Comprehension Check](./Comprehension-Check.md "Comprehension Check")
+  - [Exercise](./Exercise.md "Exercise")

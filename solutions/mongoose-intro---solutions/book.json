@@ -1,0 +1,17 @@
+{
+ "name": "Mongoose Intro - Solutions",
+ "children": [
+  {
+   "title": "Solutions",
+   "id": "cf53fa95-5993-8c0b-23de-341b32f966ee",
+   "pageId": "cf53fa95-5993-8c0b-23de-341b32f966ee",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "6a7d7296-8b86-1ae4-2c96-46cd65eff2e6",
+   "pageId": "6a7d7296-8b86-1ae4-2c96-46cd65eff2e6",
+   "type": "page"
+  }
+ ]
+}

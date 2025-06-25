@@ -1,0 +1,82 @@
+{
+ "sections": [
+  {
+   "id": "933c291c-5ccc-88fd-db67-f258bd5ccd03",
+   "title": "Singleton & Dependency Injection Video",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Singleton---Dependency-Injection-Video-933c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e7e84e7c-8c0a-9805-8b27-69731e1a69c4",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-e7e8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4d471e21-977d-645a-8bae-9fa6bcf3375d",
+   "title": "Dependency Injection",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Dependency-Injection-4d47.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "cf2bcc0f-4e89-95d4-2650-882a271f0fe9",
+   "title": "Spot Check 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-1-cf2b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "81bd09c8-e5c1-deea-b03a-79499145f832",
+   "title": "Final Notes",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Final-Notes-81bd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

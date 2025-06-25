@@ -1,0 +1,94 @@
+{
+ "sections": [
+  {
+   "id": "2afeb021-8644-387b-12af-42279848a1dc",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-2afe.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "15d886fe-6e53-ccbb-1e53-f7c08ef992a1",
+   "title": "Data Structures",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-Structures-15d8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ac10bb99-39ef-fe16-08bc-5692830af92d",
+   "title": "Arrays, Objects, Custom Data Structures",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Arrays--Objects--Custom-Data-Structures-ac10.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2b854328-5c5e-4994-915c-d35f7552c9aa",
+   "title": "Exercise",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercise-2b85.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0c89f37d-4f53-a3ba-7da2-3c9c83df4387",
+   "title": "Extension",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Extension-0c89.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d366ce49-2118-2353-06bb-8c09ebab3e74",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-d366.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

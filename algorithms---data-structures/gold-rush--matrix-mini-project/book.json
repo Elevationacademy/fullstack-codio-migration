@@ -1,0 +1,23 @@
+{
+ "name": "Gold Rush: Matrix Mini Project",
+ "children": [
+  {
+   "title": "Intro & Setup",
+   "id": "8c9425a9-3db5-cc9f-7b97-f35fe82e58ed",
+   "pageId": "8c9425a9-3db5-cc9f-7b97-f35fe82e58ed",
+   "type": "page"
+  },
+  {
+   "title": "Gold Rush",
+   "id": "4404a417-c03a-87c0-8e71-d4cbc531d988",
+   "pageId": "4404a417-c03a-87c0-8e71-d4cbc531d988",
+   "type": "page"
+  },
+  {
+   "id": "a68f27ce-6fdc-275d-520d-d87f9bae0c81",
+   "title": "Extensions",
+   "pageId": "72b62c8b-fc81-7757-0b19-90528f0fbdc1",
+   "type": "page"
+  }
+ ]
+}

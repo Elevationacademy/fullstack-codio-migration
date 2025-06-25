@@ -1,0 +1,2 @@
+- Jquery   Solutions
+  - [Solutions](./Solutions.md "Solutions")

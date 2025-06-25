@@ -1,0 +1,41 @@
+{
+ "name": "Generics",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "cfdbca13-dc0f-d92e-2a7c-d3829bc21570",
+   "type": "page",
+   "pageId": "cfdbca13-dc0f-d92e-2a7c-d3829bc21570"
+  },
+  {
+   "title": "Why do we need Generics?",
+   "id": "2cf510e0-6403-8733-0a59-b5da7078afcd",
+   "type": "page",
+   "pageId": "0b88440f-22de-e9d8-b2d5-d17007864461"
+  },
+  {
+   "id": "eb43104a-d10a-4e9b-2056-8cea79352d5d",
+   "title": "Using Generics with functions",
+   "pageId": "331b97d2-f039-85c3-d722-09491afcc57d",
+   "type": "page"
+  },
+  {
+   "id": "27786273-64ed-b801-9cc3-8b23ca345c04",
+   "title": "Using Generics with classes",
+   "pageId": "60ee4270-336b-416c-b25f-2a7fdf82db57",
+   "type": "page"
+  },
+  {
+   "id": "7e811af8-db6b-8554-045a-07050d02f49a",
+   "title": "Exercises",
+   "pageId": "5f74354b-0b31-aa3a-e42f-8bac04af405c",
+   "type": "page"
+  },
+  {
+   "id": "42c6dde2-aafa-79c7-69b4-939645e8358e",
+   "title": "Comprehension Check",
+   "pageId": "ea193c9d-ddb2-68a0-2691-b4a870e50ceb",
+   "type": "page"
+  }
+ ]
+}

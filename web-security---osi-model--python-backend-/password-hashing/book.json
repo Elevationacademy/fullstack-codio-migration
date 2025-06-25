@@ -1,0 +1,29 @@
+{
+ "name": "Lesson Template",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "cfdbca13-dc0f-d92e-2a7c-d3829bc21570",
+   "type": "page",
+   "pageId": "cfdbca13-dc0f-d92e-2a7c-d3829bc21570"
+  },
+  {
+   "title": "Hashing passwords",
+   "id": "2cf510e0-6403-8733-0a59-b5da7078afcd",
+   "type": "page",
+   "pageId": "0b88440f-22de-e9d8-b2d5-d17007864461"
+  },
+  {
+   "id": "f83d8767-31a1-234d-4187-eaa000ce35ea",
+   "title": "Exercise",
+   "pageId": "97dade0f-102b-6554-27d7-a8834441ef42",
+   "type": "page"
+  },
+  {
+   "id": "2f71db12-9df4-e339-35d2-c97081fa7227",
+   "title": "Comprehension check",
+   "pageId": "2f9bd071-ab96-6e09-f7bd-69a826d63bc2",
+   "type": "page"
+  }
+ ]
+}

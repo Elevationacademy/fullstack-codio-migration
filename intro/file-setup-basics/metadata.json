@@ -1,0 +1,113 @@
+{
+ "sections": [
+  {
+   "id": "ec4feb70-6d07-164c-7d52-bdfa2ffd1591",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-ec4f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7671c492-49a3-9598-1547-e2d44a988001",
+   "title": "Step 1: Folder Structure",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Step-1--Folder-Structure-7671.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "8d08ad1f-2f86-1d78-6a7c-c5f0140e318c",
+   "title": "Step 2: Command Line Navigation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Step-2--Command-Line-Navigation-8d08.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f11653f0-5a22-e4c0-e5bb-416e5448b018",
+   "title": "Step 3: Creating a New Project",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Step-3--Creating-a-New-Project-f116.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4c6ae7ee-d976-22dd-c6ab-c7337cde52bd",
+   "title": "Step 4: HTML Setup",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Step-4--HTML-Setup-4c6a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b42d55a7-ffe3-e322-e46d-2a00c41a4aa8",
+   "title": "Step 5: CSS Setup",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Step-5--CSS-Setup-b42d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b42d6756-9f69-610a-d802-a83cdda701d4",
+   "title": "Done.",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Done--b42d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

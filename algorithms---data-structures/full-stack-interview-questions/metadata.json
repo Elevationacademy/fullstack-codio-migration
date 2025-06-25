@@ -1,0 +1,166 @@
+{
+ "sections": [
+  {
+   "id": "bc55ae62-853f-780e-e1e1-0a8bfb3a98d2",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-bc55.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2883b57c-db30-74d3-53bb-a78718bfd9ca",
+   "title": "General Knowledge Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/General-Knowledge-Questions-2883.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e4699dcf-d657-94bd-3b23-75106526fff0",
+   "title": "General Knowledge (Examples) - HTML/CSS",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/General-Knowledge--Examples----HTML-CSS-e469.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a312e670-b480-4120-3278-00caeafe3f11",
+   "title": "General Knowledge (Examples) - JavaScript",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/General-Knowledge--Examples----JavaScript-a312.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "6c188dcc-0357-a240-d642-f1e0aa7651f3",
+   "title": "General Knowledge (Examples) - Servers",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/General-Knowledge--Examples----Servers-6c18.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "aacf7d76-f28a-3568-f050-f3b7f405cc63",
+   "title": "General Knowledge (Examples) - Databases",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/General-Knowledge--Examples----Databases-aacf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3c763b00-634a-ffc8-10a0-83f97d7e0bb8",
+   "title": "General Knowledge (Examples) - React",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/General-Knowledge--Examples----React-3c76.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f67b80a9-ea27-47cd-3311-6938a9ab25ef",
+   "title": "General Knowledge (Examples) - MobX",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/General-Knowledge--Examples----MobX-f67b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "06fffc69-8d04-8a23-f5be-78e614bcbbb6",
+   "title": "Problem Solving Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Problem-Solving-Questions-06ff.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2d288b22-c02c-3c7f-6fe2-3cde974a2369",
+   "title": "Problem Solving Questions (Examples)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Problem-Solving-Questions--Examples--2d28.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d9c518ad-9e65-2332-b95f-7ab2fc053987",
+   "title": "Miscellaneous Questions (Examples)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Miscellaneous-Questions--Examples--d9c5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "34980557-962a-ce7b-51d1-aa403a91341a",
+   "title": "Resources",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Resources-3498.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

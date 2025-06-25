@@ -1,0 +1,4 @@
+-   What is MobX? Why do we need it?
+-   Tell me more about state management, why do we need it for?
+-   Why do we need to use @action decorators in MobX
+-   How many stores should you create when using MobX? (what is the best practice)

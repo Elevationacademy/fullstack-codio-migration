@@ -1,0 +1,70 @@
+{
+ "sections": [
+  {
+   "id": "c6100a18-0ce4-a9f4-22de-d6e5bb93492e",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-c610.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "28cbaf10-1ecd-152a-760d-2f436dc81b69",
+   "title": "Requirements",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Requirements-28cb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "cd66328b-5507-dbc6-297a-d538be3e65a3",
+   "title": "Rules",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Rules-cd66.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ac9d5372-d2e0-8e47-03c4-38d1189002d7",
+   "title": "Why. Why?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Why--Why--ac9d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

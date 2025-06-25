@@ -1,0 +1,166 @@
+{
+ "sections": [
+  {
+   "id": "20c498d2-51e9-dbf2-3198-9f0db874cc85",
+   "title": "Array Methods Video",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Array-Methods-Video-20c4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b081246d-7801-b5e7-a709-a5c5efe25fb3",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-b081.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b3a5047f-1574-99c4-3ad0-d7771372179f",
+   "title": ".filter()",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-filter---b3a5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "cbe88d24-7fea-13c6-91da-25f1a96a526b",
+   "title": ".forEach()",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-forEach---cbe8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e6a5c4ec-fa24-021d-549b-fc9668ed1cd2",
+   "title": ".map()",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-map---e6a5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "302f0ae9-e645-e265-a111-b51ae7ad8846",
+   "title": "Array Methods Video",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Array-Methods-Video-302f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "cf22a121-28ba-1361-ad9f-9818a7a024f6",
+   "title": ".find()",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-find---cf22.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "796632d1-a03b-6511-7062-1702669c96df",
+   "title": ".some() & .every()",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-some------every---7966.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a0695c84-ad24-fe22-4b71-d5ed5278172d",
+   "title": "Chaining Methods",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Chaining-Methods-a069.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "46478630-95d7-6606-04d8-a47e9904050f",
+   "title": "lesson.map(l => i.done)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/lesson-map-l----i-done--4647.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "824576ad-ea70-b65b-6c21-be4b474f6a27",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-8245.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "824bc7f1-591f-deda-722c-e0296a9ab988",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-824b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

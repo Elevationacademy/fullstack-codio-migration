@@ -1,0 +1,119 @@
+{
+ "name": "SQL Intro (JS)",
+ "children": [
+  {
+   "title": "SQL Intro Lecture",
+   "id": "276e3d94-1378-d000-b3f5-9ae909e1ff85",
+   "pageId": "276e3d94-1378-d000-b3f5-9ae909e1ff85",
+   "type": "page"
+  },
+  {
+   "title": "Intro",
+   "id": "5079fc15-0acf-2623-cdbc-52bde1b3de3e",
+   "pageId": "5079fc15-0acf-2623-cdbc-52bde1b3de3e",
+   "type": "page"
+  },
+  {
+   "id": "1407570a-ad05-7eb6-73fc-468a8215a28d",
+   "title": "Tables",
+   "pageId": "6fcbe73f-566f-fab4-15d9-58bbcc24d919",
+   "type": "page"
+  },
+  {
+   "id": "bf322391-9d06-fb92-dc17-e29df17d93c9",
+   "title": "Storing Data",
+   "pageId": "ad3ff238-06e6-d5ec-0bdd-11c19656ab84",
+   "type": "page"
+  },
+  {
+   "id": "4345df68-1af0-8bf1-371c-22b6a0b525fa",
+   "title": "Spot Check 1",
+   "pageId": "3634c6d4-96b2-f203-aa2b-e7106f7fc275",
+   "type": "page"
+  },
+  {
+   "id": "f465967d-2c4f-0262-6644-6e10d2c3e8e4",
+   "title": "Querying Data",
+   "pageId": "9fef1512-8963-9055-66d7-c218960d0049",
+   "type": "page"
+  },
+  {
+   "id": "85249d9d-0282-84a9-e2e7-6ba41d024a63",
+   "title": "Spot Check 2",
+   "pageId": "69d9a563-2d2d-110a-e1d9-b7f71951b66f",
+   "type": "page"
+  },
+  {
+   "id": "a8448e7b-8952-6516-09c1-e98dcb78e296",
+   "title": "Filtering",
+   "pageId": "e82828d5-0129-0230-92fe-f58161e8bf89",
+   "type": "page"
+  },
+  {
+   "id": "3de00a7b-bf18-d06f-7313-f69a7ac9dc56",
+   "title": "Spot Check 3",
+   "pageId": "3386c411-9a8f-cfe1-5a71-1b4ea0df5a4c",
+   "type": "page"
+  },
+  {
+   "id": "3c104c66-4721-9c04-fa37-a7cd538b9941",
+   "title": "Notes and SQL Features",
+   "pageId": "38aa6c65-dfb6-6d23-1e4c-d58f58f8e05f",
+   "type": "page"
+  },
+  {
+   "id": "5fa9c105-2e0f-97d9-735e-33d31df49485",
+   "title": "Spot Check 4",
+   "pageId": "00061a47-0bc0-54d3-8bdb-741628ba71f4",
+   "type": "page"
+  },
+  {
+   "id": "06c92d04-4e4f-9a09-0219-208dfbbd238a",
+   "title": "Basic Sorting",
+   "pageId": "289d1a10-69b7-b760-e28f-4e09fffdd68a",
+   "type": "page"
+  },
+  {
+   "id": "0b5d699e-1ff5-77b2-9c83-9988aa12f1eb",
+   "title": "Spot Check 5",
+   "pageId": "542d4eb7-1ead-9117-4b3e-3fa1f9ae571f",
+   "type": "page"
+  },
+  {
+   "id": "cade69ac-632b-7f68-4ab8-4dd47651f05f",
+   "title": "Updating, Deleting",
+   "pageId": "9625977d-e874-fe22-2143-5d512bbcbeb0",
+   "type": "page"
+  },
+  {
+   "id": "8c2d72ab-8323-0b61-38e5-54d05f05f8d2",
+   "title": "Spot Check 6",
+   "pageId": "947f723e-d8f7-b761-c799-0435d3632a80",
+   "type": "page"
+  },
+  {
+   "id": "f1f5be22-9bf2-fee2-2af6-f2610789104c",
+   "title": "Spot Check 7",
+   "pageId": "649a3480-ed7b-3af9-3c20-ff055dce0fec",
+   "type": "page"
+  },
+  {
+   "id": "e4a0e90b-ecbe-ca8c-ecfe-362f9982a5bb",
+   "title": "Primary Keys",
+   "pageId": "8eb81ce2-e706-d581-3975-b49ecd4370e8",
+   "type": "page"
+  },
+  {
+   "id": "c2290f94-0960-0a0a-5ea8-622ec7fd0229",
+   "title": "Exercises",
+   "pageId": "bd5b2107-1944-3d2a-619a-d894faa47cf4",
+   "type": "page"
+  },
+  {
+   "id": "7bb98164-38b8-cbb7-1933-be0481f049ce",
+   "title": "Comprehension Check",
+   "pageId": "c419d84e-81a2-82f8-1d91-f8bed05f6577",
+   "type": "page"
+  }
+ ]
+}

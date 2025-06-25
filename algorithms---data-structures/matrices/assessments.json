@@ -1,0 +1,277 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3105503691",
+  "source": {
+   "name": "1",
+   "showName": false,
+   "instructions": "What is the time complexity of generating a matrix?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "a3e9e921-e443-b5c2-9d6c-392ec07ef01d",
+     "correct": false,
+     "answer": "O( 1 )"
+    },
+    {
+     "_id": "035152c8-c4e3-4a7e-666e-0a715aeddeca",
+     "correct": false,
+     "answer": "O( log(n) )"
+    },
+    {
+     "_id": "7f97afe0-7151-28ac-50e3-ddc600c8473b",
+     "correct": false,
+     "answer": "O( n )"
+    },
+    {
+     "_id": "2f3048f4-5fcd-74f2-e3f4-440c5733a01d",
+     "correct": true,
+     "answer": "O( mn )"
+    },
+    {
+     "_id": "212abc7b-ce00-7b44-acc4-cd3130c8ffea",
+     "correct": false,
+     "answer": "O( n^2 )"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1933226054",
+  "source": {
+   "name": "2",
+   "showName": false,
+   "instructions": "What is the time complexity of finding an item in a matrix?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "c49135b1-6e11-c28f-5216-0b67d9fa0974",
+     "correct": false,
+     "answer": "O( 1 )"
+    },
+    {
+     "_id": "691bf0a4-11ff-10d3-9f04-025767de705a",
+     "correct": false,
+     "answer": "O( log(n) )"
+    },
+    {
+     "_id": "f9d38685-f54d-ed98-85fb-45cd5c027ffe",
+     "correct": false,
+     "answer": "O( n )"
+    },
+    {
+     "_id": "9b55837a-dffb-7282-5737-ce299ff50973",
+     "correct": true,
+     "answer": "O( mn )"
+    },
+    {
+     "_id": "8a72bea0-1b4b-e927-49fb-d3e0026ba669",
+     "correct": false,
+     "answer": "O( n^2 )"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3076260724",
+  "source": {
+   "name": "3",
+   "showName": false,
+   "instructions": "What is the time complexity of accessing an item from a matrix?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "a49a5d3e-c343-229c-1585-7ed776363457",
+     "correct": true,
+     "answer": "O( 1 )"
+    },
+    {
+     "_id": "1d9f7349-f21b-fb3d-5c2c-94726e9c489d",
+     "correct": false,
+     "answer": "O( log(n) )"
+    },
+    {
+     "_id": "25d0716a-5bb3-0b03-625e-72938330a117",
+     "correct": false,
+     "answer": "O( n )"
+    },
+    {
+     "_id": "b086c50f-c700-e69a-3662-d1c35b6bf44d",
+     "correct": false,
+     "answer": "O( mn )"
+    },
+    {
+     "_id": "8f8ce165-082c-59c2-388c-2d5f68439438",
+     "correct": false,
+     "answer": "O( n^2 )"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2769746941",
+  "source": {
+   "name": "4",
+   "showName": false,
+   "instructions": "What is dataStorage in this code?\n\n```\nlet employeesData = [\n  [\"Sally\", 1000],\n  [\"Dave\", 1200],\n  [\"Hector\", 800]\n]\n\nlet dataStorage = {\n  store1: [],\n  store2: new Stack(),\n  store3: new Queue(),\n  store4: employeeData,\n  store5: {}\n}\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "d5b6cd40-e5d9-f49a-a4a2-ac839b5ba24f",
+     "correct": true,
+     "answer": "An object"
+    },
+    {
+     "_id": "8918fba0-eb3a-6d86-ee1e-b60c5d91d6fd",
+     "correct": false,
+     "answer": "An array"
+    },
+    {
+     "_id": "d6ec402a-4b33-ff31-0aee-ccc26f5d825a",
+     "correct": false,
+     "answer": "A stack"
+    },
+    {
+     "_id": "ba6d0be8-ab2a-843a-4a3e-4f308fdf2566",
+     "correct": false,
+     "answer": "A queue"
+    },
+    {
+     "_id": "979c059d-f0aa-79e5-492e-db0285f388b5",
+     "correct": false,
+     "answer": "A matrix"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2189485430",
+  "source": {
+   "name": "5",
+   "showName": true,
+   "instructions": "What is the time complexity of finding some item in dataStorage from the previous question?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "f73874d9-f9ff-affa-8ba3-f4b4447d547b",
+     "correct": false,
+     "answer": "At least O( n )"
+    },
+    {
+     "_id": "756d3898-e5d9-b091-f8fe-82764056a62d",
+     "correct": false,
+     "answer": "At least O( mn )"
+    },
+    {
+     "_id": "b3dd23e6-308d-b934-2091-b85bb1e8badc",
+     "correct": false,
+     "answer": "O( mn )"
+    },
+    {
+     "_id": "fef73463-1a77-97e9-1584-dbfb6808e04b",
+     "correct": true,
+     "answer": "Depends"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

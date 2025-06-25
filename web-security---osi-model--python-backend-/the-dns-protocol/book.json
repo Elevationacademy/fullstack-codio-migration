@@ -1,0 +1,35 @@
+{
+ "name": "How DND Works?",
+ "children": [
+  {
+   "title": "Overview",
+   "id": "5896402e-ec97-42d3-529f-9259cf519811",
+   "type": "page",
+   "pageId": "5896402e-ec97-42d3-529f-9259cf519811"
+  },
+  {
+   "title": "How DNS works?",
+   "id": "9e1ff08b-5415-db73-0907-1612bdc434d5",
+   "type": "page",
+   "pageId": "9e1ff08b-5415-db73-0907-1612bdc434d5"
+  },
+  {
+   "title": "DNS Record Types",
+   "id": "21666866-f6cb-aae2-a850-dce2999be13d",
+   "type": "page",
+   "pageId": "c4a1978f-477d-ebe6-235a-8331a4c61834"
+  },
+  {
+   "title": "Exercises",
+   "id": "973502f1-8441-3af4-4c32-e44eece596e4",
+   "type": "page",
+   "pageId": "3e4b789d-7f1f-cc2b-b46e-ac7a2d0fec2c"
+  },
+  {
+   "id": "00e2ffc9-e249-e41c-3c60-c4ab298f3f54",
+   "title": "Comprehension Check",
+   "pageId": "77f84218-b2c1-00fc-0569-d369c9089a22",
+   "type": "page"
+  }
+ ]
+}

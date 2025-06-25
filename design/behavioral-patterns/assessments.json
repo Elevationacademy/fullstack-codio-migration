@@ -1,0 +1,198 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1805990181",
+  "source": {
+   "name": "Command 1",
+   "showName": true,
+   "instructions": "True or False - the command pattern includes turning actions into objects.",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "f827bcdb-3248-3e4a-a986-28e09809eb34",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "842df9e5-b9d5-c958-9f02-1429d7cc0318",
+     "correct": false,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3366538894",
+  "source": {
+   "name": "Command 2",
+   "showName": true,
+   "instructions": "With the command pattern we...",
+   "multipleResponse": true,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "63f3b7c2-9b08-e784-f660-35cfbdb01940",
+     "correct": false,
+     "answer": "Write less code."
+    },
+    {
+     "_id": "9255d3d0-b6f6-1e98-99bb-e10b1eca2864",
+     "correct": true,
+     "answer": "Hide the execution code from the client."
+    },
+    {
+     "_id": "462444a3-8716-75b4-6e51-2b343772e928",
+     "correct": true,
+     "answer": "Are able to queue actions for later execution."
+    },
+    {
+     "_id": "1767f866-a7c3-e301-73a6-08d845fecf7a",
+     "correct": false,
+     "answer": "Improve performance."
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2519468444",
+  "source": {
+   "name": "Visitor 1",
+   "showName": true,
+   "instructions": "True or False - implementing the visitor pattern requires no code to be added to a class.",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "c59f129a-de08-64b4-cf38-06b7f77241bf",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "aa6290ad-0261-80c4-9fe5-572ce6f5c041",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-467366084",
+  "source": {
+   "name": "Visitor 2",
+   "showName": true,
+   "instructions": "Implementing a visitor requires...",
+   "multipleResponse": true,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "ecd9d875-3349-c514-7be8-5111995c7e7d",
+     "correct": false,
+     "answer": "Executor class."
+    },
+    {
+     "_id": "b81828e9-ae03-ef16-aa20-341062c5adab",
+     "correct": true,
+     "answer": "Common element interface."
+    },
+    {
+     "_id": "91f79dec-5cae-5552-0d74-699b60c4785d",
+     "correct": true,
+     "answer": "An `accept()` method implemented in each element class."
+    },
+    {
+     "_id": "c4be87ab-f22d-8150-8b7f-8fb84af116cc",
+     "correct": false,
+     "answer": "A constructor with a visitor parameter."
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

@@ -1,0 +1,7 @@
+- Jwt Is The New Token
+  - [Intro](./Intro.md "Intro")
+  - [The JWT structure](./The-JWT-structure.md "The JWT structure")
+  - [FastAPI app with JWT (step-by-step)](./FastAPI-app-with-JWT--step-by-step-.md "FastAPI app with JWT (step-by-step)")
+  - [FastAPI app with JWT (full code)](./FastAPI-app-with-JWT--full-code-.md "FastAPI app with JWT (full code)")
+  - [Exercise](./Exercise.md "Exercise")
+  - [Comprehension check](./Comprehension-check.md "Comprehension check")

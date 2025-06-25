@@ -1,0 +1,206 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3380993591",
+  "source": {
+   "name": "1.",
+   "showName": true,
+   "instructions": "What is MVC?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "079a7cd2-5b3b-1689-80c7-beca6c03c3d8",
+     "correct": false,
+     "answer": "Model View Command"
+    },
+    {
+     "_id": "d514e522-57d0-6ebf-cca2-12edcf2dea35",
+     "correct": false,
+     "answer": "Mapping View Command"
+    },
+    {
+     "_id": "7076e01d-c2fe-89cb-1859-400c84721987",
+     "correct": true,
+     "answer": "Model View Controller"
+    },
+    {
+     "_id": "cd5e41c6-822a-9e8f-0709-a221e2626334",
+     "correct": false,
+     "answer": "Mapping View Controller"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-997508621",
+  "source": {
+   "name": "2.",
+   "showName": true,
+   "instructions": "Which of the following is *not* necessarily a benefit of MVC?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "c39700aa-8689-e884-7dfc-b83cb754bd7f",
+     "correct": false,
+     "answer": "Single Responsibility"
+    },
+    {
+     "_id": "fffcf704-b434-6b96-ce59-951802063ffd",
+     "correct": true,
+     "answer": "Efficiency"
+    },
+    {
+     "_id": "1f3e3977-22e2-9337-67c9-787705b78dc0",
+     "correct": false,
+     "answer": "Separation of concerns"
+    },
+    {
+     "_id": "7e8b08f9-b771-ac3d-0f3a-8c99a271425c",
+     "correct": false,
+     "answer": "All of the above *are* necessarily benefits of MVC"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4060003172",
+  "source": {
+   "name": "3.",
+   "showName": true,
+   "instructions": "In MVC",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "681a81ae-8932-a36d-dd4f-992794cbcec8",
+     "correct": false,
+     "answer": "The Controller (user actions) affect the View (DOM), then updates the Model (data)"
+    },
+    {
+     "_id": "7b89970d-6dfd-134e-f624-1525388fdba8",
+     "correct": true,
+     "answer": "The Controller invokes functions in the Model, and then updates the View"
+    },
+    {
+     "_id": "13ffa239-2b93-6158-11d6-7b5c1e54fe63",
+     "correct": false,
+     "answer": "The Model responds to changes in the View that are triggered by the Controller"
+    },
+    {
+     "_id": "288ef9c4-a803-d9b7-2a06-9ca25a0c7992",
+     "correct": false,
+     "answer": "The Model updates the View when it gets triggered by the Controller"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3242875607",
+  "source": {
+   "name": "4.",
+   "showName": true,
+   "instructions": "According to MVC principles, when a user clicks on the 'remove' button and we get an ID of an element to remove,",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "b6494d97-bc2a-610b-b76d-64be0366971e",
+     "correct": false,
+     "answer": "We should invoke `$('#id').remove()` (assume '#id' is the correct id)"
+    },
+    {
+     "_id": "78e59289-8d12-0104-c14b-5d48e40f8105",
+     "correct": true,
+     "answer": "We should update our data model, then re-render the whole view"
+    },
+    {
+     "_id": "9cde465e-6ad7-e8ee-74c5-f89057e1c8bb",
+     "correct": false,
+     "answer": "Neither a nor b"
+    },
+    {
+     "_id": "4caba306-9b79-d7e2-ab10-4cd050e6c8ec",
+     "correct": false,
+     "answer": "Either a or b"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]
