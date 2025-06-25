@@ -1,0 +1,46 @@
+{
+ "sections": [
+  {
+   "id": "2667590a-a335-fe24-63b0-ff5d918236eb",
+   "title": "Solutions",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Solutions-2667.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3c1d5605-9664-a5ad-72d6-5d3b2cb550fc",
+   "title": "Page 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Page-2-3c1d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

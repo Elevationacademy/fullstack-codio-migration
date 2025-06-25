@@ -1,0 +1,238 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3849677955",
+  "source": {
+   "name": "Fill in the blanks",
+   "showName": true,
+   "instructions": "```Javascript\nlet car: { type: ____, model: ____, year: ____ };\n\ncar = {\n  type: \"Toyota\",\n  model: \"Corolla\",\n  year: 2009\n};\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "3589de84-00a0-eed0-bdca-d3e4aa3e33ed",
+     "correct": false,
+     "answer": "string, string, string"
+    },
+    {
+     "_id": "ed9f328b-dfe5-5586-ec39-722231b7aee0",
+     "correct": false,
+     "answer": "string, number, string"
+    },
+    {
+     "_id": "1e4715ae-3e5b-49b9-97a7-5a1507c6e634",
+     "correct": true,
+     "answer": "string, string, number"
+    },
+    {
+     "_id": "9f4a6bfb-21f5-2487-6c6b-fc527b3a800b",
+     "correct": false,
+     "answer": "boolean, string, string"
+    },
+    {
+     "_id": "c84313dc-0866-1236-f154-902e94c1a675",
+     "correct": false,
+     "answer": "boolean, string, number"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3414614440",
+  "source": {
+   "name": "Fill in the blanks",
+   "showName": true,
+   "instructions": "```Javascript\n____ myFunc(): ____ {\n  ____ \"Learning is Fun!\";\n}\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "1687da25-780b-fdf8-8442-6ee7772f0382",
+     "correct": false,
+     "answer": "{nothing}, number, console.log"
+    },
+    {
+     "_id": "c3bb055e-374c-9d8e-0285-7431e0644b8d",
+     "correct": true,
+     "answer": "function, string, return"
+    },
+    {
+     "_id": "94525674-d474-b467-bf6f-affde8df9433",
+     "correct": false,
+     "answer": "function, string, console.log"
+    },
+    {
+     "_id": "a9e998b9-d2fd-99de-4e94-1e66e909729c",
+     "correct": false,
+     "answer": "function, number, return"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1558987712",
+  "source": {
+   "name": "What will be the output?",
+   "showName": true,
+   "instructions": "```Javascript\nconst name: string = \"John\";\nlet age: number = 19;\n\nage = 27;\nname = \"Mike\";\n\nconsole.log(`name: ${name}, age: ${age}`);\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "3c23deb9-3b1b-0280-0ee5-2a51d2054c0a",
+     "correct": false,
+     "answer": "name: John, age: 27"
+    },
+    {
+     "_id": "283f870e-6463-a950-c257-ca87f7889973",
+     "correct": false,
+     "answer": "name: John, age: 19"
+    },
+    {
+     "_id": "ce0e5fc6-9f5d-65c8-060d-ec3b56a1c2f9",
+     "correct": false,
+     "answer": "name: Mike, age: 27"
+    },
+    {
+     "_id": "c5f79d37-d2b2-805a-8614-2818be5e2d9a",
+     "correct": false,
+     "answer": "name: Mike, age: 19"
+    },
+    {
+     "_id": "36a722d6-f7d1-fedd-0006-a5263c537458",
+     "correct": true,
+     "answer": "ERROR"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1929924987",
+  "source": {
+   "name": "TypeScript's primitive types",
+   "showName": true,
+   "instructions": "Which of the following is not a TypeScript primitive type:\n",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "6300dc0f-3b70-c254-e793-abada222475b",
+     "correct": false,
+     "answer": "string"
+    },
+    {
+     "_id": "f4686f8f-0ca3-1267-e6a1-2614ad69f1f5",
+     "correct": false,
+     "answer": "number"
+    },
+    {
+     "_id": "80077e81-5e3e-1960-fbf9-9a0038fac72d",
+     "correct": false,
+     "answer": "boolean"
+    },
+    {
+     "_id": "d93ed7f3-d933-0fbf-5675-442963923de4",
+     "correct": false,
+     "answer": "undefined"
+    },
+    {
+     "_id": "a3b2e807-3220-3f64-b8ae-7c0933041179",
+     "correct": true,
+     "answer": "int"
+    },
+    {
+     "_id": "35fd65f4-2728-2020-6291-682c6bdd8208",
+     "correct": false,
+     "answer": "null"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

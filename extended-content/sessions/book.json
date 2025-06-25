@@ -1,0 +1,17 @@
+{
+ "name": "Sessions",
+ "children": [
+  {
+   "title": "General",
+   "id": "c26448e8-249a-5939-9415-62354b6daa0c",
+   "pageId": "c26448e8-249a-5939-9415-62354b6daa0c",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "1dcd8a43-eda5-d3a4-522c-d28e83a7dc9e",
+   "pageId": "1dcd8a43-eda5-d3a4-522c-d28e83a7dc9e",
+   "type": "page"
+  }
+ ]
+}

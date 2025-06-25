@@ -1,0 +1,53 @@
+{
+ "name": "Unit Tests with Jest",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "3ff938be-bf09-ea3d-944a-c0b4400bad2e",
+   "pageId": "3ff938be-bf09-ea3d-944a-c0b4400bad2e",
+   "type": "page"
+  },
+  {
+   "title": "Unit Testing & Jest Setup",
+   "id": "c36ca1ad-0730-8531-9b7b-6ea6c9d8d4bc",
+   "pageId": "c36ca1ad-0730-8531-9b7b-6ea6c9d8d4bc",
+   "type": "page"
+  },
+  {
+   "id": "fca31bac-9478-8f58-2c8d-160b4105063b",
+   "title": "Basic Test",
+   "pageId": "a0af2d50-dc5f-1c0a-eb4a-84c309f6439c",
+   "type": "page"
+  },
+  {
+   "id": "99075bd8-07aa-d988-f7b5-c73071390783",
+   "title": "Matchers",
+   "pageId": "e2fc5381-5add-a590-b761-7c71c2534387",
+   "type": "page"
+  },
+  {
+   "id": "6cdb310f-0fc2-1463-f688-e6cfef5c4988",
+   "title": "Testing with Classes",
+   "pageId": "90802fbd-6a42-9d86-a322-5eb407dab2af",
+   "type": "page"
+  },
+  {
+   "id": "ffcd036e-49a7-340e-bfb8-436c701f53c6",
+   "title": "Test Driven Development (TDD)",
+   "pageId": "4e9b4670-3be9-4dc5-6859-d27b29333c63",
+   "type": "page"
+  },
+  {
+   "id": "03f6525a-57eb-f323-81ba-03b923f423a6",
+   "title": "Exercises",
+   "pageId": "91e2fa92-57ec-1ad0-ec09-b8a050faec69",
+   "type": "page"
+  },
+  {
+   "id": "edf74402-69e6-de1d-c8a0-7e55ab573516",
+   "title": "expect(done) .toBeTruthy( )",
+   "pageId": "71a2a3d7-8f0f-61b2-71d2-ef8bd03b4523",
+   "type": "page"
+  }
+ ]
+}

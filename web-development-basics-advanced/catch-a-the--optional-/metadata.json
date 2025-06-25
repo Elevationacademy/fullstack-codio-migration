@@ -1,0 +1,58 @@
+{
+ "sections": [
+  {
+   "id": "03a78dba-76b3-f464-83a7-a3d9a2ce91c1",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-03a7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "328f7ff0-5197-ec97-5c4b-969ba91458a9",
+   "title": "Catch-the...",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Catch-the----328f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a6a74ae1-c8d6-60ec-94a8-94e8b2d35dc2",
+   "title": "Game",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Game-a6a7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

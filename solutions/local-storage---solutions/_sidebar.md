@@ -1,0 +1,2 @@
+- Local Storage   Solutions
+  - [Solutions](./Solutions.md "Solutions")

@@ -1,0 +1,47 @@
+{
+ "name": "Intro to JSON",
+ "children": [
+  {
+   "title": "JSON Video",
+   "id": "e0cc24ac-e890-95fe-9950-9b96d5a2afcd",
+   "pageId": "e0cc24ac-e890-95fe-9950-9b96d5a2afcd",
+   "type": "page"
+  },
+  {
+   "title": "Intro",
+   "id": "0c813e15-435e-5e0d-fb4b-525e91bb0a7e",
+   "pageId": "0c813e15-435e-5e0d-fb4b-525e91bb0a7e",
+   "type": "page"
+  },
+  {
+   "id": "613ffbc6-be32-d9fb-8b8b-23848a66bdfa",
+   "title": "What is JSON?",
+   "pageId": "3cefb56a-230a-d70c-671b-67e07aa5ac68",
+   "type": "page"
+  },
+  {
+   "id": "f9322958-fc8b-7f9f-810b-56b091524560",
+   "title": "Rules & Order",
+   "pageId": "69e13899-7b1b-a693-1223-b5427da9d827",
+   "type": "page"
+  },
+  {
+   "id": "a039a56a-0ec9-2058-9173-cbb0637a6747",
+   "title": "Classic Example",
+   "pageId": "3a50a6eb-b6c9-cdda-b2bd-ed4c43d1a8b6",
+   "type": "page"
+  },
+  {
+   "id": "c6bfa2ef-b22a-0ea1-4b27-d814e865add6",
+   "title": "Exercises",
+   "pageId": "d8944330-a202-89e6-5a26-0b473fa9d564",
+   "type": "page"
+  },
+  {
+   "id": "a63aeb22-fc50-4862-c00d-f2a292d89793",
+   "title": "Comprehension Check",
+   "pageId": "cf31cc6d-788d-1aa1-f463-46c211081378",
+   "type": "page"
+  }
+ ]
+}

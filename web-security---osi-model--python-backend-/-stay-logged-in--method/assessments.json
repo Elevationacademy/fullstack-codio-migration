@@ -1,0 +1,252 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3849677955",
+  "source": {
+   "name": "Example Question",
+   "showName": true,
+   "instructions": "What is this platform?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "3589de84-00a0-eed0-bdca-d3e4aa3e33ed",
+     "correct": false,
+     "answer": "Kernel"
+    },
+    {
+     "_id": "ed9f328b-dfe5-5586-ec39-722231b7aee0",
+     "correct": true,
+     "answer": "Codio"
+    },
+    {
+     "_id": "1e4715ae-3e5b-49b9-97a7-5a1507c6e634",
+     "correct": false,
+     "answer": "Moodle"
+    },
+    {
+     "_id": "9f4a6bfb-21f5-2487-6c6b-fc527b3a800b",
+     "correct": false,
+     "answer": "Google Code"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2562272397",
+  "source": {
+   "name": "Maintaining *logged-in* state",
+   "showName": true,
+   "instructions": "What do we use to maintain a *logged-in* state when accessing multiple API endpoints?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "0b124015-f01e-24aa-81bd-a415eff1e102",
+     "correct": false,
+     "answer": "A muffin"
+    },
+    {
+     "_id": "214fb25c-92d3-b48f-e3da-df88ed5a43a5",
+     "correct": false,
+     "answer": "A hashed username"
+    },
+    {
+     "_id": "d58fa11b-f334-7a24-2a2b-e474724a1a9a",
+     "correct": true,
+     "answer": "A cookie"
+    },
+    {
+     "_id": "83251248-6f5f-05b0-2b5c-7ef00fcacc93",
+     "correct": false,
+     "answer": "A token stored in our browser’s `localStorage`"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4276923140",
+  "source": {
+   "name": "Cookies on client side",
+   "showName": true,
+   "instructions": "Cookies can only be set on the client side using Javascript",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "750facd9-5e60-42bc-f5c9-622fe4d76a6b",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "a2b25ac5-68ed-c778-5bc5-f50ebf668da9",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2284780366",
+  "source": {
+   "name": "Accessing cookies",
+   "showName": true,
+   "instructions": "How do we access cookies in FastAPI?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "eaa86ea1-0255-7887-e96d-87d92656e1cd",
+     "correct": false,
+     "answer": "request.params.get({cookie_name})"
+    },
+    {
+     "_id": "ea4e5ff7-96c3-cb85-0aa7-2267f32e4b6a",
+     "correct": false,
+     "answer": "request.headers.get({cookie_name})"
+    },
+    {
+     "_id": "3f75b30a-a927-d2ad-e541-9b82479822b9",
+     "correct": false,
+     "answer": "response.cookies.get({cookie_name})"
+    },
+    {
+     "_id": "8202fb96-f3ee-b119-57f8-00715b7e02e4",
+     "correct": true,
+     "answer": "request.cookies.get({cookie_name})"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-56353951",
+  "source": {
+   "name": "Cookies and JSON",
+   "showName": true,
+   "instructions": "You can only store JSON-formatted strings in a cookie",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "4c3f54f6-2ffa-7495-8ac2-1f3d94d5a0e7",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "c3c97229-7678-9103-6cae-edda4163fc0b",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

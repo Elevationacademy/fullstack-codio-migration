@@ -1,0 +1,8 @@
+- Iterator Challenge
+  - [The-Challenge](./challenges/iterator-challenge/The-Challenge.md)
+  - [Submit-Your-Answer](./challenges/iterator-challenge/Submit-Your-Answer.md)
+- Iterator Solution
+  - [Solutions](./challenges/iterator-solution/Solutions.md)
+- Splice Challenge
+  - [The-Challenge](./challenges/splice-challenge/The-Challenge.md)
+  - [Submit-Your-Answer](./challenges/splice-challenge/Submit-Your-Answer.md)

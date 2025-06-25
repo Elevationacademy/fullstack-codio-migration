@@ -1,0 +1,82 @@
+{
+ "sections": [
+  {
+   "id": "a00bcc30-7f82-6fe6-cf23-414f03889848",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-a00b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "23423ff8-f07a-36c2-6203-ebcb3b52fada",
+   "title": "Project Details",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Project-Details-2342.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2848aae2-8e35-e2c6-65fa-43a8f48c6f68",
+   "title": "README File",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/README-File-2848.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "aba8893f-41b6-c54e-3bd0-e9bfd3677ef2",
+   "title": "Profile",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Profile-aba8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b9b351f9-adb7-b408-413e-1a167002eaa6",
+   "title": "Now You",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Now-You-b9b3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

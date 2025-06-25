@@ -1,0 +1,154 @@
+{
+ "sections": [
+  {
+   "id": "f5710449-16ff-0cf0-d3ad-425898c3401e",
+   "title": "Collaboration Overview",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Collaboration-Overview-f571.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "01d1de6d-1c44-d26b-f5d7-207de9744d5e",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-01d1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "47be5e4f-0769-a8f4-5b15-815e2bd38aae",
+   "title": "Collaboration",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Collaboration-47be.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "8a45504b-2cf4-e98d-aaff-7afb1893464f",
+   "title": "Branching Out",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Branching-Out-8a45.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "cd27b7a1-b3cc-cdb3-5f93-5f08ebe21b64",
+   "title": "Merging and Pull Requests",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Merging-and-Pull-Requests-cd27.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f45c0f4b-d381-76a2-0e5d-5d562177df88",
+   "title": "Practice",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Practice-f45c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2cd49d46-65c2-03bd-7ba3-4bad6a01e9f1",
+   "title": "Fetching",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Fetching-2cd4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "885b61c7-6bd2-cc6b-0b54-0dae0c76ca57",
+   "title": "Pulling",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Pulling-885b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "79036e49-4383-0934-700f-0bafa794f9f1",
+   "title": "Back to Master",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Back-to-Master-7903.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ae31b045-4793-5c25-2818-15f8dbca12e9",
+   "title": "Switch Sides - Merge Conflicts",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Switch-Sides---Merge-Conflicts-ae31.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "20794460-ccea-0509-368b-3b670cfc4bc2",
+   "title": "Recap",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recap-2079.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

@@ -1,0 +1,71 @@
+{
+ "name": "Git Collaboration",
+ "children": [
+  {
+   "title": "Collaboration Overview",
+   "id": "f5710449-16ff-0cf0-d3ad-425898c3401e",
+   "pageId": "f5710449-16ff-0cf0-d3ad-425898c3401e",
+   "type": "page"
+  },
+  {
+   "title": "Intro",
+   "id": "01d1de6d-1c44-d26b-f5d7-207de9744d5e",
+   "pageId": "01d1de6d-1c44-d26b-f5d7-207de9744d5e",
+   "type": "page"
+  },
+  {
+   "id": "4e586e09-1c0e-2027-79c3-08c5879b3e3b",
+   "title": "Collaboration",
+   "pageId": "47be5e4f-0769-a8f4-5b15-815e2bd38aae",
+   "type": "page"
+  },
+  {
+   "id": "89117f83-7132-cc2a-6177-8f3fc308e440",
+   "title": "Branching Out",
+   "pageId": "8a45504b-2cf4-e98d-aaff-7afb1893464f",
+   "type": "page"
+  },
+  {
+   "id": "af99aad2-dc4e-7f87-3b5d-4d9c6258bac0",
+   "title": "Merging and Pull Requests",
+   "pageId": "cd27b7a1-b3cc-cdb3-5f93-5f08ebe21b64",
+   "type": "page"
+  },
+  {
+   "id": "d9106031-721d-6b12-9d3e-c179cbde8739",
+   "title": "Practice",
+   "pageId": "f45c0f4b-d381-76a2-0e5d-5d562177df88",
+   "type": "page"
+  },
+  {
+   "id": "512a7440-b3a3-9bd8-85f3-b3da64c9d2ab",
+   "title": "Fetching",
+   "pageId": "2cd49d46-65c2-03bd-7ba3-4bad6a01e9f1",
+   "type": "page"
+  },
+  {
+   "id": "69aa3cf6-108c-bec3-09d4-afcd2daa30e4",
+   "title": "Pulling",
+   "pageId": "885b61c7-6bd2-cc6b-0b54-0dae0c76ca57",
+   "type": "page"
+  },
+  {
+   "id": "082e83a5-e037-a40b-52a8-4ad01407ff49",
+   "title": "Back to Master",
+   "pageId": "79036e49-4383-0934-700f-0bafa794f9f1",
+   "type": "page"
+  },
+  {
+   "id": "7198a095-3929-a256-6de6-7d953b2dfeb7",
+   "title": "Switch Sides - Merge Conflicts",
+   "pageId": "ae31b045-4793-5c25-2818-15f8dbca12e9",
+   "type": "page"
+  },
+  {
+   "id": "480b8a58-6e49-e4dd-c002-4ff7c732c1d7",
+   "title": "Recap",
+   "pageId": "20794460-ccea-0509-368b-3b670cfc4bc2",
+   "type": "page"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3314401341",
+  "source": {
+   "name": "1.",
+   "showName": true,
+   "instructions": "What is Mongo DB?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "79b53b0c-8db3-6b98-aac6-52c02ea7065f",
+     "correct": false,
+     "answer": "An NPM package"
+    },
+    {
+     "_id": "e2e7fe29-f499-aca5-c551-724c55defb72",
+     "correct": false,
+     "answer": "A node module"
+    },
+    {
+     "_id": "51334214-8882-09b2-6a1b-d5658d03fb71",
+     "correct": false,
+     "answer": "A relational database"
+    },
+    {
+     "_id": "4215830b-9593-7ead-93d2-09c91ff8a1f2",
+     "correct": true,
+     "answer": "A non-relational database"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

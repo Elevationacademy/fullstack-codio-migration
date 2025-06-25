@@ -1,0 +1,101 @@
+{
+ "name": "DOM Intro",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "d32548db-0629-d377-57b9-7108e1cf6286",
+   "pageId": "d32548db-0629-d377-57b9-7108e1cf6286",
+   "type": "page"
+  },
+  {
+   "title": "Document",
+   "id": "b61b302b-3b51-6149-6bb9-976d08a20098",
+   "pageId": "b61b302b-3b51-6149-6bb9-976d08a20098",
+   "type": "page"
+  },
+  {
+   "id": "1387da0a-c687-902e-a03b-64ef2dca10ba",
+   "title": "Targeting Elements",
+   "pageId": "836d53ae-3c15-7c7f-0e12-cc66d70f37d1",
+   "type": "page"
+  },
+  {
+   "id": "7dc260b6-3fff-9d40-9a2f-b452797159ae",
+   "title": "Spot Check 1",
+   "pageId": "3896e2d0-df5f-3631-4b78-957a52f3cc1c",
+   "type": "page"
+  },
+  {
+   "id": "46049b25-3827-9169-3485-0e96ed46d5ee",
+   "title": "Accessing & Modifying HTML",
+   "pageId": "bffa97c2-3fd6-3143-a4cf-efacf4a13ffa",
+   "type": "page"
+  },
+  {
+   "id": "6333e3ab-a3b7-6ba2-980e-b403185b3681",
+   "title": "Spot Check 2",
+   "pageId": "453c725c-4a18-c634-3b37-0e207ac932fa",
+   "type": "page"
+  },
+  {
+   "id": "2a99d94a-de1f-fa84-7d5f-dfb04f53fee0",
+   "title": "Accessing & Modifying HTML II",
+   "pageId": "7c0cb438-c151-1c53-8fab-fadf7239c295",
+   "type": "page"
+  },
+  {
+   "id": "0f2532f1-459d-d376-2b4f-e046f7651710",
+   "title": "Spot Check 3",
+   "pageId": "801efffd-a0f8-7084-4b3c-64005844520b",
+   "type": "page"
+  },
+  {
+   "id": "c0c420c8-d588-bc64-04d5-2c559d6fe11e",
+   "title": "Creating & Adding Elements",
+   "pageId": "08e3b60c-b116-e1e0-4332-ec870492f2d1",
+   "type": "page"
+  },
+  {
+   "id": "80b3426d-4767-f7fb-1f31-a7a502897629",
+   "title": "Spot Check 4",
+   "pageId": "1bf739f3-10c7-6b3d-902c-f5272b8f48d2",
+   "type": "page"
+  },
+  {
+   "id": "fb14a9eb-d26e-e7a8-b964-56e56296f8f5",
+   "title": "Events",
+   "pageId": "58c5b6ab-a2c3-c053-ca9a-ebbb96f368e7",
+   "type": "page"
+  },
+  {
+   "id": "de19a298-7c92-1f2a-a77e-e84de740df4b",
+   "title": "Spot Check 5",
+   "pageId": "8682a0cf-4408-11b5-6fec-eba8f47e32e6",
+   "type": "page"
+  },
+  {
+   "id": "e97462ab-fb05-cf0e-fc99-1305d4f18cee",
+   "title": "Spot Check 6",
+   "pageId": "d36d1c57-c517-096a-244c-02d0232272d9",
+   "type": "page"
+  },
+  {
+   "id": "78a50f64-ea19-4624-eb0a-16be4c8182aa",
+   "title": "Events II",
+   "pageId": "6e727a2a-d2e2-7c00-3c4e-72925c5872a8",
+   "type": "page"
+  },
+  {
+   "id": "047b394b-d505-2781-a7b3-5106426a1353",
+   "title": "Exercises",
+   "pageId": "07538e73-b2f3-9f30-5f94-faa8691f4329",
+   "type": "page"
+  },
+  {
+   "id": "677007a8-8c4d-e6a1-b473-9982c4201a3e",
+   "title": "Comprehension Check",
+   "pageId": "7743686f-4748-2749-878b-ed02c6325198",
+   "type": "page"
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1017525154",
+  "source": {
+   "name": "1.",
+   "showName": true,
+   "instructions": "Which of these is true?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "1551b028-d039-50b4-ce00-643e9011872b",
+     "correct": true,
+     "answer": "JSON is valid JS but JS isn't always valid JSON"
+    },
+    {
+     "_id": "dc951dbb-34b0-e730-9013-8fa00277bf37",
+     "correct": false,
+     "answer": "JSON is valid JS and JS is never valid JSON"
+    },
+    {
+     "_id": "ddf74dce-d960-8a1f-b8b7-0156aeb0afb6",
+     "correct": false,
+     "answer": "JS is valid JSON but JSON isn't always valid JS"
+    },
+    {
+     "_id": "a452334a-dbf1-567f-156d-6207fb3d96cf",
+     "correct": false,
+     "answer": "JS is valid JSON and JSON is never valid JS"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3644785856",
+  "source": {
+   "name": "2.",
+   "showName": true,
+   "instructions": "The three main rules of JSON are",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "ca053f7e-10da-bd0f-5f02-28d3d2cdbe9b",
+     "correct": false,
+     "answer": "No dangling commas, no comments, no special characters in the keys"
+    },
+    {
+     "_id": "ada49773-2190-f332-b6f7-0f06e32c5360",
+     "correct": false,
+     "answer": "No special characters in the keys, no single-quote keys, no trailing commas"
+    },
+    {
+     "_id": "fc6e19e6-7dea-83d5-86b5-6886fd010006",
+     "correct": true,
+     "answer": "No dangling commas, no comments, keys must be wrapped in double quotes"
+    },
+    {
+     "_id": "e9e81d2a-3c49-ba40-5527-f63039c0ead1",
+     "correct": false,
+     "answer": "There are not special rules to JSON, any valid JS object is fine"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

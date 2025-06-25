@@ -1,0 +1,68 @@
+{
+ "sections": [
+  {
+   "id": "b60bb951-2e00-2e4c-be0e-c6ee13fd77de",
+   "title": "Destructuring & Spread and Nullish coalescing",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Destructuring---Spread-and-Nullish-coalescing-b60b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "69bc8826-6be5-d40a-153d-a49ca8e9ea94",
+   "title": "Destructuring Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Destructuring-Exercises-69bc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "59377cb5-ec7b-8504-0011-a80293abe4f3",
+   "title": "Spread Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spread-Exercises-5937.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "afa01e4f-3830-9097-1610-eef3cd733277",
+   "title": "Null Coalescing Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Null-Coalescing-Exercises-afa0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

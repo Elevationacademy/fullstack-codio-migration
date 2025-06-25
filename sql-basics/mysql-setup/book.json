@@ -1,0 +1,29 @@
+{
+ "name": "MySQL Setup",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "95c7ef14-28e1-9e9d-a4c1-fac5e6a444db",
+   "pageId": "95c7ef14-28e1-9e9d-a4c1-fac5e6a444db",
+   "type": "page"
+  },
+  {
+   "title": "Download, Install, and Run MySQL",
+   "id": "d440dce9-713f-bdbf-6c04-130304f18c01",
+   "pageId": "d440dce9-713f-bdbf-6c04-130304f18c01",
+   "type": "page"
+  },
+  {
+   "id": "c8e032a0-3a0e-cce6-59ef-3a6c063d778f",
+   "title": "VS Code Setup",
+   "pageId": "8eea4fc6-b592-fc41-71bb-83192451a901",
+   "type": "page"
+  },
+  {
+   "id": "acb865cb-f288-2e19-c497-c10fcc55335b",
+   "title": "First Table Validation",
+   "pageId": "1f38214a-d53c-a488-d026-604651c8916e",
+   "type": "page"
+  }
+ ]
+}

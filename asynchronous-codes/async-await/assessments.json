@@ -1,0 +1,114 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2528706874",
+  "source": {
+   "name": "1.",
+   "showName": true,
+   "instructions": "What does the async keyword do to a function?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "2b851206-8076-29c2-add9-939de1d2c5e8",
+     "correct": false,
+     "answer": "It synchronizes it with the previous function"
+    },
+    {
+     "_id": "ec902c2e-317e-bfb0-a6d8-3366a7ab010e",
+     "correct": false,
+     "answer": "It makes the function return promise"
+    },
+    {
+     "_id": "32455253-4bab-7beb-73ac-7f767d225eb0",
+     "correct": false,
+     "answer": "It allows us to use `.then ` on the function's returned value"
+    },
+    {
+     "_id": "0c808f66-d47d-4c18-04b4-3fdf30dfcbe2",
+     "correct": false,
+     "answer": "It resets the order of the call stack"
+    },
+    {
+     "_id": "0d688b1d-0dc4-36e9-05ef-e91096284f30",
+     "correct": true,
+     "answer": "b and c"
+    },
+    {
+     "_id": "6c957b6b-68a5-f453-6a2c-f97ec147f292",
+     "correct": false,
+     "answer": "c and d"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-274549446",
+  "source": {
+   "name": "2.",
+   "showName": true,
+   "instructions": "Will this work?\n\n```js\nconst getFeed = async function(user){\n\tlet name = user.firstName + user.lastName\n\tlet feed = await $.get('/feedApi/' + name)\n\treturn feed\n}\n\t\nconst puppeteer = async function(user){\n\tlet feed = await getFeed(user)\n\trender(feed)\n}\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "3d2d5513-6e61-42e8-310f-dceb4dc03ee2",
+     "correct": true,
+     "answer": "Yes"
+    },
+    {
+     "_id": "ad368505-dff6-04e5-1c01-f3597f452d67",
+     "correct": false,
+     "answer": "No, throws an error"
+    },
+    {
+     "_id": "79d664cb-cd33-79ba-37aa-0f79aaaadd5b",
+     "correct": false,
+     "answer": "No, async issue"
+    },
+    {
+     "_id": "2c49c0d9-2f77-86e2-ac72-9657955d2a02",
+     "correct": false,
+     "answer": "No, undefined"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

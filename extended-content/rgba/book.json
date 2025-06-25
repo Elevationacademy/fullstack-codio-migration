@@ -1,0 +1,17 @@
+{
+ "name": "RGBA",
+ "children": [
+  {
+   "title": "RGBA",
+   "id": "6224bed2-ce75-e321-a93d-3a3bb947af7c",
+   "pageId": "6224bed2-ce75-e321-a93d-3a3bb947af7c",
+   "type": "page"
+  },
+  {
+   "title": "Exercise",
+   "id": "72f8712c-caf7-fa6b-6477-341fcf4de2cd",
+   "pageId": "72f8712c-caf7-fa6b-6477-341fcf4de2cd",
+   "type": "page"
+  }
+ ]
+}

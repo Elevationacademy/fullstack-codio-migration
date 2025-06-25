@@ -1,0 +1,154 @@
+{
+ "sections": [
+  {
+   "id": "81df6ce8-34a9-fbec-01f2-7ce082d33bfc",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-81df.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "07051e6e-36cc-79dc-3104-337c295f6499",
+   "title": "Reservations Repo",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Reservations-Repo-0705.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "1c542d99-2a2d-7827-7324-736515ee15fe",
+   "title": "Computed",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Computed-1c54.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "900f31a7-af35-868b-bb97-fe3183d733ad",
+   "title": "Computed Values",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Computed-Values-900f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b70e3ec4-5bce-7c92-938d-b32262f2e057",
+   "title": "Provider and Inject",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Provider-and-Inject-b70e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a727a91f-70c3-0c1e-05ea-8561bc22fc3e",
+   "title": "Provider and Inject",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Provider-and-Inject-a727.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3990455a-cfda-3108-9d91-03437a406d7b",
+   "title": "Working with Multiple Stores",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Working-with-Multiple-Stores-3990.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4b5ade7a-fd1d-2930-e10d-2f9befc64f3a",
+   "title": "Using Multiple Stores",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Using-Multiple-Stores-4b5a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a928c358-439a-4922-241c-4c42e92ce1b9",
+   "title": "No Mo(re)bX!",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/No-Mo-re-bX--a928.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e4f0fee4-7440-44dd-dcd7-e39e92cc5dc2",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-e4f0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "65312890-e7df-97f0-1ff2-e506faef6c7b",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-6531.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

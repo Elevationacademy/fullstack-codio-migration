@@ -1,0 +1,17 @@
+{
+ "name": "Zoom Onboarding",
+ "children": [
+  {
+   "title": "Zoooooom",
+   "id": "d4bd0bd3-4882-aa28-f7e9-ca827b29e03a",
+   "pageId": "d4bd0bd3-4882-aa28-f7e9-ca827b29e03a",
+   "type": "page"
+  },
+  {
+   "title": "The Onboarding",
+   "id": "fe4a2b05-f060-0d85-63d2-81a23b787a28",
+   "pageId": "fe4a2b05-f060-0d85-63d2-81a23b787a28",
+   "type": "page"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "sections": [
+  {
+   "id": "4eda52c6-4143-5e8c-df73-bc0e83759b70",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-4eda.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

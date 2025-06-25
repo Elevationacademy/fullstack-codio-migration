@@ -1,0 +1,35 @@
+{
+ "name": "Autocomplete Trie Project",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "8b6f8bfb-7cdc-0484-6424-2fb52130c786",
+   "pageId": "8b6f8bfb-7cdc-0484-6424-2fb52130c786",
+   "type": "page"
+  },
+  {
+   "title": "Tries/ Prefix Trees",
+   "id": "e466e087-1894-6610-93a8-37220b36b451",
+   "pageId": "e466e087-1894-6610-93a8-37220b36b451",
+   "type": "page"
+  },
+  {
+   "id": "ebb4eb9f-b30c-c992-0dfd-eea70052439e",
+   "title": "Project Requirements",
+   "pageId": "a3dc03d3-2db4-538c-24fc-de4180fb8a7a",
+   "type": "page"
+  },
+  {
+   "id": "9e4568ac-c7b5-dd9d-5af7-79eff16d2ede",
+   "title": "Hints",
+   "pageId": "1b4eb60e-43f0-c0ca-b6a9-6893ee4c671e",
+   "type": "page"
+  },
+  {
+   "id": "c0ff51f4-fa27-0e16-838b-e11f35c2adf5",
+   "title": "Extension: UI",
+   "pageId": "d5fe4fc3-94d5-cabb-7dfe-7fbba52ab8f1",
+   "type": "page"
+  }
+ ]
+}

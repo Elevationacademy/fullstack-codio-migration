@@ -1,0 +1,70 @@
+{
+ "sections": [
+  {
+   "id": "635b4600-6d09-f4aa-7fe7-f6c804e99912",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-635b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0020911e-e360-a2bf-3622-3cdc635008c9",
+   "title": "Terminology",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Terminology-0020.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b11f83d9-3cb0-193d-3c56-261cfca907a4",
+   "title": "Database Concept & Architecture",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Database-Concept---Architecture-b11f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "68968b64-c982-a5f0-f120-7f2cd7457748",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-6896.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

@@ -1,0 +1,94 @@
+{
+ "sections": [
+  {
+   "id": "888f518c-0dd4-3b5a-1f7f-032732e2983f",
+   "title": "Intro & Setup",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro---Setup-888f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "91389aa3-f4f4-6879-8770-2e5872de9e9a",
+   "title": "Query",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Query-9138.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "bd334474-edfd-ec45-4c3c-c15ebbd02137",
+   "title": "Inserting",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Inserting-bd33.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "45ba263b-44f3-5ba5-76fc-0e986879e71c",
+   "title": "Async Insert",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Async-Insert-45ba.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "09b92215-323e-3643-8f84-827f72f00a8d",
+   "title": "Split Lines",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Split-Lines-09b9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2866b460-a76d-6902-8a75-60e1f19941a4",
+   "title": "Exercise - Data Migration",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercise---Data-Migration-2866.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

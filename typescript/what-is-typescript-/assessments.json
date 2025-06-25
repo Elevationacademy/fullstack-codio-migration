@@ -1,0 +1,257 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3849677955",
+  "source": {
+   "name": "TypeScript Base Interface",
+   "showName": false,
+   "instructions": "Why should we use TypeScript?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "3589de84-00a0-eed0-bdca-d3e4aa3e33ed",
+     "correct": false,
+     "answer": "It reduces the amount of defects"
+    },
+    {
+     "_id": "ed9f328b-dfe5-5586-ec39-722231b7aee0",
+     "correct": false,
+     "answer": "It forces us to write clean code"
+    },
+    {
+     "_id": "1e4715ae-3e5b-49b9-97a7-5a1507c6e634",
+     "correct": false,
+     "answer": "Allows us to control granular levels of strictness"
+    },
+    {
+     "_id": "9f4a6bfb-21f5-2487-6c6b-fc527b3a800b",
+     "correct": true,
+     "answer": "All of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1066167225",
+  "source": {
+   "name": "TypeScript Casting #1",
+   "showName": false,
+   "instructions": "TypeScript is a *loosely-typed* language",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "49a19ee1-ca23-4960-ab65-f4afa3256640",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "f58476ad-e0fc-b0c0-4d6d-88c86f98267f",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2406756475",
+  "source": {
+   "name": "TypeScript Casting #2",
+   "showName": false,
+   "instructions": "What do you use TypeScript for?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "9512524f-b705-8cfb-1650-84488d092dd6",
+     "correct": false,
+     "answer": "Checking types"
+    },
+    {
+     "_id": "e105835a-d21f-13dc-f237-6c988e8f63da",
+     "correct": false,
+     "answer": "Validating values"
+    },
+    {
+     "_id": "fd258bc8-33db-a3a5-a206-c8bc9134c765",
+     "correct": false,
+     "answer": "Checking the syntax of the code"
+    },
+    {
+     "_id": "71bcf6be-6512-270b-8c89-5ea94860291e",
+     "correct": true,
+     "answer": "A and C"
+    },
+    {
+     "_id": "740bc213-2926-7d33-83ac-d63b7311e859",
+     "correct": false,
+     "answer": "A, B and C"
+    }
+   ],
+   "guidance": "TypeScript Generics can infer the type by the arguments sent to a function",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-236565070",
+  "source": {
+   "name": "Using Generics",
+   "showName": true,
+   "instructions": "You can only use Generics with functions, but not with classes",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "561ae875-7f83-ef4e-7ad9-cd4482596da2",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "8ffa01e0-9b2b-d84f-92f6-46fd9245c3a7",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2691874358",
+  "source": {
+   "name": "What is TypeScript?",
+   "showName": false,
+   "instructions": "TypeScript is a ___",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "1d706d97-1b16-c4f9-319a-2fb5de3564d3",
+     "correct": false,
+     "answer": "Interpreted language"
+    },
+    {
+     "_id": "7a7be84c-ecf6-c3ab-5d53-45e554074b8f",
+     "correct": true,
+     "answer": "Compiled language"
+    },
+    {
+     "_id": "b0324ba1-7631-ac41-f00a-454deae978bb",
+     "correct": false,
+     "answer": "Back-end development language"
+    },
+    {
+     "_id": "850c68a6-8acd-891c-8976-1000f41e3b41",
+     "correct": false,
+     "answer": "Front-end development language"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

@@ -1,0 +1,247 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2771805191",
+  "source": {
+   "name": "Symmetric and Asymmetric Communication",
+   "showName": true,
+   "instructions": "Given the following HTTP response from the server to a client over an **already established** HTTPS connection\n\n```\nHTTP/2 200 \nserver: nginx\ndate: Thu, 11 Aug 2022 13:52:43 GMT\ncontent-type: text/html;charset=utf-8\nx-content-type-options: nosniff\nage: 197\nlast-modified: Thu, 11 Aug 2022 13:49:26 GMT\netag: \"13ea2-5e5f76f15e9ea\"\naccept-ranges: bytes\nx-xss-protection: 1; mode=block\nx-frame-options: SAMEORIGIN\nx-content-type-options: nosniff\nset-cookie: incap_ses_878_1323850=CueaZsfuJvBhKbxx925UsQ==; path=/; Domain=.digicert.com; Secure; SameSite=None\nstrict-transport-security: max-age=31536000\nx-cdn: Imperva\n\n* TLSv1.3 (IN), TLS (23):\n```\n\n\nWhich encryption algorithm type was used to encrypt the content?  ",
+   "multipleResponse": false,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "32bffc69-a6a8-bc2d-5040-9e647587f02c",
+     "correct": true,
+     "answer": "Symmetric"
+    },
+    {
+     "_id": "6b10693a-086a-f90d-b750-b254142d3019",
+     "correct": false,
+     "answer": "Asymmetric"
+    },
+    {
+     "_id": "4c3d6f9b-5766-09ef-6098-41d4cec06d6e",
+     "correct": false,
+     "answer": "Both symmetric and asymmetric"
+    },
+    {
+     "_id": "cad78d36-0405-c4bc-e2aa-0a86d31f20a7",
+     "correct": false,
+     "answer": "Unknown"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": [
+     {
+      "type": "terminal",
+      "panelNumber": 1,
+      "content": ""
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3912833844",
+  "source": {
+   "name": "Bad Handshake",
+   "showName": true,
+   "instructions": "Consider the following handshake process:\n\n1. Server send certificate to the client.\n1. Client generates public-private key pair.\n1. Client encrypts the master-key with the generated public key.\n1. Client sends the encrypted master-key to the server. \n\nWhat is wrong with the described handshake?",
+   "multipleResponse": true,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "89263f5a-e72f-6517-e385-831dfa3a6825",
+     "correct": true,
+     "answer": "Server can not decrypt the encrypted master-key"
+    },
+    {
+     "_id": "b19ff79f-87b9-1754-955d-03a88752c914",
+     "correct": false,
+     "answer": "Data integrity was broken "
+    },
+    {
+     "_id": "8e6f6ddd-432a-dec2-a6d0-9cca619edebf",
+     "correct": true,
+     "answer": "Client should verify the server certificate"
+    },
+    {
+     "_id": "0a2f7a8e-88f4-6c78-79aa-85844e59bdb8",
+     "correct": false,
+     "answer": "The sent data is not encrypted"
+    },
+    {
+     "_id": "1667e0fb-81c2-4796-c383-4d053748923c",
+     "correct": false,
+     "answer": "The client should use an HTTPS to send the data to the server"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": [
+     {
+      "type": "terminal",
+      "panelNumber": 1,
+      "content": ""
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3675577615",
+  "source": {
+   "name": "Self-signed certificate",
+   "showName": true,
+   "instructions": "Self-signed certificate are useful for:",
+   "multipleResponse": false,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "c5f7a06a-00d4-68d1-56e0-1afcbfc0b268",
+     "correct": true,
+     "answer": "Issue certificates for organization's local domain (e.g. testing.testenv.cooperation)"
+    },
+    {
+     "_id": "89208d8a-6aad-a021-dc28-87b57438d60f",
+     "correct": false,
+     "answer": "Using for the unsecured HTTP protocol"
+    },
+    {
+     "_id": "52fcfad0-8e4f-d1a2-bc1e-2073c0f59da1",
+     "correct": false,
+     "answer": "Using when the server asks for a certificate from the client"
+    },
+    {
+     "_id": "a958487e-7d9d-d82b-59f5-8a0e25cfdb6a",
+     "correct": false,
+     "answer": "Creating a CSR for Certificate Authority"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": [
+     {
+      "type": "terminal",
+      "panelNumber": 1,
+      "content": ""
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1203647471",
+  "source": {
+   "name": "Invalid Certificate",
+   "showName": true,
+   "instructions": "Given a client that failed to validate a server certificate: \n\nVerify return code: 24 (invalid certificate)\n\nWhat could be the reason for failure? ",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "b948e4fc-ce75-dd1d-ac0c-cd5a96625a41",
+     "correct": false,
+     "answer": "Certificate has expired"
+    },
+    {
+     "_id": "9366ddd2-79c3-bfbf-a287-fed6bae52623",
+     "correct": false,
+     "answer": "Certificate has revoked"
+    },
+    {
+     "_id": "33aa9e8e-e865-56dd-d291-7d265b80c580",
+     "correct": false,
+     "answer": "No CA signed this certificate "
+    },
+    {
+     "_id": "a9b79bd1-202c-9e5c-4b27-08d075a7805e",
+     "correct": true,
+     "answer": "All the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": [
+     {
+      "type": "terminal",
+      "panelNumber": 1,
+      "content": ""
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

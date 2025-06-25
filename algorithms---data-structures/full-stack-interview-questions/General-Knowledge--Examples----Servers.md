@@ -1,0 +1,7 @@
+-   What is HTTP?
+-   What is Node?
+-   What is NPM?
+-   Name all the HTTP methods/verbs
+-   What is the major difference between GET and POST?
+-   Why do we need PUT and DELETE methods?
+-   What is express?

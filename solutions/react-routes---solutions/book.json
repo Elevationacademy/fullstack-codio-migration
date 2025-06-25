@@ -1,0 +1,17 @@
+{
+ "name": "React Routes - Solutions",
+ "children": [
+  {
+   "title": "Solutions",
+   "id": "b8b2b0e1-2ea0-ed25-69e0-ecd6cc16bc25",
+   "pageId": "b8b2b0e1-2ea0-ed25-69e0-ecd6cc16bc25",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "254c4a99-8580-b9fb-8ea1-4e150375b7f1",
+   "pageId": "254c4a99-8580-b9fb-8ea1-4e150375b7f1",
+   "type": "page"
+  }
+ ]
+}

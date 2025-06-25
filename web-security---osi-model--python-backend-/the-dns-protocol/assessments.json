@@ -1,0 +1,242 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-835985731",
+  "source": {
+   "name": "Caching",
+   "showName": false,
+   "instructions": "What are the benefits of caching in the local DNS server?",
+   "multipleResponse": true,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "4420fde4-e383-9001-4550-c877473cb746",
+     "correct": true,
+     "answer": "Less load on root-level, TLD and authoritative servers"
+    },
+    {
+     "_id": "1f734ef0-acb5-48b7-c400-0e0730b77bf8",
+     "correct": false,
+     "answer": "Provides prioritized access to the root servers"
+    },
+    {
+     "_id": "a2de5489-2924-d7e8-d739-a861401ddbb0",
+     "correct": true,
+     "answer": "Faster replies (if there is a cache hit)"
+    },
+    {
+     "_id": "fec259bb-9b6b-d6f1-0cfc-6d44b132a8ee",
+     "correct": false,
+     "answer": "Helps organizations to shut down their authoritative servers as the data is cached locally"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": [
+     {
+      "type": "terminal",
+      "panelNumber": 1,
+      "content": "sudo apt-get update -y && sudo apt-get install dnsutils -y && clear"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-225367026",
+  "source": {
+   "name": "Records type",
+   "showName": false,
+   "instructions": "Given the following description of each DNS server in the hierarchy, match the DNS server type according to the following order:\n\n\n1. Highest level of the DNS hierarchy, knows how to reach servers responsible for a given domain (e.g., *.com, *.edu).\n\n\n2. Replies to DNS query requested by a local user. Requesting all other DNS servers to answer the query of behalf the user.\n\n\n3. Responsible for a domain (e.g., *.com, *.edu); knows how to contact authoritative name servers.\n\n4. Provides hostname to IP mappings for organization’s domain.",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "1f9e1048-c0ca-8822-e05e-c90ea3a404cc",
+     "correct": true,
+     "answer": "Root-level, local DNS, TLD DNS, authoritative DNS"
+    },
+    {
+     "_id": "0894124f-6722-bc6d-32aa-70799dba0aa6",
+     "correct": false,
+     "answer": "TLD DNS, Root-level, local DNS, authoritative DNS"
+    },
+    {
+     "_id": "4356830c-d227-32b2-ad9a-09c0ec6cd888",
+     "correct": false,
+     "answer": "Root-level, local DNS, authoritative DNS, TLD DNS"
+    },
+    {
+     "_id": "e83d9076-0ab6-d548-6bc0-6051262cc1f5",
+     "correct": false,
+     "answer": "local DNS, Root-level TLD DNS, authoritative DNS"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": [
+     {
+      "type": "terminal",
+      "panelNumber": 1,
+      "content": "sudo apt-get update -y && sudo apt-get install dnsutils -y && clear"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-588987488",
+  "source": {
+   "name": "q1",
+   "showName": false,
+   "instructions": "Choose the possible input for the missing content (top-down)",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "2a033ad8-5b51-2ea7-493f-45befa1c8da9",
+     "correct": false,
+     "answer": "NS, A, CNAME, 146.54.29.12"
+    },
+    {
+     "_id": "67e0bebb-6048-3232-192b-aa672c320b95",
+     "correct": true,
+     "answer": "NS, A, CNAME, 146.44.119.13"
+    },
+    {
+     "_id": "be66d136-acd9-5f7e-cf97-a32b6d895a19",
+     "correct": false,
+     "answer": "A, A, CNAME, 127.0.0.1"
+    },
+    {
+     "_id": "976619f6-3a8d-dc0f-881b-bd7359db930b",
+     "correct": false,
+     "answer": "NS, A, CNAME, NS"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": [
+     {
+      "type": "terminal",
+      "panelNumber": 1,
+      "content": "sudo apt-get update -y && sudo apt-get install dnsutils -y && clear"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3338758708",
+  "source": {
+   "name": "cache2",
+   "showName": false,
+   "instructions": "Given a user trying to resolve *gov.org.il*. Assuming the local DNS server doesn't have the IP or the hostname of the DNS server responsible for the *.il* extension. Where does the local DNS server go? ",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "f5c6418d-5508-1340-3c82-e13d521824f6",
+     "correct": false,
+     "answer": "DNS Local"
+    },
+    {
+     "_id": "6d506892-5b53-0689-8923-9dd2637639fd",
+     "correct": false,
+     "answer": "DNS Root"
+    },
+    {
+     "_id": "a65b4ba2-7afc-4e3b-5cb6-6f1673b40a24",
+     "correct": true,
+     "answer": "DNS TLD"
+    },
+    {
+     "_id": "7870a8ec-85cf-52ab-2081-69af55922c2a",
+     "correct": false,
+     "answer": "DNS Authoritative"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": [
+     {
+      "type": "terminal",
+      "panelNumber": 1,
+      "content": "sudo apt-get update -y && sudo apt-get install dnsutils -y && clear"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

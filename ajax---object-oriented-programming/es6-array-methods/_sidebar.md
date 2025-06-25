@@ -1,0 +1,12 @@
+- Es6 Array Methods
+  - [Array Methods Video](./Array-Methods-Video.md "Array Methods Video")
+  - [Intro](./Intro.md "Intro")
+  - [.filter()](./-filter--.md ".filter()")
+  - [.forEach()](./-forEach--.md ".forEach()")
+  - [.map()](./-map--.md ".map()")
+  - [.find()](./-find--.md ".find()")
+  - [.some() & .every()](./-some------every--.md ".some() & .every()")
+  - [Chaining Methods](./Chaining-Methods.md "Chaining Methods")
+  - [lesson.map(l => i.done)](./lesson-map-l----i-done-.md "lesson.map(l => i.done)")
+  - [Exercises](./Exercises.md "Exercises")
+  - [Comprehension Check](./Comprehension-Check.md "Comprehension Check")

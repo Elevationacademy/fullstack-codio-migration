@@ -1,0 +1,83 @@
+{
+ "name": "Mongoose Population",
+ "children": [
+  {
+   "title": "Overview - Video",
+   "id": "13eb44e0-b994-f254-e2b1-7c76afeef07c",
+   "pageId": "13eb44e0-b994-f254-e2b1-7c76afeef07c",
+   "type": "page"
+  },
+  {
+   "title": "Intro",
+   "id": "ca5c6423-066b-c187-5b7b-bb68441d1256",
+   "pageId": "ca5c6423-066b-c187-5b7b-bb68441d1256",
+   "type": "page"
+  },
+  {
+   "id": "a2354de2-7b32-45f9-8a01-283c35c9e29c",
+   "title": "The Problem",
+   "pageId": "8d3b788a-8ab2-96c9-b5e3-1a3b3a0fea4b",
+   "type": "page"
+  },
+  {
+   "id": "ffb3a816-a313-c26b-ad2e-e15a09ebbed2",
+   "title": "Reference IDs",
+   "pageId": "20247d7c-c828-0ae7-e870-51d47e50ae20",
+   "type": "page"
+  },
+  {
+   "id": "196f3383-b765-7ff0-ad34-ebf2ec07debb",
+   "title": "Saving Refs",
+   "pageId": "dced50b3-f0f0-8510-8022-f371fc5cbf25",
+   "type": "page"
+  },
+  {
+   "id": "102a8abd-6c3e-0a38-d0e4-48a8e3dac5b1",
+   "title": "Spot Check 1",
+   "pageId": "f7b982d5-f3a2-8a72-9350-e7842ec87965",
+   "type": "page"
+  },
+  {
+   "id": "df0b9ac4-4f3f-f910-61d2-3376368dbc53",
+   "title": "Population",
+   "pageId": "2c23cb9b-1d0a-04c3-71f4-74036e14a690",
+   "type": "page"
+  },
+  {
+   "id": "b7d3f9bb-37ba-0017-d0ff-db0149933b59",
+   "title": "Nested Population",
+   "pageId": "62b72380-9f68-cdfd-f4a0-742c6d2dd404",
+   "type": "page"
+  },
+  {
+   "id": "30136869-9d96-1c16-dab3-6b8e6786f705",
+   "title": "Multiple Population",
+   "pageId": "f4266343-f71c-6da7-365a-3324a10ec591",
+   "type": "page"
+  },
+  {
+   "id": "5c1a21e6-bc2b-aba0-4d2d-4b79a1af1a19",
+   "title": "Populating a Single Document",
+   "pageId": "ca7a5152-23d5-7fb5-d59a-1f504933300a",
+   "type": "page"
+  },
+  {
+   "id": "177899d7-8301-28ea-a5fd-b443e8f85362",
+   "title": "Done",
+   "pageId": "b0838731-3142-4fbc-2b21-45ac0d422cde",
+   "type": "page"
+  },
+  {
+   "id": "21bfec35-b701-a2ec-1d52-8de463af7ad0",
+   "title": "Exercise",
+   "pageId": "02a06e6f-4f64-de03-41c9-ca68eaffe8b6",
+   "type": "page"
+  },
+  {
+   "id": "2fc65ec8-6497-ea8d-808a-d6df6dc4343c",
+   "title": "Comprehension Check",
+   "pageId": "f773cc09-16e6-0e55-9176-281b961170e2",
+   "type": "page"
+  }
+ ]
+}

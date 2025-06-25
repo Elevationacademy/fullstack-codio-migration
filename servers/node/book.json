@@ -1,0 +1,77 @@
+{
+ "name": "Node",
+ "children": [
+  {
+   "title": "Node JS Intro Video",
+   "id": "ee3267a2-2905-7309-7691-411bbcafee6f",
+   "pageId": "ee3267a2-2905-7309-7691-411bbcafee6f",
+   "type": "page"
+  },
+  {
+   "title": "Intro",
+   "id": "8a4c324d-2321-c643-b1a8-038fb7516d24",
+   "pageId": "8a4c324d-2321-c643-b1a8-038fb7516d24",
+   "type": "page"
+  },
+  {
+   "id": "b8df173f-43ab-05c7-1f5d-1703ae54ca92",
+   "title": "Clients vs. Servers",
+   "pageId": "a685f2a8-7efa-92f2-4c83-23d60540c250",
+   "type": "page"
+  },
+  {
+   "id": "0a20b31a-f2b0-3f35-30ea-d63aad6f6555",
+   "title": "Installing Node - finally",
+   "pageId": "2634fddd-5d89-742b-d919-bb2d0f056dba",
+   "type": "page"
+  },
+  {
+   "id": "e7c73d2c-572a-09e1-4cce-febb8eba8278",
+   "title": "Running Files with Node",
+   "pageId": "aa132df3-5499-c1ef-ba9c-1c3a5c4cd587",
+   "type": "page"
+  },
+  {
+   "id": "789fc4ed-d046-c108-2468-f3bbcfdd0913",
+   "title": "VS Code & Debugging",
+   "pageId": "18c26cf3-85d0-4788-e320-6ab7d955d023",
+   "type": "page"
+  },
+  {
+   "id": "a8c75a3d-a95a-ec1a-34e3-b5123a2578e1",
+   "title": "Node JS Modules Video",
+   "pageId": "d6af4dd0-4b8b-e8e2-c0f2-73bb6ad1b3a8",
+   "type": "page"
+  },
+  {
+   "id": "2e7fc8c2-6c4c-da19-a693-c290f3ad38f0",
+   "title": "Node JS Modules",
+   "pageId": "2e9a7b46-ae06-13a0-9d3f-d4d24bf0ba8a",
+   "type": "page"
+  },
+  {
+   "id": "5f9ca83f-f16a-c1fa-1303-0da64b476c65",
+   "title": "Spot Check 1",
+   "pageId": "9e8f9a8c-56fc-a28b-af55-7e81e9549df6",
+   "type": "page"
+  },
+  {
+   "id": "693d272b-acee-e589-c49d-ad2af840da58",
+   "title": "Global Scope and Node",
+   "pageId": "e9a996d2-9d49-d2f7-d949-28301d98c91a",
+   "type": "page"
+  },
+  {
+   "id": "a09c5357-46c6-5589-f1a8-6fb34a8a2eca",
+   "title": "Exercises",
+   "pageId": "ccfeb8fe-8e73-530c-e8f3-34ceccbdafa2",
+   "type": "page"
+  },
+  {
+   "id": "eab689ee-428a-ffd8-c90e-18d6ee7f4f22",
+   "title": "Comprehension Check",
+   "pageId": "554ea965-1182-64b1-a2a1-5178386d7c2c",
+   "type": "page"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "name": "MobX 2",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "81df6ce8-34a9-fbec-01f2-7ce082d33bfc",
+   "pageId": "81df6ce8-34a9-fbec-01f2-7ce082d33bfc",
+   "type": "page"
+  },
+  {
+   "title": "Reservations Repo",
+   "id": "07051e6e-36cc-79dc-3104-337c295f6499",
+   "pageId": "07051e6e-36cc-79dc-3104-337c295f6499",
+   "type": "page"
+  },
+  {
+   "id": "73ec127c-9be5-c0e0-e52f-ad9416adb282",
+   "title": "Computed",
+   "pageId": "1c542d99-2a2d-7827-7324-736515ee15fe",
+   "type": "page"
+  },
+  {
+   "id": "f30ce1bb-4377-9e09-fadf-043f629b61b3",
+   "title": "Computed Values",
+   "pageId": "900f31a7-af35-868b-bb97-fe3183d733ad",
+   "type": "page"
+  },
+  {
+   "id": "4a997082-a59d-0c43-7cca-21652701f82f",
+   "title": "Provider and Inject",
+   "pageId": "b70e3ec4-5bce-7c92-938d-b32262f2e057",
+   "type": "page"
+  },
+  {
+   "id": "6564baf6-12d4-71be-ad30-4726d8fcbc94",
+   "title": "Provider and Inject",
+   "pageId": "a727a91f-70c3-0c1e-05ea-8561bc22fc3e",
+   "type": "page"
+  },
+  {
+   "id": "2016e3ba-a874-53ef-431f-756e5334a9b1",
+   "title": "Working with Multiple Stores",
+   "pageId": "3990455a-cfda-3108-9d91-03437a406d7b",
+   "type": "page"
+  },
+  {
+   "id": "24ba8e45-c969-ada4-f6c1-76fa55937665",
+   "title": "Using Multiple Stores",
+   "pageId": "4b5ade7a-fd1d-2930-e10d-2f9befc64f3a",
+   "type": "page"
+  },
+  {
+   "id": "7f543367-b78b-bcd2-9035-0fa812f4dab1",
+   "title": "No Mo(re)bX!",
+   "pageId": "a928c358-439a-4922-241c-4c42e92ce1b9",
+   "type": "page"
+  },
+  {
+   "id": "e7e0fd87-638e-7dcd-faae-43bb03f5dcda",
+   "title": "Exercises",
+   "pageId": "e4f0fee4-7440-44dd-dcd7-e39e92cc5dc2",
+   "type": "page"
+  },
+  {
+   "id": "35c5033e-934a-ba94-1dff-c58439fc9d2e",
+   "title": "Comprehension Check",
+   "pageId": "65312890-e7df-97f0-1ff2-e506faef6c7b",
+   "type": "page"
+  }
+ ]
+}

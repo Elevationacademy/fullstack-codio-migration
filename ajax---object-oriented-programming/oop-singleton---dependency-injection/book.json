@@ -1,0 +1,35 @@
+{
+ "name": "OOP Singleton & Dependency Injection",
+ "children": [
+  {
+   "title": "Singleton & Dependency Injection Video",
+   "id": "933c291c-5ccc-88fd-db67-f258bd5ccd03",
+   "pageId": "933c291c-5ccc-88fd-db67-f258bd5ccd03",
+   "type": "page"
+  },
+  {
+   "title": "Intro",
+   "id": "e7e84e7c-8c0a-9805-8b27-69731e1a69c4",
+   "pageId": "e7e84e7c-8c0a-9805-8b27-69731e1a69c4",
+   "type": "page"
+  },
+  {
+   "id": "9c6d67e0-beb9-a26b-8c78-1ad0298cee63",
+   "title": "Dependency Injection",
+   "pageId": "4d471e21-977d-645a-8bae-9fa6bcf3375d",
+   "type": "page"
+  },
+  {
+   "id": "ac36ee46-4c55-dd95-eee7-06cda8723794",
+   "title": "Spot Check 1",
+   "pageId": "cf2bcc0f-4e89-95d4-2650-882a271f0fe9",
+   "type": "page"
+  },
+  {
+   "id": "b567befa-7852-3581-d3d4-37f4a8dde72f",
+   "title": "Final Notes",
+   "pageId": "81bd09c8-e5c1-deea-b03a-79499145f832",
+   "type": "page"
+  }
+ ]
+}

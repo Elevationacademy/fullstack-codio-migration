@@ -1,0 +1,5 @@
+- Its your turn to try and make a chrome extension
+- You need to crate an extension that:
+- each time you open a new tap in the browser it greets you and shows you the time with a your daily to-do list
+- start by making your html,css,js and the manifest.Json 
+- Add your new extension to the browser and test it

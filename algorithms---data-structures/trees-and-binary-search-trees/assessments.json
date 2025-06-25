@@ -1,0 +1,211 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1998738022",
+  "source": {
+   "name": "1",
+   "showName": false,
+   "instructions": "What would cause a Tree to become unbalanced?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "838fed69-72c0-79aa-38b6-9a12059dd129",
+     "correct": false,
+     "answer": "Trees always automatically balance because of the way we insert nodes"
+    },
+    {
+     "_id": "47df139b-5ec6-4ed1-4ad2-8af977c7c564",
+     "correct": false,
+     "answer": "Inserting data randomly into the tree"
+    },
+    {
+     "_id": "ad39c23d-10d9-c042-627c-e06e0b224df7",
+     "correct": true,
+     "answer": "Inserting sorted data into the tree"
+    },
+    {
+     "_id": "26806116-011d-57da-be5d-fb357e8b72b8",
+     "correct": false,
+     "answer": "Inserting too little data into the tree"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3505128178",
+  "source": {
+   "name": "2",
+   "showName": false,
+   "instructions": "Which of the following is most efficient in terms of time complexity?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "cc371bd0-98ff-4436-1291-541d2281a6c1",
+     "correct": false,
+     "answer": "Searching an unbalanced BST"
+    },
+    {
+     "_id": "18f9459f-e1a5-ad51-259b-9680e8d7b25d",
+     "correct": true,
+     "answer": "Inserting into a balanced BST"
+    },
+    {
+     "_id": "932e7dad-4b3c-2628-52dd-5854432a3187",
+     "correct": false,
+     "answer": "Finding a coordinate of a specific value in a matrix"
+    },
+    {
+     "_id": "79ad6631-aa08-a552-376b-ab0b7a2c449a",
+     "correct": false,
+     "answer": "They're all the same"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-772044119",
+  "source": {
+   "name": "3",
+   "showName": false,
+   "instructions": "When inserting a node into a binary search tree we:",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "a82afc34-7c30-0b91-09fe-ca6ae8e40691",
+     "correct": true,
+     "answer": "Run our insert method on the root node, and recursively go down our tree to insert"
+    },
+    {
+     "_id": "17ba3474-1cb2-a0f2-9363-9d0bda2cc076",
+     "correct": false,
+     "answer": "Run our insert method on a the relevant child node we want to 'insertLeft()' or 'insertRight()' on"
+    },
+    {
+     "_id": "0912e23e-b2d5-1f4f-5609-57e1b21af04f",
+     "correct": false,
+     "answer": "First recursively check if it already exists and only insert if it doesn't exist"
+    },
+    {
+     "_id": "b8436916-83ae-8de3-f4e8-021ecc201eb7",
+     "correct": false,
+     "answer": "Add the node to the children array of whichever node the insert method was run on"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3447368392",
+  "source": {
+   "name": "4",
+   "showName": false,
+   "instructions": "Which of the following is not a data structure?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "fbb347db-be70-49d7-3b8b-a5b752325ac5",
+     "correct": false,
+     "answer": "Array"
+    },
+    {
+     "_id": "6474de37-4869-8233-055b-6f40aac12dff",
+     "correct": false,
+     "answer": "Object"
+    },
+    {
+     "_id": "ed95c0bd-6770-6364-9ad7-bb2d2dd80329",
+     "correct": true,
+     "answer": "Recursive function"
+    },
+    {
+     "_id": "dc7a900a-d053-c4f5-5224-3b3d9088d617",
+     "correct": false,
+     "answer": "Matrix"
+    },
+    {
+     "_id": "daf9c156-61fa-b1e0-9c5d-4ec776fc4d74",
+     "correct": false,
+     "answer": "Tree"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

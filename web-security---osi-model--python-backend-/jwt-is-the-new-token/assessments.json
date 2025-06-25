@@ -1,0 +1,257 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3849677955",
+  "source": {
+   "name": "Example Question",
+   "showName": true,
+   "instructions": "What is this platform?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "3589de84-00a0-eed0-bdca-d3e4aa3e33ed",
+     "correct": false,
+     "answer": "Kernel"
+    },
+    {
+     "_id": "ed9f328b-dfe5-5586-ec39-722231b7aee0",
+     "correct": true,
+     "answer": "Codio"
+    },
+    {
+     "_id": "1e4715ae-3e5b-49b9-97a7-5a1507c6e634",
+     "correct": false,
+     "answer": "Moodle"
+    },
+    {
+     "_id": "9f4a6bfb-21f5-2487-6c6b-fc527b3a800b",
+     "correct": false,
+     "answer": "Google Code"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2116984225",
+  "source": {
+   "name": "JWT token",
+   "showName": true,
+   "instructions": "What is a JWT token?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "c0e9cbb2-86a6-be64-7148-f3b8f9cd3ae0",
+     "correct": false,
+     "answer": "A token used to save information to a database"
+    },
+    {
+     "_id": "31320760-ea38-a935-33b7-6ee055d35a87",
+     "correct": false,
+     "answer": "A string that holds the time of a RestAPI call"
+    },
+    {
+     "_id": "4cc12f2c-0ba5-d8b4-60db-ac597da13c3e",
+     "correct": true,
+     "answer": "A secure method for transmitting information"
+    },
+    {
+     "_id": "fa49d80c-5870-539d-c5cf-7c75ef5db1dc",
+     "correct": false,
+     "answer": "A JSON file that holds the content of an API call"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3118390460",
+  "source": {
+   "name": "JWT and Basic Authentication",
+   "showName": true,
+   "instructions": "JWT tokens are based on the *Basic Authentication* method",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "491fffa0-f8d5-6bb4-87df-bbd3dd4ceaad",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "ea009c88-a998-ed60-0c07-534d92a190a3",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1265383781",
+  "source": {
+   "name": "JWT parts",
+   "showName": true,
+   "instructions": "What are the parts that JWT is made of?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "7647f473-c9a3-6515-d7df-d629294d66a1",
+     "correct": false,
+     "answer": "Header > Content > Time stamp"
+    },
+    {
+     "_id": "2235a2ae-e34b-70d0-6554-45b925afe5a6",
+     "correct": false,
+     "answer": "Header > Footer > Signature"
+    },
+    {
+     "_id": "0e8161b1-b76c-7cca-3c1b-14567d296402",
+     "correct": true,
+     "answer": "Header > Payload > Signature"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2632435040",
+  "source": {
+   "name": "JWT header parts",
+   "showName": true,
+   "instructions": "The *Header* part of the JWT token holds the following information",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "68c60171-370a-de7e-5bd5-accaad82e4d8",
+     "correct": true,
+     "answer": "The type of the token, and the algorithm used"
+    },
+    {
+     "_id": "abb4964d-6e4b-f9c0-7c70-f9977616257c",
+     "correct": false,
+     "answer": "The time of signing the token, and the algorithm used"
+    },
+    {
+     "_id": "8c0138af-5811-9963-f1ee-b9a0533da017",
+     "correct": false,
+     "answer": "The payload, and the signature"
+    },
+    {
+     "_id": "d7759f94-743c-e40e-8ed6-b7a4847b90ec",
+     "correct": false,
+     "answer": "The IP of the encoding server, and the payload"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

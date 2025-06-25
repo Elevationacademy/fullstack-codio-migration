@@ -1,0 +1,58 @@
+{
+ "sections": [
+  {
+   "id": "35a509bb-7d85-6b18-e11f-692db82ff929",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-35a5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e5051d7d-e9b3-004c-39e9-1c8f22ebc6d8",
+   "title": "Instructions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Instructions-e505.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9f99a8b7-4d30-b7dc-675c-c61e3fada67a",
+   "title": "Extra Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Extra-Challenge-9f99.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

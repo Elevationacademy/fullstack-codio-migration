@@ -1,0 +1,1 @@
+Create a normal button that says DELETE and has a trash icon next to it (note that the text inside the `i` indicates which icon to use - see [here](https://materializecss.com/icons.html)for a list of Materialize icons).

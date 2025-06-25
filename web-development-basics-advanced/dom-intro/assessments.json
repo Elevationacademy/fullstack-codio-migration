@@ -1,0 +1,161 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3970787835",
+  "source": {
+   "name": "1.",
+   "showName": true,
+   "instructions": "The DOM is",
+   "multipleResponse": false,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "080c3524-f60a-1b72-93be-9be7ab897e40",
+     "correct": false,
+     "answer": "Our index.html"
+    },
+    {
+     "_id": "a78aec15-e39e-e10c-934a-205140626e11",
+     "correct": false,
+     "answer": "an API for the CSS"
+    },
+    {
+     "_id": "b4687d83-14b9-e7e3-0b4f-b2670eb4f0ae",
+     "correct": false,
+     "answer": "The HTML, CSS, and JS the user ultimately sees"
+    },
+    {
+     "_id": "2f1b26c5-99e2-7e53-dfcd-b625767cd201",
+     "correct": true,
+     "answer": "a Representation of the structure and content of the HTML page"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1337128720",
+  "source": {
+   "name": "2.",
+   "showName": true,
+   "instructions": "What does this code do?\n\n\n```js\ndocument.getElementsByClassName(“box”) \n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "dddff8ae-9c80-6b5c-d66e-08891b58a271",
+     "correct": false,
+     "answer": "This method does not exist"
+    },
+    {
+     "_id": "2b74b6c8-6ea2-5595-2521-549f7a46e168",
+     "correct": false,
+     "answer": "Throws an error, you need to have “.box”"
+    },
+    {
+     "_id": "65a2e00e-9d9e-3288-fa2a-8d6f43228698",
+     "correct": true,
+     "answer": "Returns an array of elements with the class of “box”"
+    },
+    {
+     "_id": "6fbcef1b-c55d-b555-9a74-25f7bcd87f83",
+     "correct": false,
+     "answer": "Returns the element with a class of “box”"
+    }
+   ],
+   "guidance": "",
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1807923593",
+  "source": {
+   "name": "3.",
+   "showName": true,
+   "instructions": "If we have an element with an id of “box” in our HTML, how can we change its background color to orange?`",
+   "multipleResponse": false,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "acea51e4-6dde-c7c8-56d3-9cbea21370bf",
+     "correct": false,
+     "answer": "```document.get(“box”) = {background-color: orange}```"
+    },
+    {
+     "_id": "b0475095-a310-79a7-3d0c-fd45128fb7b5",
+     "correct": false,
+     "answer": "```document.getElementById(“box”) = {background-color: orange}```"
+    },
+    {
+     "_id": "82c703a8-dd91-ffc7-670a-ad370e7f82d9",
+     "correct": false,
+     "answer": "```document.get(“box”).backgroundColor = “orange”```"
+    },
+    {
+     "_id": "7b62aa3a-4a3e-b223-4bab-fec14055c0e8",
+     "correct": true,
+     "answer": "```document.getElementById(“box”).style.backgroundColor = “orange”```"
+    }
+   ],
+   "guidance": "",
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   }
+  }
+ }
+]

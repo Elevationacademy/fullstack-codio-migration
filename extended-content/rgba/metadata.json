@@ -1,0 +1,42 @@
+{
+ "sections": [
+  {
+   "id": "6224bed2-ce75-e321-a93d-3a3bb947af7c",
+   "title": "RGBA",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/RGBA-6224.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "72f8712c-caf7-fa6b-6477-341fcf4de2cd",
+   "title": "Exercise",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercise-72f8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

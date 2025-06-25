@@ -1,0 +1,87 @@
+{
+ "sections": [
+  {
+   "id": "a92e11a5-7f28-87ce-5c7e-1ac65d8629ed",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-a92e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "39a10fce-5df7-12a7-181a-0b5f94ca2206",
+   "title": "API's",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/API-s-39a1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "fbd07983-af8b-57f4-9a64-18cc0d5e2fc3",
+   "title": "Instructions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Instructions-fbd0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c9afb2c0-61c0-e022-8cc8-6c48de98bd97",
+   "title": "Working with New APIs",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Working-with-New-APIs-c9af.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "cc73d156-0841-a2fd-6047-edb4660fb3f4",
+   "title": "Extensions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Extensions-cc73.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

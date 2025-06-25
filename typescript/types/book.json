@@ -1,0 +1,71 @@
+{
+ "name": "Types",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "cfdbca13-dc0f-d92e-2a7c-d3829bc21570",
+   "type": "page",
+   "pageId": "cfdbca13-dc0f-d92e-2a7c-d3829bc21570"
+  },
+  {
+   "title": "Types in TypeScript",
+   "id": "2cf510e0-6403-8733-0a59-b5da7078afcd",
+   "type": "page",
+   "pageId": "0b88440f-22de-e9d8-b2d5-d17007864461"
+  },
+  {
+   "title": "Type Assignment (Inferred and Explicit)",
+   "id": "9db15c4b-e7cf-7fb8-bcbb-7eb79db7b08a",
+   "type": "page",
+   "pageId": "9db15c4b-e7cf-7fb8-bcbb-7eb79db7b08a"
+  },
+  {
+   "title": "Spotcheck #1",
+   "id": "eb43104a-d10a-4e9b-2056-8cea79352d5d",
+   "type": "page",
+   "pageId": "331b97d2-f039-85c3-d722-09491afcc57d"
+  },
+  {
+   "title": "Arrays",
+   "id": "e56f609f-ef09-65ed-ef03-b16aca55280a",
+   "type": "page",
+   "pageId": "acc3dd66-4f4f-18ca-d571-91a249a8c341"
+  },
+  {
+   "title": "Objects",
+   "id": "618c8ee0-912e-7ece-aa96-005ed8b86288",
+   "type": "page",
+   "pageId": "09b4a878-effd-223e-e37d-c72a4c8aa406"
+  },
+  {
+   "id": "cd8ac426-104a-8256-aa0c-30e363c6b15f",
+   "title": "Spotcheck #2",
+   "pageId": "468d4734-2a2c-64f8-788f-9c5ec1a41a45",
+   "type": "page"
+  },
+  {
+   "title": "Functions",
+   "id": "8ad0b2b3-11cb-9095-43a8-b644c370386a",
+   "type": "page",
+   "pageId": "831062da-8b76-6703-4a73-c1e34f7440ca"
+  },
+  {
+   "id": "4f3f7de3-36ec-4b43-fb9d-7a1959dcf1f2",
+   "title": "Classes",
+   "pageId": "27c71ef8-9a10-18f5-90ef-f68dae9f8a3d",
+   "type": "page"
+  },
+  {
+   "title": "Exercises",
+   "id": "7e811af8-db6b-8554-045a-07050d02f49a",
+   "type": "page",
+   "pageId": "5f74354b-0b31-aa3a-e42f-8bac04af405c"
+  },
+  {
+   "title": "Comprehension Check",
+   "id": "42c6dde2-aafa-79c7-69b4-939645e8358e",
+   "type": "page",
+   "pageId": "ea193c9d-ddb2-68a0-2691-b4a870e50ceb"
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+- Sql In Node  Sequelize
+  - [Intro & Setup](./Intro---Setup.md "Intro & Setup")
+  - [Query](./Query.md "Query")
+  - [Inserting](./Inserting.md "Inserting")
+  - [Async Insert](./Async-Insert.md "Async Insert")
+  - [Split Lines](./Split-Lines.md "Split Lines")
+  - [Exercise - Data Migration](./Exercise---Data-Migration.md "Exercise - Data Migration")

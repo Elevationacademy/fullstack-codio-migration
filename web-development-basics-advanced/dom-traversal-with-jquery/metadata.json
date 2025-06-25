@@ -1,0 +1,94 @@
+{
+ "sections": [
+  {
+   "id": "41d048e0-8f6a-b226-f6a7-f0f2904d9140",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-41d0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4af9fbce-481e-48d9-4777-9661c684f53d",
+   "title": "Dom Traversal",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Dom-Traversal-4af9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "01f09f0d-7fe1-1b16-cc51-faba5ae04242",
+   "title": "Spot Check 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-1-01f0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "308731c5-4cbe-1a14-511f-a360b406713a",
+   "title": "Spot Check 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-2-3087.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0ad24804-23d1-6135-ce81-82e6c0693ad9",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-0ad2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3ea1c7aa-8730-0bf6-432c-c91c11685fa6",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-3ea1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

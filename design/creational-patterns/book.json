@@ -1,0 +1,65 @@
+{
+ "name": "Creational Patterns",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "8003267b-8e63-29ff-13fa-cc66c8df403f",
+   "pageId": "8003267b-8e63-29ff-13fa-cc66c8df403f",
+   "type": "page"
+  },
+  {
+   "title": "Singleton",
+   "id": "85251faa-07e5-2f7a-3cd1-4bd9cb5a443d",
+   "pageId": "85251faa-07e5-2f7a-3cd1-4bd9cb5a443d",
+   "type": "page"
+  },
+  {
+   "id": "d9744af1-f8d5-33ac-bf54-bf491701230b",
+   "title": "Spot Check",
+   "pageId": "ebf206ae-e409-b384-4bf3-00d0f3265214",
+   "type": "page"
+  },
+  {
+   "id": "5b046fbc-7018-152b-34fe-54f258f90b44",
+   "title": "Builder",
+   "pageId": "f5530593-fe13-6053-2669-be2229def9a4",
+   "type": "page"
+  },
+  {
+   "id": "ebbff283-f8f2-7063-d679-cb339a1868ca",
+   "title": "Spot Check",
+   "pageId": "21d81239-90ca-6519-2566-e180b20ed18c",
+   "type": "page"
+  },
+  {
+   "id": "445a5348-eb85-6f57-0967-57db9bee0e36",
+   "title": "Factory Method",
+   "pageId": "b27d1b38-ffe5-b755-80cc-11d3581b30e9",
+   "type": "page"
+  },
+  {
+   "id": "ea301371-12c2-ee15-e084-94488fa12e8d",
+   "title": "Spot Check",
+   "pageId": "1a904db8-2217-3f20-a053-f56e2080b1d7",
+   "type": "page"
+  },
+  {
+   "id": "1ab75f04-0892-c244-7636-b0c583237ea9",
+   "title": "Comprehension Check",
+   "pageId": "d9408712-d83f-8d52-8b03-491992f14e96",
+   "type": "page"
+  },
+  {
+   "id": "ea893559-46ef-8a6e-aaa4-332654bb99b8",
+   "title": "Exercise",
+   "pageId": "b6f04fcc-056a-38cc-bc89-2d3ed4828b92",
+   "type": "page"
+  },
+  {
+   "id": "051e78ec-0fd9-b815-3684-141143ab1d2d",
+   "title": "Exercise 2",
+   "pageId": "9a59e04c-7ae2-e0ad-d7b3-607b78542d19",
+   "type": "page"
+  }
+ ]
+}

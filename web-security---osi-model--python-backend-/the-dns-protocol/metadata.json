@@ -1,0 +1,88 @@
+{
+ "sections": [
+  {
+   "id": "5896402e-ec97-42d3-529f-9259cf519811",
+   "title": "Overview",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Overview-5896.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9e1ff08b-5415-db73-0907-1612bdc434d5",
+   "title": "How DNS works?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/How-DNS-works--9e1f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c4a1978f-477d-ebe6-235a-8331a4c61834",
+   "title": "DNS Record Types",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/DNS-Record-Types-c4a1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3e4b789d-7f1f-cc2b-b46e-ac7a2d0fec2c",
+   "title": "Exercises",
+   "files": [
+    {
+     "path": "#terminal: sudo apt-get update -y && sudo apt-get install dnsutils -y && clear",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-guides-left",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-3e4b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "77f84218-b2c1-00fc-0569-d369c9089a22",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-77f8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

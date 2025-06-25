@@ -1,0 +1,178 @@
+{
+ "sections": [
+  {
+   "id": "13eb44e0-b994-f254-e2b1-7c76afeef07c",
+   "title": "Overview - Video",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Overview---Video-13eb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ca5c6423-066b-c187-5b7b-bb68441d1256",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-ca5c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "8d3b788a-8ab2-96c9-b5e3-1a3b3a0fea4b",
+   "title": "The Problem",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-Problem-8d3b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "20247d7c-c828-0ae7-e870-51d47e50ae20",
+   "title": "Reference IDs",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Reference-IDs-2024.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "dced50b3-f0f0-8510-8022-f371fc5cbf25",
+   "title": "Saving Refs",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Saving-Refs-dced.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f7b982d5-f3a2-8a72-9350-e7842ec87965",
+   "title": "Spot Check 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-1-f7b9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2c23cb9b-1d0a-04c3-71f4-74036e14a690",
+   "title": "Population",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Population-2c23.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "62b72380-9f68-cdfd-f4a0-742c6d2dd404",
+   "title": "Nested Population",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Nested-Population-62b7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f4266343-f71c-6da7-365a-3324a10ec591",
+   "title": "Multiple Population",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Multiple-Population-f426.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ca7a5152-23d5-7fb5-d59a-1f504933300a",
+   "title": "Populating a Single Document",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Populating-a-Single-Document-ca7a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b0838731-3142-4fbc-2b21-45ac0d422cde",
+   "title": "Done",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Done-b083.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "02a06e6f-4f64-de03-41c9-ca68eaffe8b6",
+   "title": "Exercise",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercise-02a0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f773cc09-16e6-0e55-9176-281b961170e2",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-f773.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

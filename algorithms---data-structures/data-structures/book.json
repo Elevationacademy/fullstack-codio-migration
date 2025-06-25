@@ -1,0 +1,41 @@
+{
+ "name": "Data Structures",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "2afeb021-8644-387b-12af-42279848a1dc",
+   "pageId": "2afeb021-8644-387b-12af-42279848a1dc",
+   "type": "page"
+  },
+  {
+   "title": "Data Structures",
+   "id": "15d886fe-6e53-ccbb-1e53-f7c08ef992a1",
+   "pageId": "15d886fe-6e53-ccbb-1e53-f7c08ef992a1",
+   "type": "page"
+  },
+  {
+   "id": "3f6d5c87-da33-279b-5b75-904774a70d6f",
+   "title": "Arrays, Objects, Custom Data Structures",
+   "pageId": "ac10bb99-39ef-fe16-08bc-5692830af92d",
+   "type": "page"
+  },
+  {
+   "id": "a4b60f74-757f-c6f7-c7e4-f6940a9c0737",
+   "title": "Exercise",
+   "pageId": "2b854328-5c5e-4994-915c-d35f7552c9aa",
+   "type": "page"
+  },
+  {
+   "id": "2bd01fbe-4447-667c-91c7-ea98f40b00ce",
+   "title": "Extension",
+   "pageId": "0c89f37d-4f53-a3ba-7da2-3c9c83df4387",
+   "type": "page"
+  },
+  {
+   "id": "53a62fec-8978-1beb-eb4c-448603a47dc8",
+   "title": "Comprehension Check",
+   "pageId": "d366ce49-2118-2353-06bb-8c09ebab3e74",
+   "type": "page"
+  }
+ ]
+}

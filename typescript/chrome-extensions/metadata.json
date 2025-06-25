@@ -1,0 +1,81 @@
+{
+ "sections": [
+  {
+   "id": "294324ae-bfb8-8e34-c446-f578dfc4398e",
+   "title": "What is a Google Chrome Extension? ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-is-a-Google-Chrome-Extension---2943.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b89f1d06-2902-d7b3-4e21-188922f25f2d",
+   "title": "Examples of the type of functionality that a Google Chrome extension can add to Chrome ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Examples-of-the-type-of-functionality-that-a-Google-Chrome-extension-can-add-to-Chrome--b89f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "38bdc468-18cb-d9f0-8690-8cec684471ba",
+   "title": "How to install and use new Extensions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/How-to-install-and-use-new-Extensions-38bd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "833cdc22-ad3a-e868-081d-16b8a9e9ecc6",
+   "title": "How to Create an Extension",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/How-to-Create-an-Extension-833c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "64f1ff88-4f04-2f81-beef-8a6eb1b0ffbf",
+   "title": "Home Work",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Home-Work-64f1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

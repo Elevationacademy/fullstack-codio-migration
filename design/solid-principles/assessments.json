@@ -1,0 +1,110 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3426584067",
+  "source": {
+   "name": "Q1",
+   "showName": true,
+   "instructions": "The five design principles make software design more...\n",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "54fda721-e259-c452-f5a6-40949136af21",
+     "correct": false,
+     "answer": "Clear"
+    },
+    {
+     "_id": "06ad70b0-9301-c8a2-5079-f6e97d172e5e",
+     "correct": true,
+     "answer": "Maintainable"
+    },
+    {
+     "_id": "c6392584-d0a1-c2c2-fb6e-fd4b465a0b5c",
+     "correct": false,
+     "answer": "Correct"
+    },
+    {
+     "_id": "1d484c11-3060-2672-96c1-f7544f24d94c",
+     "correct": false,
+     "answer": "Efficient"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2617687114",
+  "source": {
+   "name": "Q2",
+   "showName": true,
+   "instructions": "According to the single responsibility principle a module should not:",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "7941067a-6251-b100-67ee-40d40cd110e1",
+     "correct": false,
+     "answer": "Calculate the average and the standard deviation of student grades "
+    },
+    {
+     "_id": "2c87fc49-039d-d036-e467-4445482992e2",
+     "correct": false,
+     "answer": "Reveal the implementation of it's data"
+    },
+    {
+     "_id": "4cf90e21-2afe-8e0e-20fa-b28dd8c51858",
+     "correct": true,
+     "answer": "print student grades and teacher attendance reports"
+    },
+    {
+     "_id": "9bf814a4-1e1e-792e-688c-9bd542fc2a1e",
+     "correct": false,
+     "answer": "Hold the magic numbers and other constants in a separate file"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

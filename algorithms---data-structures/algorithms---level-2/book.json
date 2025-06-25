@@ -1,0 +1,53 @@
+{
+ "name": "Algo Practice",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "85525328-db8a-9e4b-8e08-419b1a02747d",
+   "type": "page",
+   "pageId": "7e16b85d-d944-f1a6-4fe5-ad971f22f9f1"
+  },
+  {
+   "title": "Count Vowels",
+   "id": "d8f8ed99-71a5-2381-f9aa-5fafeeb42e67",
+   "type": "page",
+   "pageId": "d8f8ed99-71a5-2381-f9aa-5fafeeb42e67"
+  },
+  {
+   "title": "Median Char",
+   "id": "c7b2eed2-a936-3f49-ab42-cf3e46447bf6",
+   "type": "page",
+   "pageId": "c7b2eed2-a936-3f49-ab42-cf3e46447bf6"
+  },
+  {
+   "title": "Second Biggest",
+   "id": "e2fce701-e977-9744-d566-347e67fa2fb6",
+   "type": "page",
+   "pageId": "e2fce701-e977-9744-d566-347e67fa2fb6"
+  },
+  {
+   "title": "Followed Numbers",
+   "id": "09dbc419-7dd7-707a-774c-c1acb700c322",
+   "type": "page",
+   "pageId": "09dbc419-7dd7-707a-774c-c1acb700c322"
+  },
+  {
+   "title": "Duplicate an Array",
+   "id": "56a39039-098c-f246-8752-ac9fe8b2a7eb",
+   "type": "page",
+   "pageId": "56a39039-098c-f246-8752-ac9fe8b2a7eb"
+  },
+  {
+   "title": "Reverse Only Numbers",
+   "id": "bdd47cb7-0404-fee9-59af-b127eb59b6f7",
+   "type": "page",
+   "pageId": "bdd47cb7-0404-fee9-59af-b127eb59b6f7"
+  },
+  {
+   "title": "Challenge:  DeepClone",
+   "id": "a0e5d3bf-be5a-7e8d-6da4-543d66d46604",
+   "type": "page",
+   "pageId": "a0e5d3bf-be5a-7e8d-6da4-543d66d46604"
+  }
+ ]
+}

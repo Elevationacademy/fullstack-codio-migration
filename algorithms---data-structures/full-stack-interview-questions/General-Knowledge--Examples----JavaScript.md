@@ -1,0 +1,23 @@
+-   What is OOP?
+-   What is polymorphism?
+-   Explain MVC, why is it useful?
+-   What is high order function?
+-   What is a callback?
+-   What’s the difference between ​map​ and ​forEach
+-   Explain scope
+-   Explain how ​this​ works in JavaScript.
+-   What is a closure, and how/why would you use one?
+-   What is a promise? How is it different from callback?
+-   How can you share code between files?
+-   What are the differences between variables created using ​let​, ​var​ and ​const​?
+-   Should we always use Async/Await?
+-   What is DOM?
+-   What are some differences between JS and JSON?
+-   Difference between Stack and Queue?
+-   If all the operations of an object are O(1), why do we ever use an array?
+-   How does binary search work?
+-   What is an arrow function? What is the major use of it?
+-   What is prototype in JS?
+-   Explain "hoisting"
+-   What is event loop in NodeJS?
+-   What is the difference between `==` and `===`?

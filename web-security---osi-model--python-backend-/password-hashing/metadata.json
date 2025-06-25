@@ -1,0 +1,68 @@
+{
+ "sections": [
+  {
+   "id": "cfdbca13-dc0f-d92e-2a7c-d3829bc21570",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-cfdb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0b88440f-22de-e9d8-b2d5-d17007864461",
+   "title": "Hashing passwords",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hashing-passwords-0b88.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "97dade0f-102b-6554-27d7-a8834441ef42",
+   "title": "Exercise",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercise-97da.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2f9bd071-ab96-6e09-f7bd-69a826d63bc2",
+   "title": "Comprehension check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-check-2f9b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

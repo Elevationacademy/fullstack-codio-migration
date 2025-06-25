@@ -1,0 +1,142 @@
+{
+ "sections": [
+  {
+   "id": "92ed49bd-5cd6-0800-69c6-faad2a4b8fa1",
+   "title": "Local Storage Video",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Local-Storage-Video-92ed.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9274569e-3ab1-7d94-3249-32793b891a66",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-9274.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ff8d4eaa-adb3-ea18-3ae1-25a8633b1113",
+   "title": "Key-Value Store",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Key-Value-Store-ff8d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f45e17f4-f12d-8528-30e9-7d902243786f",
+   "title": "Getting Items",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Getting-Items-f45e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5b281828-6f10-3221-9c16-0627f236754f",
+   "title": "Removing",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Removing-5b28.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "837f8463-2991-5852-4d49-d607b7849b21",
+   "title": "Storing Complex Data",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Storing-Complex-Data-837f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a494d948-a4a0-2067-19b9-a6bc70ae97ea",
+   "title": "Spot Check 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-1-a494.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "8649b7a2-15ee-164a-b8da-3fe91f8d8272",
+   "title": "Prudence & Practice",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Prudence---Practice-8649.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "94bd5b38-43d7-111c-7d35-1adaa4eacaf7",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-94bd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e833b8f7-b407-6609-b1df-894992c84b87",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-e833.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

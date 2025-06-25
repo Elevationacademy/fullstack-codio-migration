@@ -1,0 +1,29 @@
+{
+ "name": "Intro to Databases",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "635b4600-6d09-f4aa-7fe7-f6c804e99912",
+   "pageId": "635b4600-6d09-f4aa-7fe7-f6c804e99912",
+   "type": "page"
+  },
+  {
+   "title": "Terminology",
+   "id": "0020911e-e360-a2bf-3622-3cdc635008c9",
+   "pageId": "0020911e-e360-a2bf-3622-3cdc635008c9",
+   "type": "page"
+  },
+  {
+   "id": "338ae705-7ead-708c-6b13-1f158f4e773e",
+   "title": "Database Concept & Architecture",
+   "pageId": "b11f83d9-3cb0-193d-3c56-261cfca907a4",
+   "type": "page"
+  },
+  {
+   "id": "8f7ecb4b-00cc-baf2-964e-d3361853127c",
+   "title": "Comprehension Check",
+   "pageId": "68968b64-c982-a5f0-f120-7f2cd7457748",
+   "type": "page"
+  }
+ ]
+}

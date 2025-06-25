@@ -1,0 +1,9 @@
+- Css 3  Variables   Animations
+  - [Variables Overview](./Variables-Overview.md "Variables Overview")
+  - [Intro](./Intro.md "Intro")
+  - [Spot Check 1](./Spot-Check-1.md "Spot Check 1")
+  - [Animations Overview](./Animations-Overview.md "Animations Overview")
+  - [Animations](./Animations.md "Animations")
+  - [Spot Check 2](./Spot-Check-2.md "Spot Check 2")
+  - [Animations II](./Animations-II.md "Animations II")
+  - [Exercises](./Exercises.md "Exercises")

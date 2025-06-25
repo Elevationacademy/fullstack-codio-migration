@@ -1,0 +1,42 @@
+{
+ "sections": [
+  {
+   "id": "64930a8a-36cc-9c74-254c-d935d75795f8",
+   "title": "Installing",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Installing-6493.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "549e9687-ac8e-467c-6937-9e6058e65559",
+   "title": "Zoom Visibility",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Zoom-Visibility-549e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

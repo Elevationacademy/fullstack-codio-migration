@@ -1,0 +1,160 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4157327950",
+  "source": {
+   "name": "1.",
+   "showName": true,
+   "instructions": "What will this code do?\n```js\n//Assume you have a Company schema/model with the following properties:\n\t                -name: String\n\t                -employees: [Reference ID of Employee]\n\t                -revenue: Number\n\t\n\t            //And an Employee schema/model with the following properties:\n\t                -name: String\n\t                -salary: Number\n\t                -Manager: Reference ID of Employee\n\t\n\t            //And assume you have some data in your DB with companies and employees properly saved.\n\t\n\t            Company.findOne({})\n\t                .populate('employees')\n\t                .exec(function(err, e){\n\t                    console.log(e.salary)\n\t                })\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "6ba29c8b-2ae4-dc69-4f5b-ca83e81331b2",
+     "correct": false,
+     "answer": "Throw an error"
+    },
+    {
+     "_id": "ad197bc7-8bf9-aba8-7590-2a70019cbc2c",
+     "correct": true,
+     "answer": "Print undefined"
+    },
+    {
+     "_id": "d26de991-fe15-ab5e-442c-d106734a1357",
+     "correct": false,
+     "answer": "Print the `salary` of the first employee found"
+    },
+    {
+     "_id": "b1db90cc-c592-ac32-c7a7-4a9cdbab6ca4",
+     "correct": false,
+     "answer": "Print the `revenue` of the first company found"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-614138440",
+  "source": {
+   "name": "2.",
+   "showName": true,
+   "instructions": "Fill in the blank:\n```js\nconst bookSchema = new Schema({\n\tauthor: String,\n\ttitle: String,\n\treviews: [{type: Schema.Types.ObjectId, ref: _________}]\n})\n\t\nconst reviewSchema = new Schema({\n\treviewText: String\n})\n\t\nconst Book = mongoose.model('Book', bookSchema)\nconst Review = mongoose.model('Review', reviewSchema)\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "87b55c96-dca6-24c0-868c-707837a781ae",
+     "correct": false,
+     "answer": "review"
+    },
+    {
+     "_id": "b2b4fedd-c36f-ff64-eb3d-defa1345bc3b",
+     "correct": false,
+     "answer": "reviews"
+    },
+    {
+     "_id": "2665f3b6-a7b4-c1bc-8391-ef7ac4b22c02",
+     "correct": true,
+     "answer": "Review"
+    },
+    {
+     "_id": "34babe15-a8b3-5d27-d333-99655f0721cb",
+     "correct": false,
+     "answer": "reviewSchema"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3126922954",
+  "source": {
+   "name": "3.",
+   "showName": true,
+   "instructions": "What does the following function return?\n```js\n//Assume you have a Person Schema with a name property\n\t        \nconst removePerson = (name) => {\n     let p = Person.findOneAndDelete({\n\tname: name\n\t})\n\treturn p\n}\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "1f6df144-bd6a-82c9-bb64-786cf31e00c1",
+     "correct": false,
+     "answer": "It will return the document of the person that was deleted"
+    },
+    {
+     "_id": "88af8467-c1dd-7e31-79dd-50bc99f95102",
+     "correct": false,
+     "answer": "It will return the ID of the person that was deleted"
+    },
+    {
+     "_id": "c7894354-eed5-31d3-842b-841e67ed3fa0",
+     "correct": false,
+     "answer": "It will not return anything, since this is a delete operation"
+    },
+    {
+     "_id": "ffb287a5-8a08-bfac-d3e8-5fe80894575b",
+     "correct": true,
+     "answer": "It will return a promise"
+    },
+    {
+     "_id": "ecbb50eb-8c63-d3b4-76eb-3e5b96898aa8",
+     "correct": false,
+     "answer": "It will return an empty object"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

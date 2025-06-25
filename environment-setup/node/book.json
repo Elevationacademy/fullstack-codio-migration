@@ -1,0 +1,17 @@
+{
+ "name": "Node",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "8a4c324d-2321-c643-b1a8-038fb7516d24",
+   "pageId": "8a4c324d-2321-c643-b1a8-038fb7516d24",
+   "type": "page"
+  },
+  {
+   "id": "0a20b31a-f2b0-3f35-30ea-d63aad6f6555",
+   "title": "Installing Node",
+   "pageId": "2634fddd-5d89-742b-d919-bb2d0f056dba",
+   "type": "page"
+  }
+ ]
+}

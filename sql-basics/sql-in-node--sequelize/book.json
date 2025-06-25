@@ -1,0 +1,41 @@
+{
+ "name": "SQL in Node: Sequelize",
+ "children": [
+  {
+   "title": "Intro & Setup",
+   "id": "888f518c-0dd4-3b5a-1f7f-032732e2983f",
+   "pageId": "888f518c-0dd4-3b5a-1f7f-032732e2983f",
+   "type": "page"
+  },
+  {
+   "title": "Query",
+   "id": "91389aa3-f4f4-6879-8770-2e5872de9e9a",
+   "pageId": "91389aa3-f4f4-6879-8770-2e5872de9e9a",
+   "type": "page"
+  },
+  {
+   "id": "dea0a74a-798b-ac5a-a17d-9b6244eab89f",
+   "title": "Inserting",
+   "pageId": "bd334474-edfd-ec45-4c3c-c15ebbd02137",
+   "type": "page"
+  },
+  {
+   "id": "998d426a-5323-e26a-2a66-3a974c0861c9",
+   "title": "Async Insert",
+   "pageId": "45ba263b-44f3-5ba5-76fc-0e986879e71c",
+   "type": "page"
+  },
+  {
+   "id": "cb7a85e5-91b8-d9d9-b8a7-2271e3af359c",
+   "title": "Split Lines",
+   "pageId": "09b92215-323e-3643-8f84-827f72f00a8d",
+   "type": "page"
+  },
+  {
+   "id": "f966e75b-8583-c624-5272-3a2418a117e9",
+   "title": "Exercise - Data Migration",
+   "pageId": "2866b460-a76d-6902-8a75-60e1f19941a4",
+   "type": "page"
+  }
+ ]
+}

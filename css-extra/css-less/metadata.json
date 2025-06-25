@@ -1,0 +1,94 @@
+{
+ "sections": [
+  {
+   "id": "b93d359e-d621-d8ea-9480-1f7568859d70",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-b93d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5f5fdf8f-12f7-8f07-5280-401e0d24b3c9",
+   "title": "Nesting",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Nesting-5f5f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "64629ad0-53d6-93db-1301-01cc7dbcecce",
+   "title": "Spot check 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-check-1-6462.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "aa1551c8-459e-0bd2-e19c-daba0a533fdf",
+   "title": "Extend",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Extend-aa15.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "bc0d3435-5625-671e-20aa-bc99833caba5",
+   "title": "Mixins",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Mixins-bc0d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "80a72f15-d9cf-2679-7a5c-9acd937ad613",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-80a7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

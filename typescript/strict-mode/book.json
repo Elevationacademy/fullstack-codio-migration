@@ -1,0 +1,35 @@
+{
+ "name": "Strict Mode",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "cfdbca13-dc0f-d92e-2a7c-d3829bc21570",
+   "type": "page",
+   "pageId": "cfdbca13-dc0f-d92e-2a7c-d3829bc21570"
+  },
+  {
+   "title": "JavaScript’s ‘use strict’ directive",
+   "id": "2cf510e0-6403-8733-0a59-b5da7078afcd",
+   "type": "page",
+   "pageId": "0b88440f-22de-e9d8-b2d5-d17007864461"
+  },
+  {
+   "id": "eb43104a-d10a-4e9b-2056-8cea79352d5d",
+   "title": "Differences between ‘use strict’ and TypeScript",
+   "pageId": "331b97d2-f039-85c3-d722-09491afcc57d",
+   "type": "page"
+  },
+  {
+   "id": "8bb1664d-b3f0-1b1a-c977-1f0aec46d583",
+   "title": "Exercises",
+   "pageId": "171b4f4b-74ff-38b7-cb7e-3476df4c1d78",
+   "type": "page"
+  },
+  {
+   "id": "42c6dde2-aafa-79c7-69b4-939645e8358e",
+   "title": "Comprehension Check",
+   "pageId": "ea193c9d-ddb2-68a0-2691-b4a870e50ceb",
+   "type": "page"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "sections": [
+  {
+   "id": "fd0c5ecd-8a0e-06aa-7338-f77f2ede09d0",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-fd0c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "356ba472-587d-0f84-4fdd-41069ca21b24",
+   "title": "Simple Decorator",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Simple-Decorator-356b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "fc064250-fb3f-68b4-abb4-07f52d261408",
+   "title": "Decorators",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Decorators-fc06.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "6d82789b-cd83-3905-8082-0665c60bc7db",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-6d82.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

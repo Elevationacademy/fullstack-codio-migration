@@ -1,0 +1,101 @@
+{
+ "name": "SQL Join",
+ "children": [
+  {
+   "title": "SQL Join Lecture - 1 to Many",
+   "id": "487adfed-d7a5-7807-d7e3-1b663a23e055",
+   "pageId": "487adfed-d7a5-7807-d7e3-1b663a23e055",
+   "type": "page"
+  },
+  {
+   "title": "Intro",
+   "id": "99d32a7f-5898-9840-8836-3cad653f5321",
+   "pageId": "99d32a7f-5898-9840-8836-3cad653f5321",
+   "type": "page"
+  },
+  {
+   "id": "bfceda17-84a6-e952-7c22-25ffd678b0a8",
+   "title": "Foreign Keys",
+   "pageId": "49cd3170-b3f0-f692-5f37-e455c2f32b0d",
+   "type": "page"
+  },
+  {
+   "id": "892cbd9c-1b8b-1a62-e5bc-d18360343029",
+   "title": "Joining",
+   "pageId": "fa251dcc-9543-1e01-662c-664cac1e4d50",
+   "type": "page"
+  },
+  {
+   "id": "fd8dbd3d-c1fb-a2be-8614-5815882a2c30",
+   "title": "Alias",
+   "pageId": "b0ae5e8b-471f-485e-69a9-9b5c3b13fff1",
+   "type": "page"
+  },
+  {
+   "id": "0e70837f-8776-d7ea-40a8-90bfb03fb02d",
+   "title": "Relationship Types",
+   "pageId": "6a409a6e-5a44-6222-fbd0-c7cd359cf6c3",
+   "type": "page"
+  },
+  {
+   "id": "3080b72c-8137-315c-1c4e-44723102f9a5",
+   "title": "SQL Join Lecture - Many to Many",
+   "pageId": "ac66a5a4-28c7-8354-3735-f484896bcc81",
+   "type": "page"
+  },
+  {
+   "id": "6c6f2c59-ecea-5f9b-8414-8b5df7aef9e6",
+   "title": "Many to Many",
+   "pageId": "6731fdc8-79f0-dfbb-fcde-c0d00c1839fb",
+   "type": "page"
+  },
+  {
+   "id": "3939f836-47ba-f257-e9e9-a33cd6e7a23c",
+   "title": "Other Joins (Optional)",
+   "pageId": "62df8c8c-450a-4fd2-7aa9-23e3f9d4b605",
+   "type": "page"
+  },
+  {
+   "id": "017bfa9b-c303-b6ff-a30e-520040bf227a",
+   "title": "Spot Check 1",
+   "pageId": "463c8eda-2b79-2303-b2ab-0ca9e08133e3",
+   "type": "page"
+  },
+  {
+   "id": "86290c0e-3c92-0e69-6eab-ebfa4f26ee3a",
+   "title": "Spot Check 2",
+   "pageId": "90423d0c-5dc4-efb6-ff80-d71c25d36d51",
+   "type": "page"
+  },
+  {
+   "id": "7f0b6391-1c10-6140-ce6f-31efee2e7922",
+   "title": "Spot Check 3",
+   "pageId": "04e51a75-6eeb-a8b9-d25e-ac5afdc6b7b9",
+   "type": "page"
+  },
+  {
+   "id": "8888f68e-4dc2-4bc4-be92-aa9ccce6ed20",
+   "title": "Spot Check 4",
+   "pageId": "24eee2b9-b0fb-9623-35f3-32cd7bdb406c",
+   "type": "page"
+  },
+  {
+   "id": "6adc7188-7737-4c78-d4c3-77bccffbf5dd",
+   "title": "Spot Check 5",
+   "pageId": "3d257985-b827-03ef-07d6-a1a69d658b0b",
+   "type": "page"
+  },
+  {
+   "id": "9cbfd59e-7be0-8972-e26f-b99199031bee",
+   "title": "Exercises",
+   "pageId": "1f56cac7-72ed-3f95-7a6d-b0f603b23829",
+   "type": "page"
+  },
+  {
+   "id": "761ef58a-5950-5ee6-ba43-7a87f9338e0b",
+   "title": "Comprehension Check",
+   "pageId": "8f19a603-9562-1de0-5083-7bdc04c24243",
+   "type": "page"
+  }
+ ]
+}

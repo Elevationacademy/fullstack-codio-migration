@@ -1,0 +1,35 @@
+{
+ "name": "CSS: Tools For Modern Design",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "03d3db28-6567-6813-e9ba-c1e697fa7f8f",
+   "pageId": "03d3db28-6567-6813-e9ba-c1e697fa7f8f",
+   "type": "page"
+  },
+  {
+   "title": "Icons",
+   "id": "4495682e-bcac-c4e4-1433-dd3251c402b7",
+   "pageId": "4495682e-bcac-c4e4-1433-dd3251c402b7",
+   "type": "page"
+  },
+  {
+   "id": "c96732d8-4428-62f2-46bc-8d6f2e2b332d",
+   "title": "Colors",
+   "pageId": "bdaf981d-4197-abb2-87cb-ee1d25f687fc",
+   "type": "page"
+  },
+  {
+   "id": "c45ecef2-e074-9788-ef77-e948fe97fb5f",
+   "title": "Fonts",
+   "pageId": "cf7606dc-a29a-81da-567f-1ad8d53437a8",
+   "type": "page"
+  },
+  {
+   "id": "866396c5-4f2b-6238-e3e4-8faac9d4a8e0",
+   "title": "Design Tips",
+   "pageId": "3403d256-6069-248d-f26f-7e6cee907e64",
+   "type": "page"
+  }
+ ]
+}

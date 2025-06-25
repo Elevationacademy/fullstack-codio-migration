@@ -1,0 +1,29 @@
+{
+ "name": "Algorithms (JS)",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "c8953d05-143f-52c7-778f-f4466d70d77c",
+   "pageId": "c8953d05-143f-52c7-778f-f4466d70d77c",
+   "type": "page"
+  },
+  {
+   "title": "Practice",
+   "id": "58561c83-f66b-6679-5c48-15d50a0b4b03",
+   "pageId": "58561c83-f66b-6679-5c48-15d50a0b4b03",
+   "type": "page"
+  },
+  {
+   "id": "2c0b9d4d-0a3c-e067-512b-2902243c4816",
+   "title": "Exercises",
+   "pageId": "c365c490-0c7d-6392-e18d-82de02ee5244",
+   "type": "page"
+  },
+  {
+   "id": "6204981f-4360-6a8b-caa8-5c6a87e841e4",
+   "title": "Extensions",
+   "pageId": "33ed89ca-5dd9-bff1-3b9d-02a4edf5b418",
+   "type": "page"
+  }
+ ]
+}

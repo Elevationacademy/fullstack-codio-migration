@@ -1,0 +1,118 @@
+{
+ "sections": [
+  {
+   "id": "59d1208f-5662-e11e-f030-21977be6202c",
+   "title": "Overview - Video",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Overview---Video-59d1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b6149e99-5af3-57d7-7d40-fbbaeba0301d",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-b614.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "fe893cc1-4195-5357-5377-45b2f4fe668b",
+   "title": "So Far",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/So-Far-fe89.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "6d58e2f6-fc71-0d94-94df-9271d2a0d1e9",
+   "title": "Async/Await",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Async-Await-6d58.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a3eee632-88ac-6771-4e19-cf4df304c1ee",
+   "title": "Spot Check 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-1-a3ee.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d38a6f14-c8d9-4d3f-135c-875470201834",
+   "title": "Common Pitfalls",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Common-Pitfalls-d38a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d2d97ab9-804f-fa5b-770c-e89e37c47b11",
+   "title": "End",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/End-d2d9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "882a4209-dc6e-72db-1aa1-8b74cf9e24f1",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-882a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

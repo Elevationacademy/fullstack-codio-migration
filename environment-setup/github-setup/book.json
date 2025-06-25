@@ -1,0 +1,23 @@
+{
+ "name": "Git Basics",
+ "children": [
+  {
+   "title": "Intro & Version Control",
+   "id": "d5955d35-d76e-4608-25d5-79da6ecacc37",
+   "pageId": "d5955d35-d76e-4608-25d5-79da6ecacc37",
+   "type": "page"
+  },
+  {
+   "id": "dfe447f2-8700-d35f-08a2-8a9c8aa7eb97",
+   "title": "Sign up",
+   "pageId": "4b26b8fd-78e7-b4ab-e811-f7432ac783c2",
+   "type": "page"
+  },
+  {
+   "id": "d3100d31-9138-49d5-11c2-63d17d6d5419",
+   "title": "Add SSH key (optional)",
+   "pageId": "1bc494d4-07ee-53ec-1b0c-b1fae3032d00",
+   "type": "page"
+  }
+ ]
+}

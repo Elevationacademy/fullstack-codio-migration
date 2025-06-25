@@ -1,0 +1,35 @@
+{
+ "name": "Setting up your Github Projects-1",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "a00bcc30-7f82-6fe6-cf23-414f03889848",
+   "pageId": "a00bcc30-7f82-6fe6-cf23-414f03889848",
+   "type": "page"
+  },
+  {
+   "title": "Project Details",
+   "id": "23423ff8-f07a-36c2-6203-ebcb3b52fada",
+   "pageId": "23423ff8-f07a-36c2-6203-ebcb3b52fada",
+   "type": "page"
+  },
+  {
+   "id": "87818c14-31f8-c8f7-d55b-4f175f46f814",
+   "title": "README File",
+   "pageId": "2848aae2-8e35-e2c6-65fa-43a8f48c6f68",
+   "type": "page"
+  },
+  {
+   "id": "13b0c255-67f6-e4f7-dd5a-ed94d237090b",
+   "title": "Profile",
+   "pageId": "aba8893f-41b6-c54e-3bd0-e9bfd3677ef2",
+   "type": "page"
+  },
+  {
+   "id": "ba4e05b5-4774-91c2-ae09-7075b1a843d1",
+   "title": "Now You",
+   "pageId": "b9b351f9-adb7-b408-413e-1a167002eaa6",
+   "type": "page"
+  }
+ ]
+}

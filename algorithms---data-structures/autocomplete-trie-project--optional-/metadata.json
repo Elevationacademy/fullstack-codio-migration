@@ -1,0 +1,82 @@
+{
+ "sections": [
+  {
+   "id": "8b6f8bfb-7cdc-0484-6424-2fb52130c786",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-8b6f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e466e087-1894-6610-93a8-37220b36b451",
+   "title": "Tries/ Prefix Trees",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Tries--Prefix-Trees-e466.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a3dc03d3-2db4-538c-24fc-de4180fb8a7a",
+   "title": "Project Requirements",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Project-Requirements-a3dc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "1b4eb60e-43f0-c0ca-b6a9-6893ee4c671e",
+   "title": "Hints",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hints-1b4e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d5fe4fc3-94d5-cabb-7dfe-7fbba52ab8f1",
+   "title": "Extension: UI",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Extension--UI-d5fe.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

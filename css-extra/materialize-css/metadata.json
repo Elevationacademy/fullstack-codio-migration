@@ -1,0 +1,106 @@
+{
+ "sections": [
+  {
+   "id": "eb4dde0d-bb2b-af51-404f-1946f637d909",
+   "title": "Materialize Overview",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Materialize-Overview-eb4d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "df911f9d-ed96-a7ab-74a5-17c852a5be7b",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-df91.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d900e139-4e71-07a6-d96b-e43ec88ef5c4",
+   "title": "Setup",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Setup-d900.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "698bb6f1-8d8e-3c5b-23ed-63fe68da780d",
+   "title": "\"Grid\"",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-Grid--698b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "40166207-da2e-826c-5f26-04f954822aa8",
+   "title": "S vs M vs L",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/S-vs-M-vs-L-4016.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "69befc31-c491-fbd3-cab4-e61ba61eba9b",
+   "title": "Button",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Button-69be.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "6eca1472-ce4b-cb06-e67a-927d19684cea",
+   "title": "Spot Check 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-1-6eca.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

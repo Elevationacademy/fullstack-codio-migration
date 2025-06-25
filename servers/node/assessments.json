@@ -1,0 +1,160 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2416788147",
+  "source": {
+   "name": "1.",
+   "showName": false,
+   "instructions": "What is Node JS",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "76bc833e-9686-c5b3-ef43-4390d488031f",
+     "correct": false,
+     "answer": "An HTML element targeted using JavaScript"
+    },
+    {
+     "_id": "b339fe85-0127-ca78-86e1-538c9955d59a",
+     "correct": false,
+     "answer": "A library for servers"
+    },
+    {
+     "_id": "30bd5dc7-bc96-571b-80c3-b3962459dc87",
+     "correct": false,
+     "answer": "A language used to code servers"
+    },
+    {
+     "_id": "4cf6c28c-9845-d245-35f6-862c0b99466f",
+     "correct": true,
+     "answer": "A JavaScript runtime environment"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4234127360",
+  "source": {
+   "name": "2.",
+   "showName": true,
+   "instructions": "Node allows us to...",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "0483de23-02b4-a2a5-19fc-d62e30c61244",
+     "correct": false,
+     "answer": "create servers"
+    },
+    {
+     "_id": "bacce588-fe97-c50e-b8c2-8845aa4c238b",
+     "correct": false,
+     "answer": "serve data to users"
+    },
+    {
+     "_id": "9ac33dc7-0d68-a464-543d-9d8157087e0c",
+     "correct": false,
+     "answer": "communicate with external APIs"
+    },
+    {
+     "_id": "d2e8e5e0-a8f5-603c-d8a6-da329745fcb0",
+     "correct": false,
+     "answer": "communicate with databases simply"
+    },
+    {
+     "_id": "d09c30c2-6bb9-f57a-18b8-777928c7cb30",
+     "correct": true,
+     "answer": "All of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2197625633",
+  "source": {
+   "name": "3.",
+   "showName": false,
+   "instructions": "Which statement is NOT true about Node?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "bf771892-90d6-88ca-b698-d892dd5865e7",
+     "correct": false,
+     "answer": "Every file we write in node is automatically wrapped in a module for us"
+    },
+    {
+     "_id": "5c7d1186-c527-ade4-1fed-a9d817caebc5",
+     "correct": false,
+     "answer": "We can export and import modules from one file to another so we don't have to rely on our index.html to import everything"
+    },
+    {
+     "_id": "6454b9e5-339c-e867-7947-69b5574227a8",
+     "correct": false,
+     "answer": "Every node file has a built in exports object where we can assign keys to this object in order to export them to other file"
+    },
+    {
+     "_id": "4f24d18b-989e-f76f-b8d5-29532ec4bc26",
+     "correct": true,
+     "answer": "Modules are automatically imported in Node so we don't need to use the require function to access other files"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

@@ -1,0 +1,170 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-706531579",
+  "source": {
+   "name": "1",
+   "showName": false,
+   "instructions": "What is the time complexity of the following function?\n\n```\nconst sendEmailsToBestEmployees = function () {\n  let employees = $.get('/employeesByPerformance', function (employees) {\n    for (let i = 0; i < 10; i++) {\n      sendEmail(employees[i], \"Well Done\")\n    }\n  })\n}\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "4632ad14-dd8b-9734-27f5-310cf8f1712b",
+     "correct": true,
+     "answer": "O(1)"
+    },
+    {
+     "_id": "6216e141-f293-ca4e-6312-1364ac8ded02",
+     "correct": false,
+     "answer": "O(log(n))"
+    },
+    {
+     "_id": "3d1c3cd6-aa4c-3ad5-abf5-a30741a6245c",
+     "correct": false,
+     "answer": "O(n)"
+    },
+    {
+     "_id": "53905d79-ee09-e9c4-8149-c9543114642c",
+     "correct": false,
+     "answer": "O(mn)"
+    },
+    {
+     "_id": "21a8184c-1c51-b5fe-04d1-c6f79c80e391",
+     "correct": false,
+     "answer": "O(n^2)"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1609000216",
+  "source": {
+   "name": "2",
+   "showName": false,
+   "instructions": "What is the complexity of the following code?\n\n```\nlet autoComplete = {\n  A: [\"Aardvak\", \"Aladdin\", \"Alabastor\"],\n  B: [\"Bane\", \"Broach\", \"Broam\", \"Brood\", \"Broom\"],\n  ...\n  Z: [\"Zap\", \"Zebra\", \"Zoo\", \"Zoom\"]\n}\n\nconst findMatch = function (wordPrefix) {\n  let firstLetter = wordPrefix[0]\n  let words = autoComplete[firstLetter]\n\n  for (let w in words) {\n    let word = words[w]\n    if (word.startsWith(wordPrefix)) {\n      return words.slice(w)\n    }\n  }\n}\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "78fa38eb-ea70-4dcd-bc43-a4bcfc8f85b0",
+     "correct": false,
+     "answer": "O(1)"
+    },
+    {
+     "_id": "9bf3715b-cbb4-69fa-2d70-d92388117ebf",
+     "correct": false,
+     "answer": "O(log(n))"
+    },
+    {
+     "_id": "1f8a9dbc-db13-1ffb-67c9-a8746bd7a647",
+     "correct": true,
+     "answer": "O(n)"
+    },
+    {
+     "_id": "7d894474-3bc8-cdad-3817-a4078a8b9ce0",
+     "correct": false,
+     "answer": "O(mn)"
+    },
+    {
+     "_id": "f580a318-f7d0-b49d-559c-db404ce68795",
+     "correct": false,
+     "answer": "O(n^2)"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3384808956",
+  "source": {
+   "name": "Exercise 1",
+   "showName": true,
+   "instructions": "What is the complexity of the following code?\n\n```\nconst getBalance = function (bankOperations) {\n    let balance = 0\n    ﻿for (let op of bankOperations) {\n        balance += op\n    }\n    return balance\n}\n\ngetBalance([-27, -43, -2400, -700, 15000, 58])\n```",
+   "guidance": "O(n)",
+   "showGuidanceAfterResponse": true,
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "points": 20,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3007915127",
+  "source": {
+   "name": "Exercise 2",
+   "showName": true,
+   "instructions": "What is the time complexity of the following code?\n\n```\nconst printSome = function (complaints) {\n    for (let i = 1; i < complaints.length; i = i * 2)\n        console.log(complaints[i].text);\n}\n```",
+   "guidance": "O(log(n))",
+   "showGuidanceAfterResponse": true,
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "points": 20,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

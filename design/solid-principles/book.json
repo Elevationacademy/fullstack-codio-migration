@@ -1,0 +1,59 @@
+{
+ "name": "SOLID Principles",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "d0b67095-2c63-8508-025f-2979ab01e9e3",
+   "pageId": "d0b67095-2c63-8508-025f-2979ab01e9e3",
+   "type": "page"
+  },
+  {
+   "title": "SOLID Principles",
+   "id": "a08d8ba7-93c6-72ae-6610-83a3130f175f",
+   "pageId": "a08d8ba7-93c6-72ae-6610-83a3130f175f",
+   "type": "page"
+  },
+  {
+   "id": "3ec75534-fe31-acdb-da73-bd24adb7a89e",
+   "title": "Single Responsibility",
+   "pageId": "2a3ec5f6-d3fb-5422-b72c-9c4d799f1bf1",
+   "type": "page"
+  },
+  {
+   "id": "ee9910dd-a18b-648c-b632-584225ec8342",
+   "title": "Open Closed",
+   "pageId": "69dce410-9628-b3ef-e9e4-0a7c2e09d42c",
+   "type": "page"
+  },
+  {
+   "id": "dd43c66c-ec57-3223-9ea8-0d3b8b22f2ef",
+   "title": "Liskov Substitution",
+   "pageId": "4b95fc4a-84ba-96ed-421b-3a0cdce79f50",
+   "type": "page"
+  },
+  {
+   "id": "348d1a51-bb52-a448-6bde-0bf1c23b24ed",
+   "title": "Interface Segregation",
+   "pageId": "09ae200c-efe0-ac64-b6fe-d413edf538ea",
+   "type": "page"
+  },
+  {
+   "id": "b742a0ef-9cfc-7b98-f8f5-bcd2cedfc1aa",
+   "title": "Dependency Inversion",
+   "pageId": "638402cb-5881-32a1-bd51-4713810c7b70",
+   "type": "page"
+  },
+  {
+   "id": "332939a9-b0b5-580c-70e3-283aeffd1d9d",
+   "title": "Comprehension Check",
+   "pageId": "b5b628d7-2c17-0ead-33d7-76a02fa4aed1",
+   "type": "page"
+  },
+  {
+   "id": "d78f5bbc-9e7e-216d-534c-e8539eb0a313",
+   "title": "Zoo Project",
+   "pageId": "e0dee418-3c7f-cdf4-4daa-7d212670f150",
+   "type": "page"
+  }
+ ]
+}

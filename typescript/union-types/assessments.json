@@ -1,0 +1,198 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3849677955",
+  "source": {
+   "name": "Reusable union type",
+   "showName": true,
+   "instructions": "Is there a way to create a reusable union type that you can define once and use multiple times throughout your code?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "3589de84-00a0-eed0-bdca-d3e4aa3e33ed",
+     "correct": false,
+     "answer": "No, it’s not possible"
+    },
+    {
+     "_id": "ed9f328b-dfe5-5586-ec39-722231b7aee0",
+     "correct": false,
+     "answer": "Yes, by using the same union definition in multiple places"
+    },
+    {
+     "_id": "1e4715ae-3e5b-49b9-97a7-5a1507c6e634",
+     "correct": false,
+     "answer": "Yes, using the syntax ‘const Type: string | number’"
+    },
+    {
+     "_id": "9f4a6bfb-21f5-2487-6c6b-fc527b3a800b",
+     "correct": true,
+     "answer": "Yes, using the syntax ‘type Type = string | number’"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1633877252",
+  "source": {
+   "name": "Unions based on values",
+   "showName": true,
+   "instructions": "You can’t create unions based on values, just by types",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "c0f460fa-7686-328a-035b-f0a6bf458e4c",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "ddfa986d-d257-1c41-f5f9-322cc0a45017",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3815675912",
+  "source": {
+   "name": "Defining variables as union types",
+   "showName": true,
+   "instructions": "How do you define a variable as a union type?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "00fae933-5d25-47e6-8a59-b1721cdee3d3",
+     "correct": false,
+     "answer": "const phone_number: string or number;"
+    },
+    {
+     "_id": "265104df-f5ca-0d93-44c6-2897f2c46dc5",
+     "correct": false,
+     "answer": "const phone_number: string union number;"
+    },
+    {
+     "_id": "8b0d4c28-978d-a100-c47b-4ad358d3a498",
+     "correct": false,
+     "answer": "const phone_number: [string, number];"
+    },
+    {
+     "_id": "ab340fbf-288e-21c7-40b6-d78f31ed5ece",
+     "correct": true,
+     "answer": "const phone_number: string | number;"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1903270263",
+  "source": {
+   "name": "Type limit in union types",
+   "showName": true,
+   "instructions": "A union type can only have 2 types",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "5500b0b3-4996-7c4d-b777-c127f5b4211b",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "ca357e86-2b7e-0649-62de-8496360630b5",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

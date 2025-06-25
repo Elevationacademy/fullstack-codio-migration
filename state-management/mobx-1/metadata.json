@@ -1,0 +1,190 @@
+{
+ "sections": [
+  {
+   "id": "15d728e8-9bc8-5b7e-b20c-75a295cfec5a",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-15d7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a8c57dbb-0488-63ab-889e-25eed5b4a4d0",
+   "title": "Installation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Installation-a8c5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4c7212a9-b498-c2ae-f30c-0956d4bc7f3f",
+   "title": "Decorators",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Decorators-4c72.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "bd4f1291-0215-0af0-14b3-8453c1e67cf8",
+   "title": "Intro to MobX",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-to-MobX-bd4f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "baf1f341-9214-f5f9-1580-128041131c30",
+   "title": "State Managers & Data Flow",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/State-Managers---Data-Flow-baf1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "fa71d5c7-bbdf-c094-ebec-6ecb8795b8f2",
+   "title": "Creating a Store & Observables",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Creating-a-Store---Observables-fa71.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "6a860d7c-08fe-4794-fce7-b309cdadd0ac",
+   "title": "Spot Check 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-1-6a86.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "27370528-045d-0135-3bd4-742679e13a4e",
+   "title": "Observer",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Observer-2737.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c06ba226-0b0f-ffec-5526-f4bfb0227c9b",
+   "title": "Adding a Store to Your App",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Adding-a-Store-to-Your-App-c06b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4821275c-cbb8-1243-29f6-d0fa06847498",
+   "title": "Spot Check 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-2-4821.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "8057abb9-45c7-47c6-8241-c5ad6be8ef34",
+   "title": "Spot Check 3",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-3-8057.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "640e9e72-d69f-231a-4c06-54dae0bdd555",
+   "title": "Actions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Actions-640e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "da3a8714-9a7f-1e51-a420-8d0b5c80d774",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-da3a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5b9dbceb-6e75-fef2-c954-d17bda113ce8",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-5b9d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

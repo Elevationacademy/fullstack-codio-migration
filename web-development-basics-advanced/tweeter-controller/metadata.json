@@ -1,0 +1,58 @@
+{
+ "sections": [
+  {
+   "id": "6b753a5e-167c-d165-6c9e-31c0bcee12d6",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-6b75.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9456f661-fab7-9d4a-5815-f4e9edcb1df5",
+   "title": "Controller",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Controller-9456.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "1c6aa641-469a-e225-4ed2-13d8151b08a3",
+   "title": "Tweeeeet",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Tweeeeet-1c6a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

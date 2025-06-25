@@ -1,0 +1,69 @@
+{
+ "sections": [
+  {
+   "id": "c4a3082c-f32f-13fa-b72c-0efa11e61f79",
+   "title": "The OSI Model",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-OSI-Model-c4a3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d817641c-407d-1f71-ae38-7fa568a4c1a5",
+   "title": "Transport Layer Protocols: TCP and UDP",
+   "files": [],
+   "layout": "-guides-left",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Transport-Layer-Protocols--TCP-and-UDP-d817.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3d960651-f23f-c0bd-00bd-17d5c3b2fa82",
+   "title": "IP address, Subnet and Firewall ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/IP-address--Subnet-and-Firewall--3d96.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "1c2b745f-f137-eea4-ba32-9fd18edf86c6",
+   "title": " Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-Comprehension-Check-1c2b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

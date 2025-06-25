@@ -1,0 +1,1 @@
+That's really all there is to it. It works the same with PUT and DELETE - just select the correct HTTP method from the dropdown, write out JSON if you need to, and you're on your way to testing your routes like a pro.

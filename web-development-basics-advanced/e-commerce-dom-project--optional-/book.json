@@ -1,0 +1,35 @@
+{
+ "name": "E-Commerce DOM Project (Optional)",
+ "children": [
+  {
+   "title": "Description",
+   "id": "9b6880e3-cdc9-5883-c207-bb62a06a4d12",
+   "pageId": "9b6880e3-cdc9-5883-c207-bb62a06a4d12",
+   "type": "page"
+  },
+  {
+   "title": "To Do",
+   "id": "8cfd5ea7-7a2f-69fb-7daf-b09d9bdc490d",
+   "pageId": "8cfd5ea7-7a2f-69fb-7daf-b09d9bdc490d",
+   "type": "page"
+  },
+  {
+   "id": "d40bad32-4cf9-c1ca-0bfd-7762cc8edbb4",
+   "title": "Adding Features",
+   "pageId": "1ed23f86-5854-8983-712a-fdadfaadc6b6",
+   "type": "page"
+  },
+  {
+   "id": "efcb8a03-3323-236e-2c25-0ad0159accc4",
+   "title": "Styling",
+   "pageId": "2b3827fc-d53b-286e-ebbc-8de2d8183fd1",
+   "type": "page"
+  },
+  {
+   "id": "5f990e62-7173-9dc7-9370-fd8de7af9bac",
+   "title": "Extension",
+   "pageId": "94546375-d2bc-08a6-6836-88f9cbcb6413",
+   "type": "page"
+  }
+ ]
+}

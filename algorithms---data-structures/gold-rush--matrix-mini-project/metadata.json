@@ -1,0 +1,58 @@
+{
+ "sections": [
+  {
+   "id": "8c9425a9-3db5-cc9f-7b97-f35fe82e58ed",
+   "title": "Intro & Setup",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro---Setup-8c94.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4404a417-c03a-87c0-8e71-d4cbc531d988",
+   "title": "Gold Rush",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Gold-Rush-4404.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "72b62c8b-fc81-7757-0b19-90528f0fbdc1",
+   "title": "Extensions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Extensions-72b6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

@@ -1,0 +1,206 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1429551001",
+  "source": {
+   "name": "1.",
+   "showName": true,
+   "instructions": "What is $ ?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "c55500a8-1156-1398-abc4-f5da83ef9607",
+     "correct": false,
+     "answer": "The jQuery library"
+    },
+    {
+     "_id": "3c00534c-aafe-b5a9-8a28-cdd7ccf51865",
+     "correct": true,
+     "answer": "The jQuery function"
+    },
+    {
+     "_id": "8905b8f2-6c39-b9d1-b98f-ad23d34a97ae",
+     "correct": false,
+     "answer": "The jQuery object"
+    },
+    {
+     "_id": "1a1adc33-a280-442d-4970-97b827f51be6",
+     "correct": false,
+     "answer": "The jQuery framework"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-897263166",
+  "source": {
+   "name": "2.",
+   "showName": true,
+   "instructions": "What will the following code do (assume there is an element with an id of 'btn')?\n```\n$('#btn').click(alert('hi'))\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "f3a9ca04-11e6-6821-3d28-ebb4470ce147",
+     "correct": false,
+     "answer": "Nothing"
+    },
+    {
+     "_id": "667df637-311d-a0c2-25e0-d3a6dc2dabfc",
+     "correct": false,
+     "answer": "Throw an error"
+    },
+    {
+     "_id": "07a59f28-ec69-1a11-04ef-c6a314c96506",
+     "correct": false,
+     "answer": "Alert 'hi' when `#btn` is clicked"
+    },
+    {
+     "_id": "08e2281b-fa0a-cecb-d0ff-0da218aa3a83",
+     "correct": true,
+     "answer": "Alert 'hi' when the script runs"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3601377097",
+  "source": {
+   "name": "3.",
+   "showName": true,
+   "instructions": "What will the following code do (assume an element with an id of 'posts' exists)?\n```\nlet posts = [{name: 'Shoobert'}, {name: 'Kayne'}]\n\nfor(let post of posts){\n    $(\"#posts\").append(`\n        <div>${post.name}</div><input type=\"text\" placeholder=\"say something nice\" />\n    `)\n}\n\nposts.splice(0, 1)\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "4057dba2-fd0b-5f19-975e-ad9a5879286d",
+     "correct": false,
+     "answer": "Display only 'Kayne' in a `div`, with an input box below"
+    },
+    {
+     "_id": "8c11d754-4e9d-bb52-5b36-220e5ea3f8f3",
+     "correct": false,
+     "answer": "Display both 'Shoobert' and 'Kayne' in the same `div` with an input box below"
+    },
+    {
+     "_id": "a59fda31-8950-28bc-f735-4e23c4683125",
+     "correct": false,
+     "answer": "Display [objectObject] instead of 'Shoobert' and 'Kayne'"
+    },
+    {
+     "_id": "2a0fa081-abf1-5810-d9d5-f1b259775ef8",
+     "correct": true,
+     "answer": "Display both 'Shoobert' and 'Kayne' in separate `div`s with an input box below each"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4109660401",
+  "source": {
+   "name": "4.",
+   "showName": true,
+   "instructions": "What will the following do (assume several elements with a class of 'box' exist)?\n```\n$('.box').css('background-color', 'red')\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "932b9a2e-33ad-83e5-0b68-d1038e493a3e",
+     "correct": true,
+     "answer": "Change the background color of all `.box`es to red"
+    },
+    {
+     "_id": "fbf24914-89dd-3141-2c81-28fc75ed6c22",
+     "correct": false,
+     "answer": "Nothing, `.css` returns an array of elements"
+    },
+    {
+     "_id": "aa10b741-d040-bdc1-67a2-d836359e394e",
+     "correct": false,
+     "answer": "Throw an error"
+    },
+    {
+     "_id": "e6672763-fd14-37b9-b524-3c89793d776b",
+     "correct": false,
+     "answer": "Change the background color of the first `.box` to red"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

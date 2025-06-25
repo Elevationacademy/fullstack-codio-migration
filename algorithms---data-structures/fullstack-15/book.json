@@ -1,0 +1,29 @@
+{
+ "name": "FullStack 15",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "c6100a18-0ce4-a9f4-22de-d6e5bb93492e",
+   "pageId": "c6100a18-0ce4-a9f4-22de-d6e5bb93492e",
+   "type": "page"
+  },
+  {
+   "title": "Requirements",
+   "id": "28cbaf10-1ecd-152a-760d-2f436dc81b69",
+   "pageId": "28cbaf10-1ecd-152a-760d-2f436dc81b69",
+   "type": "page"
+  },
+  {
+   "id": "4bafc7eb-80d8-aa49-9241-1c6cc8510c5e",
+   "title": "Rules",
+   "pageId": "cd66328b-5507-dbc6-297a-d538be3e65a3",
+   "type": "page"
+  },
+  {
+   "id": "a62ebbef-67ab-9249-a03e-fccd8714d8be",
+   "title": "Why. Why?",
+   "pageId": "ac9d5372-d2e0-8e47-03c4-38d1189002d7",
+   "type": "page"
+  }
+ ]
+}

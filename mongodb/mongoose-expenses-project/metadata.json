@@ -1,0 +1,139 @@
+{
+ "sections": [
+  {
+   "id": "3ca8d086-81a9-8bf7-5c86-784ff1a43dc0",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-3ca8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d155bcd2-a1e2-4d9f-0897-d74e83ad8deb",
+   "title": "Project Setup",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Project-Setup-d155.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a5113677-b63a-39ce-e8f3-966db2016d39",
+   "title": "Getting Expenses",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Getting-Expenses-a511.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a06a2423-3e6c-5d61-037e-a7b35c0d5f30",
+   "title": "Add New Expenses",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Add-New-Expenses-a06a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f67c46fc-1d40-f4e8-bb39-5c4fda0c7757",
+   "title": "Update Expenses",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Update-Expenses-f67c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "862a5c61-5c47-137c-13f9-f7811096ff63",
+   "title": "Expenses By Group",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Expenses-By-Group-862a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "69878fd6-5dca-263b-4943-da6937eaddd0",
+   "title": "Get All Expenses For A Date Range",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Get-All-Expenses-For-A-Date-Range-6987.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f0f8d979-bf8a-afe3-2321-a36a8ab01754",
+   "title": "Extension - UI",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Extension---UI-f0f8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "caf6f800-6cab-e075-ae6e-a9a2149a1728",
+   "title": "Done",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Done-caf6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

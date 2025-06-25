@@ -1,0 +1,87 @@
+{
+ "sections": [
+  {
+   "id": "e779a64b-f1b9-78b0-e2fd-cf5ef8747693",
+   "title": "Pre Install",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Pre-Install-e779.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d5955d35-d76e-4608-25d5-79da6ecacc37",
+   "title": "Intro & Version Control",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro---Version-Control-d595.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4b26b8fd-78e7-b4ab-e811-f7432ac783c2",
+   "title": "Installing Git",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Installing-Git-4b26.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "437c2e6a-2e75-2609-182a-2200be4de5f7",
+   "title": "Changing Editor",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Changing-Editor-437c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "28061771-ed71-5b98-2a9b-c83683a5e3a0",
+   "title": "Setup",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Setup-2806.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

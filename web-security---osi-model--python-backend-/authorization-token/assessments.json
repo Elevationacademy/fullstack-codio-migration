@@ -1,0 +1,252 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3849677955",
+  "source": {
+   "name": "Example Question",
+   "showName": true,
+   "instructions": "What is this platform?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "3589de84-00a0-eed0-bdca-d3e4aa3e33ed",
+     "correct": false,
+     "answer": "Kernel"
+    },
+    {
+     "_id": "ed9f328b-dfe5-5586-ec39-722231b7aee0",
+     "correct": true,
+     "answer": "Codio"
+    },
+    {
+     "_id": "1e4715ae-3e5b-49b9-97a7-5a1507c6e634",
+     "correct": false,
+     "answer": "Moodle"
+    },
+    {
+     "_id": "9f4a6bfb-21f5-2487-6c6b-fc527b3a800b",
+     "correct": false,
+     "answer": "Google Code"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4008026212",
+  "source": {
+   "name": "Authorization Token",
+   "showName": true,
+   "instructions": "What is an *Authorization Token*?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "1322f988-d6f1-29cd-af6e-b30ce204314a",
+     "correct": false,
+     "answer": "A token that stores the current time"
+    },
+    {
+     "_id": "7c1ef512-3e37-937e-92b0-7392144f7d02",
+     "correct": false,
+     "answer": "A token that stores the entire user profile"
+    },
+    {
+     "_id": "5014685d-40fd-f079-59c0-cbb2db878c59",
+     "correct": true,
+     "answer": "A token that is used to identify and validate a user when logging in"
+    },
+    {
+     "_id": "fb2e6717-13e4-9660-909f-c458399072de",
+     "correct": false,
+     "answer": "A token that is used to identify and validate a user when they try and access the database"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2214172980",
+  "source": {
+   "name": "Authorization Token and username/password",
+   "showName": true,
+   "instructions": "*Authorization Token* uses a *username/password* pair",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "2c0c951e-50b6-d1a4-e388-d116ff5572e8",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "8a4270d8-1776-cdda-3b2b-10abe5ad3176",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-112639266",
+  "source": {
+   "name": "Authorization Token format",
+   "showName": true,
+   "instructions": "What is the format of the *Authorization Token* header?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "ced79964-ed3f-d910-e757-209edab05534",
+     "correct": true,
+     "answer": "“Authorization: Bearer {encoded_token}”"
+    },
+    {
+     "_id": "e838a189-a7d3-62b1-1333-5467b1b21424",
+     "correct": false,
+     "answer": "“Authentication: Bearer {encoded_token}”"
+    },
+    {
+     "_id": "607cc5c0-5c43-e7e6-6a39-608232bbe9de",
+     "correct": false,
+     "answer": "\"Authorization: Basic {username/password}\""
+    },
+    {
+     "_id": "e3382c1f-3600-c92f-2b6e-353293fb4d5b",
+     "correct": false,
+     "answer": "“Authorization: Encoded {encoded_token}”"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1748414679",
+  "source": {
+   "name": "Authorization Token and Basic Authorization",
+   "showName": true,
+   "instructions": "An *Authorization Token* replaces *Basic Authorization*",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "a0c2ac9a-e005-2907-b539-a1cd2b730288",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "6e9a81d4-dcdf-eadc-c8d4-5fa5b0449af6",
+     "correct": false,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

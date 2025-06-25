@@ -1,0 +1,106 @@
+{
+ "sections": [
+  {
+   "id": "137725f9-fa59-783b-6bd0-4f20f4f2782c",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-1377.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f0fe7927-276a-379b-6a45-cbaa2d3a05b6",
+   "title": "Max/Min Width/Height",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Max-Min-Width-Height-f0fe.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "6b3d1852-2199-264a-89e9-a9383f79abe5",
+   "title": "Flexible Units",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Flexible-Units-6b3d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "50f8d660-ace1-fda1-085c-e490c2f83b4c",
+   "title": "Media Queries",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Media-Queries-50f8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "1824fcd9-3784-bd73-0b81-c66f0472aa78",
+   "title": "Spot Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-1824.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e441960b-ae38-065f-81f3-bb19490c2c4b",
+   "title": "Emulation Devices on Chrome",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Emulation-Devices-on-Chrome-e441.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a065d074-5955-234f-bcac-d601963525e3",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-a065.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

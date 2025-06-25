@@ -1,0 +1,90 @@
+{
+ "sections": [
+  {
+   "id": "adcb0f4d-e481-22ba-7afa-b4447f362898",
+   "title": "Overview",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Overview-adcb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "8beb3df7-635b-aeac-7226-23485e53541b",
+   "title": "The TLS Handshake",
+   "files": [],
+   "layout": "-guides-left",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-TLS-Handshake-8beb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f91558d9-47ab-bbc4-2558-cb3ea9942937",
+   "title": "Digital Certificates",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Digital-Certificates-f915.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f6dcfb9b-0c7d-d85a-7385-57c4398824a8",
+   "title": "Tutorials",
+   "files": [
+    {
+     "path": "#terminal: ",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-guides-left",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Tutorials-f6dc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a46e204e-fc11-d980-0ea4-9cb5d06b4e1a",
+   "title": "Comprehension Check",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-a46e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

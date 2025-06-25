@@ -1,0 +1,70 @@
+{
+ "sections": [
+  {
+   "id": "84b775a0-cf16-c5a6-0628-c71134bcff3a",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-84b7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2e96611f-065a-ff1a-e198-dccea85df72b",
+   "title": "Clear DB",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Clear-DB-2e96.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a01dfcad-0b9d-0b34-aa9a-8800eed03a4f",
+   "title": "Steps",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Steps-a01d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a05894b1-9c59-f233-a5ce-31ced90418f9",
+   "title": "Troubleshooting & Done",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Troubleshooting---Done-a058.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

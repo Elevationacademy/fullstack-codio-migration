@@ -1,0 +1,8 @@
+- Union Types
+  - [Intro](./Intro.md "Intro")
+  - [Union Types](./Union-Types.md "Union Types")
+  - [Type Aliases](./Type-Aliases.md "Type Aliases")
+  - [Spotcheck](./Spotcheck.md "Spotcheck")
+  - [Literal Types and Enums](./Literal-Types-and-Enums.md "Literal Types and Enums")
+  - [Exercises](./Exercises.md "Exercises")
+  - [Comprehension Check](./Comprehension-Check.md "Comprehension Check")

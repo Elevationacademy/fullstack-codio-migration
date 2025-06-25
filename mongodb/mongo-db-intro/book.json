@@ -1,0 +1,137 @@
+{
+ "name": "Mongo DB Intro",
+ "children": [
+  {
+   "title": "Mongo Terminology",
+   "id": "cd003e55-cdbe-b54e-6922-311daec23167",
+   "type": "page",
+   "pageId": "7bfa9cf7-d1c0-6cef-0f1a-b506289cb1e9"
+  },
+  {
+   "title": "Intro",
+   "id": "d8a3ea42-c351-7e59-0094-fcffd7c48443",
+   "type": "page",
+   "pageId": "c2ab84a3-4308-1a42-26eb-6a321ac16d2f"
+  },
+  {
+   "title": "Terminology",
+   "id": "dc52bee0-7035-fff9-9173-ef405a5e04db",
+   "type": "page",
+   "pageId": "6ab5327f-bdd7-64b9-ca00-28d8fb9a69d4"
+  },
+  {
+   "title": "CRUD -Video",
+   "id": "d3d081b0-3630-962f-06d4-2a88522e7282",
+   "type": "page",
+   "pageId": "cc204e41-1148-5953-6a12-4540e8a7b971"
+  },
+  {
+   "title": "CRUD - Create",
+   "id": "031632c4-3dc0-a75b-3c2b-0e55ccc90304",
+   "type": "page",
+   "pageId": "82fd240e-acb4-ceb5-ad2a-14e022108635"
+  },
+  {
+   "title": "Spot Check 1",
+   "id": "e495a043-a4d6-4fa7-4684-a8c5bb862b5e",
+   "type": "page",
+   "pageId": "d503f8ba-a82e-1566-1b09-b616049249fe"
+  },
+  {
+   "title": "CRUD - Retrieve",
+   "id": "95940ce4-6d12-6d55-e6ea-827eba2e4514",
+   "type": "page",
+   "pageId": "271a520c-b23f-501e-b6ac-e8f05ea8ac8e"
+  },
+  {
+   "title": "Spot Check 2",
+   "id": "5a0aab00-fcc9-216b-c5b0-7b788264622f",
+   "type": "page",
+   "pageId": "b364949b-892c-f372-d505-713ce642d1c4"
+  },
+  {
+   "title": "CRUD - Update",
+   "id": "6fcf756f-5131-6aeb-2d43-eb3e746fc209",
+   "type": "page",
+   "pageId": "94d8d82c-14b1-e19b-861f-533ae1ba158c"
+  },
+  {
+   "title": "CRUD - Delete",
+   "id": "ad56438b-d975-a05d-8a38-19285b30219a",
+   "type": "page",
+   "pageId": "a81780da-2d9b-eaf6-8776-5c0e70e9e3f7"
+  },
+  {
+   "title": "More Commands - Video",
+   "id": "1ed3c122-885f-2c80-7192-743dfd5a3812",
+   "type": "page",
+   "pageId": "d37a7260-7e56-a00b-53e2-11831e60b1b6"
+  },
+  {
+   "title": "Array Commands I",
+   "id": "543d4b0f-3c51-acec-db85-947884e6fbef",
+   "type": "page",
+   "pageId": "862de6be-92d3-7010-d8ac-27cde76a7adf"
+  },
+  {
+   "title": "Spot Check 3",
+   "id": "1867daca-02fe-a6bd-0b33-4287722c5b60",
+   "type": "page",
+   "pageId": "a7734ddd-fe0f-0648-5dcf-92f0a6a15c20"
+  },
+  {
+   "title": "Array Commands II",
+   "id": "57e6191d-53f8-d1e7-19a7-aa3029d2183c",
+   "type": "page",
+   "pageId": "5f242afd-8645-6681-32f0-fb3d7111729f"
+  },
+  {
+   "title": "Filtering",
+   "id": "0c77fd65-2f4d-a8d2-c366-dde5f9e0f91b",
+   "type": "page",
+   "pageId": "7481dd3e-83b9-b180-1351-767e345f00f5"
+  },
+  {
+   "title": "More Operations",
+   "id": "59ea1ca4-2a4c-ecee-85c2-2e1272f332ca",
+   "type": "page",
+   "pageId": "7e7776c6-9a8b-30cf-f309-02662bf0c633"
+  },
+  {
+   "title": "Aggregators (Optional)",
+   "id": "89fd0512-8e5c-809d-0ef6-f10a2a83e3ce",
+   "type": "page",
+   "pageId": "c2ce33aa-81d8-fba5-4b5b-6a9594546ed4"
+  },
+  {
+   "title": "Spot Check 4 (Optional)",
+   "id": "1bf469d0-36a8-befd-a822-24c4317b486e",
+   "type": "page",
+   "pageId": "5f69e7e0-7f25-42b2-55f8-f37d2bf04eef"
+  },
+  {
+   "title": "DB.LESSON.DONE()",
+   "id": "6247b267-cf6d-7739-3011-739e3142133f",
+   "type": "page",
+   "pageId": "6873af9b-0189-e2a5-c9d1-591a52b95a6a"
+  },
+  {
+   "title": "Exercises Setup",
+   "id": "dff98aab-be1d-ed1b-ee9c-6861e81276ef",
+   "type": "page",
+   "pageId": "1ebbe83c-6f50-0c0d-d083-28e91874a8bd"
+  },
+  {
+   "title": "Exercises",
+   "id": "1727a953-627e-5299-0b74-dc7e5d48090d",
+   "type": "page",
+   "pageId": "1727a953-627e-5299-0b74-dc7e5d48090d"
+  },
+  {
+   "title": "Comprehension Check",
+   "id": "2814d45d-d384-72bf-fa61-4b8713e42998",
+   "type": "page",
+   "pageId": "2814d45d-d384-72bf-fa61-4b8713e42998"
+  }
+ ]
+}

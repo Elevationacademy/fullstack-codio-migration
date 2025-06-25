@@ -1,0 +1,41 @@
+{
+ "name": "DOM Traversal with jQuery",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "41d048e0-8f6a-b226-f6a7-f0f2904d9140",
+   "pageId": "41d048e0-8f6a-b226-f6a7-f0f2904d9140",
+   "type": "page"
+  },
+  {
+   "title": "Dom Traversal",
+   "id": "4af9fbce-481e-48d9-4777-9661c684f53d",
+   "pageId": "4af9fbce-481e-48d9-4777-9661c684f53d",
+   "type": "page"
+  },
+  {
+   "id": "4a2b6d46-0925-bdda-3886-7c6d90f6303f",
+   "title": "Spot Check 1",
+   "pageId": "01f09f0d-7fe1-1b16-cc51-faba5ae04242",
+   "type": "page"
+  },
+  {
+   "id": "0bf2eba4-3573-7b79-c93e-fb57af8c5210",
+   "title": "Spot Check 2",
+   "pageId": "308731c5-4cbe-1a14-511f-a360b406713a",
+   "type": "page"
+  },
+  {
+   "id": "40058830-4e9e-3383-aab5-c342f374e772",
+   "title": "Exercises",
+   "pageId": "0ad24804-23d1-6135-ce81-82e6c0693ad9",
+   "type": "page"
+  },
+  {
+   "id": "09b47745-0548-e39c-c540-7279ee7b061c",
+   "title": "Comprehension Check",
+   "pageId": "3ea1c7aa-8730-0bf6-432c-c91c11685fa6",
+   "type": "page"
+  }
+ ]
+}

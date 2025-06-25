@@ -1,0 +1,267 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-764563474",
+  "source": {
+   "name": "1.",
+   "showName": true,
+   "instructions": "What is the difference between the following?\n\n```js\ndb.animals.find({})\n    //vs.\n﻿Animals.find({})\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "a01aaed3-ce65-e016-2e15-4c2b8800231d",
+     "correct": false,
+     "answer": "They're exactly the same"
+    },
+    {
+     "_id": "0010c9ee-f519-c685-5264-1f5f049a90b7",
+     "correct": true,
+     "answer": "Mongo vs. Mongoose"
+    },
+    {
+     "_id": "607a0421-5da8-cdf6-c0f5-95ce05b6ae39",
+     "correct": false,
+     "answer": "Mongo vs. Server"
+    },
+    {
+     "_id": "eefd50ac-823c-8ea3-4267-f6ba1460d690",
+     "correct": false,
+     "answer": "Mongo vs. Node"
+    },
+    {
+     "_id": "902393ed-34ec-c5f2-0ebf-1fb63a5a37d8",
+     "correct": false,
+     "answer": "b, c, and d"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3052933959",
+  "source": {
+   "name": "2.",
+   "showName": true,
+   "instructions": "What will this code do?\n```js\nconst FurnitureSchema = new Schema({\nname: String,\nlegs: Number,\nown: Boolean\n})\n\t\nlet table = new FurnitureSchema({\nname: \"table\",\nlegs: 4,\nown: false\n})\n\t\ntable.save()\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "889da25e-5899-0c24-aa01-da9a6fbade6c",
+     "correct": false,
+     "answer": "Save a table document to the `furniture` collection"
+    },
+    {
+     "_id": "5ee5ad7f-c37f-57d7-bdf5-97544714dfd7",
+     "correct": false,
+     "answer": "Save a table document to the `furnitures` collection"
+    },
+    {
+     "_id": "f6b38f54-ce9e-b1d7-c0fe-ee5ec52293a7",
+     "correct": false,
+     "answer": "Save a table document to the `furnitureSchema` collection"
+    },
+    {
+     "_id": "dd76c4ae-ef0b-ddc7-0d20-0f5c1a247a97",
+     "correct": false,
+     "answer": "Save a table document to the `furnitureSchemas` collection"
+    },
+    {
+     "_id": "fb693bb9-c1b6-e02a-8baa-c7490dfa803d",
+     "correct": true,
+     "answer": "None of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3618122968",
+  "source": {
+   "name": "3.",
+   "showName": true,
+   "instructions": "How does Mongoose work?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "bdf297a8-315c-71bc-21c8-7a640121098f",
+     "correct": false,
+     "answer": "It's an NPM package that runs on a server and lets us communicate with our Mongo DB"
+    },
+    {
+     "_id": "cd2dbbae-1f85-b9ee-c1e9-f24c031cc4e0",
+     "correct": false,
+     "answer": "It's an NPM package that runs on a server and lets us communicate with our DB"
+    },
+    {
+     "_id": "32cbcb5b-130a-9de5-3e58-18b004320fd3",
+     "correct": true,
+     "answer": "It's an NPM package that lets us communicate with our Mongo DB"
+    },
+    {
+     "_id": "0f554d64-e642-0330-decc-32f4ff5e0a9b",
+     "correct": false,
+     "answer": "It's an addition to Express that lets us communicate with our Mongo DB"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-629854658",
+  "source": {
+   "name": "4.",
+   "showName": true,
+   "instructions": "What can you say about this code?\n```js\nrouter.get('/stuff', function(req, res){\n\t            Person.find({}, function(err, people){\n\t                res.send(people)\n\t            })\n})\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "f386f14f-3227-08b7-2170-4cfb908914bf",
+     "correct": true,
+     "answer": "It's ok"
+    },
+    {
+     "_id": "29b56760-33de-4191-0c5a-67080058962f",
+     "correct": false,
+     "answer": "The route must be named `/people` to work with the `people` collection"
+    },
+    {
+     "_id": "32f32205-7f8e-a52a-c701-4802debb9e6c",
+     "correct": false,
+     "answer": "It will throw an error if the `people` collection is empty"
+    },
+    {
+     "_id": "9b6bb281-9949-8d3f-016f-fcec38f513e1",
+     "correct": false,
+     "answer": "None of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-108042887",
+  "source": {
+   "name": "5.",
+   "showName": true,
+   "instructions": "What can you say about this code?\n\n```js\nPerson.find({}, function(err, p){\n\t                console.log(p.name)\n\t            })\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "f5dada47-2c3f-e436-032e-da26f25d78ec",
+     "correct": false,
+     "answer": "It's ok"
+    },
+    {
+     "_id": "89544f2c-276d-91ee-65f8-80de685c74e1",
+     "correct": false,
+     "answer": "It will throw an error"
+    },
+    {
+     "_id": "072d7fc0-facb-e010-c8ad-a72d6acb0739",
+     "correct": true,
+     "answer": "It will print undefined"
+    },
+    {
+     "_id": "011ac9f5-8c34-3ba3-afa3-8bc15b9a7311",
+     "correct": false,
+     "answer": "None of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

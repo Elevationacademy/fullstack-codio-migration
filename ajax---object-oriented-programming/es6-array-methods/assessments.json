@@ -1,0 +1,109 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1431335484",
+  "source": {
+   "name": "1.",
+   "showName": true,
+   "instructions": "What will the following code do?\n```js\nconst people = [\n    {id: 1, name: \"Humbert\", money: 499, hasAC: false},\n    {id: 2, name: \"Bellatrix\", money: 499, hasAC: true},\n    {id: 3, name: \"Mola\", money: 720, hasAC: false}\n]\n\nlet isCool = function(humbert){\n    return (humbert.money > 500 || humbert.hasAC)\n}\n\nlet print = (p) => console.log(p)\n\npeople.filter(isCool).map(p => p.name).forEach(print)\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "93afc747-e708-d8a5-4b01-1cd4489c1425",
+     "correct": false,
+     "answer": "Nothing"
+    },
+    {
+     "_id": "32031442-2680-06d7-e404-3ede721cfb00",
+     "correct": false,
+     "answer": "Console log 'Humbert', 'Bellatrix'"
+    },
+    {
+     "_id": "c20f60c4-54ff-3fc4-ea6c-765aefacbac7",
+     "correct": true,
+     "answer": "Console log 'Bellatrix', 'Mola'"
+    },
+    {
+     "_id": "1bf15755-a32e-d845-d68a-71540f614f06",
+     "correct": false,
+     "answer": "Console log 'Mola', 'Humbert'"
+    },
+    {
+     "_id": "f82e73bc-1807-ac8b-dcc2-7f7a65109486",
+     "correct": false,
+     "answer": "Throw an error"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-72991253",
+  "source": {
+   "name": "2.",
+   "showName": true,
+   "instructions": "Using the same 'people' array from above, what will the following code do?\n```js\nconsole.log(people.find(p.id === 2))\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "3f9d8752-ec85-9370-1fcb-ae79db833970",
+     "correct": false,
+     "answer": "Nothing"
+    },
+    {
+     "_id": "22f96e19-bf75-e0e4-ddf8-44348a69102a",
+     "correct": true,
+     "answer": "Throw an error"
+    },
+    {
+     "_id": "de559626-00e5-6c34-03a2-7624d42a9214",
+     "correct": false,
+     "answer": "Print the Mola object"
+    },
+    {
+     "_id": "37566524-bba9-5edd-1c33-71cf5e0767eb",
+     "correct": false,
+     "answer": "Print the Bellatrix object"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

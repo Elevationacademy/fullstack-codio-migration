@@ -1,0 +1,374 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1275433550",
+  "source": {
+   "name": "1",
+   "showName": false,
+   "instructions": "What is MobX?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "c243cdfd-e963-da27-8a5b-3ee752c985b8",
+     "correct": false,
+     "answer": "A library"
+    },
+    {
+     "_id": "b47a1aa0-d36e-d734-ca0c-3531580acb6a",
+     "correct": false,
+     "answer": "An add on to react"
+    },
+    {
+     "_id": "841d3126-d8b4-3466-37bb-a2ff758c742c",
+     "correct": false,
+     "answer": "An application state manager"
+    },
+    {
+     "_id": "75c3d3ff-60d8-9001-ff50-dc93993e8b7b",
+     "correct": false,
+     "answer": "All of the above"
+    },
+    {
+     "_id": "42d676ad-3f24-4381-e327-19264f1f5e7b",
+     "correct": false,
+     "answer": "A & B"
+    },
+    {
+     "_id": "2bb2a35d-2ee5-2077-19a5-601f87930323",
+     "correct": true,
+     "answer": "A & C"
+    },
+    {
+     "_id": "7163e801-f7e2-a8bb-d4be-41205f7648f0",
+     "correct": false,
+     "answer": "B & C"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3403482685",
+  "source": {
+   "name": "2",
+   "showName": false,
+   "instructions": "When using MobX with React, which components need to be  observers?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "2f9db2f7-4eed-020d-94c4-825ac003d203",
+     "correct": false,
+     "answer": "Only the top parent component"
+    },
+    {
+     "_id": "c89d1102-20e7-7a8a-f615-0dae9d68bfd3",
+     "correct": false,
+     "answer": "Any parent component under App which calls an action from a store"
+    },
+    {
+     "_id": "88d45592-b4e9-1d83-9946-0e85e1bc0618",
+     "correct": true,
+     "answer": "Any component which renders observable data "
+    },
+    {
+     "_id": "70a762f1-a807-d918-a91a-f9c25adea27c",
+     "correct": false,
+     "answer": "Only components which have onclick functions that call an action from the store"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2206025809",
+  "source": {
+   "name": "3",
+   "showName": false,
+   "instructions": "Will the following computed value work? Assume it is inside of a store and there is a makeObservable targeting it.\n\n```\n//items is an observable\n\nitemCount() {\n    return this.items.length\n}\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "fa62e7d8-19fe-e459-61cb-901078539bcc",
+     "correct": false,
+     "answer": "yes"
+    },
+    {
+     "_id": "1745a269-f813-a579-8196-81f85cc3f3d9",
+     "correct": true,
+     "answer": "no"
+    },
+    {
+     "_id": "5a860b9e-cdb5-986d-7139-54c3f173c6ad",
+     "correct": false,
+     "answer": "sometimes"
+    },
+    {
+     "_id": "19750c50-b411-3965-c678-26ae19b4c752",
+     "correct": false,
+     "answer": "I'm lost"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2631683979",
+  "source": {
+   "name": "4",
+   "showName": false,
+   "instructions": "Why doesn't the following Provider work?\n\n```\nconst stores = {IceCreamStore,\n                PizzaStore,\n                PartyStore}\n\nReactDOM.render(<Provider {stores}><App/><Provider/>, document.getElementByID('root'))\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "86feba73-d04a-56cc-5c97-7f4b62f980d2",
+     "correct": false,
+     "answer": "ReactDOM should be lowercase"
+    },
+    {
+     "_id": "02ba5ba5-f1c4-fe00-fa6c-b3b116082967",
+     "correct": false,
+     "answer": "<app/> should not be written as a self closing tag"
+    },
+    {
+     "_id": "a40f5bae-b68a-484b-5569-17cd878d90d2",
+     "correct": true,
+     "answer": "{stores} is missing the spread operator"
+    },
+    {
+     "_id": "1b85e431-1785-0fd8-9a12-b7e455d7812f",
+     "correct": false,
+     "answer": "all of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-174613368",
+  "source": {
+   "name": "5",
+   "showName": false,
+   "instructions": "How many stores should be in my application?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "ae06c585-6b02-5984-0498-22c86eb3a39a",
+     "correct": false,
+     "answer": "as many stores as you'd like"
+    },
+    {
+     "_id": "f2043857-e740-bad4-9301-a88ec548ecf6",
+     "correct": false,
+     "answer": "only one store"
+    },
+    {
+     "_id": "d279fd32-3f47-01b0-0cd5-9cc111160759",
+     "correct": false,
+     "answer": "a store for each section of your application"
+    },
+    {
+     "_id": "e6b0fb7b-6adc-a72b-2799-798e71246de6",
+     "correct": true,
+     "answer": "a store for each self-contained section of the application"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-74010820",
+  "source": {
+   "name": "6",
+   "showName": false,
+   "instructions": "Can you use two-way binding with MobX?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "4126bb99-e89b-bf28-bce6-8fca115fc631",
+     "correct": true,
+     "answer": "Yes, by using an action to save a value in a store, and setting the input value to that store's observable"
+    },
+    {
+     "_id": "88cd7d69-2ee7-07ad-1f1a-36fde771dd85",
+     "correct": false,
+     "answer": "Yes, by using setState to save a value in our app state, and setting the input value to the state's value"
+    },
+    {
+     "_id": "2d11bdc6-5cce-c5a3-758d-5f35787835d0",
+     "correct": false,
+     "answer": "No, we can use 1 way binding by calling an action to save the value in a store"
+    },
+    {
+     "_id": "bbc33031-8030-00be-d291-7f2b271b1078",
+     "correct": false,
+     "answer": "No, instead pass the input value to the store's action to use it in data operations"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-86421517",
+  "source": {
+   "name": "7",
+   "showName": false,
+   "instructions": "Will the following code work? Assume the store has an action `eatIceCream`\n\n```\nclass LandingPage extends Component {\n  componentDidMount() {\n    this.props.IceCreamStore.eatIceCream()\n  }\n}\n\nexport inject(\"IceCreamStore\")(observer(LandingPage)\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "42318e97-2419-20d8-33c1-20e9c2245f1f",
+     "correct": false,
+     "answer": "No, you don't need the quotes around the name of the store you're injecting"
+    },
+    {
+     "_id": "3bfec3fe-bb26-1ff2-f6b7-287d82dbf119",
+     "correct": false,
+     "answer": "No, when you inject a store the method is directly in the props so you can just say 'this.props.eatIceCream'"
+    },
+    {
+     "_id": "9e2b01ee-9875-bd06-95d4-0e06b50ada1e",
+     "correct": false,
+     "answer": "No, you can not access a store state in componentDidMount."
+    },
+    {
+     "_id": "6ce41390-e578-727f-01ad-7c33f6d57f4f",
+     "correct": true,
+     "answer": "Yes,  it works fine"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

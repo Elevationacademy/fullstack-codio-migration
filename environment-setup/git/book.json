@@ -1,0 +1,35 @@
+{
+ "name": "Git Basics",
+ "children": [
+  {
+   "title": "Pre Install",
+   "id": "e779a64b-f1b9-78b0-e2fd-cf5ef8747693",
+   "pageId": "e779a64b-f1b9-78b0-e2fd-cf5ef8747693",
+   "type": "page"
+  },
+  {
+   "title": "Intro & Version Control",
+   "id": "d5955d35-d76e-4608-25d5-79da6ecacc37",
+   "pageId": "d5955d35-d76e-4608-25d5-79da6ecacc37",
+   "type": "page"
+  },
+  {
+   "id": "dfe447f2-8700-d35f-08a2-8a9c8aa7eb97",
+   "title": "Installing Git",
+   "pageId": "4b26b8fd-78e7-b4ab-e811-f7432ac783c2",
+   "type": "page"
+  },
+  {
+   "id": "27fc675b-bf4f-3e91-f583-e289e565a8b8",
+   "title": "Changing Editor",
+   "pageId": "437c2e6a-2e75-2609-182a-2200be4de5f7",
+   "type": "page"
+  },
+  {
+   "id": "5c668f4a-140f-00b8-ba41-1d8b6ff0220f",
+   "title": "Setup",
+   "pageId": "28061771-ed71-5b98-2a9b-c83683a5e3a0",
+   "type": "page"
+  }
+ ]
+}

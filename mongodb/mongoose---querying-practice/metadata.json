@@ -1,0 +1,70 @@
+{
+ "sections": [
+  {
+   "id": "7810b940-94b3-651d-de58-8263ec05c779",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-7810.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "476bda87-d9af-b876-e5b2-76c8cba4bf48",
+   "title": "Setup",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Setup-476b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "bdc6c3e7-d23d-cb7a-707c-5c0676948d3c",
+   "title": "Query Time",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Query-Time-bdc6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3392504a-83c4-7ccf-642e-5363da5e188e",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-3392.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}
