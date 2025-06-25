@@ -1,0 +1,17 @@
+{
+ "name": "Splice Challenge",
+ "children": [
+  {
+   "title": "The Challenge",
+   "id": "d8203742-eb19-8c02-4c2e-25a57b515ccc",
+   "pageId": "d8203742-eb19-8c02-4c2e-25a57b515ccc",
+   "type": "page"
+  },
+  {
+   "id": "1a87aed6-f6fb-eec5-f550-54cd4923a2f5",
+   "title": "Submit Your Answer",
+   "pageId": "a0b799ce-da7d-ee5f-15e2-1e36d02130f3",
+   "type": "page"
+  }
+ ]
+}
