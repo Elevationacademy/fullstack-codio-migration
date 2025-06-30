@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "25bab592-2f16-93b1-01c5-a7a55e7e6326",
+				"answer": "You never have to worry about any of the basic CSS stuff again",
+				"correct": false
+			},
+			{
+				"_id": "f0927bcb-782e-3e77-035c-0561e8f21721",
+				"answer": "Specificity doesn't matter anymore (id versus class, for example)",
+				"correct": false
+			},
+			{
+				"_id": "8171fe03-c0f1-b326-b13a-d504b03ce216",
+				"answer": "Both a and b",
+				"correct": false
+			},
+			{
+				"_id": "28e8679a-3dad-beac-2845-fb3206d90d18",
+				"answer": "None of the above",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "When you use CSS Grid:",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "3.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-1801274994",
+	"type": "multiple-choice"
+}

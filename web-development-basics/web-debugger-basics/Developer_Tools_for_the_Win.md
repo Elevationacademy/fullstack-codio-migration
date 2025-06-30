@@ -1,0 +1,1 @@
+You will use some form of Developer Tools every day as a JavaScript engineer. Refer back to this lesson until you become comfortable with using DevTools. As we said, as your JavaScript code grows and becomes more complex, DevTools will be your best friend.

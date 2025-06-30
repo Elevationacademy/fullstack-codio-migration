@@ -1,0 +1,155 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2148711026",
+  "source": {
+   "name": "1.",
+   "showName": true,
+   "instructions": "The difference between margin and padding is that",
+   "multipleResponse": false,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "a2e46a90-0b57-9609-bd5a-3833cef7396d",
+     "correct": false,
+     "answer": "Margin pushes the element from within, padding from outside"
+    },
+    {
+     "_id": "c1b59bae-2d5b-f243-b6ff-b744ad40646a",
+     "correct": false,
+     "answer": "They are basically the same"
+    },
+    {
+     "_id": "ba884a30-655c-8696-0551-a9b274b714aa",
+     "correct": false,
+     "answer": "Margin makes the element inline, padding doesn't"
+    },
+    {
+     "_id": "02d270d5-e352-3cce-bc87-c70d51fc4ed6",
+     "correct": true,
+     "answer": "Margin pushes the element from outside, padding from within"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2107013665",
+  "source": {
+   "name": "2.",
+   "showName": true,
+   "instructions": "Absolute positioning",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "c40e1f2d-ceb2-dd92-3583-da5ce628b6f0",
+     "correct": false,
+     "answer": "Requires a child-parent relationship"
+    },
+    {
+     "_id": "f4b8660f-ffd0-9191-1ba0-eeb2623f09fd",
+     "correct": false,
+     "answer": "Allows us to use the top, left, right, and bottom properties"
+    },
+    {
+     "_id": "1f4c7a9d-45a0-a4c3-9348-5b53255af706",
+     "correct": false,
+     "answer": "Takes elements out of the normal flow of elements on the page"
+    },
+    {
+     "_id": "6f29936b-cb3e-e8d3-4f3d-e3f2229f483e",
+     "correct": true,
+     "answer": "All of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1311912379",
+  "source": {
+   "name": "3.",
+   "showName": true,
+   "instructions": "The Box Model shows us",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "28ab91eb-bc10-a32e-0f88-71287f00fbfb",
+     "correct": true,
+     "answer": "Where, ultimately, the browser positions our elements and how"
+    },
+    {
+     "_id": "865e541c-a68c-88d9-b655-4a0af3d40144",
+     "correct": false,
+     "answer": "Where, initially, the browser positions our elements (before our styling is applied)"
+    },
+    {
+     "_id": "11d5f217-0c13-4cbe-d587-eabaaeb6b96a",
+     "correct": false,
+     "answer": "Where, ultimately, the browser positions parent elements, but not necessarily their children"
+    },
+    {
+     "_id": "f7926a75-5f24-c014-7705-009929328ee2",
+     "correct": false,
+     "answer": "Where, ultimately, the browser positions children elements, but not necessarily their parents"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

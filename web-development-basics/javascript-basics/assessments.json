@@ -1,0 +1,551 @@
+[
+ {
+  "type": "code-output-compare",
+  "taskId": "code-output-compare-2816334260",
+  "source": {
+   "name": "Exercise 1",
+   "showName": true,
+   "instructions": "Write your code in the `exercise1.js` file ",
+   "command": "node exercise1.js",
+   "preExecuteCommand": "",
+   "guidance": "",
+   "points": 20,
+   "oneTimeTest": false,
+   "options": {
+    "ignoreCase": true,
+    "ignoreWhitespaces": true,
+    "ignoreNewline": true,
+    "matchSubstring": false,
+    "timeout": 30
+   },
+   "showExpectedAnswer": true,
+   "arePartialPointsAllowed": false,
+   "sequence": [
+    {
+     "arguments": "",
+     "input": "",
+     "output": "14",
+     "showFeedback": false,
+     "feedback": ""
+    }
+   ],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Standard Code Test"
+     }
+    ],
+    "files": [
+     "test.js"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "test.js"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3042110601",
+  "source": {
+   "name": "1.",
+   "showName": true,
+   "instructions": "You can store the following data-types in an array:",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "a37d1287-b3ee-7c87-bf07-da4ad04fd61b",
+     "correct": false,
+     "answer": "Strings, numbers, and booleans"
+    },
+    {
+     "_id": "785cbe20-1d10-cabb-3e44-6cd950261fb0",
+     "correct": false,
+     "answer": "\nStrings, numbers, booleans, and other arrays"
+    },
+    {
+     "_id": "fd53c822-9d0e-8ccd-8790-ef782a62c5af",
+     "correct": false,
+     "answer": "Strings, numbers, booleans, and other arrays (but only one level deep)"
+    },
+    {
+     "_id": "6b64898f-bcea-c762-1197-ff91aa3248be",
+     "correct": true,
+     "answer": "Anything"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [
+     "exercise1.js"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "exercise1.js"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-76595627",
+  "source": {
+   "name": "2.",
+   "showName": true,
+   "instructions": "Given the following code:\n\n```let x = ages[3] + 20``` , assuming the array ages looks like this: ```[0, 17, 2, 4, 31, 3]```, what will ```x``` be?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "6fa7affb-b558-5a52-7e74-338093da44b6",
+     "correct": false,
+     "answer": "23"
+    },
+    {
+     "_id": "071d1b19-f4e4-1e02-04c4-e467df636c45",
+     "correct": false,
+     "answer": "22"
+    },
+    {
+     "_id": "8b6b3099-56e2-2626-7756-7d01d02d4f6b",
+     "correct": false,
+     "answer": "51"
+    },
+    {
+     "_id": "5ad85088-d895-926c-b9c0-3c055e3040ad",
+     "correct": true,
+     "answer": "24"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [
+     "exercise1.js"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "exercise1.js"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1374914704",
+  "source": {
+   "name": "3.",
+   "showName": true,
+   "instructions": "How does splice work?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "d4a4b261-349c-c20d-d068-015f53c7b544",
+     "correct": false,
+     "answer": "splice(i) removes the item at index i"
+    },
+    {
+     "_id": "96bf5097-f8a4-273e-4c89-e1ee93702304",
+     "correct": false,
+     "answer": "splice(i, n) removes all the items starting at index i, and ending at index n"
+    },
+    {
+     "_id": "4dee5417-8a59-a0df-6ded-04c5511facdc",
+     "correct": false,
+     "answer": "splice(i) removes all the items until index i"
+    },
+    {
+     "_id": "f9d242f2-f23b-3d70-171d-f57dd1ef1aba",
+     "correct": true,
+     "answer": "splice(i, n) removes all the items starting at index i, and all the n items after"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [
+     "exercise1.js"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "exercise1.js"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1554811587",
+  "source": {
+   "name": "4.",
+   "showName": true,
+   "instructions": "Given the following, what will change after we do ```x.push( {name: “ant”, color: “green”} )``` ?\n```js\nlet x = [ \n            {name: “ant”, \n            color: “brown”}, \n            {name: “flower”, \n            color: “green”}\n        ]\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "535108fb-c97c-e153-8e73-3586b8f9a517",
+     "correct": false,
+     "answer": "Now the value of ```x[0].color``` is “green”"
+    },
+    {
+     "_id": "d928dd00-0c8e-5e0a-2dbb-285a8b23fbf9",
+     "correct": false,
+     "answer": "Now the value of ```x[1].name``` is “ant”"
+    },
+    {
+     "_id": "18dcf9cb-3093-c622-2f95-f187585e4baf",
+     "correct": true,
+     "answer": "Now the value of ```x[2].name``` is “ant”"
+    },
+    {
+     "_id": "ee33641f-73fa-51b8-4ff7-b8ba9505b489",
+     "correct": false,
+     "answer": "None of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [
+     "exercise1.js"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "exercise1.js"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2626480506",
+  "source": {
+   "name": "5.",
+   "showName": true,
+   "instructions": "When accessing object properties, we should use bracket notation",
+   "multipleResponse": true,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "1d266fd1-3b8e-0dbd-879b-d5da3a025974",
+     "correct": false,
+     "answer": "Always"
+    },
+    {
+     "_id": "975544f9-42a9-059d-8f39-99456d73c132",
+     "correct": false,
+     "answer": "As little as possible"
+    },
+    {
+     "_id": "0d8ae585-268d-2fc5-57e1-8303f83d4b76",
+     "correct": true,
+     "answer": "When the key name is a variable (dynamic)"
+    },
+    {
+     "_id": "85a35a4d-5cc4-7e4f-d69f-1dd352864916",
+     "correct": true,
+     "answer": "When the key has non-alphanumeric characters"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [
+     "exercise1.js"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "exercise1.js"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2344345221",
+  "source": {
+   "name": "6.",
+   "showName": true,
+   "instructions": "What is one of the ways to add the key color and value blue to the following object?\n```\nlet car = {wheels: 4} \n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "23f9d3f4-c1e9-1877-2c25-d57b56e9b2fd",
+     "correct": false,
+     "answer": "```car.push(‘color’, ‘blue’)```"
+    },
+    {
+     "_id": "e719db6c-335b-7ba6-0537-5290bf3f17ae",
+     "correct": false,
+     "answer": "```car.push(color, ‘blue’)```"
+    },
+    {
+     "_id": "a4a33922-09d7-7264-4619-7cc75d67a51f",
+     "correct": false,
+     "answer": "```car[color] = blue```"
+    },
+    {
+     "_id": "af91308b-2832-fe66-6e60-fc038b991cdc",
+     "correct": true,
+     "answer": "```car[‘color’] = ‘blue’```"
+    },
+    {
+     "_id": "a237843c-5621-5353-dbcb-c8242a523b11",
+     "correct": false,
+     "answer": "```None of the above```"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [
+     "exercise1.js"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "exercise1.js"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3751035817",
+  "source": {
+   "name": "7.",
+   "showName": true,
+   "instructions": "What is the value of x in this expression:\n```\nlet x = [ {human: {name: 'Daena', age: 31} } ][0].age\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "034e1508-3439-3cee-fa6f-91c51e83b6cb",
+     "correct": false,
+     "answer": "31"
+    },
+    {
+     "_id": "113a7ef1-0ea0-7d24-8924-6c71204ea5cd",
+     "correct": false,
+     "answer": "Throws an error"
+    },
+    {
+     "_id": "430fa3f6-61d3-f2ad-ebad-b9d05ee5b6f5",
+     "correct": true,
+     "answer": "undefined"
+    },
+    {
+     "_id": "eb053920-2688-9576-6f12-87fb43bf65f9",
+     "correct": false,
+     "answer": "None of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [
+     "exercise1.js"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "exercise1.js"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1786770401",
+  "source": {
+   "name": "8.",
+   "showName": true,
+   "instructions": "The difference between ‘for in’ loops and ‘for of’ loops is that",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "ab281287-5238-970e-5b9c-7f765cfdd775",
+     "correct": false,
+     "answer": "The in loop iterates over the values of the array, and the of over the indexes"
+    },
+    {
+     "_id": "59047b4d-a4ab-7b15-de1f-24f0c81008e1",
+     "correct": false,
+     "answer": "The in loop doesn’t need an array, the of loop does"
+    },
+    {
+     "_id": "64e6b88e-6c80-4574-d142-de0e9208e511",
+     "correct": true,
+     "answer": "The in loop iterates over the indexes of the array, and the of over the values"
+    },
+    {
+     "_id": "40b0d645-f93f-f54a-2ed4-4e1163fee5d8",
+     "correct": false,
+     "answer": "The in loops needs an array, the of doesn’t"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [
+     "exercise1.js"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "exercise1.js"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

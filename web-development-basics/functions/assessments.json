@@ -1,0 +1,500 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1927009163",
+  "source": {
+   "name": "1.",
+   "showName": true,
+   "instructions": "The difference between a function expression and a function declaration is that",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "8b2f6620-804f-9501-9a69-295afd0d28dd",
+     "correct": false,
+     "answer": "Function expressions can be invoked from anywhere"
+    },
+    {
+     "_id": "9374e32b-3e6d-61cc-9a0a-7de63dd7b443",
+     "correct": true,
+     "answer": "Function declarations can be invoked from anywhere"
+    },
+    {
+     "_id": "d90b1f5c-126e-009b-0e78-f7322b2be89f",
+     "correct": false,
+     "answer": "They are the same, just different syntax"
+    },
+    {
+     "_id": "fa621082-11c6-a36c-91e1-306ea6d51b8a",
+     "correct": false,
+     "answer": "None of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4109364012",
+  "source": {
+   "name": "2.",
+   "showName": true,
+   "instructions": "The difference between a method and a function is that",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "7025abb9-0403-ba46-e813-2ae67fe84101",
+     "correct": true,
+     "answer": "A method is a function that belongs to an object"
+    },
+    {
+     "_id": "bb53c41c-590e-44e4-2b91-847f1abeaba9",
+     "correct": false,
+     "answer": "A function is a method that belongs to an object"
+    },
+    {
+     "_id": "791ace93-2994-4adb-792d-0c773ffc8966",
+     "correct": false,
+     "answer": "A method can’t have parameters"
+    },
+    {
+     "_id": "bfab064c-0b25-7a9d-66a9-29d62622fb86",
+     "correct": false,
+     "answer": "A function can’t have parameters"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-588717783",
+  "source": {
+   "name": "3.",
+   "showName": true,
+   "instructions": "The return statement in a function",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "903677db-55cd-d61d-da6b-191ee56a8c54",
+     "correct": false,
+     "answer": "Allows the function to output some data"
+    },
+    {
+     "_id": "dfe1deea-9229-74a8-18d1-0aa0d07e45d4",
+     "correct": false,
+     "answer": "Ends a function immediately, even if there is more code after it"
+    },
+    {
+     "_id": "e5cdb0fe-c5e1-de04-c23d-fd2cac22d8de",
+     "correct": true,
+     "answer": "a and b"
+    },
+    {
+     "_id": "2cb7303e-ea80-fa95-a556-c58cf7ff416c",
+     "correct": false,
+     "answer": "None of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-501964978",
+  "source": {
+   "name": "4.",
+   "showName": true,
+   "instructions": "Which one of these is false regarding function parameters?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "2f08a4d1-d069-88c6-f86b-fa2ab08802da",
+     "correct": false,
+     "answer": "Parameters effectively become declared variables inside the function"
+    },
+    {
+     "_id": "c04dfeb1-851d-0866-accb-ab59e316ffa5",
+     "correct": true,
+     "answer": "Parameters need to have their values initialized inside the function"
+    },
+    {
+     "_id": "3709038a-7c8e-769e-4baf-2897f6857733",
+     "correct": false,
+     "answer": "Parameters have no value unless the function is called with arguments"
+    },
+    {
+     "_id": "bca7be83-57c8-04d2-f660-d68f401e99d8",
+     "correct": false,
+     "answer": "The argument name and parameter name don’t have to match"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2753949003",
+  "source": {
+   "name": "Exercise 1",
+   "showName": false,
+   "instructions": "Write a function called `calcAge` in such a way that when the code below executes, `age` is 28.\nhint: use `return()`\n\n  \n```js\nconst age = calcAge(2017, 1989)\n```",
+   "command": "bash tests/exercise1-test.sh",
+   "arePartialPointsAllowed": false,
+   "timeoutSeconds": 40,
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "points": 1,
+   "oneTimeTest": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Advanced Code Test"
+     }
+    ],
+    "files": [
+     "exercises/exercise1.js"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "exercises/exercise1.js"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-974620506",
+  "source": {
+   "name": "Exercise 2",
+   "showName": false,
+   "instructions": "Write a similar function (`calcAge`) to the previous one\n so that it:\n\n  \n\n-   Calculates the 2 possible ages based on the years provided. For example, in 2018, someone born in 2015 could be 2 or 3 years old depending on the month.\n-   `return()` the string: \"You are either [lowerAge] or [higherAge]\" ",
+   "command": "bash tests/exercise2-test.sh",
+   "arePartialPointsAllowed": false,
+   "timeoutSeconds": 40,
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "points": 1,
+   "oneTimeTest": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Advanced Code Test"
+     }
+    ],
+    "files": [
+     "exercises/exercise2.js",
+     "exercises/exercise1.js"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "exercises/exercise2.js"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-987201598",
+  "source": {
+   "name": "Exercise 3",
+   "showName": false,
+   "instructions": "Write a function called `isEven` that accepts a number as a parameter and checks if the number is even or not. Return `true` if it is even or `false` if it is odd. Don't Google this one ;) Use modulo `%`",
+   "command": "bash tests/exercise3-test.sh",
+   "arePartialPointsAllowed": false,
+   "timeoutSeconds": 40,
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "points": 1,
+   "oneTimeTest": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Advanced Code Test"
+     }
+    ],
+    "files": [
+     "exercises/exercise3.js",
+     "exercises/exercise2.js"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "exercises/exercise3.js"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3471540449",
+  "source": {
+   "name": "Exercise 4",
+   "showName": false,
+   "instructions": "Write a function (`oddArr`) that takes in an array of numbers.\n\nThe function should loop through the numbers and (using the function from Exercise 3) return an array of (only) the odd numbers.",
+   "command": "bash tests/exercise4-test.sh",
+   "arePartialPointsAllowed": false,
+   "timeoutSeconds": 40,
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "points": 1,
+   "oneTimeTest": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Advanced Code Test"
+     }
+    ],
+    "files": [
+     "exercises/exercise4.js",
+     "exercises/exercise3.js"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "exercises/exercise4.js"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2587758881",
+  "source": {
+   "name": "Exercise 5",
+   "showName": false,
+   "instructions": "Write a function (named `checkExists`) that accepts two parameters: one being an array of integers, and the other being a number. The function should return `true` or `false` depending on whether the number exists in the array.\n\n  \n\n**Hint:** You should loop through the array, and for each item in the array, check if it equals the number that was passed.\n\n  \n\n`checkExists([1, 2, 3], 2)` - should return **true**\n\n`checkExists([1, 2, 3], 5)` - should return **false**",
+   "command": "bash tests/exercise5-test.sh",
+   "arePartialPointsAllowed": false,
+   "timeoutSeconds": 40,
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "points": 1,
+   "oneTimeTest": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Advanced Code Test"
+     }
+    ],
+    "files": [
+     "exercises/exercise5.js",
+     "exercises/exercise4.js"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "exercises/exercise5.js"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-230857390",
+  "source": {
+   "name": "Exercise 6",
+   "showName": false,
+   "instructions": "Create an object called `calculator`.\n\nIt should have two methods: `add` and `subtract`\n\nBoth methods take two parameters, and should return the sum/difference of both numbers.\n\n  \n\nUse this to test your code:\n\n  \n```js\nconst result1 = calculator.add(20, 1)\nconst result2 = calculator.subtract(30, 9)\n\nconsole.log(calculator.add(result1, result2)) //should print 42\n```\n",
+   "command": "bash tests/exercise6-test.sh",
+   "arePartialPointsAllowed": false,
+   "timeoutSeconds": 40,
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "points": 1,
+   "oneTimeTest": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Advanced Code Test"
+     }
+    ],
+    "files": [
+     "exercises/exercise5.js"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "exercises/exercise5.js"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1231950339",
+  "source": {
+   "name": "Exercise 7",
+   "showName": false,
+   "instructions": "Complete the given code in `exercise7.js` file in a way in which this line of code work as described -  \n\n```  \nturnToKing(\"martin luther\", 100) // should return \"His Royal Highness, MARTIN LUTHER has 1300 gold coins\"\n```\n  \nTo complete the above you will need to create both the `increaseByNameLength` and `makeRegal` functions.\n\n  \n\nYou should be able to write the body of both functions in one line; there's no trick here - it's just practice.\n",
+   "command": "bash tests/exercise7-test.sh",
+   "arePartialPointsAllowed": false,
+   "timeoutSeconds": 40,
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "points": 2,
+   "oneTimeTest": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Advanced Code Test"
+     }
+    ],
+    "files": [
+     "exercises/exercise7.js",
+     "exercises/exercise6.js"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "exercises/exercise7.js"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1550305205",
+  "source": {
+   "name": "Extension",
+   "showName": false,
+   "instructions": "Implement the array splice method\n\nYou can read about it here:\n\n[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)\n\nTry to be precise and thorough, read all the small details, and implement all functionalities.\n\nYou can use the following code to override the original splice method:\n\n  \n```js\nconst splice = function(){\n    // write your code here \n}\n```\n  \n\nRequirements:\n\n1. Define parameters for the functions\n\n2. Note that you need to pass the array as a parameter too!\n\n  \n\nMake sure the tests pass (you get the correct prints)!\n\n  \n\nTests:\n\n  \n```js\n// remove 1 element\nlet arr = [1,2,3]\nsplice(arr, 0,1); \nconsole.log(arr); //should be [2,3]\n\n// add 1 element\narr = [1,2,3]\nsplice(arr, 0,0,0); \nconsole.log(arr); //should be [0,1,2,3]\n\n// add 2 elements\narr = [1,2,3]\nsplice(arr,0,0,-1,0); \nconsole.log(arr); //should be [-1,0,1,2,3]\n\n// replace 1 element\narr = [1,2,3]\nsplice(arr,1,1,55); \nconsole.log(arr); //should be [1,55,3] \n\n// delete all elements from index to end\narr = [1,2,3,4,5]\nsplice(arr,1); \nconsole.log(arr); //should be [1] \n\n// returns array of deleted elements\narr = [1,2,3]\nlet deleted = splice(arr,1); \nconsole.log(deleted); //should be [2,3] \n\n// returns an array of the deleted element (1 element)\narr = [1,2,3]\ndeleted = splice(arr,1,1); \nconsole.log(deleted); //should be [2] \n\n// returns an empty array when no elements are deleted\narr = [1,2,3]\ndeleted = splice(arr,1,0,5); \nconsole.log(deleted); //should be [] \n```\n  \n\n  \n\nIf you want more challenge you can override the native splice function like this\n```js\n// overriding the native splice method\nArray.prototype.splice = function(){\n    // write your code here \n}\n```\n  \n\nand then run these tests:\n```js\n// remove 1 element\nlet arr = [1,2,3]\narr.splice(0,1); \nconsole.log(arr); //should be [2,3]\n\n// add 1 element\narr = [1,2,3]\narr.splice(0,0,0); \nconsole.log(arr); //should be [0,1,2,3]\n\n// replace 1 element\narr = [1,2,3]\narr.splice(1,1,55); \nconsole.log(arr); //should be [1,55,3] \n\n// delete all elements from index to end\narr = [1,2,3,4,5]\narr.splice(1); \nconsole.log(arr); //should be [1] \n\n// returns array of deleted elements\narr = [1,2,3]\nlet deleted = arr.splice(1); \nconsole.log(deleted); //should be [2,3] \n\n// returns an array of the deleted element (1 element)\narr = [1,2,3]\ndeleted = arr.splice(1,1); \nconsole.log(deleted); //should be [2] \n\n// returns an empty array when no elements are deleted\narr = [1,2,3]\ndeleted = arr.splice(1,0,5); \nconsole.log(deleted); //should be [] \n```\n  \n\nGood Luck!\n",
+   "command": "bash tests/extension-test.sh",
+   "arePartialPointsAllowed": false,
+   "timeoutSeconds": 40,
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "points": 4,
+   "oneTimeTest": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Advanced Code Test"
+     }
+    ],
+    "files": [
+     "extension.js",
+     "exercises/exercise7.js"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "extension.js"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]
