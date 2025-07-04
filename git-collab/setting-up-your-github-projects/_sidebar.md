@@ -1,3 +1,6 @@
+- [🏠 Full Course Overview](/README)
+
+
 - Setting Up Your Github Projects
   - [Intro](./Intro.md "Intro")
   - [Project Details](./Project-Details.md "Project Details")

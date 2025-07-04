@@ -1,3 +1,6 @@
+- [🏠 Full Course Overview](/README)
+
+
 - Scope
   - [Intro](./Intro.md "Scope")
   - [Global vs Local Scope](./Global_vs_Local_Scope.md)

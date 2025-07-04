@@ -1,3 +1,6 @@
+- [🏠 Full Course Overview](/README)
+
+
 - What Is Typescript 
   - [Intro](./Intro.md "Intro")
   - [Differences between JavaScript and TypeScript](./Differences-between-JavaScript-and-TypeScript.md "Differences between JavaScript and TypeScript")

@@ -1,3 +1,6 @@
+- [🏠 Full Course Overview](/README)
+
+
 - File Setup Basics
   - [Intro](./Intro.md "Intro")
   - [Step 1: Folder Structure](./Step-1--Folder-Structure.md "Step 1: Folder Structure")

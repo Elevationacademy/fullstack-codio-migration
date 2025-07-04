@@ -1,98 +1,53 @@
-- Ajax   Intro To Apis   Solutions
-  - [Solutions](./solutions/ajax---intro-to-apis---solutions/Solutions.md)
-- Algorithms  Js    Solutions
-  - [Solutions](./solutions/algorithms--js----solutions/Solutions.md)
-- Big O   Time Complexity  Js    Solutions
-  - [Solutions](./solutions/big-o---time-complexity--js----solutions/Solutions.md)
-- Callbacks   Arrow Functions   Solutions
-  - [Solutions](./solutions/callbacks---arrow-functions---solutions/Solutions.md)
-- Closures   Modules   Solutions
-  - [Solutions](./solutions/closures---modules---solutions/Solutions.md)
-- Css 3  Variables   Animations   Solutions
-  - [Solutions](./solutions/css-3--variables---animations---solutions/Solutions.md)
-- Css Basics   Solutions
-  - [Solutions](./solutions/css-basics---solutions/Solutions.md)
-- Css Grid   Solutions
-  - [Solutions](./solutions/css-grid---solutions/Solutions.md)
-- Data Flow   Solutions
-  - [Solutions](./solutions/data-flow---solutions/Solutions.md)
-- Data Structures   Solutions
-  - [Solutions](./solutions/data-structures---solutions/Solutions.md)
-- Dom Intro   Solutions
-  - [Solutions](./solutions/dom-intro---solutions/Solutions.md)
-- Dom Traversal With Jquery   Solutions
-  - [Solutions](./solutions/dom-traversal-with-jquery---solutions/Solutions.md)
-- Es6 Array Methods   Solutions
-  - [Solutions](./solutions/es6-array-methods---solutions/Solutions.md)
-- Express  Crud  Router    Middleware   Solutions
-  - [Solutions](./solutions/express--crud--router----middleware---solutions/Solutions.md)
-- Express Intro  Servers  Routes    Params   Solutions
-  - [Solutions](./solutions/express-intro--servers--routes----params---solutions/Solutions.md)
-- Functions   Solutions
-  - [Solutions](./solutions/functions---solutions/Solutions.md)
-- Html Basics   Solutions
-  - [Solutions](./solutions/html-basics---solutions/Solutions.md)
-- Intro To Json   Solutions
-  - [Solutions](./solutions/intro-to-json---solutions/Solutions.md)
-- Jquery   Solutions
-  - [Solutions](./solutions/jquery---solutions/Solutions.md)
-- Js This   Solutions
-  - [Solutions](./solutions/js-this---solutions/Solutions.md)
-- Local Storage   Solutions
-  - [Solutions](./solutions/local-storage---solutions/Solutions.md)
-- Matrices   Solutions
-  - [Solutions](./solutions/matrices---solutions/Solutions.md)
-- Mobx 1   Solutions
-  - [Solutions](./solutions/mobx-1---solutions/Solutions.md)
-- Mobx 2   Solutions
-  - [Solutions](./solutions/mobx-2---solutions/Solutions.md)
-- Mongo Db Intro   Solutions
-  - [Solutions](./solutions/mongo-db-intro---solutions/Solutions.md)
-- Mongoose Intro   Solutions
-  - [Solutions](./solutions/mongoose-intro---solutions/Solutions.md)
-- Mongoose Population   Solutions
-  - [Solutions](./solutions/mongoose-population---solutions/Solutions.md)
-- Node   Solutions
-  - [Solutions](./solutions/node---solutions/Solutions.md)
-- Npm   Node Package Manager   Solutions
-  - [Solutions](./solutions/npm---node-package-manager---solutions/Solutions.md)
-- Object Oriented Programming Intro  Oop    Solutions
-  - [Solution](./solutions/object-oriented-programming-intro--oop----solutions/Solution.md)
-- Oop Inheritance   Solutions
-  - [Solution](./solutions/oop-inheritance---solutions/Solution.md)
-- Promises   Solutions
-  - [Solutions](./solutions/promises---solutions/Solutions.md)
-- React Components   Solutions
-  - [Solutions](./solutions/react-components---solutions/Solutions.md)
-- React Events   Set State   Solutions
-  - [Solutions](./solutions/react-events---set-state---solutions/Solutions.md)
-- React Hooks   Solutions
-  - [Solutions](./solutions/react-hooks---solutions/Solutions.md)
-- React Input   Solutions
-  - [Solutions](./solutions/react-input---solutions/Solutions.md)
-- React Intro   Solutions
-  - [Solutions](./solutions/react-intro---solutions/Solutions.md)
-- React Props  State   Data Flow   Solutions
-  - [Solutions](./solutions/react-props--state---data-flow---solutions/Solutions.md)
-- React Routes   Solutions
-  - [Solutions](./solutions/react-routes---solutions/Solutions.md)
-- Recursion   Solutions
-  - [Solutions](./solutions/recursion---solutions/Solutions.md)
-- Scope   Solutions
-  - [Solutions](./solutions/scope---solutions/Solutions.md)
-- Scraping R D   Solutions
-  - [Solution](./solutions/scraping-r-d---solutions/Solution.md)
-- Sql In Node  Sequelize   Solutions
-  - [Solutions](./solutions/sql-in-node--sequelize---solutions/Solutions.md)
-- Sql Intro  Js    Solutions
-  - [Solutions](./solutions/sql-intro--js----solutions/Solutions.md)
-- Sql Join   Solutions
-  - [Solutions](./solutions/sql-join---solutions/Solutions.md)
-- Stacks   Queues   Solutions
-  - [Solutions](./solutions/stacks---queues---solutions/Solutions.md)
-- Trees And Binary Search Trees   Solutions
-  - [Solutions](./solutions/trees-and-binary-search-trees---solutions/Solutions.md)
-- Typescript R D   Solutions
-  - [Solution](./solutions/typescript-r-d---solutions/Solution.md)
-- Webpack R D   Solutions
-  - [Solution](./solutions/webpack-r-d---solutions/Solution.md)
+- [🏠 Full Course Overview](/README)
+
+
+- [Solutions Home](#/solutions/)
+- [Ajax---intro-to-apis---solutions](#/solutions/ajax---intro-to-apis---solutions/)
+- [Algorithms--js----solutions](#/solutions/algorithms--js----solutions/)
+- [Big-o---time-complexity--js----solutions](#/solutions/big-o---time-complexity--js----solutions/)
+- [Callbacks---arrow-functions---solutions](#/solutions/callbacks---arrow-functions---solutions/)
+- [Closures---modules---solutions](#/solutions/closures---modules---solutions/)
+- [Css-3--variables---animations---solutions](#/solutions/css-3--variables---animations---solutions/)
+- [Css-basics---solutions](#/solutions/css-basics---solutions/)
+- [Css-grid---solutions](#/solutions/css-grid---solutions/)
+- [Data-flow---solutions](#/solutions/data-flow---solutions/)
+- [Data-structures---solutions](#/solutions/data-structures---solutions/)
+- [Dom-intro---solutions](#/solutions/dom-intro---solutions/)
+- [Dom-traversal-with-jquery---solutions](#/solutions/dom-traversal-with-jquery---solutions/)
+- [Es6-array-methods---solutions](#/solutions/es6-array-methods---solutions/)
+- [Express--crud--router----middleware---solutions](#/solutions/express--crud--router----middleware---solutions/)
+- [Express-intro--servers--routes----params---solutions](#/solutions/express-intro--servers--routes----params---solutions/)
+- [Functions---solutions](#/solutions/functions---solutions/)
+- [Html-basics---solutions](#/solutions/html-basics---solutions/)
+- [Intro-to-json---solutions](#/solutions/intro-to-json---solutions/)
+- [Jquery---solutions](#/solutions/jquery---solutions/)
+- [Js-this---solutions](#/solutions/js-this---solutions/)
+- [Local-storage---solutions](#/solutions/local-storage---solutions/)
+- [Matrices---solutions](#/solutions/matrices---solutions/)
+- [Mobx-1---solutions](#/solutions/mobx-1---solutions/)
+- [Mobx-2---solutions](#/solutions/mobx-2---solutions/)
+- [Mongo-db-intro---solutions](#/solutions/mongo-db-intro---solutions/)
+- [Mongoose-intro---solutions](#/solutions/mongoose-intro---solutions/)
+- [Mongoose-population---solutions](#/solutions/mongoose-population---solutions/)
+- [Node---solutions](#/solutions/node---solutions/)
+- [Npm---node-package-manager---solutions](#/solutions/npm---node-package-manager---solutions/)
+- [Object-oriented-programming-intro--oop----solutions](#/solutions/object-oriented-programming-intro--oop----solutions/)
+- [Oop-inheritance---solutions](#/solutions/oop-inheritance---solutions/)
+- [Promises---solutions](#/solutions/promises---solutions/)
+- [React-components---solutions](#/solutions/react-components---solutions/)
+- [React-events---set-state---solutions](#/solutions/react-events---set-state---solutions/)
+- [React-hooks---solutions](#/solutions/react-hooks---solutions/)
+- [React-input---solutions](#/solutions/react-input---solutions/)
+- [React-intro---solutions](#/solutions/react-intro---solutions/)
+- [React-props--state---data-flow---solutions](#/solutions/react-props--state---data-flow---solutions/)
+- [React-routes---solutions](#/solutions/react-routes---solutions/)
+- [Recursion---solutions](#/solutions/recursion---solutions/)
+- [Scope---solutions](#/solutions/scope---solutions/)
+- [Scraping-r-d---solutions](#/solutions/scraping-r-d---solutions/)
+- [Sql-in-node--sequelize---solutions](#/solutions/sql-in-node--sequelize---solutions/)
+- [Sql-intro--js----solutions](#/solutions/sql-intro--js----solutions/)
+- [Sql-join---solutions](#/solutions/sql-join---solutions/)
+- [Stacks---queues---solutions](#/solutions/stacks---queues---solutions/)
+- [Trees-and-binary-search-trees---solutions](#/solutions/trees-and-binary-search-trees---solutions/)
+- [Typescript-r-d---solutions](#/solutions/typescript-r-d---solutions/)
+- [Webpack-r-d---solutions](#/solutions/webpack-r-d---solutions/)

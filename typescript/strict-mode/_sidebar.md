@@ -1,3 +1,6 @@
+- [🏠 Full Course Overview](/README)
+
+
 - Strict Mode
   - [Intro](./Intro.md "Intro")
   - [JavaScript’s ‘use strict’ directive](./JavaScript-s--use-strict--directive.md "JavaScript’s ‘use strict’ directive")

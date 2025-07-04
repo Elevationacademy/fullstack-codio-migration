@@ -1,7 +1,7 @@
-- R D Sim 1  Todo List
-  - [Intro](./r-ds/r-d-sim-1--todo-list/Intro.md)
-- R D Sim 2  Python
-  - [Intro](./r-ds/r-d-sim-2--python/Intro.md)
-- Typescript R D
-  - [Intro](./r-ds/typescript-r-d/Intro.md)
-  - [To-Do](./r-ds/typescript-r-d/To-Do.md)
+- [🏠 Full Course Overview](/README)
+
+
+- [R-ds Home](#/r-ds/)
+- [R-d-sim-1--todo-list](#/r-ds/r-d-sim-1--todo-list/)
+- [R-d-sim-2--python](#/r-ds/r-d-sim-2--python/)
+- [Typescript-r-d](#/r-ds/typescript-r-d/)

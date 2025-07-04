@@ -1,3 +1,6 @@
+- [🏠 Full Course Overview](/README)
+
+
 - Es6 Array Methods
   - [Array Methods Video](./Array-Methods-Video.md "Array Methods Video")
   - [Intro](./Intro.md "Intro")

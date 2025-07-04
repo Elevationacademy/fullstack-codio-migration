@@ -1,5 +1,5 @@
-- Deploying React To Heroku
-  - [Intro](./react-advanced/deploying-react-to-heroku/Intro.md)
-  - [Clear-DB](./react-advanced/deploying-react-to-heroku/Clear-DB.md)
-  - [Steps](./react-advanced/deploying-react-to-heroku/Steps.md)
-  - [Troubleshooting---Done](./react-advanced/deploying-react-to-heroku/Troubleshooting---Done.md)
+- [🏠 Full Course Overview](/README)
+
+
+- [React-advanced Home](#/react-advanced/)
+- [Deploying-react-to-heroku](#/react-advanced/deploying-react-to-heroku/)

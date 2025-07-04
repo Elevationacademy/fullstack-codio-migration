@@ -1,3 +1,6 @@
+- [🏠 Full Course Overview](/README)
+
+
 - Mysql Setup
   - [Intro](./Intro.md "Intro")
   - [Download, Install, and Run MySQL](./Download--Install--and-Run-MySQL.md "Download, Install, and Run MySQL")

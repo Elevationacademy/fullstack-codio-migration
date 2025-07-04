@@ -1,3 +1,6 @@
+- [🏠 Full Course Overview](/README)
+
+
 - Setting Up A Typescript Environment
   - [Intro](./Intro.md "Intro")
   - [Installing TypeScript](./Installing-TypeScript.md "Installing TypeScript")

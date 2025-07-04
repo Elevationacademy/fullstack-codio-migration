@@ -1,15 +1,7 @@
-- Catchphrase   Socket Project  Optional 
-  - [Intro](./react-basics/catchphrase---socket-project--optional-/Intro.md)
-  - [Socket-IO](./react-basics/catchphrase---socket-project--optional-/Socket-IO.md)
-  - [Game-Structure](./react-basics/catchphrase---socket-project--optional-/Game-Structure.md)
-- Pomodoro Project  Optional 
-  - [Intro](./react-basics/pomodoro-project--optional-/Intro.md)
-  - [Pomodoro](./react-basics/pomodoro-project--optional-/Pomodoro.md)
-  - [Setup](./react-basics/pomodoro-project--optional-/Setup.md)
-  - [Components](./react-basics/pomodoro-project--optional-/Components.md)
-  - [To-Do](./react-basics/pomodoro-project--optional-/To-Do.md)
-  - [Styling](./react-basics/pomodoro-project--optional-/Styling.md)
-  - [Extension](./react-basics/pomodoro-project--optional-/Extension.md)
-- Webpack Ec
-  - [Intro](./react-basics/webpack-ec/Intro.md)
-  - [To-DO](./react-basics/webpack-ec/To-DO.md)
+- [🏠 Full Course Overview](/README)
+
+
+- [React-basics Home](#/react-basics/)
+- [Catchphrase---socket-project--optional-](#/react-basics/catchphrase---socket-project--optional-/)
+- [Pomodoro-project--optional-](#/react-basics/pomodoro-project--optional-/)
+- [Webpack-ec](#/react-basics/webpack-ec/)

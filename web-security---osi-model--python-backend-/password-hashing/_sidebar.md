@@ -1,3 +1,6 @@
+- [🏠 Full Course Overview](/README)
+
+
 - Password Hashing
   - [Intro](./Intro.md "Intro")
   - [Hashing passwords](./Hashing-passwords.md "Hashing passwords")

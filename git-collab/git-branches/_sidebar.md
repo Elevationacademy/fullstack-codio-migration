@@ -1,3 +1,6 @@
+- [🏠 Full Course Overview](/README)
+
+
 - Git Branches
   - [Local Branches - Overview](./Local-Branches---Overview.md "Local Branches - Overview")
   - [Intro](./Intro.md "Intro")

@@ -1,8 +1,7 @@
-- Iterator Challenge
-  - [The-Challenge](./challenges/iterator-challenge/The-Challenge.md)
-  - [Submit-Your-Answer](./challenges/iterator-challenge/Submit-Your-Answer.md)
-- Iterator Solution
-  - [Solutions](./challenges/iterator-solution/Solutions.md)
-- Splice Challenge
-  - [The-Challenge](./challenges/splice-challenge/The-Challenge.md)
-  - [Submit-Your-Answer](./challenges/splice-challenge/Submit-Your-Answer.md)
+- [🏠 Full Course Overview](/README)
+
+
+- [Challenges Home](#/challenges/)
+- [Iterator-challenge](#/challenges/iterator-challenge/)
+- [Iterator-solution](#/challenges/iterator-solution/)
+- [Splice-challenge](#/challenges/splice-challenge/)
