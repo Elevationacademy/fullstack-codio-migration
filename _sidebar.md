@@ -7,7 +7,6 @@
 - [unit-testings](./unit-testings/README.md)
 - [extended-content](./extended-content/README.md)
 - [asynchronous-codes](./asynchronous-codes/README.md)
-- [career-development](./career-development/README.md)
 - [design](./design/README.md)
 - [git-collab](./git-collab/README.md)
 - [mid-exam](./mid-exam/README.md)
