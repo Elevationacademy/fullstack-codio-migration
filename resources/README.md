@@ -1,3 +1,1 @@
 # resources
-
-Welcome to resources!

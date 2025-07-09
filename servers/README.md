@@ -1,3 +1,1 @@
 # servers
-
-Welcome to servers!

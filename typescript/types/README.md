@@ -1,3 +1,1 @@
 # types
-
-Welcome to types!

@@ -1,3 +1,1 @@
 # rgba
-
-Welcome to rgba!

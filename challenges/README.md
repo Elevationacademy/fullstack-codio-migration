@@ -1,3 +1,1 @@
 # challenges
-
-Welcome to challenges!

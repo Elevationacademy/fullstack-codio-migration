@@ -1,3 +1,1 @@
 # handlebars
-
-Welcome to handlebars!

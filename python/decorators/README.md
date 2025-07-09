@@ -1,3 +1,1 @@
 # decorators
-
-Welcome to decorators!

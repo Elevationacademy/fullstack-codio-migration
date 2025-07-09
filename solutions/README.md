@@ -1,3 +1,1 @@
 # solutions
-
-Welcome to solutions!

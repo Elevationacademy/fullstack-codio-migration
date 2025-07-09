@@ -1,3 +1,1 @@
 # node
-
-Welcome to node!

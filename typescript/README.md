@@ -1,3 +1,1 @@
 # typescript
-
-Welcome to typescript!

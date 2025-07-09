@@ -1,3 +1,1 @@
 # jquery
-
-Welcome to jquery!

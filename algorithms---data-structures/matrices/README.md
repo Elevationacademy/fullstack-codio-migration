@@ -1,3 +1,1 @@
 # matrices
-
-Welcome to matrices!

@@ -1,3 +1,1 @@
 # git
-
-Welcome to git!

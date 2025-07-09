@@ -1,3 +1,1 @@
 # generics
-
-Welcome to generics!

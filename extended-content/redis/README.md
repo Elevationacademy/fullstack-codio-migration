@@ -1,3 +1,1 @@
 # redis
-
-Welcome to redis!

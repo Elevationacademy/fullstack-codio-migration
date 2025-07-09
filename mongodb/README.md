@@ -1,3 +1,1 @@
 # mongodb
-
-Welcome to mongodb!

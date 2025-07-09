@@ -1,3 +1,1 @@
 # linkedin
-
-Welcome to linkedin!
