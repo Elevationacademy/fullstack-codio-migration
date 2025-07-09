@@ -1,7 +1,0 @@
-- [🏠 Course Home](../README.md)
-- [career-development](./README.md)
-  - [cv-workshop](./cv-workshop/README.md)
-  - [how-to-pass-an-interview](./how-to-pass-an-interview/README.md)
-  - [linkedin](./linkedin/README.md)
-  - [self-intro---submission-link](./self-intro---submission-link/README.md)
-  - [story-telling](./story-telling/README.md)
