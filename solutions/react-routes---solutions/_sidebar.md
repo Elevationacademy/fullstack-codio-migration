@@ -1,2 +1,3 @@
+- [⬅️ Back to solutions](../README.md)
 - React Routes   Solutions
   - [Solutions](./Solutions.md "Solutions")

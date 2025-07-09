@@ -1,2 +1,3 @@
+- [⬅️ Back to solutions](../README.md)
 - Oop Inheritance   Solutions
   - [Solution](./Solution.md "Solution")

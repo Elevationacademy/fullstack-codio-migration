@@ -1,3 +1,4 @@
+- [⬅️ Back to typescript](../README.md)
 - Types
   - [Intro](./Intro.md "Intro")
   - [Types in TypeScript](./Types-in-TypeScript.md "Types in TypeScript")

@@ -1,0 +1,4 @@
+- [🏠 Course Home](../README.md)
+- [mid-exam](./README.md)
+  - [mid-exam--retake-](./mid-exam--retake-/README.md)
+  - [mid-exam-n](./mid-exam-n/README.md)

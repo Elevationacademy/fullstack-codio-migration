@@ -1,3 +1,4 @@
+- [⬅️ Back to challenges](../README.md)
 - Splice Challenge
   - [The Challenge](./The-Challenge.md "The Challenge")
   - [Submit Your Answer](./Submit-Your-Answer.md "Submit Your Answer")

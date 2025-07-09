@@ -1,2 +1,3 @@
+- [⬅️ Back to solutions](../README.md)
 - Sql Intro  Js    Solutions
   - [Solutions](./Solutions.md "Solutions")

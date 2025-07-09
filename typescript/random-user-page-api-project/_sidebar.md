@@ -1,3 +1,4 @@
+- [⬅️ Back to typescript](../README.md)
 - Random User Page Api Project
   - [Intro](./Intro.md "Intro")
   - [API's](./API-s.md "API's")

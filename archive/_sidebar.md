@@ -1,2 +1,3 @@
-- Github Code Review Setup
-  - [Instructions](./archive/github-code-review-setup/Instructions.md)
+- [🏠 Course Home](../README.md)
+- [archive](./README.md)
+  - [github-code-review-setup](./github-code-review-setup/README.md)

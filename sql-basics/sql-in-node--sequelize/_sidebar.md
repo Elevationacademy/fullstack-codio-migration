@@ -1,3 +1,4 @@
+- [⬅️ Back to sql-basics](../README.md)
 - Sql In Node  Sequelize
   - [Intro & Setup](./Intro---Setup.md "Intro & Setup")
   - [Query](./Query.md "Query")

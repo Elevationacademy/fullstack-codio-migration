@@ -1,2 +1,3 @@
+- [⬅️ Back to solutions](../README.md)
 - Callbacks   Arrow Functions   Solutions
   - [Solutions](./Solutions.md "Solutions")

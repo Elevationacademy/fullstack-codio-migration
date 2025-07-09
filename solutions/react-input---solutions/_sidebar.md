@@ -1,2 +1,3 @@
+- [⬅️ Back to solutions](../README.md)
 - React Input   Solutions
   - [Solutions](./Solutions.md "Solutions")

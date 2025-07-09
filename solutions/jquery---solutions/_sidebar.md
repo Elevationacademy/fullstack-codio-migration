@@ -1,2 +1,3 @@
+- [⬅️ Back to solutions](../README.md)
 - Jquery   Solutions
   - [Solutions](./Solutions.md "Solutions")

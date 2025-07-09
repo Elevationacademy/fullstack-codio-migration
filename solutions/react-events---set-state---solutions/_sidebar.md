@@ -1,2 +1,3 @@
+- [⬅️ Back to solutions](../README.md)
 - React Events   Set State   Solutions
   - [Solutions](./Solutions.md "Solutions")

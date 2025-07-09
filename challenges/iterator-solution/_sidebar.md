@@ -1,2 +1,3 @@
+- [⬅️ Back to challenges](../README.md)
 - Iterator Solution
   - [Solutions](./Solutions.md "Solutions")

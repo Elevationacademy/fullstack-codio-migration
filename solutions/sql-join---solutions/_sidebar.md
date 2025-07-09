@@ -1,2 +1,3 @@
+- [⬅️ Back to solutions](../README.md)
 - Sql Join   Solutions
   - [Solutions](./Solutions.md "Solutions")

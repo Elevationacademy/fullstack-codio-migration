@@ -1,2 +1,3 @@
+- [⬅️ Back to solutions](../README.md)
 - Mobx 1   Solutions
   - [Solutions](./Solutions.md "Solutions")

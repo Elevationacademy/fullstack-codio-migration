@@ -1,2 +1,3 @@
+- [⬅️ Back to solutions](../README.md)
 - Es6 Array Methods   Solutions
   - [Solutions](./Solutions.md "Solutions")

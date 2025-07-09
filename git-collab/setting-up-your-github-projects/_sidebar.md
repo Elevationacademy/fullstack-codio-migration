@@ -1,3 +1,4 @@
+- [⬅️ Back to git-collab](../README.md)
 - Setting Up Your Github Projects
   - [Intro](./Intro.md "Intro")
   - [Project Details](./Project-Details.md "Project Details")

@@ -1,2 +1,3 @@
+- [⬅️ Back to solutions](../README.md)
 - Mongo Db Intro   Solutions
   - [Solutions](./Solutions.md "Solutions")

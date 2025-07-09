@@ -1,3 +1,4 @@
+- [⬅️ Back to typescript](../README.md)
 - Strict Mode
   - [Intro](./Intro.md "Intro")
   - [JavaScript’s ‘use strict’ directive](./JavaScript-s--use-strict--directive.md "JavaScript’s ‘use strict’ directive")

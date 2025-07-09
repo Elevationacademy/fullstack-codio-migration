@@ -1,2 +1,3 @@
+- [⬅️ Back to solutions](../README.md)
 - Mongoose Intro   Solutions
   - [Solutions](./Solutions.md "Solutions")

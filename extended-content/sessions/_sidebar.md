@@ -1,2 +1,3 @@
+- [⬅️ Back to extended-content](../README.md)
 - Sessions
   - [General](./General.md "General")

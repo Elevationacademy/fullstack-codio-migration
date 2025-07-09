@@ -1,2 +1,3 @@
+- [⬅️ Back to solutions](../README.md)
 - Closures   Modules   Solutions
   - [Solutions](./Solutions.md "Solutions")

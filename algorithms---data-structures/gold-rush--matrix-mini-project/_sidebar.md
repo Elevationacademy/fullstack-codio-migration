@@ -1,3 +1,4 @@
+- [⬅️ Back to algorithms---data-structures](../README.md)
 - Gold Rush  Matrix Mini Project
   - [Intro & Setup](./Intro---Setup.md "Intro & Setup")
   - [Gold Rush](./Gold-Rush.md "Gold Rush")

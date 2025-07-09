@@ -1,3 +1,4 @@
+- [⬅️ Back to typescript](../README.md)
 - Generics
   - [Intro](./Intro.md "Intro")
   - [Why do we need Generics?](./Why-do-we-need-Generics-.md "Why do we need Generics?")

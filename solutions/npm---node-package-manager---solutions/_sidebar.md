@@ -1,2 +1,3 @@
+- [⬅️ Back to solutions](../README.md)
 - Npm   Node Package Manager   Solutions
   - [Solutions](./Solutions.md "Solutions")

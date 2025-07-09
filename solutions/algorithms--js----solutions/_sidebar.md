@@ -1,2 +1,3 @@
+- [⬅️ Back to solutions](../README.md)
 - Algorithms  Js    Solutions
   - [Solutions](./Solutions.md "Solutions")

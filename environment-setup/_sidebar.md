@@ -1,20 +1,10 @@
-- Git
-  - [Pre-Install](./environment-setup/git/Pre-Install.md)
-  - [Intro---Version-Control](./environment-setup/git/Intro---Version-Control.md)
-  - [Installing-Git](./environment-setup/git/Installing-Git.md)
-  - [Changing-Editor](./environment-setup/git/Changing-Editor.md)
-  - [Setup](./environment-setup/git/Setup.md)
-- Github Setup
-  - [Intro---Version-Control](./environment-setup/github-setup/Intro---Version-Control.md)
-  - [Sign-up](./environment-setup/github-setup/Sign-up.md)
-  - [Add-SSH-key--optional-](./environment-setup/github-setup/Add-SSH-key--optional-.md)
-- Node
-  - [Intro](./environment-setup/node/Intro.md)
-  - [Installing-Node](./environment-setup/node/Installing-Node.md)
-- Postman
-  - [Install-Postman](./environment-setup/postman/Install-Postman.md)
-- Visual Code
-  - [Installing](./environment-setup/visual-code/Installing.md)
-- Zoom
-  - [Installing](./environment-setup/zoom/Installing.md)
-  - [Zoom-Visibility](./environment-setup/zoom/Zoom-Visibility.md)
+- [🏠 Course Home](../README.md)
+- [environment-setup](./README.md)
+  - [git](./git/README.md)
+  - [github-setup](./github-setup/README.md)
+  - [mongodb](./mongodb/README.md)
+  - [node](./node/README.md)
+  - [postman](./postman/README.md)
+  - [slack](./slack/README.md)
+  - [visual-code](./visual-code/README.md)
+  - [zoom](./zoom/README.md)

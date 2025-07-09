@@ -1,2 +1,3 @@
+- [⬅️ Back to solutions](../README.md)
 - Sql In Node  Sequelize   Solutions
   - [Solutions](./Solutions.md "Solutions")

@@ -1,2 +1,3 @@
+- [⬅️ Back to solutions](../README.md)
 - React Components   Solutions
   - [Solutions](./Solutions.md "Solutions")

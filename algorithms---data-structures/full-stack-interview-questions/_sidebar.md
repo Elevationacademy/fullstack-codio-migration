@@ -1,3 +1,4 @@
+- [⬅️ Back to algorithms---data-structures](../README.md)
 - Full Stack Interview Questions
   - [Intro](./Intro.md "Intro")
   - [General Knowledge Questions](./General-Knowledge-Questions.md "General Knowledge Questions")
