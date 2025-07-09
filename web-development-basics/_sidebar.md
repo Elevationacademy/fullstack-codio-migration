@@ -1,7 +1,5 @@
 - [🏠 Full Course Overview](/README)
 
-
-- [Web-development-basics Home](#/web-development-basics/)
 - [Box-model](#/web-development-basics/box-model/)
 - [Code_standards](#/web-development-basics/code_standards/)
 - [Css-basics](#/web-development-basics/css-basics/)
