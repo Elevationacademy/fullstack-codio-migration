@@ -1,0 +1,10 @@
+- [⬅ Back to Design](../README.md)
+
+- [Adapter](./Adapter.md)
+- [Comprehension Check](./Comprehension-Check.md)
+- [Decorator](./Decorator.md)
+- [Exercise](./Exercise.md)
+- [Facade](./Facade.md)
+- [Intro](./Intro.md)
+- [Proxy](./Proxy.md)
+- [Spot Check](./Spot-Check.md)

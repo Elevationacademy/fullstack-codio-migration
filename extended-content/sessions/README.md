@@ -1,0 +1,3 @@
+# General
+
+See attached to this Codio lesson are two presentations about sessions and about cookies

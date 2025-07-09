@@ -1,0 +1,3 @@
+# Intro
+
+### Read [this](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html), and then move on to the exercise. The exercise is meant to be done in pairs.

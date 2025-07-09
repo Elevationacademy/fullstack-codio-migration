@@ -1,0 +1,3 @@
+# Intro
+
+Read [this article](https://www.freecodecamp.org/news/the-ultimate-guide-to-web-scraping-with-node-js-daa2027dcd3/), and then move on to the exercise. The exercise is meant to be done in pairs.

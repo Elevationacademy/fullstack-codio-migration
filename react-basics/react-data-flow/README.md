@@ -1,0 +1,8 @@
+# Comprehension Check
+
+{Check It!|assessment}(multiple-choice-2271404646)
+{Check It!|assessment}(multiple-choice-1079840672)
+{Check It!|assessment}(multiple-choice-1016190687)
+{Check It!|assessment}(multiple-choice-3334046330)
+{Check It!|assessment}(multiple-choice-3484771619)
+{Check It!|assessment}(multiple-choice-3610721489)

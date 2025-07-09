@@ -1,0 +1,12 @@
+- [⬅ Back to Web Development Basics Advanced](../README.md)
+
+- [Closures   Modules](./Closures---Modules.md)
+- [Comprehension Check](./Comprehension-Check.md)
+- [Exercises](./Exercises.md)
+- [Intro](./Intro.md)
+- [Modules](./Modules.md)
+- [Quick Note On Closures And Memory In Js](./Quick-Note-on-Closures-and-Memory-in-JS.md)
+- [Spot Check 1](./Spot-Check-1.md)
+- [Spot Check 2](./Spot-Check-2.md)
+- [Spot Check 3](./Spot-Check-3.md)
+- [What Are Closures ](./What-are-Closures-.md)
