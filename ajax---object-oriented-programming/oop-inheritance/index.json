@@ -1,0 +1,31 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"OOP-Inheritance-Intro-Video-67ca",
+		"Intro-d738",
+		"Spot-Check-1-9421",
+		"instanceof---Polymorphism-Video-ec57",
+		"instanceof---Polymorphism-d925",
+		"Spot-Check-2-43ff",
+		"Custom--inherited--Attributes-6501",
+		"Method-Overriding-2ec7",
+		"Spot-Check-3-4e2e",
+		"Deeper-Inheritance-ae6d",
+		"Object---Prototype-Video-ee71",
+		"Object---Prototype-ea61",
+		"Exercises-2b45",
+		"Comprehension-Check-e686"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "OOP Inheritance",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}
