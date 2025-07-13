@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "08a7d52b-afdc-1a18-ca5e-76b2a1be7794",
+				"answer": "Invokes the class' constructor, which is mandatory",
+				"correct": false
+			},
+			{
+				"_id": "25de9782-cfc9-da48-fb95-02795dee6d43",
+				"answer": "Invokes the class' constructor, but it's optional",
+				"correct": false
+			},
+			{
+				"_id": "a357c086-233e-0123-0b74-c397829b301c",
+				"answer": "Invokes the parent's constructor, which is mandatory",
+				"correct": true
+			},
+			{
+				"_id": "c190cde9-e157-05ac-2ac2-624f836aa652",
+				"answer": "Invokes the parent's constructor, but it's optional",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What does the super keyword do?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "1.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-2241612772",
+	"type": "multiple-choice"
+}

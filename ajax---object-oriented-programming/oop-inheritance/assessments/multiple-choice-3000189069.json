@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "c7615467-9eb4-e813-fc2d-716c82667c58",
+				"answer": "Throw an error",
+				"correct": true
+			},
+			{
+				"_id": "c445bf1a-2786-6cc2-ac94-fed749d26f85",
+				"answer": "Console log `undefined`",
+				"correct": false
+			},
+			{
+				"_id": "579569eb-3341-012c-938d-b78f7251afc5",
+				"answer": "Console log the sentence about Pythagoreas",
+				"correct": false
+			},
+			{
+				"_id": "37bd8122-b26e-f245-802b-e65f94ad4b96",
+				"answer": "Console log the sentence about the Greek man",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Using the same code from the previous question (except for the console log at the end), what will the following do?\n\n```\nconsole.log(mathNotebook.pages[0].text)\n```",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "3.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-3000189069",
+	"type": "multiple-choice"
+}

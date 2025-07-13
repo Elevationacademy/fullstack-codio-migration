@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "d5f04c72-7d91-7f90-5e01-6ed9be647d63",
+				"answer": "Console log `true` for all three",
+				"correct": false
+			},
+			{
+				"_id": "ec46a88d-9515-8933-e6ea-a8335d2c1ef5",
+				"answer": "Console log `true` twice then `false` once",
+				"correct": false
+			},
+			{
+				"_id": "c4c2ace5-2c75-18b7-9968-b11082f208f5",
+				"answer": "Console log `false` for all three",
+				"correct": false
+			},
+			{
+				"_id": "f9388d6f-d037-588e-cf55-ade4196f51e4",
+				"answer": "Console log `true` twice then throw an error",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Using the same code from before (except for the console log at the end), what will the following do?\n\n```\nconsole.log(p1 instanceof Page)\nconsole.log(myDiary instanceof Notebook)\nconsole.log(myDiary instanceof mathNotebook)\n```",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "4.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-2755130575",
+	"type": "multiple-choice"
+}

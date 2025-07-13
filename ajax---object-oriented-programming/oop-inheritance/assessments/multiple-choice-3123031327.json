@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "f52e4cfe-12c5-a5e7-accf-d9fa7a065730",
+				"answer": "Throw an error",
+				"correct": false
+			},
+			{
+				"_id": "053be9af-ee9e-26a5-664a-fc718a0f3227",
+				"answer": "Console log `undefined`",
+				"correct": false
+			},
+			{
+				"_id": "d328f3d9-d680-11a6-53fe-f6e9e6ab0dab",
+				"answer": "Console log the sentence about Pythagoreas",
+				"correct": false
+			},
+			{
+				"_id": "bc15d9fb-d1fb-7f28-45ae-07fa4daaa8ed",
+				"answer": "Console log the sentence about the Greek man",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What does the following code do?\n\n```\nclass Page{\n    constructor(text){\n        this.text = text\n    }\n}\n\nclass Notebook{\n    constructor(pageNum){\n        this.pageNum = pageNum\n        this.pages = []\n    }\n\n    write(page){\n        this.pages.push(page)\n    }\n}\n\nclass Diary extends Notebook{\n    constructor(pageNum, owner){\n        super(pageNum)\n        this.owner = owner\n    }\n}\n\nconst myDiary = new Diary(50, \"Shila\")\nconst mathNotebook = new Notebook(200)\nconst p1 = new Page(\"Pythagoreas realized tha the sum of the squares of the sides of a right triangle will equal the square of the hypoteneuse\")\nmyDiary.pages.push(new Page(\"I think I'm in love with a Greek man.\"))\n\nconsole.log(myDiary.pages[0].text)\n```\n",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "2.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-3123031327",
+	"type": "multiple-choice"
+}

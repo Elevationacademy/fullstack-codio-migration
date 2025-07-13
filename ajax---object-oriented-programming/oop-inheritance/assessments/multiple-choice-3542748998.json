@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "b396b776-5835-a461-b89d-dff4d857b22d",
+				"answer": "Throw an error",
+				"correct": false
+			},
+			{
+				"_id": "85a35dec-2288-8295-9365-9cff46f42e44",
+				"answer": "Console log `undefined`",
+				"correct": false
+			},
+			{
+				"_id": "8738a1c4-ee30-874a-b849-2af318025428",
+				"answer": "Console log `Earth 2.0`",
+				"correct": true
+			},
+			{
+				"_id": "b450bb7c-0b05-8cb1-b260-34ef486faef8",
+				"answer": "Console log ' '",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Assuming we have a class Planet that has one parameter in its constructor, name, what will the following do?\n\n```\n let earth = new Planet\nearth.name = \"Earth 2.0\"\nconsole.log(earth.name)\n```",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "5.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-3542748998",
+	"type": "multiple-choice"
+}

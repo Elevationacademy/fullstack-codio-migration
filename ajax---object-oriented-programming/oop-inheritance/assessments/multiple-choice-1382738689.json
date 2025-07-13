@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "0018876c-a9f4-e91d-18fb-fdaff7c3d64c",
+				"answer": "Perfectly valid code",
+				"correct": false
+			},
+			{
+				"_id": "033bad88-c17a-4334-9f9c-598b65abbb1b",
+				"answer": "There's an async problem",
+				"correct": true
+			},
+			{
+				"_id": "144e3f99-0faf-78ab-dee3-a05d30a085c8",
+				"answer": "There's problem with Handlebars (not syntax related)",
+				"correct": false
+			},
+			{
+				"_id": "b924aaca-2f23-c72d-21b0-2e233fc2779f",
+				"answer": "There's a problem with our API request",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What's going on with this code?\n\n```\nclass APIManager{\n    constructor(route){\n        this.route = route\n        this.data = {}\n    }\n\n    fetch(){\n        $.get(this.route, function(response){\n            this.data = response\n        })\n    }\n}\n\nclass Renderer{\n    construcor(scriptID, containerID, apiManager){\n        this.scriptID = scriptID\n        this.containerID = containerID\n        this.apiManager = apiManager\n    }\n\n    render(){    \n        let source = $(\"#\" + this.scriptID).html()\n        let template = Handlebars.compile(source)\n        $(\"#\" + this.containerID).append(template(this.apiManager.data))\n    }\n}\n\nconst foodApi = new APIManager(\"/foodRoute\")\nconst renderer = new Renderer(\"food-template\", \"container\", foodApi)\n\nfoodApi.fetch()\nrenderer.render()\n```",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "7.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-1382738689",
+	"type": "multiple-choice"
+}

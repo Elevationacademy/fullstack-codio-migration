@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "c705e0e3-295d-ccbb-1036-c45882617811",
+				"answer": "Throws an error, we need to call `super` inside of `Image`'s `save` method",
+				"correct": false
+			},
+			{
+				"_id": "d00218ce-b7db-80eb-138c-b7c0f29d0782",
+				"answer": "Throws an error, you can't stringify `this`",
+				"correct": false
+			},
+			{
+				"_id": "a851776a-3020-9a9d-f4c7-c727321e8543",
+				"answer": "Saves the image to the SQL database",
+				"correct": false
+			},
+			{
+				"_id": "99e49f08-1e2b-3c21-dd7d-d2a55da47f9c",
+				"answer": "Saves a stringified version of the image object to the SQL database",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What's going on in the following code?\n\n```\nclass Image{\n      constructor(url, width, height, db){\n          this.url = url\n          this.width = width || 150 \n          this.height = height || 150    \n          this.db = db\n      }\n\n      save(){\n          this.db.save(JSON.stringify(this))\n      }\n  }\n\n  class SQL_DB{\n      constructor(){}\n      save(str){\n          //wicked code that saves to SQL database\n      }\n  }\n\n  class Mongo_DB{\n      constructor(){}\n      save(str){\n          //wicked code that saves to Mongo database\n      }\n  }\n\n  const sqlDB = new SQL_DB()\n  const mongoDB = new Mongo_DB()\n  const pic = new Image(\"https://a3.amazon.com/93112/ist.png\", null, null, sqlDB)\n\n  pic.save()\n```",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "6.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-376880610",
+	"type": "multiple-choice"
+}
