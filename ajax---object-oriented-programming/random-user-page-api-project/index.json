@@ -1,0 +1,22 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-a92e",
+		"Instructions-39a1",
+		"Instructions-II-4122",
+		"Working-with-New-APIs-8a94",
+		"Extensions-bb74"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Random User Page API Project",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

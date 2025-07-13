@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "aefd32f8-5b52-0dd2-4b56-a042f40d679e",
+				"answer": "Console logs the data that came back from the API",
+				"correct": false
+			},
+			{
+				"_id": "99e11ae1-1593-189d-80f1-c2151f74c99b",
+				"answer": "Console logs something that's not our data",
+				"correct": true
+			},
+			{
+				"_id": "08411964-cf93-ab74-f9ce-c603ac9be762",
+				"answer": "Console logs the data that came back from the API, wrapp in an object or array",
+				"correct": false
+			},
+			{
+				"_id": "0a504630-d131-6eaa-3108-6442e9aa5d57",
+				"answer": "Throws an error",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What does the following do?\n```js\nlet data = $.get('/someAPIurl', function(result){\n                return result\n            })\nconsole.log(data)\n```",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "3.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-2881029823",
+	"type": "multiple-choice"
+}

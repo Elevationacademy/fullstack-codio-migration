@@ -1,0 +1,56 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "8fad903a-645d-dd78-8740-fbe770ef494c",
+				"answer": "When you make a promise to 5 of your friends and you want to keep them.",
+				"correct": false
+			},
+			{
+				"_id": "333c000f-0d88-4279-1ae4-8e735946bd70",
+				"answer": "When you have a promise inside a promise",
+				"correct": false
+			},
+			{
+				"_id": "35ffac99-2a12-e219-827e-a778099c86f3",
+				"answer": "When you want your API requests to run synchronously",
+				"correct": false
+			},
+			{
+				"_id": "ac765749-9dbc-27a4-ecd4-901e8bd8d851",
+				"answer": "When you want to resolve multiple promises together",
+				"correct": true
+			},
+			{
+				"_id": "66ccef1d-0e3f-65a3-f3fc-e3187ad1a9f9",
+				"answer": "When you want to resolve a promise inside a then()",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "In what case would you use Promise.all() ?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "2.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-1550068547",
+	"type": "multiple-choice"
+}

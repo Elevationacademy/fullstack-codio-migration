@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "25d4430a-29b7-040e-ee41-f48208d64419",
+				"answer": "Getting JSON files from servers",
+				"correct": false
+			},
+			{
+				"_id": "d432af7c-1885-a13a-1cf6-fe37924a04e0",
+				"answer": "Getting JSON from servers",
+				"correct": false
+			},
+			{
+				"_id": "1792c010-72d8-276b-0a9d-a7b6da92bab8",
+				"answer": "Getting JSON and files from servers",
+				"correct": true
+			},
+			{
+				"_id": "ef493548-1dc1-81ae-451b-fdafe45cd0fc",
+				"answer": "Getting any files from servers",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What do we use APIs for?",
+		"isRandomized": true,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "2.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-3433740572",
+	"type": "multiple-choice"
+}

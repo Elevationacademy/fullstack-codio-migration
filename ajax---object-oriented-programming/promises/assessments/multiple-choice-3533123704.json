@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "cf504429-9df4-b30b-444e-c5e377617bad",
+				"answer": "The word that is returned by the route",
+				"correct": false
+			},
+			{
+				"_id": "8a446ffc-6f88-c6af-ad54-265e57f82649",
+				"answer": "A promise",
+				"correct": true
+			},
+			{
+				"_id": "452d70fa-27a4-6119-53e0-531329898b6d",
+				"answer": "The jQuery function",
+				"correct": false
+			},
+			{
+				"_id": "cab43c12-bd13-71bf-4eb8-f6e1b98935f1",
+				"answer": "An object",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What will `x` be?\n```\nlet x = $.get('/randomWord')\n\n//assume randomWord is a route that sends back a random string\n```",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "1.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-3533123704",
+	"type": "multiple-choice"
+}

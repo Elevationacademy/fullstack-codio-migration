@@ -1,0 +1,27 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"API-Requests---Jquery-e054",
+		"AJAX-Overview-Video-8315",
+		"Intro---AJAX-5148",
+		"Asynchronous-1124",
+		"jQuery-GET-Request-Video-841e",
+		"Extracting-Data-55c6",
+		"GET-Request---Error-Handling-Video-b5a0",
+		"Requests--Success---Error-f13d",
+		"Exercises-a5df",
+		"Comprehension-Check-5d28"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "AJAX & Intro to APIs",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

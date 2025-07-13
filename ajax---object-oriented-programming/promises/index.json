@@ -1,0 +1,31 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-32d7",
+		"Async-Operation-6bd1",
+		"Understanding-Async-Functions-18f8",
+		"Understanding-Callbacks-5d1f",
+		"Test-Case-7a03",
+		"Callback-Hell-55f5",
+		"Promise-69cc",
+		"A-Function-that-Returns-a-Promise-8c73",
+		"Chaining-0b39",
+		"Spot-Check-1cc0",
+		"Promise-All-a1ad",
+		"Applications-6715",
+		"Exercises-0521",
+		"Comprehension-Check-ba95"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Promises",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

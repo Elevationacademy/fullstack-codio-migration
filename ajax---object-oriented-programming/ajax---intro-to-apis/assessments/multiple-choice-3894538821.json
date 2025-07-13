@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "51047138-b00f-3acd-4eac-7f80112f0fa7",
+				"answer": "Application Protocol Interface",
+				"correct": false
+			},
+			{
+				"_id": "094d57fd-74f4-4bd7-cc4f-cd5868acbf92",
+				"answer": "Application Parameters Interface",
+				"correct": false
+			},
+			{
+				"_id": "e6ed944e-e34b-d9b9-c2e3-345a921f9ab0",
+				"answer": "Application Programming Internet",
+				"correct": false
+			},
+			{
+				"_id": "e6505026-fa46-1ca1-1b1e-c005a9c0e38e",
+				"answer": "Application Programming Interface",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What does API stand for?",
+		"isRandomized": true,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "1.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-3894538821",
+	"type": "multiple-choice"
+}
