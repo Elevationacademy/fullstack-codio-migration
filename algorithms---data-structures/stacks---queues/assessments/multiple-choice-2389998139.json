@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "32b1bcd4-4dd1-f234-2ac9-7cdcf6f053b9",
+				"answer": "Throw an error",
+				"correct": true
+			},
+			{
+				"_id": "f91e4cf5-5db8-3025-0b6e-fcb677fbab80",
+				"answer": "Nothing",
+				"correct": false
+			},
+			{
+				"_id": "5664add0-95d5-1c75-2125-6b43165ce97b",
+				"answer": "Cause an infinite loop",
+				"correct": false
+			},
+			{
+				"_id": "725f64c5-2bca-6e33-30af-ad8a0e1cc51f",
+				"answer": "Remove all the items from the queue and then return 'Done'",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What will the following do?\n\n```\nlet queue = new Queue()\nqueue.enqueue(4)\nqueue.enqueue(1)\nqueue.enqueue(3)\n\nconst clearQueue = function (q) {\n  return q.peek() ? clearQueue(q.dequeue()) : \"Done\"\n}\n\nclearQueue(queue)\n```",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "3",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-2389998139",
+	"type": "multiple-choice"
+}

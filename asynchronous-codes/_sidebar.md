@@ -2,5 +2,4 @@
 - [asynchronous-codes](./README.md)
   - [async-await](./async-await/README.md)
   - [async-js--callback---event-loop](./async-js--callback---event-loop/README.md)
-  - [render--app-deployment-service-](./render--app-deployment-service-/README.md)
   - [weather-app-full-stack-project](./weather-app-full-stack-project/README.md)

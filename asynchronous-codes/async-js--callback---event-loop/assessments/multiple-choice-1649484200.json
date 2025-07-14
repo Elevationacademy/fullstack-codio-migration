@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "321f7ac3-8fd6-1c3e-01b7-20e5b82eacb6",
+				"answer": "They're basically the same",
+				"correct": false
+			},
+			{
+				"_id": "05b03a33-97ab-0906-b2cb-4adf3889b29d",
+				"answer": "All async operations will go to the stack first, wait for the queue to empty, then go to the queue",
+				"correct": false
+			},
+			{
+				"_id": "ee3213f5-4246-2d3e-2677-9fb15400937d",
+				"answer": "All async operations will go to the queue first, wait for the stack to empty, then go to the stack",
+				"correct": true
+			},
+			{
+				"_id": "17e68759-8ccb-1bd3-aa52-fedf0f1283af",
+				"answer": "The stack is for synchronous operations and the queue for asynchronous ones",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What is the difference between the call stack and the event queue?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "1.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-1649484200",
+	"type": "multiple-choice"
+}

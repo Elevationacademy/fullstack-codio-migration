@@ -1,0 +1,24 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Overview-5d61",
+		"Backend-3ec2",
+		"Checkpoint-a98b",
+		"Frontend-e5c4",
+		"Design-b0c9",
+		"Done-304b",
+		"Extensions-cf96"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Weather App Full Stack Project",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

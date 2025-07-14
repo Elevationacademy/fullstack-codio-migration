@@ -1,0 +1,56 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "c01a9357-d01d-918c-cf97-8183c94859b3",
+				"answer": "Throws an error",
+				"correct": false
+			},
+			{
+				"_id": "289ac4e8-7370-af0d-fe9b-cc9c7ac59951",
+				"answer": "Nothing",
+				"correct": false
+			},
+			{
+				"_id": "8c521455-ae52-570f-6a1e-b1d96e1eb7f0",
+				"answer": "Risks as Stack Overflow",
+				"correct": false
+			},
+			{
+				"_id": "20be38d9-842d-328f-2a02-9bd6264c0f65",
+				"answer": "Risks an infinite loop",
+				"correct": false
+			},
+			{
+				"_id": "348cf694-32b9-b003-8850-95ea02de594b",
+				"answer": "Empties the stack",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What does the following code do?\n\n```\nlet s = new Stack()\ns.push(3)\ns.push(4)\ns.push(1)\ns.push(2)\n\nwhile (!s.isEmpty()) {\n  s.pop()\n}\n```",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "1",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-1834015019",
+	"type": "multiple-choice"
+}

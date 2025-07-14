@@ -1,0 +1,25 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Overview-b4e7",
+		"Intro-ae67",
+		"Stacks-28fa",
+		"Spot-Check-5052",
+		"Queues-f6fc",
+		"Exercises-53e0",
+		"Extension-0cbe",
+		"Comprehension-Check-ff04"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Stacks \u0026 Queues",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

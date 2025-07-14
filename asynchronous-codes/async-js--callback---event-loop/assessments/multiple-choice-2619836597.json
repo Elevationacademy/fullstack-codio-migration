@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "d4f52c5a-9621-bfd7-1809-f7f74ae1a770",
+				"answer": "Works FIFO - first in, first out",
+				"correct": false
+			},
+			{
+				"_id": "d5157644-120c-8667-1d38-7833e9c3cde4",
+				"answer": "Works LIFO - last in, first out",
+				"correct": true
+			},
+			{
+				"_id": "5d4ba88b-4e49-3198-cbd7-5817c02000d0",
+				"answer": "Executes the fastest operations first",
+				"correct": false
+			},
+			{
+				"_id": "9d5ff1d2-3272-31ce-f7ca-277ae977ec80",
+				"answer": "Executes the slowest operations first",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Generally speaking, the call stack...",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "2.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-2619836597",
+	"type": "multiple-choice"
+}

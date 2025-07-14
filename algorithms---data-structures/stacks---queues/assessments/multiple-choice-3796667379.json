@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "0eec90c8-0e2b-022f-275e-64b8d4ca250c",
+				"answer": "FIFO, FIFO",
+				"correct": false
+			},
+			{
+				"_id": "ce417784-fd67-ddb7-3249-990203635e6d",
+				"answer": "FIFO, LIFO",
+				"correct": false
+			},
+			{
+				"_id": "d1fcc2a0-21a2-4be6-8977-7bb9b4edf8e9",
+				"answer": "LIFO, FIFO",
+				"correct": true
+			},
+			{
+				"_id": "47dabb3c-2da3-dd4a-bcad-57558338a978",
+				"answer": "LIFO, LIFO",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Stacks are ____ and queues are ____?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "5",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-3796667379",
+	"type": "multiple-choice"
+}

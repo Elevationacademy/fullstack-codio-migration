@@ -1,0 +1,56 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "87aa3ce3-64cf-1147-c086-662ebb9251ef",
+				"answer": "O( 1 )",
+				"correct": false
+			},
+			{
+				"_id": "f3ee5b7e-17a1-3bbe-25f2-b1784eb3a3ee",
+				"answer": "O( log(n) )",
+				"correct": false
+			},
+			{
+				"_id": "5e7edc1f-fd51-1ece-0f90-fb03c328e88b",
+				"answer": "O( n )",
+				"correct": true
+			},
+			{
+				"_id": "8daff00f-2148-68c5-ce7d-3f79db42a007",
+				"answer": "O( mn )",
+				"correct": false
+			},
+			{
+				"_id": "4cd21ffa-9d2e-04b7-2dd7-38e80c08c6ce",
+				"answer": "O( n^2 )",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What is the efficiency of the following?\n\n```\nlet s = new Stack()\nlet q = new Queue()\n//insert values in s and q\n\nwhile (s.peek()) {\n  q.enqueue(s.pop())\n}\n```",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "2",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-2341890422",
+	"type": "multiple-choice"
+}

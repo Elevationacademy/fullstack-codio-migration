@@ -1,0 +1,25 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"The-Event-Loop-9700",
+		"Overview-82cd",
+		"The-Call-Stack-76f0",
+		"Blocking-763b",
+		"Asynchronous-Callbacks-5512",
+		"Concurrency-and-the-Event-Loop-ba9b",
+		"Conclusion-afe7",
+		"Comprehension-Check-6fe2"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Async JS: Callback \u0026 Event Loop",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

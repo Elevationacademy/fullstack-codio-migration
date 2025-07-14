@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "53841a6d-0035-adb8-596b-af2ea9177ca9",
+				"answer": "Throw an error",
+				"correct": false
+			},
+			{
+				"_id": "efc9374f-9682-78a2-1d1b-2d05825b2241",
+				"answer": "Nothing",
+				"correct": false
+			},
+			{
+				"_id": "1adf48c1-7112-f4c3-0d03-ae6f7a9f1d59",
+				"answer": "Cause an infinite loop",
+				"correct": false
+			},
+			{
+				"_id": "93ba76b4-93d3-9981-036c-7031337e1547",
+				"answer": "Populate each queue by priority",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What will this do?\n\n```\nlet people = [\n  { name: \"Claire\", priority: \"MED\" },\n  { name: \"Josh\", priority: \"HIGH\" },\n  { name: \"Tom\", priority: \"MED\" },\n  { name: \"Geoffery\", priority: \"LOW\" }\n]\n\nlet stack = new Stack()\nlet priorityQueue = new Queue()\nlet medQueue = new Queue()\nlet trashQueue = new Queue()\n\npeople.forEach(p =\u003e stack.push(p))\n\nconst transfer = function (s) {\n  if (!s.length) { return }\n\n  s.peek().priority === \"HIGH\" ?\n    priorityQueue.enqueue(s.pop().name) :\n    s.peek().priority === \"MED\" ?\n      medQueue.enqueue(s.pop().name) :\n      trashQueue.enqueue(s.pop().name)\n\n  transfer(s)\n}\n\ntransfer(stack)\n```",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "4",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-2651489647",
+	"type": "multiple-choice"
+}
