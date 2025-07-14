@@ -6,6 +6,5 @@ Push your project to **Github** and send it to the Bootcamp staff !
 
 ![](https://bassemgirgis.files.wordpress.com/2014/09/onemorepush.jpg)
 
-{Submit Answer!|assessment}(free-text-285587972)
 
 

@@ -1,1 +1,1 @@
-See attached to this Codio lesson are two presentations about sessions and about cookies 
+See attached to this google classroom there are two presentations about sessions and about cookies 

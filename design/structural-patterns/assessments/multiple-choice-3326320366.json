@@ -1,0 +1,54 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "212b4b69-2275-0e79-63ed-9399f6298ca9",
+				"answer": "A wrapper class that adds functionality to another class",
+				"correct": true
+			},
+			{
+				"_id": "0f3101e6-795d-4be3-6bc7-c890905ae146",
+				"answer": "A class that hides the inner object it wraps",
+				"correct": false
+			},
+			{
+				"_id": "10495ab0-1aa7-9d2f-7204-f30a1a8d86f6",
+				"answer": "Used with a base decorator abstract class",
+				"correct": true
+			},
+			{
+				"_id": "f4ab9ead-67f1-077c-8ebc-a7892f2fcbe3",
+				"answer": "Used to improve performance ",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "A decorator is...",
+		"isRandomized": true,
+		"learningObjectives": "",
+		"maxAttemptsCount": 1,
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": true,
+		"name": "Decorator 1",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": true
+	},
+	"taskId": "multiple-choice-3326320366",
+	"type": "multiple-choice"
+}

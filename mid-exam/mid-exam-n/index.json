@@ -1,0 +1,22 @@
+{
+	"title": "Mid Exam",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro-bcd2",
+		"Requirements-7030",
+		"Features-32a9",
+		"Commit-and-Push--e184",
+		"Done-747b"
+	]
+}

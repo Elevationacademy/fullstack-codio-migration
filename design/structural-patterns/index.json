@@ -1,0 +1,26 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-8193",
+		"Facade-68d2",
+		"Spot-Check-11e8",
+		"Proxy-4c0d",
+		"Decorator-6026",
+		"Spot-Check-7b52",
+		"Adapter-4d6d",
+		"Comprehension-Check-f8f0",
+		"Exercise-0bc2"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Structural Patterns",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

@@ -8,6 +8,7 @@
 - [extended-content](./extended-content/README.md)
 - [asynchronous-codes](./asynchronous-codes/README.md)
 - [design](./design/README.md)
+- [environment-setup](./environment-setup/README.md)
 - [git-collab](./git-collab/README.md)
 - [mid-exam](./mid-exam/README.md)
 - [typescript](./typescript/README.md)

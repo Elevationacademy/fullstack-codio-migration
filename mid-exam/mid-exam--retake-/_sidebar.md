@@ -1,0 +1,7 @@
+- [⬅️ Back to mid-exam](../README.md)
+- Mid Exam Retake
+    - [Intro](./Intro.md "Intro")
+  - [Feature - Exclude](./Feature---Exclude.md "Feature - Exclude")
+  - [Feature - Error Handling](./Feature---Error-Handling.md "Feature - Error Handling")
+  - [Commit and Push](./Commit-and-Push-.md "Commit and Push")
+  - [Done](./Done.md "Done")

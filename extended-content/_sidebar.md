@@ -6,7 +6,6 @@
   - [docker](./docker/README.md)
   - [elastic-search](./elastic-search/README.md)
   - [flexbox](./flexbox/README.md)
-  - [http-status-code](./http-status-code/README.md)
   - [redis](./redis/README.md)
   - [regex](./regex/README.md)
   - [rest-api](./rest-api/README.md)

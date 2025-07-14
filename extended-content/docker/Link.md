@@ -1,1 +1,1 @@
-[Download the presentation](./RedisEc.pptx)
+See presentation in google classroom

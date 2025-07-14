@@ -1,0 +1,54 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "cb92d526-2a60-8d5a-a09c-268e8813adf7",
+				"answer": "An abstraction layer provides ease of use for complex systems",
+				"correct": true
+			},
+			{
+				"_id": "0a32669f-e870-51d1-08d1-b8b546acd5c2",
+				"answer": "A design pattern that provides flexibility ",
+				"correct": false
+			},
+			{
+				"_id": "31a4fe84-6b96-3a32-a54b-d0256ecdce55",
+				"answer": "Providing the client with simple methods that perform many actions",
+				"correct": true
+			},
+			{
+				"_id": "f74717c3-f9d1-3a59-1777-624747170288",
+				"answer": "Helping us improve performance",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Facade is...",
+		"isRandomized": true,
+		"learningObjectives": "",
+		"maxAttemptsCount": 1,
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": true,
+		"name": "Facade 1",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": true
+	},
+	"taskId": "multiple-choice-968149312",
+	"type": "multiple-choice"
+}

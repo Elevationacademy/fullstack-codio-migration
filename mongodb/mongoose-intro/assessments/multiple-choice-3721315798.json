@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "2c4a85dd-686d-bcc4-0ae3-494c6873e951",
+				"answer": "Mongo is languge independent, Mongoose can only run on node",
+				"correct": true
+			},
+			{
+				"_id": "d54ca64d-4c14-ced6-a456-41c3e6f0bce1",
+				"answer": "We don't have to",
+				"correct": false
+			},
+			{
+				"_id": "d85fbc77-ae6e-8172-cad8-9db1c38a0c15",
+				"answer": "You can't write Mongoose without also writing Mongo commands",
+				"correct": false
+			},
+			{
+				"_id": "10c3d6a4-6343-0372-92d6-8140f0b3ce5c",
+				"answer": "Mongo is extremely faster than Mongoose, so in big applications we want to use Mongo",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Why do we need to learn Mongo if we have Mongoose?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "1",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-3721315798",
+	"type": "multiple-choice"
+}

@@ -1,4 +1,9 @@
 - [⬅️ Back to mid-exam](../README.md)
 - Mid Exam
-  - [The Challenge](./The-Challenge.md "The Challenge")
-  - [Submit Your Answer](./Submit-Your-Answer.md "Submit Your Answer")
+  - [Intro](./Intro.md "Intro")
+  - [Requirements](./Requirements.md "Requirements")
+  - [Feature 1](./Feature-1.md "Feature 1")
+  - [Feature 2](./Feature-2.md "Feature 2")
+  - [Feature 3](./Feature-3.md "Feature 3")
+  - [Commit and Push](./Commit-and-Push-.md "Commit and Push")
+  - [Done](./Done.md "Done")

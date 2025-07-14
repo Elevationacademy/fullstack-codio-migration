@@ -1,0 +1,17 @@
+- [⬅️ Back to mongodb](../README.md)
+- Mongoose & CRUD
+
+  - [Mongoose Intro Lecture](./Mongoose-Intro-Lecture.md "Mongoose Intro Lecture")
+  - [Intro](./Intro.md "Intro")
+  - [Setup](./Setup.md "Setup")
+  - [Schemas](./Schemas.md "Schemas")
+  - [Nested Schema](./Nested-Schema.md "Nested Schema")
+  - [Models](./Models.md "Models")
+  - [CRUD - Video](./CRUD---Video.md "CRUD - Video")
+  - [CRUD - Create](./CRUD---Create.md "CRUD - Create")
+  - [Spot Check 1](./Spot-Check-1.md "Spot Check 1")
+  - [CRUD - Retrieve](./CRUD---Retrieve.md "CRUD - Retrieve")
+  - [CRUD - Update](./CRUD---Update.md "CRUD - Update")
+  - [CRUD - Delete](./CRUD---Delete.md "CRUD - Delete")
+  - [Server & Mongoose](./Server---Mongoose.md "Server & Mongoose")
+  - [Exercises](./Exercises.md "Exercises")

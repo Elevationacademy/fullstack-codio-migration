@@ -1,0 +1,20 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Step-1--Install-a5a9",
+		"Step-2--Run-792c",
+		"Step-3--Basic-Commands-c72c"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Installing Local Mongo DB",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

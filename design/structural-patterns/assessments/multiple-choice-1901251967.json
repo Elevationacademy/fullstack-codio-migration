@@ -1,0 +1,49 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "92d43889-c9f0-e48c-4683-9335318b338b",
+				"answer": "Used to enable a class to act as if it implements an interface which it actually does not",
+				"correct": true
+			},
+			{
+				"_id": "38b1572d-0247-82b1-6877-4b3970abc76c",
+				"answer": "Used for adding functionality to classes",
+				"correct": false
+			},
+			{
+				"_id": "2639b484-683c-fa9e-e015-ba8c5faba1f9",
+				"answer": "Implemented by using an abstract class",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Adapter is...",
+		"isRandomized": true,
+		"learningObjectives": "",
+		"maxAttemptsCount": 1,
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": true,
+		"name": "Adapter 1 ",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": true
+	},
+	"taskId": "multiple-choice-1901251967",
+	"type": "multiple-choice"
+}

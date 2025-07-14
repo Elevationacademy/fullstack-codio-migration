@@ -1,0 +1,32 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Mongoose-Intro-Lecture-393c",
+		"Intro-b661",
+		"Setup-48f0",
+		"Schemas-2b0f",
+		"Nested-Schema-2d6d",
+		"Models-fd78",
+		"CRUD---Video-4326",
+		"CRUD---Create-b735",
+		"Spot-Check-1-b4b8",
+		"CRUD---Retrieve-a45b",
+		"CRUD---Update-93ee",
+		"CRUD---Delete-e28c",
+		"Server---Mongoose-340e",
+		"Exercises-2bee",
+		"Comprehension-Check-1deb"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Mongoose Intro",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

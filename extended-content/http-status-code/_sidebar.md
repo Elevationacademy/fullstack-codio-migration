@@ -1,3 +1,0 @@
-- [⬅️ Back to extended-content](../README.md)
-- Http Status Code
-  - [Presentation](./Presentation.md "Presentation")
