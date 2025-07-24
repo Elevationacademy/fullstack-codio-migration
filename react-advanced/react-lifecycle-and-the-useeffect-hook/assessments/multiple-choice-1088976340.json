@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1088976340",
+	"source": {
+		"name": "Q2",
+		"showName": true,
+		"instructions": "Can you use the useEffect hook multiple times in a single component?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "8fe58e2f-0127-780b-a9a2-7b15c3f82335",
+				"correct": false,
+				"answer": "You can use it the same times as the states that you have"
+			},
+			{
+				"_id": "c7883596-cb74-990c-9e3f-2f6efb0f6f56",
+				"correct": true,
+				"answer": "yes"
+			},
+			{
+				"_id": "0e89d5dd-2f95-c415-0307-ba2ee412f637",
+				"correct": false,
+				"answer": "yes, but only if the dependencies are different"
+			},
+			{
+				"_id": "a54984b2-1eba-f4e2-2f26-d2e0f591926f",
+				"correct": false,
+				"answer": "No, only once."
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

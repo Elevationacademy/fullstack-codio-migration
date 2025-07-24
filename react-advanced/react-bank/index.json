@@ -1,0 +1,24 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-f5eb",
+		"Overview-509e",
+		"Setup-af05",
+		"Backend-9dfb",
+		"Frontend-27ef",
+		"Features-f478",
+		"Extensions-86a5"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "React Bank",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

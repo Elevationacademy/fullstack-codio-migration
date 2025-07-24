@@ -22,3 +22,8 @@
 - [archive](./archive/README.md)
 - [sql-basics](./sql-basics/README.md)
 - [r-ds](./r-ds/README.md)
+- [python](./python/README.md)
+- [web-security---osi-model--python-backend-web-security---osi-model--python-backend-](./web-security---osi-model--python-backend-/README.md)
+- [solutions](./solutions/README.md)
+
+

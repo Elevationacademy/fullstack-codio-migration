@@ -1,0 +1,27 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-540e",
+		"Hooks-bf19",
+		"Components-Lifecycle-a28f",
+		"Side-Effects-2d05",
+		"Dependencies-15b9",
+		"Fetch-Data-1e94",
+		"Cleanup-d6ec",
+		"Virtual-Dom-266f",
+		"Exercises-829c",
+		"Comprehension-Check-79d5"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "React Lifecycles and API Calls",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

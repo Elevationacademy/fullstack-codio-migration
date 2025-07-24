@@ -1,0 +1,11 @@
+- [⬅️ Back to react-advanced](../README.md)
+- React lifecycle and the useeffect hook
+  - [Intro](./Intro.md "Intro")
+  - [Hooks](./Hooks.md "Hooks")
+  - [Components Lifecycle](./Components-Lifecycle.md "Components Lifecycle")
+  - [Side Effects](./Side-Effects.md "Side Effects")
+  - [Dependencies](./Dependencies.md "Dependencies")
+  - [Fetch Data](./Fetch-Data.md "Fetch Data")
+  - [Cleanup](./Cleanup.md "Cleanup")
+  - [Virtual Dom](./Virtual-Dom.md "Virtual Dom")
+  - [Exercises](./Exercises.md "Exercises")

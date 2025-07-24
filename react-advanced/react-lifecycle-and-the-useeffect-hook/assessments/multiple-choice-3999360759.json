@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3999360759",
+	"source": {
+		"name": "Q3",
+		"showName": true,
+		"instructions": "What happens if you forget to return the cleanup function from a useEffect hook?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "8331c647-adeb-05c6-fe39-e2f0260f7fdc",
+				"correct": false,
+				"answer": "The component will continue to work normally"
+			},
+			{
+				"_id": "9f53050d-a6f0-934d-4213-feab059d442d",
+				"correct": false,
+				"answer": "The component will stop working"
+			},
+			{
+				"_id": "0e143695-2b29-8d21-f71b-a2d01bc53f67",
+				"correct": true,
+				"answer": "We might leave a mess behind"
+			},
+			{
+				"_id": "abba2f01-80f1-320f-0a99-842cc65e6bb5",
+				"correct": false,
+				"answer": "The component will not be able to re-render"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

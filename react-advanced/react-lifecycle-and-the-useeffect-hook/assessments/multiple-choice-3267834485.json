@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3267834485",
+	"source": {
+		"name": "Q1",
+		"showName": true,
+		"instructions": "How do you run a side effect only once in a component using useEffect?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "b41ecf91-71f2-0c6a-bde3-938c41408b87",
+				"correct": true,
+				"answer": "Pass an empty array as the second argument to useEffect"
+			},
+			{
+				"_id": "6dc2e748-1535-9289-c31c-316a0f3281a4",
+				"correct": false,
+				"answer": "Pass null as the second argument to useEffect"
+			},
+			{
+				"_id": "705b5f98-a5bc-a4f3-2bd7-49ec329d6846",
+				"correct": false,
+				"answer": "Don't pass a second argument to useEffect"
+			},
+			{
+				"_id": "3ce1d4d1-d904-83ef-cfb2-4528ac45d25a",
+				"correct": false,
+				"answer": "Pass a function as the second argument to useEffect"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}
