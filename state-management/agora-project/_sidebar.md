@@ -1,0 +1,6 @@
+- [⬅️ Back to state-management](../README.md)
+- Agore project
+  - [Intro](./Intro.md "Intro")
+  - [Overview](./Overview.md "Overview")
+  - [Storage Tracker](./Storage-Tracker.md "Storage Tracker")
+  - [Extensions](./Extensions.md "Extensions")

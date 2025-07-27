@@ -1,0 +1,21 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-a581",
+		"Overview-3d1f",
+		"Storage-Tracker-9e95",
+		"Extensions-8bf3"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Redux Agora 1",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

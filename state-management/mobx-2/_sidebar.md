@@ -9,4 +9,4 @@
   - [Using Multiple Stores](./Using-Multiple-Stores.md "Using Multiple Stores")
   - [No Mo(re)bX!](./No-Mo-re-bX-.md "No Mo(re)bX!")
   - [Exercises](./Exercises.md "Exercises")
-  - [Comprehension Check](./Comprehension-Check.md "Comprehension Check")
+
