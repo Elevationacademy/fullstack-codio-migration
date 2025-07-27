@@ -18,4 +18,3 @@
   - [Spot Check 7](./Spot-Check-7.md "Spot Check 7")
   - [Primary Keys](./Primary-Keys.md "Primary Keys")
   - [Exercises](./Exercises.md "Exercises")
-  - [Comprehension Check](./Comprehension-Check.md "Comprehension Check")
