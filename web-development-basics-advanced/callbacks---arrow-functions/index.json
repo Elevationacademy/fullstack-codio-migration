@@ -1,0 +1,29 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-5dbf",
+		"Spot-Check-1-9e2a",
+		"Spot-Check-2-eca8",
+		"Callback-Functions-II-b217",
+		"Spot-Check-3-fbb9",
+		"Arrow-Functions-6a69",
+		"Spot-Check-4-01da",
+		"Arrow-Functions-II-b5b6",
+		"Spot-Check-5-b914",
+		"this-c91e",
+		"Exercises-4cf9",
+		"Comprehension-Check-664f"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Callbacks \u0026 Arrow Functions",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

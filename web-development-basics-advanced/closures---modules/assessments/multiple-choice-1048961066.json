@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "d5670c11-436a-e744-68ee-8a3f186447a9",
+				"answer": "Nothing, it's just a variable",
+				"correct": false
+			},
+			{
+				"_id": "e567b4ff-7ea9-fab7-2669-ab2f58ffbf0c",
+				"answer": "It means `_memories` needs to get its value from outside",
+				"correct": false
+			},
+			{
+				"_id": "b44be68e-931a-09d1-f6f1-b8a7e6320c86",
+				"answer": "It means `_memories` should be treated as a 'private' variable",
+				"correct": true
+			},
+			{
+				"_id": "4dcda4cc-5186-8935-d6a3-956c86914648",
+				"answer": "It means we have to use `this` to access `_memories`",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Using the same code from the previous question, what does `_memories` mean?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "2.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-1048961066",
+	"type": "multiple-choice"
+}

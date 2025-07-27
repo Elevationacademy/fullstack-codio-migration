@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "c2b585e6-9bae-2139-1177-3909b85c422c",
+				"answer": "Closures are the same as modules",
+				"correct": false
+			},
+			{
+				"_id": "9a37f190-6598-90ce-954d-73a0a345e5d0",
+				"answer": "Closures only work with objects",
+				"correct": false
+			},
+			{
+				"_id": "be36ef4c-7abe-a637-86ca-4ae91b575ee4",
+				"answer": "Closures prevent the memory from setting variables free",
+				"correct": true
+			},
+			{
+				"_id": "6e9932d8-c112-3fb3-caa2-1473afec1f5c",
+				"answer": "Closures don't work differently with `this`, they use lexical scope",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What is true about closures in JS?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "3.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-1540455966",
+	"type": "multiple-choice"
+}

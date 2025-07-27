@@ -1,0 +1,27 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-27bf",
+		"What-are-Closures--1248",
+		"Quick-Note-on-Closures-and-Memory-in-JS-3725",
+		"Spot-Check-1-ed16",
+		"Modules-4cda",
+		"Spot-Check-2-dbf4",
+		"Closures---Modules-3cab",
+		"Spot-Check-3-995b",
+		"Exercises-9dcc",
+		"Comprehension-Check-5198"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Closures \u0026 Modules",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

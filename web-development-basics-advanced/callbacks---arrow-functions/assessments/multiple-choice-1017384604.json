@@ -1,0 +1,56 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "d0720bbd-674c-2f0b-e04f-fa4e8958ca04",
+				"answer": "12, 1.5 seconds later",
+				"correct": false
+			},
+			{
+				"_id": "043c03b1-5fb7-1e3f-40e9-d9d85d420ac3",
+				"answer": "An error immediately",
+				"correct": false
+			},
+			{
+				"_id": "5bb1aabe-3d96-20a5-e6f5-dff9d2ca4191",
+				"answer": "undefined, 1.5 seconds later",
+				"correct": true
+			},
+			{
+				"_id": "b188f500-a2f7-ddfd-bc50-1eb322efd068",
+				"answer": "Nothing, this doesn't run",
+				"correct": false
+			},
+			{
+				"_id": "6bf07a57-e626-34a8-50bd-f745c0485dc6",
+				"answer": "None of the above",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What will we see in the console log?\n\n```\nlet x = {\n            count: 12,\n            go: () =\u003e {\n                setTimeout(function () {\n                    console.log(this.count)\n                }, 1500)\n            }\n      }\n  x.go()\n```",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "1.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-1017384604",
+	"type": "multiple-choice"
+}

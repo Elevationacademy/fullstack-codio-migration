@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "ab86afa1-d80e-3b68-61bc-0f2f73fe0f1a",
+				"answer": "Syntax Error, because `yell` is defined before `run`",
+				"correct": false
+			},
+			{
+				"_id": "1f4390f0-cacc-135f-9a81-ba41d54a826f",
+				"answer": "Run, Forest, run!",
+				"correct": false
+			},
+			{
+				"_id": "0d571002-4ecd-66fa-a643-05a2009920d8",
+				"answer": "Run, ${yell function}, run!",
+				"correct": true
+			},
+			{
+				"_id": "db3bffde-18e8-0129-62e9-1f8e12f11e8e",
+				"answer": "undefined",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What gets printed here?\n```\nconst run = (name) =\u003e {console.log(\"Run, \" + name + \", run!\")}\nconst yell = function(action){\n    let env = \"Forest\"\n    action(env)\n}\nrun(yell)\n```",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "4.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-3079431291",
+	"type": "multiple-choice"
+}

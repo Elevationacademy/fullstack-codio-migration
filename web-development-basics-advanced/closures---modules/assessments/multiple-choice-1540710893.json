@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "ead91c0e-e992-36a5-8868-534de96fd69a",
+				"answer": "Yes",
+				"correct": false
+			},
+			{
+				"_id": "b5e26bf9-6e34-014c-fea1-3cd30ade78d1",
+				"answer": "No, because `brain.freakOut` doesn't access `_memories`",
+				"correct": false
+			},
+			{
+				"_id": "325f9fce-47d6-fc68-b99f-07be123f3c52",
+				"answer": "No, because `_memories` is outside of Brain",
+				"correct": true
+			},
+			{
+				"_id": "35e62773-a6cb-953b-fc15-d6da3f5adc22",
+				"answer": "No, because we're returning the wrong functions",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Given the following code, do we have closure here?\n\n```\nlet _memories = [\"that time at band camp\", \"yesterday's breakfast\"]\n    \nconst Brain = function(){\n    const dayDream = () =\u003e _memories\n    const experience = memory =\u003e _memories.push(memory)\n    const forget = memory =\u003e _memories.splice(_memories.indexOf(memory), 1)\n    const spazz = () =\u003e console.log(\"bleurg\")\n\n    return{\n        reminisce: dayDream,\n        live: experience,\n        blank: forget,\n        freakOut: spazz\n    }\n}\n\nconst brain = Brain()\nbrain.freakOut()\n```",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "1",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-1540710893",
+	"type": "multiple-choice"
+}

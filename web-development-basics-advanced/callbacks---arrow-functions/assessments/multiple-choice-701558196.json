@@ -1,0 +1,56 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "f07ad7b3-5e8a-4c90-ed0f-a1821b79396b",
+				"answer": "Anonymous functions don't have names, named functions do",
+				"correct": true
+			},
+			{
+				"_id": "0ae63cd9-9384-0466-5b15-bcab0dae430a",
+				"answer": "Anonymous functions get invoked automatically, named functions need to be invoked",
+				"correct": false
+			},
+			{
+				"_id": "3ee8d5e6-bfdf-5f0a-4d2d-beffd8a6646e",
+				"answer": "Anonymous functions have to be callbacks, named functions do not",
+				"correct": false
+			},
+			{
+				"_id": "9c00191e-a832-70dc-93aa-7cd0274ab383",
+				"answer": "a and c",
+				"correct": false
+			},
+			{
+				"_id": "527360e5-32ae-7bbd-6e59-836158265045",
+				"answer": "All of the above",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What is the difference between an anonymous and named function?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "2.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-701558196",
+	"type": "multiple-choice"
+}

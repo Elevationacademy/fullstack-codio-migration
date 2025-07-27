@@ -1,0 +1,56 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "d8aa2a97-80c2-6601-79ce-2b2602e7db60",
+				"answer": "\"hi\" every two seconds",
+				"correct": true
+			},
+			{
+				"_id": "b947551c-e366-cb54-7a60-27b92e400b8e",
+				"answer": "\"hi\" after two seconds",
+				"correct": false
+			},
+			{
+				"_id": "1df53cdb-a97d-92f6-ac9d-0d542c876bd9",
+				"answer": "\"hi\"",
+				"correct": false
+			},
+			{
+				"_id": "0e221ad8-a36c-1bff-6557-eea9dce3a0d7",
+				"answer": "undefined",
+				"correct": false
+			},
+			{
+				"_id": "99644e6b-2aec-629f-b768-82fe19989006",
+				"answer": "Nothing, there is no invocation",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What will we see in the console log?\n\n```\nsetInterval(()=\u003e{console.log(\"hi\")}, 2000)\n```",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "3.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-2659257315",
+	"type": "multiple-choice"
+}
