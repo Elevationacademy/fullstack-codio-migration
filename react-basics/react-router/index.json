@@ -1,0 +1,25 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-6252",
+		"Setup-7d30",
+		"Router-17ee",
+		"Route-ae10",
+		"Links-bae1",
+		"useParams-e764",
+		"Exercises-3dc5",
+		"Comprehension-Check-4b78"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "React Routes",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

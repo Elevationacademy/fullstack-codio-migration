@@ -1,0 +1,54 @@
+{
+	"source": {
+		"name": "5.",
+		"showName": false,
+		"instructions": "If we have a route like /posts/latest/3?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "d12ab0a3-5fca-0db1-9f24-344c3eb14a42",
+				"correct": false,
+				"answer": "We can’t properly use the Link tag"
+			},
+			{
+				"_id": "c475bb84-daab-1308-dff0-5d9b0468af53",
+				"correct": false,
+				"answer": "We should use a normal a tag with an href attribute to access it"
+			},
+			{
+				"_id": "59175b74-1736-829a-0006-e12c09b93adb",
+				"correct": true,
+				"answer": "Neither of the above"
+			},
+			{
+				"_id": "5c9d12dd-f45d-2feb-9b86-6feed7df64ac",
+				"correct": false,
+				"answer": "Both of the above"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	},
+	"taskId": "multiple-choice-3829301310",
+	"type": "multiple-choice"
+}

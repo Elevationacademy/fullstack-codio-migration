@@ -1,0 +1,66 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "a6f6c8b1-7698-cd00-b63e-17deeebfe904",
+				"answer": "Should generally only be used once, in App.js",
+				"correct": false
+			},
+			{
+				"_id": "76f52a9a-8579-3a20-9104-c5b5fb15d812",
+				"answer": "Can only be used once, in App.js",
+				"correct": false
+			},
+			{
+				"_id": "5afdc291-3029-b9e8-8c9a-164998036498",
+				"answer": "Must wrap all its children in one element, like the render method",
+				"correct": false
+			},
+			{
+				"_id": "4ff03c52-6a4d-6d25-4f9f-5addba984dbd",
+				"answer": "Can have many direct children elements",
+				"correct": false
+			},
+			{
+				"_id": "e0e0eb2f-1eba-f736-181b-9ff8ceb90f5b",
+				"answer": "a and c",
+				"correct": true
+			},
+			{
+				"_id": "8000145c-96cb-6443-5ed3-51a10e354282",
+				"answer": "b and d",
+				"correct": false
+			},
+			{
+				"_id": "8e70c814-4483-888a-1687-6745add10a00",
+				"answer": "None of the above",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "The BrowserRouter (Router, for short) tag",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "1.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-886395639",
+	"type": "multiple-choice"
+}

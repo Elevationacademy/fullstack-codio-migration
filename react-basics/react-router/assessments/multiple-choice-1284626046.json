@@ -1,0 +1,54 @@
+{
+	"source": {
+		"name": "4.",
+		"showName": false,
+		"instructions": "When we’re on a route like “/users/1”, can we access the 1 with Router?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "14c97b25-5c1d-4f1f-ec66-0aca30cb4bb7",
+				"correct": false,
+				"answer": "No, we need to use the HTML5 History API"
+			},
+			{
+				"_id": "ab478242-4bd1-934a-2dba-ad9baf862a89",
+				"correct": false,
+				"answer": "No, we should pass it as props"
+			},
+			{
+				"_id": "33fc2eb5-af4f-297c-5bc0-3f0da82fd291",
+				"correct": false,
+				"answer": "Yes, we use this.props.match"
+			},
+			{
+				"_id": "b98859d9-f6e9-4a85-7f87-7c23be613c88",
+				"correct": true,
+				"answer": "Yes, if we define the route with :number, we can use useParams()"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	},
+	"taskId": "multiple-choice-1284626046",
+	"type": "multiple-choice"
+}

@@ -1,0 +1,33 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-6445",
+		"Events-c555",
+		"Spot-Check-1-131c",
+		"State-Video-75c1",
+		"State-a4e5",
+		"Spot-Check-2-7dbc",
+		"State-As-State-11d6",
+		"Spot-Check-3-2008",
+		"Updating-the-state-f5a6",
+		"Spot-Check-4-ad80",
+		"Common-fitfalls-e95a",
+		"Spot-Check-5-5890",
+		"Note-About-State---Props-557a",
+		"Summery-109c",
+		"Exercises-fe42",
+		"Comprehension-Check-e20a"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "React State & Data Flow",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

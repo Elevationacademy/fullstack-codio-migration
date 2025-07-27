@@ -1,0 +1,22 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-66cb",
+		"Reflix-c101",
+		"Guidelines---Basic-de54",
+		"Guidlines---Features-9ca7",
+		"Extension---Users-2fd2"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Reflix Project",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

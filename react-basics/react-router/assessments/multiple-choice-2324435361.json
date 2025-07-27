@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "7895d173-e198-6134-c059-257d828f0c32",
+				"answer": "Effectively the same as passing down props",
+				"correct": true
+			},
+			{
+				"_id": "f1aa35f0-780e-08e9-e41d-e385157487b8",
+				"answer": "Requires arrow syntax for the props themselves",
+				"correct": false
+			},
+			{
+				"_id": "8c75c06b-ca00-f71c-f43c-d26a944e08df",
+				"answer": "Not related to routes - this has to do with components",
+				"correct": false
+			},
+			{
+				"_id": "16999eb3-8154-6207-ac30-e0e84ce29537",
+				"answer": "Limited, we can only pass one piece of data (i.e. no arrays or objects)",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "The way to pass data to a route is",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "3.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-2324435361",
+	"type": "multiple-choice"
+}

@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "ffdd487f-eeae-4c15-1d16-766a5e8f8117",
+				"answer": "Regex (regular expressions) have nothing to do with routes",
+				"correct": false
+			},
+			{
+				"_id": "bc2d1ebf-e801-9de2-2b91-9925a57176d7",
+				"answer": "Regex matching only matters if we use “exact” in our Route",
+				"correct": false
+			},
+			{
+				"_id": "2f27e20e-c2a6-23f2-02fa-86afc2726704",
+				"answer": "If we don’t use exact, Router will use regex to find matches in our 'path' attribute, and render accordingly",
+				"correct": true
+			},
+			{
+				"_id": "f90ab2ea-0df0-ba44-1eba-fcf196687877",
+				"answer": "We need to write correct regular expressions in our 'path'",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What can we say about regex matching in the context of react-router-dom?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "2.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-3006530277",
+	"type": "multiple-choice"
+}
