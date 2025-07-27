@@ -1,0 +1,3 @@
+- [⬅️ Back to resources](../README.md)
+- how to talk about a project
+  - [Presentation](./Presentation.md "Presentation")

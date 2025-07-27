@@ -1,0 +1,3 @@
+- [⬅️ Back to resources](../README.md)
+- work plan template
+  - [Presentation](./Presentation.md "Presentation")
