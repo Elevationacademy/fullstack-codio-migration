@@ -1,0 +1,22 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Variables--Identifiers-and-Operators-e1bc",
+		"Conditional-Statements-461b",
+		"Arrays-6dc9",
+		"Objects-34cb",
+		"Loops-2762"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Variables \u0026 Operators - Solutions",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}
