@@ -1,0 +1,1 @@
+Add a click listener to each image. When the image is clicked, `alert` the first ingredient in the list of ingredients for _that_ recipe.

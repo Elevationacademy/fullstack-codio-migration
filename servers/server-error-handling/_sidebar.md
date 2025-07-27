@@ -1,0 +1,12 @@
+- [⬅️ Back to servers](../README.md)
+- server error handling
+  - [Intro](./Intro.md "Intro")
+  - [Example introduction](./Example-introduction.md "Example introduction")
+  - [First Error](./First-Error.md "First Error")
+  - [Handle Error](./Handle-Error.md "Handle Error")
+  - [Spot Check](./Spot-Check.md "Spot Check")
+  - [Post Errors](./Post-Errors.md "Post Errors")
+  - [Handle Post Errors](./Handle-Post-Errors.md "Handle Post Errors")
+  - [Handling Multiple Errors](./Handling-Multiple-Errors.md "Handling Multiple Errors")
+  - [Summary](./Summary.md "Summary")
+  - [Exercises](./Exercises.md "Exercises")

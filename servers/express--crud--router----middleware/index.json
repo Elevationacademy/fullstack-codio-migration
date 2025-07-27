@@ -1,0 +1,31 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Overview-Video-e128",
+		"Intro-c621",
+		"CRUD-a93c",
+		"POST-589e",
+		"Body-Parser-c9e2",
+		"Spot-Check-1-e958",
+		"PUT-2b15",
+		"Spot-Check-2-1bef",
+		"Spot-Check-3-3fbc",
+		"Router-670a",
+		"Middleware-6d50",
+		"HTTP-Status-Codes-56b8",
+		"Exercises-cfd5",
+		"Comprehension-Check-0559"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Express: CRUD, Router, \u0026 Middleware",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

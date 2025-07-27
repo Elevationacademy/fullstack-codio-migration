@@ -1,0 +1,8 @@
+- [⬅️ Back to servers](../README.md)
+- npm node package manager
+  - [Intro](./Intro.md "Intro")
+  - [Setting Up](./Setting-Up.md "Setting Up")
+  - [Using NPM Packages](./Using-NPM-Packages.md "Using NPM Packages")
+  - [Client vs Server Packages](./Client-vs--Server-Packages.md "Client vs Server Packages")
+  - [The urllib Package](./The-urllib-Package.md "The urllib Package")
+  - [Exercises](./Exercises.md "Exercises")

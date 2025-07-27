@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1966696812",
+	"source": {
+		"name": "Q1",
+		"showName": true,
+		"instructions": "What is wrong with this code?\n\n```js\napp.post('/users', function (req, res) {\n    try {\n        const newUser = req.body\n        users.push(newUser)\n        res.status(201).end()\n    } catch (err) {\n        throw new TypeError()\n    }\n})\n```",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "ccb3d9a9-d604-eb0a-3fe8-3b88bd06443d",
+				"correct": false,
+				"answer": "It will make the server stop running"
+			},
+			{
+				"_id": "53ca128d-9c49-ce3d-5c4d-52162126fd67",
+				"correct": true,
+				"answer": "It does not return a relevant status code and error message"
+			},
+			{
+				"_id": "4d309712-d6e5-6da9-00b8-dd99150c6132",
+				"correct": false,
+				"answer": "We should trow a custom error and not a built in error"
+			},
+			{
+				"_id": "0af515a8-73e0-269a-ba9a-dd4c4a4977b0",
+				"correct": false,
+				"answer": "A and B"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

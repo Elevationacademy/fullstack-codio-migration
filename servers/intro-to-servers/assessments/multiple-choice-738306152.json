@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "d1e82a86-5e93-666b-5daa-e4552091a4f2",
+				"answer": "a physical machine",
+				"correct": false
+			},
+			{
+				"_id": "a1c69221-e548-bab4-f464-d06da0f7a709",
+				"answer": "used to serve data, files, images, videos, etc.",
+				"correct": false
+			},
+			{
+				"_id": "d9e37127-9fd6-7176-e8a4-2852b9589c6b",
+				"answer": "necessary to make our apps or websites accessible to other people",
+				"correct": false
+			},
+			{
+				"_id": "e5c1ce79-64f9-75e6-0685-bc125a80e66e",
+				"answer": "All of the above",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "A server is ...",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "1.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-738306152",
+	"type": "multiple-choice"
+}

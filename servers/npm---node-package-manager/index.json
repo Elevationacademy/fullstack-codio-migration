@@ -1,0 +1,24 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-97ed",
+		"Setting-Up-e63f",
+		"Using-NPM-Packages-8798",
+		"Client-vs--Server-Packages-f6c1",
+		"The-urllib-Package-e86b",
+		"Exercises-45d5",
+		"Comprehension-Check-3b23"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "NPM - Node Package Manager",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

@@ -1,0 +1,22 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-c5d3",
+		"Barebone-Server-ad1b",
+		"Ngrok---Exposing-your-Localhost-to-the-World--Optional---0a30",
+		"Localhost-8344",
+		"Comprehension-Check-91d4"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Intro to Servers",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

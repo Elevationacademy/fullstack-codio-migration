@@ -1,0 +1,7 @@
+- [⬅️ Back to servers](../README.md)
+- My recipes
+  - [Architecture](./Architecture-30a3.md "Architecture")
+  - [Server Specs](./Server-Specs-8674.md "Server Specs")
+  - [Client Specs](./Client-Specs-52e1.md "Client Specs")
+  - [Dom Traversal](./Dom-Traversal-6c93.md "Dom Traversal")
+  - [Feature](./Feature-3d5a.md "Feature")

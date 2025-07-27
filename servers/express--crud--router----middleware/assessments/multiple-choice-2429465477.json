@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "4d727f30-a237-7f6a-b2c7-82f2602ca027",
+				"answer": "POST",
+				"correct": true
+			},
+			{
+				"_id": "e84bc873-b6c9-8cef-af30-f500b2676c45",
+				"answer": "PUT",
+				"correct": false
+			},
+			{
+				"_id": "42fcb981-de9c-7604-a8d5-2811610c7221",
+				"answer": "GET",
+				"correct": false
+			},
+			{
+				"_id": "7ee0060b-d7e1-9753-6846-faf60b47bf57",
+				"answer": "DELETE",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Which of the following represents  a `create` request?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "2.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-2429465477",
+	"type": "multiple-choice"
+}

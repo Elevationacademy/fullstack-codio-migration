@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "48867abe-f46f-324f-ea19-201b6ee1f416",
+				"answer": "To clean up code written in node",
+				"correct": false
+			},
+			{
+				"_id": "ce7e0b74-41ff-1d2a-134f-84d3783ebbb8",
+				"answer": "To use modules of code that other developers have written",
+				"correct": false
+			},
+			{
+				"_id": "7f49eddb-6b50-5b54-a852-383ed2f2e5d8",
+				"answer": "To install, share, and distribute code",
+				"correct": false
+			},
+			{
+				"_id": "4db809d7-a78a-6227-d916-c4193db85b0a",
+				"answer": "B \u0026 C",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What is NPM used for?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "2.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-1322407855",
+	"type": "multiple-choice"
+}

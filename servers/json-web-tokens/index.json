@@ -1,0 +1,13 @@
+{
+	"id": "2014196e-2843-b2fa-8158-0d2e262ee985",
+	"type": "chapter",
+	"title": "Intro",
+	"order": [
+		"Intro-3785",
+		"Token-based-authentication-f505",
+		"Flow-fdb9",
+		"What-are-Json-Web-Tokens-85b0",
+		"JWT-Structure-5908",
+		"JWT-authentication-with-Bearer-token-813f"
+	]
+}

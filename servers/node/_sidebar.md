@@ -11,4 +11,3 @@
   - [Spot Check 1](./Spot-Check-1.md "Spot Check 1")
   - [Global Scope and Node](./Global-Scope-and-Node.md "Global Scope and Node")
   - [Exercises](./Exercises.md "Exercises")
-  - [Comprehension Check](./Comprehension-Check.md "Comprehension Check")

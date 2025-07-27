@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2865629610",
+	"source": {
+		"name": "Q2",
+		"showName": true,
+		"instructions": "What is wrong with this code?\n\n```js\napp.delete('/users/:username', function (req, res) {\n    let username = req.params.username\n    \n    try {\n        let userIndex = users.findIndex(user => user.username === username)\n        users.splice(userIndex, 1)\n        res.status(204).end()\n    } catch {\n        res.status(404).send({ \"Error\": `User ${username} does not exist` })\n    }\n})\n```",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "ece4c71c-2b71-b2a2-dc0e-d1f867b35eb4",
+				"correct": false,
+				"answer": "This code works well"
+			},
+			{
+				"_id": "b2422f7a-c43b-595a-5d72-3be262d4cba5",
+				"correct": false,
+				"answer": "The catch clause will never happen"
+			},
+			{
+				"_id": "2e22cb7d-eb21-edf9-4dd3-440cf430546d",
+				"correct": false,
+				"answer": "We should return a status code of 400"
+			},
+			{
+				"_id": "e7e346dd-85ea-cd78-6a33-1742bf239865",
+				"correct": true,
+				"answer": "If the username does not exist it will send a false response with 204 status code"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "690a57e2-87cf-a927-91ef-057e8082a4ef",
+				"answer": "A function which returns the median of the response",
+				"correct": false
+			},
+			{
+				"_id": "59a5e37b-0f51-20ec-17eb-888fd55b279e",
+				"answer": "A function that needs to be invoked before sending a request",
+				"correct": false
+			},
+			{
+				"_id": "67b03d98-e905-8b2e-0766-b60d65508776",
+				"answer": "A function that can run in the middle of our request-response cycle",
+				"correct": true
+			},
+			{
+				"_id": "063afb1b-ea39-a115-b2e0-74a0216ac40d",
+				"answer": "None of the above",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What is a middleware function?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "3.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-4209609459",
+	"type": "multiple-choice"
+}

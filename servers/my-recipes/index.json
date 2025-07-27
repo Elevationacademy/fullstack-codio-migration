@@ -1,0 +1,11 @@
+{
+	"id": "4a2306a3-be36-cf93-00f5-128edfec9ad8",
+	"type": "chapter",
+	"title": "Base",
+	"order": [
+		"Architecture-30a3",
+		"Server-Specs-8674",
+		"Client-Specs-52e1",
+		"Dom-Traversal-6c93"
+	]
+}

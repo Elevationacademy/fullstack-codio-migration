@@ -19,4 +19,3 @@
   - [Recap](./Recap.md "Recap")
   - [DONE](./DONE.md "DONE")
   - [Exercises](./Exercises.md "Exercises")
-  - [Comprehension Check](./Comprehension-Check.md "Comprehension Check")

@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "242a449e-5179-a95f-0998-b9d5aa5cb45e",
+				"answer": "New Package Manager",
+				"correct": false
+			},
+			{
+				"_id": "5d5f42b4-41a6-c107-4caa-56e67c6ef6c4",
+				"answer": "Node Package Installer",
+				"correct": false
+			},
+			{
+				"_id": "71173407-7798-69c1-cd56-a4c35774d9f9",
+				"answer": "Not A Package Manager",
+				"correct": false
+			},
+			{
+				"_id": "750858a4-4140-0505-a4a2-fae4c2c170b7",
+				"answer": "Node Package Manager",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What does `npm` stand for?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "1.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-2943629415",
+	"type": "multiple-choice"
+}

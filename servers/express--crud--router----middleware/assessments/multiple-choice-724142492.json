@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "03360bf7-f166-1092-1307-35ea77e4c864",
+				"answer": "Call, Retrieve, Update, Delete",
+				"correct": false
+			},
+			{
+				"_id": "7f88b0b8-78a9-7a6d-072e-458fef166b4d",
+				"answer": "Create, Retrieve, Update, Delete",
+				"correct": true
+			},
+			{
+				"_id": "ccf3f321-c7ba-6850-93f4-a2795c57996a",
+				"answer": "Create, Retrieve, Undo, Delete",
+				"correct": false
+			},
+			{
+				"_id": "6a1920d8-57ed-ce3f-ff8a-5cf0b7002772",
+				"answer": "Create, Redirect, Update, Delete",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What does CRUD stand for?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "1.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-724142492",
+	"type": "multiple-choice"
+}

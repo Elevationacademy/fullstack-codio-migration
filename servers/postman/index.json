@@ -1,0 +1,22 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Overview-Video-2757",
+		"Intro-f85c",
+		"Basic-Usage-e032",
+		"Sending-Data-c9c7",
+		"Enjoy-f81c"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Postman",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

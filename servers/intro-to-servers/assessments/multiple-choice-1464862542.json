@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "9cf9c441-5f58-d20d-325f-340c4de1d09e",
+				"answer": "There can be one server serving many clients",
+				"correct": false
+			},
+			{
+				"_id": "1f506bc3-9c3d-d4a2-7c7d-3d30f79b2ba5",
+				"answer": "Servers should be stateless",
+				"correct": false
+			},
+			{
+				"_id": "d79c20e6-f68a-76a0-5619-d60c3a853fef",
+				"answer": "The server must remember information about the client in order to serve it files",
+				"correct": true
+			},
+			{
+				"_id": "bdd5eecc-99f8-2c84-40ef-ec0c80ced219",
+				"answer": "Servers are always listening for requests. Like functions, they do nothing until called upon.",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Which statement is NOT true about the client-server model?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "2.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-1464862542",
+	"type": "multiple-choice"
+}
