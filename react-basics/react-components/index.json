@@ -1,0 +1,27 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-9ffb",
+		"Spot-Check-1-214d",
+		"Child-Components-90e5",
+		"Spot-Check-2-7e38",
+		"Components---JSX-3153",
+		"Spot-Check-3-b6dc",
+		"Component-Tree-0006",
+		"Spot-Check-4-080f",
+		"Exercises-f9ea",
+		"Comprehension-Check-0752"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "React Components",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

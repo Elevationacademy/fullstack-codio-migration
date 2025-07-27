@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "d8693cb8-4c49-cdd4-46fa-1e595d56162a",
+				"answer": "Is fine",
+				"correct": false
+			},
+			{
+				"_id": "d5a5b72f-8c5a-cc6c-7cf1-60014ff0a2da",
+				"answer": "Doesn’t need the curly braces",
+				"correct": false
+			},
+			{
+				"_id": "1bb181a0-a0d6-bee9-bce9-6f49790126fd",
+				"answer": "By convention, should be written as DoSomething instead of doSomething",
+				"correct": false
+			},
+			{
+				"_id": "e346f0d0-46e3-bbf8-70eb-49bf2b237e2a",
+				"answer": "Doesn’t work, need to remove the parentheses",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "This code:\n```\n\u003cbutton onClick={doSomething()}\u003eDo\u003c/button\u003e\n```",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "3.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-1016190687",
+	"type": "multiple-choice"
+}

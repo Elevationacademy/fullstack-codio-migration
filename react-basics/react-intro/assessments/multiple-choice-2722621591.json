@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "bcf2218c-e084-ab76-b2b1-236785c769a9",
+				"answer": "Basically HTML",
+				"correct": false
+			},
+			{
+				"_id": "e94e6d6b-8165-c8c5-7d84-dae78df501e5",
+				"answer": "An extension of JavaScript",
+				"correct": true
+			},
+			{
+				"_id": "d4af3738-52d5-6d3e-558a-44e4d93a5aab",
+				"answer": "A newer version of Handlebars.js",
+				"correct": false
+			},
+			{
+				"_id": "c161b27e-5f8d-254d-9d53-6e83c1a5e7b9",
+				"answer": "A newer version of HTML",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "JSX is...",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "3.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-2722621591",
+	"type": "multiple-choice"
+}

@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "db342eab-7e3c-f20c-7f10-60b20a4f0517",
+				"answer": "All components should have state",
+				"correct": false
+			},
+			{
+				"_id": "e459eb21-0499-e071-6998-d7a13df8c568",
+				"answer": "Generally, only App.js should have state",
+				"correct": false
+			},
+			{
+				"_id": "b0cdd87c-917e-cd10-8dde-e813de04518a",
+				"answer": "The closest common parent component",
+				"correct": true
+			},
+			{
+				"_id": "c352cacc-cd23-80f5-49b2-2c7bda71a6c6",
+				"answer": "Any component that displays a lot of data",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Which component should have a state?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "1.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-1914713170",
+	"type": "multiple-choice"
+}

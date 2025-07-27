@@ -1,0 +1,31 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-6445",
+		"Video-c8f7",
+		"Props-ed87",
+		"Spot-Check-1-db15",
+		"Mapping-Props-f264",
+		"Spot-Check-2-1f8e",
+		"Mapping-Props-II-de74",
+		"Spot-Check-3-3bac",
+		"Prop-Keys-9d07",
+		"Spot-Check-4-5b56",
+		"Spot-Check-5-123c",
+		"Data-Flow-6ba1",
+		"Summery-fe42",
+		"Comprehension-Check-e20a"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "React Props ",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

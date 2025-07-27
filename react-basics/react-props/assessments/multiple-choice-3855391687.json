@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "5de7a29d-6879-06e4-9353-7c7ede90b7fb",
+				"answer": "Know which parent is asking them to do what with the props they receive",
+				"correct": false
+			},
+			{
+				"_id": "02028664-6b0e-90ba-5d8d-a3ed746bd3f4",
+				"answer": "Be ignorant of their parents",
+				"correct": true
+			},
+			{
+				"_id": "425af617-11db-ca41-4c31-cebf8a948709",
+				"answer": "Be ignorant of their children",
+				"correct": false
+			},
+			{
+				"_id": "d5f6071a-bc14-4b87-6eae-6b555ae2ee59",
+				"answer": "None of the above",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Components should",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "2.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-3855391687",
+	"type": "multiple-choice"
+}

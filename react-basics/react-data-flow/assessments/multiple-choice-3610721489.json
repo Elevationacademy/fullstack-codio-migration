@@ -1,0 +1,54 @@
+{
+	"source": {
+		"name": "6.",
+		"showName": false,
+		"instructions": "What's going on in the add method?\n```\nconst [people,setPeople] = useState({\n    people: [\"Jeremy\", \"Irons\"]\n  }) \n\nadd = (person) => {\n  let peopleTemp = people\n  peopleTemp.push(person)\n  this.setState({ peopleTemp })\n}\n```",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "81e2636d-d47b-9a98-73c2-7d2153d9ad48",
+				"correct": false,
+				"answer": "The method adds a new `person` to the `people` array in state properly, using `setState`"
+			},
+			{
+				"_id": "88bbe614-e0b2-c1df-efa2-a0411c424bf9",
+				"correct": false,
+				"answer": "There is a syntax error"
+			},
+			{
+				"_id": "01ff1816-a6d6-6fc1-8add-b32791dfe513",
+				"correct": true,
+				"answer": "We are modifying state directly because `people` is an array, which is a reference type - this is bad"
+			},
+			{
+				"_id": "351ad063-3b2f-b64a-fe5b-352cdc98c6d3",
+				"correct": false,
+				"answer": "Nothing"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	},
+	"taskId": "multiple-choice-3610721489",
+	"type": "multiple-choice"
+}

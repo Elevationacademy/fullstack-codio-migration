@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "97791f8a-be0e-7bca-49d4-e1cbb1fc5494",
+				"answer": "Initializing the Virtual DOM",
+				"correct": false
+			},
+			{
+				"_id": "61b17d9a-4912-93ee-a6b8-b5293031b5fb",
+				"answer": "Creating an instance of the `Home` component",
+				"correct": true
+			},
+			{
+				"_id": "13f4a5ba-a2d9-e0f7-59f2-3bdcf32f82b5",
+				"answer": "Triggering the reconciliation process",
+				"correct": false
+			},
+			{
+				"_id": "a0021f1a-05e1-5bc9-d1b9-9e682120e575",
+				"answer": "Adding content to the DOM",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "When you do something like `\u003cHome /\u003e` you are in fact...",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "2.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-2794294207",
+	"type": "multiple-choice"
+}

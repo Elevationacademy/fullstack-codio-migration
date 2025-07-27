@@ -1,0 +1,54 @@
+{
+	"source": {
+		"name": "5.",
+		"showName": false,
+		"instructions": "When updating state",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "c1f673ed-53bd-7838-29e4-cde028ec4de3",
+				"correct": false,
+				"answer": "We can access the `state` object like a normal JS object, and therefore modify it directly"
+			},
+			{
+				"_id": "8d7f14cc-2186-bf67-3925-58617c942102",
+				"correct": false,
+				"answer": "It's best practice to use the hook set method, but won't cause any issues if you don't"
+			},
+			{
+				"_id": "a1b344d3-c3d9-dda5-8776-69a9607e192b",
+				"correct": true,
+				"answer": "We must use the hook set method, even though it won't necessarily cause problems"
+			},
+			{
+				"_id": "d85676eb-eea4-106e-9052-df95e0ba74f6",
+				"correct": false,
+				"answer": "We only need to use the hook set method if we're modifying state from a child component"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	},
+	"taskId": "multiple-choice-3484771619",
+	"type": "multiple-choice"
+}

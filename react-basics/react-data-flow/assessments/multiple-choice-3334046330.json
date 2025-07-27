@@ -1,0 +1,54 @@
+{
+	"source": {
+		"name": "4.",
+		"showName": false,
+		"instructions": "Given the following code (assuming “color” was previously “red”)\n```\nconst [color,setColor] = useState(\"red\")\n\nsetColor({color: \"blue\"})\nconsole.log(color)\n```",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "bcdb33a1-cbeb-f6f3-7986-2bb824353694",
+				"correct": false,
+				"answer": "There will be an error"
+			},
+			{
+				"_id": "09eec727-ca87-9c6c-f1c3-b7602e777782",
+				"correct": false,
+				"answer": "We will probably see “blue” in the console"
+			},
+			{
+				"_id": "1e0ca963-e6c6-c388-e78c-74cea187960f",
+				"correct": true,
+				"answer": "We might see “blue” in the console"
+			},
+			{
+				"_id": "368697e8-4b7a-ba63-bf1d-43ce5a6b52aa",
+				"correct": false,
+				"answer": "We will definitely see “blue” in the console"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	},
+	"taskId": "multiple-choice-3334046330",
+	"type": "multiple-choice"
+}

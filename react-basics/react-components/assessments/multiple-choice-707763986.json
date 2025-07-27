@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "6b289581-db5e-b35f-c35a-32dea50b36d6",
+				"answer": "A regular component",
+				"correct": true
+			},
+			{
+				"_id": "1e88ff67-132e-9ece-51d4-cf56a18ec256",
+				"answer": "Only ever instantiated by one parent",
+				"correct": false
+			},
+			{
+				"_id": "420d86a3-e2b9-3840-857c-716cb107e2d0",
+				"answer": "Less resource-heavy than a parent component",
+				"correct": false
+			},
+			{
+				"_id": "806443c1-554b-9cf7-8547-951ec1300063",
+				"answer": "A functional component",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "A child component is...",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "3.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-707763986",
+	"type": "multiple-choice"
+}

@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "b97e346e-efbd-8931-b11f-9f1d2d28f2d6",
+				"answer": "The data should always be in state and stay in the component that has state",
+				"correct": false
+			},
+			{
+				"_id": "5fbbeca6-69b7-118d-03bb-db569e3b9038",
+				"answer": "The data flows down, from a parent to its children components",
+				"correct": true
+			},
+			{
+				"_id": "43941f68-4a27-20bd-d6ea-0543ca17ba96",
+				"answer": "The data is easy to find because the Virtual DOM stores it efficiently for us",
+				"correct": false
+			},
+			{
+				"_id": "71faeaa0-5495-7c2e-17f8-3e4fd2e0f924",
+				"answer": "None of the above",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "When we talk about Data Flow in React, we say",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "3.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-2972666132",
+	"type": "multiple-choice"
+}

@@ -1,0 +1,64 @@
+{
+	"source": {
+		"name": "3.",
+		"showName": true,
+		"instructions": "The component tree...",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "50532505-5a66-d561-589d-4669d55a7232",
+				"correct": false,
+				"answer": "Shows an abstract hierarchy of our DOM's parent-child relationships"
+			},
+			{
+				"_id": "89ab1153-829d-35aa-e4b4-b90e35a134fb",
+				"correct": false,
+				"answer": "Shows the literal hierarchy of our DOM's parent-child relationships"
+			},
+			{
+				"_id": "4ea0192c-8e1f-795b-5add-01fcad200b73",
+				"correct": false,
+				"answer": "Should be drawn once and never changed"
+			},
+			{
+				"_id": "d3fc977e-1416-d7e2-fccc-3c93541a4229",
+				"correct": false,
+				"answer": "Corresponds to which components are instantiating which other component(s)"
+			},
+			{
+				"_id": "4d00188c-d825-3e88-cac7-f22de672ce7a",
+				"correct": false,
+				"answer": "A and C"
+			},
+			{
+				"_id": "d438a128-8f98-c242-4ed9-2ee67d3effce",
+				"correct": true,
+				"answer": "B and D"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	},
+	"taskId": "multiple-choice-2899789236",
+	"type": "multiple-choice"
+}

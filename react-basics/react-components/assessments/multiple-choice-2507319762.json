@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2507319762",
+	"source": {
+		"name": "1.",
+		"showName": true,
+		"instructions": "How do you specify the elements that a JSX element should render in React?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "98d602d7-67c3-6df0-dbf1-1b12c92506f5",
+				"correct": true,
+				"answer": "By using curly braces {}"
+			},
+			{
+				"_id": "4d242878-0c91-a08e-d298-6ef892549e9b",
+				"correct": false,
+				"answer": "By using parentheses ()"
+			},
+			{
+				"_id": "9fabef01-1817-18de-6bf5-5eff65157c8f",
+				"correct": false,
+				"answer": "By using brackets []"
+			},
+			{
+				"_id": "c1a91b37-eeed-8ba7-341e-f42865e995e1",
+				"correct": false,
+				"answer": "By using angle brackets <>"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

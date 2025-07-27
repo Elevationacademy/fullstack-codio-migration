@@ -1,0 +1,54 @@
+{
+	"source": {
+		"name": "4.",
+		"showName": false,
+		"instructions": "What can you say about the following code, assuming each object in foods has a unique name?\n```\nreturn(\n  <div><h1>My Favorite Food</h1>\n      {foods.map(f => <Food name={f.name}/>)}\n  </div>\n)\n```",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "60387068-37eb-91b0-560d-0ba8a36d707e",
+				"correct": false,
+				"answer": "It will not work"
+			},
+			{
+				"_id": "c2dd0b5c-4681-6976-2be0-8918cf7035a4",
+				"correct": false,
+				"answer": "It won’t work because you’re mixing normal JSX with a child component"
+			},
+			{
+				"_id": "93217ca9-2fcf-6748-0803-1ceb98d674eb",
+				"correct": true,
+				"answer": "It will throw a warning about keys"
+			},
+			{
+				"_id": "5109c63f-7df3-fe02-47d1-f5496c8070fb",
+				"correct": false,
+				"answer": "It works fine"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	},
+	"taskId": "multiple-choice-1601730673",
+	"type": "multiple-choice"
+}

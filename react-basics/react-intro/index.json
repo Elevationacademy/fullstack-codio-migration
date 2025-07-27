@@ -1,0 +1,31 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"React-Overview-Lecture-d06f",
+		"Virtual-DOM-e9b3",
+		"React-Setup---Boilerplate-Lecture-b091",
+		"Introduction-5c20",
+		"Setup-143a",
+		"File-Structure-4715",
+		"JSX-Lecture-328c",
+		"JSX-I-3257",
+		"Spot-Check-1-bcd7",
+		"JSX-II-29e3",
+		"Spot-Check-2-e60b",
+		"Spot-Check-3-9113",
+		"Exercises-2948",
+		"Comprehension-Check-a0a3"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "React Intro",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

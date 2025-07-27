@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "58c0c2b1-c1f4-827f-eb1a-61e2724a00c4",
+				"answer": "Should only ever display data, and never manipulate anything",
+				"correct": false
+			},
+			{
+				"_id": "8ecfdc26-6262-f71a-20dc-3e74bf994845",
+				"answer": "Can receive methods through props that allow them to manipulate their parent’s data",
+				"correct": true
+			},
+			{
+				"_id": "33481227-0fcb-e713-bdd3-cfa375a46e0b",
+				"answer": "Can receive methods through props that allow them to manipulate their parent’s data only if they are normal (not functional) components",
+				"correct": false
+			},
+			{
+				"_id": "85cfcadd-61ec-27ae-e8e4-ebea31683dd5",
+				"answer": "Can manipulate their parent’s data directly so long as they use setState",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Children components...",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "1.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-2271404646",
+	"type": "multiple-choice"
+}

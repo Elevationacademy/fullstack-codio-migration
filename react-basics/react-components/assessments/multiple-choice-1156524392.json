@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "ae44071a-8dde-04cc-be02-4e2c4bae984f",
+				"answer": "Only uses normal JS functions",
+				"correct": false
+			},
+			{
+				"_id": "3aacdc25-635c-70b2-b00f-75d0b47ff622",
+				"answer": "Has no state",
+				"correct": false
+			},
+			{
+				"_id": "efe114e7-984a-707d-4e05-ffbfbd5c8092",
+				"answer": "Doesn’t need a render method",
+				"correct": false
+			},
+			{
+				"_id": "e735b129-ff57-5199-4040-00eb77909051",
+				"answer": "All of the above",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Unlike a normal component, a functional component",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "1.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-1156524392",
+	"type": "multiple-choice"
+}

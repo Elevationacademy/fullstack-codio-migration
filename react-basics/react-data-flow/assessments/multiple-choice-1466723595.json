@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "4f49d246-bfe4-f61a-4d3c-f969488d4f91",
+				"answer": "The `render` method gets called again",
+				"correct": true
+			},
+			{
+				"_id": "c21275b5-3c74-f34d-496d-1c53bdc55bd7",
+				"answer": "The entire DOM re-renders",
+				"correct": false
+			},
+			{
+				"_id": "94add8f2-6829-698b-12c2-b76ca99bf910",
+				"answer": "We must invoke `render` again to display the updated DOM",
+				"correct": false
+			},
+			{
+				"_id": "1028637f-1451-f44f-49a6-2b86929186e0",
+				"answer": "None of the above",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "When `state` changes",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "6.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-1466723595",
+	"type": "multiple-choice"
+}

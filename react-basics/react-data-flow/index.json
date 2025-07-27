@@ -1,0 +1,25 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"React-Data-Flow-c9a2",
+		"Data-Flow---Up---I-1b78",
+		"Data-Flow---Up---II-06b1",
+		"Spot-Check-1-a3a5",
+		"Recap-0fd4",
+		"Exercises-4aeb",
+		"Done-5201",
+		"Comprehension-Check-a114"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "React Data Flow ",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

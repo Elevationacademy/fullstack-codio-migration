@@ -1,0 +1,20 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-10ec",
+		"Components-Overview-9c5a",
+		"To-Do-9669"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Hangman - Part I",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

@@ -1,0 +1,22 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-f3ae",
+		"Two-Way-Binding-b615",
+		"Spot-Check--918b",
+		"Catch-All-Handler-be09",
+		"Exercises-e6e7"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "React Input",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "9a8a7730-2766-26fd-5c62-daee5818f6a8",
+				"answer": "An MVC framework to simplify creating full-stack applications",
+				"correct": false
+			},
+			{
+				"_id": "f55878da-12fc-67af-9ac5-a6f4a0cfca40",
+				"answer": "A UI library",
+				"correct": true
+			},
+			{
+				"_id": "472f3614-b157-296e-9343-b56d6ad2b0a4",
+				"answer": "A library similar to jQuery but more modern",
+				"correct": false
+			},
+			{
+				"_id": "c194ad0a-158b-2a27-4add-96aae5e37fe2",
+				"answer": "All of the above",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What is React?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "1.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-4160273971",
+	"type": "multiple-choice"
+}

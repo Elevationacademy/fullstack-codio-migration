@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "48be3ce7-b722-8321-afaa-e5eb8e015f18",
+				"answer": "It has a reconciliation algorithm that parses the real DOM really fast",
+				"correct": false
+			},
+			{
+				"_id": "fc495e42-0a4f-76e9-b5bb-492447d51357",
+				"answer": "We only have to update the Virtual DOM, and let it update the real DOM",
+				"correct": false
+			},
+			{
+				"_id": "e8db2ab0-86d2-af19-79c9-8b3a9f75dcd0",
+				"answer": "It is programmed to work well with new HTML5 features",
+				"correct": false
+			},
+			{
+				"_id": "299204a1-563f-9cf3-289d-41ae9d70b30b",
+				"answer": "It is a plain JS object which is faster to modify than the real DOM",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "The Virtual DOM is good because:",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "2.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-1026556269",
+	"type": "multiple-choice"
+}

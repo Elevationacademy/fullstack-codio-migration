@@ -1,0 +1,54 @@
+{
+	"source": {
+		"name": "2.",
+		"showName": false,
+		"instructions": "Is it ok to change state inside the return?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "a953f34a-10c6-5382-ffd4-a71a1ee90388",
+				"correct": false,
+				"answer": "Absolutely"
+			},
+			{
+				"_id": "eba1b965-35f5-9360-dfc5-76b7db3f1e5d",
+				"correct": false,
+				"answer": "Never"
+			},
+			{
+				"_id": "d41dc4d2-cead-357c-ee95-87f138e7bffb",
+				"correct": true,
+				"answer": "Depends on whether the render renders something that depends on state"
+			},
+			{
+				"_id": "544595fd-49cc-985f-b46b-7d672e49bb9f",
+				"correct": false,
+				"answer": "Only if it is the App component (Root Component)"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	},
+	"taskId": "multiple-choice-1079840672",
+	"type": "multiple-choice"
+}
