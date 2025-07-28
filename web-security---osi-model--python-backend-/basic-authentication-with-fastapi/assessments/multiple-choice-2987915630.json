@@ -1,0 +1,49 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "94310164-47de-90f7-d1a1-f5659b1e6809",
+				"answer": "Function that prints basic credentials",
+				"correct": false
+			},
+			{
+				"_id": "fc1cdec3-9448-deec-a123-537e20edb621",
+				"answer": "A class that checks for the correct *Basic Authentication* syntax",
+				"correct": true
+			},
+			{
+				"_id": "f5742a09-1595-a892-7c5a-c88f49d160b9",
+				"answer": "A function that is used internally by FastAPI",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "HTTPBasic is a ________",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"maxAttemptsCount": 1,
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "HTTPBasic",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": true
+	},
+	"taskId": "multiple-choice-2987915630",
+	"type": "multiple-choice"
+}

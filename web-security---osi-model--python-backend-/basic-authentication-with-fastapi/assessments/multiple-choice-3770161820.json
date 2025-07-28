@@ -1,0 +1,59 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "724c8031-d4a6-e1a4-d5da-18a5f91b5058",
+				"answer": "Dependencies",
+				"correct": false
+			},
+			{
+				"_id": "ac15da53-d872-6848-97d1-7908709ae515",
+				"answer": "Middleware",
+				"correct": false
+			},
+			{
+				"_id": "bdda06bc-f9d2-2b09-768b-4f06b9427b0f",
+				"answer": "Endpoint",
+				"correct": false
+			},
+			{
+				"_id": "24a298ec-f35d-cb70-39c9-a1a8208f0a6e",
+				"answer": "A and B",
+				"correct": true
+			},
+			{
+				"_id": "190ecac3-792b-4b9a-8374-1ba9e3085afc",
+				"answer": "All of the above",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Using what concept can you add endpoint security to your app?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"maxAttemptsCount": 1,
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "Endpoint security",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": true
+	},
+	"taskId": "multiple-choice-3770161820",
+	"type": "multiple-choice"
+}

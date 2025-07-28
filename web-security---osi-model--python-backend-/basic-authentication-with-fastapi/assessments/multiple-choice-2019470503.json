@@ -1,0 +1,54 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "6ea517f6-01c4-adb2-afe1-430a358e27c0",
+				"answer": "Send them as query string variables",
+				"correct": false
+			},
+			{
+				"_id": "5c3ca277-083f-e0f8-6708-06dc00cbf6de",
+				"answer": "Send them as a Header variable as plain text",
+				"correct": false
+			},
+			{
+				"_id": "93ae0232-08f2-1f15-43d0-6310f0130909",
+				"answer": "Send them as a Header variable in the format “Basic: {username/password}”",
+				"correct": false
+			},
+			{
+				"_id": "f30e15b2-ffde-6710-92fc-c2a6b89146e2",
+				"answer": "Send them as a Header variable in the format “Authentication: {username/password Base64 encoded}”",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "How should you pass the user’s credentials when logging in using *Basic Auth*?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"maxAttemptsCount": 1,
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "Passing user credentials",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": true
+	},
+	"taskId": "multiple-choice-2019470503",
+	"type": "multiple-choice"
+}

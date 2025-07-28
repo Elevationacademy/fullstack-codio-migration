@@ -1,0 +1,10 @@
+- [⬅️ Back to web-security---osi-model--python-backend-](../README.md)
+- Basic auth with fastapi
+  - [Intro](./Intro.md "Intro")
+  - [Creating a simple FastAPI app](./Creating-a-simple-FastAPI-app.md "Creating a simple FastAPI app")
+  - [Dependencies](./Dependencies.md "Dependencies")
+  - [Dependencies-based authentication](./Dependencies-based-authentication.md "Dependencies-based authentication")
+  - [Middleware-based authentication](./Middleware-based-authentication.md "Middleware-based authentication")
+  - [FastAPI testing using Postman](./FastAPI-testing-using-Postman.md "FastAPI testing using Postman")
+  - [Validating credentials](./Validating-credentials.md "Validating credentials")
+  - [Exercises](./Exercises.md "Exercises")

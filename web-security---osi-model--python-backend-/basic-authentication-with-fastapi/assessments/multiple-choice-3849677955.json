@@ -1,0 +1,54 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "3589de84-00a0-eed0-bdca-d3e4aa3e33ed",
+				"answer": "Kernel",
+				"correct": false
+			},
+			{
+				"_id": "ed9f328b-dfe5-5586-ec39-722231b7aee0",
+				"answer": "Codio",
+				"correct": true
+			},
+			{
+				"_id": "1e4715ae-3e5b-49b9-97a7-5a1507c6e634",
+				"answer": "Moodle",
+				"correct": false
+			},
+			{
+				"_id": "9f4a6bfb-21f5-2487-6c6b-fc527b3a800b",
+				"answer": "Google Code",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What is this platform?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"maxAttemptsCount": 1,
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "Example Question",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": true
+	},
+	"taskId": "multiple-choice-3849677955",
+	"type": "multiple-choice"
+}

@@ -1,0 +1,26 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-cfdb",
+		"Creating-a-simple-FastAPI-app-2cf5",
+		"Dependencies-eb43",
+		"Dependencies-based-authentication-7e81",
+		"Middleware-based-authentication-7a87",
+		"FastAPI-testing-using-Postman-42c6",
+		"Validating-credentials-6fdc",
+		"Exercises-4afb",
+		"Comprehension-check-07ff"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Basic authentication with FastAPI",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}
