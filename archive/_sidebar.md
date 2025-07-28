@@ -1,3 +1,0 @@
-- [🏠 Course Home](../README.md)
-- [archive](./README.md)
-  - [github-code-review-setup](./github-code-review-setup/README.md)

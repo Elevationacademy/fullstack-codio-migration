@@ -25,5 +25,6 @@
 - [python](./python/README.md)
 - [web-security---osi-model--python-backend-web-security---osi-model--python-backend-](./web-security---osi-model--python-backend-/README.md)
 - [solutions](./solutions/README.md)
+- [career-development](./career-development/README.md)
 
 
