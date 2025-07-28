@@ -18,8 +18,6 @@
 - [mongodb](./mongodb/README.md)
 - [resources](./resources/README.md)
 - [servers](./servers/README.md)
-- [admin](./admin/README.md)
-- [archive](./archive/README.md)
 - [sql-basics](./sql-basics/README.md)
 - [r-ds](./r-ds/README.md)
 - [python](./python/README.md)
